@@ -24,6 +24,37 @@ Also see the "[Made with ZGB](https://github.com/Zal0/ZGB/wiki/Made-with-ZGB)" c
 ## Games
 
 
+Mixed HTML/Markdown
+<table>
+<!-- New Row --> 
+<!-- This Row: 2 spaces for markdown, 4 spaces for trailing td close tag -->
+  <tr><td>
+
+  ![screenshot](/pix/games/gunship_320.png) <br>  __Gunship__ <br>[Itch.io](https://user0x7f.itch.io/gunship)
+    </td><td>
+  ![screenshot](/pix/games/g-zero_320.png) <br>  __G-ZERO__ <br>[Itch.io](https://user0x7f.itch.io/g-zero)
+    </td><td>
+  ![screenshot](/pix/games/genesis_320.png) <br> __Genesis__ <br>[Itch.io](https://user0x7f.itch.io/genesis) / [Source](https://gbdev.gg8.se/forums/viewtopic.php?id=674)
+    </td><td>
+  ![screenshot](/pix/games/black-castle_320.png) <br> __Black Castle__ <br>[Itch.io](https://user0x7f.itch.io/black-castle) / [Source](https://gbdev.gg8.se/forums/viewtopic.php?id=743&p=2)
+</td></tr>
+  
+<!-- New Row -->  
+<!-- This Row: 2 spaces for markdown and trailing td close tag, requires line break before next line -->  
+  <tr><td>
+  
+  ![screenshot](/pix/games/stunner_320.png) <br> __Stunner__ <br> [Itch.io](https://mindbleach.itch.io/stunner) / [Source](https://mindbleach.itch.io/stunner-but-with-source-code)
+  </td><td>
+
+  ![screenshot](/pix/games/gb-corp_320.png) <br> __GB Corp.__ <br> [Itch.io](https://drludos.itch.io/gb-corp) / [Source](https://github.com/drludos/GBcorp)
+  </td>
+    
+  </tr>
+</table>
+
+
+Pure Markdown Version
+
 |![screenshot](/pix/games/gunship_320.png) <br>  __Gunship__ <br>[Itch.io](https://user0x7f.itch.io/gunship)                                              |![screenshot](/pix/games/g-zero_320.png) <br>  __G-ZERO__ <br>[Itch.io](https://user0x7f.itch.io/g-zero)                                       |![screenshot](/pix/games/genesis_320.png) <br> __Genesis__ <br>[Itch.io](https://user0x7f.itch.io/genesis) / [Source](https://gbdev.gg8.se/forums/viewtopic.php?id=674)                                                                                                                                    |![screenshot](/pix/games/black-castle_320.png) <br> __Black Castle__ <br>[Itch.io](https://user0x7f.itch.io/black-castle) / [Source](https://gbdev.gg8.se/forums/viewtopic.php?id=743&p=2)
 | -------- | -------- | -------- | -------- |
 | ![screenshot](/pix/games/stunner_320.png) <br> __Stunner__ <br> [Itch.io](https://mindbleach.itch.io/stunner) / [Source](https://mindbleach.itch.io/stunner-but-with-source-code)                                                                                                                            | ![screenshot](/pix/games/gb-corp_320.png) <br> __GB Corp.__ <br> [Itch.io](https://drludos.itch.io/gb-corp) / [Source](https://github.com/drludos/GBcorp) |
