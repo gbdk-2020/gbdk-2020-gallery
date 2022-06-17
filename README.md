@@ -13,7 +13,7 @@ Also see the "[Made with ZGB](https://github.com/Zal0/ZGB/wiki/Made-with-ZGB)" c
   ![screenshot](/pix/demos/tendonin_320.png) <br>  __Tendonin__ <br>[Demozoo](https://demozoo.org/productions/307366/) / [Pouët](https://www.pouet.net/prod.php?which=91300) / [Youtube](https://www.youtube.com/watch?v=GleZBHhOsmE)
   </td><td>
 
-  ![screenshot](/pix/demos/cutedemo_320.png) <br> __Cute Demo__ <br>[Github](https://github.com/mills32/CUTE_DEMO/) / [Youtube](https://www.youtube.com/
+  ![screenshot](/pix/demos/cutedemo_320.png) <br> __Cute Demo__ <br>[Github](https://github.com/mills32/CUTE_DEMO/) / [Youtube](https://www.youtube.com/)
   </td><td>
 
   ![screenshot](/pix/placeholder_320.png)
