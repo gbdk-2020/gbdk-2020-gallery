@@ -17,9 +17,6 @@ Also see the "[Made with ZGB](https://github.com/Zal0/ZGB/wiki/Made-with-ZGB)" c
   </td><td>
 
   ![screenshot](/pix/placeholder_320.png)
-  </td><td>
-
-  ![screenshot](/pix/placeholder_320.png)
 </td></tr>
  
 </table>
@@ -33,9 +30,6 @@ Also see the "[Made with ZGB](https://github.com/Zal0/ZGB/wiki/Made-with-ZGB)" c
 <tr><td>
 
   ![screenshot](/pix/progs/2bit-pxlr-studio_320.png) <br> __2bit PXLR Studio__ <br>Custom Game Boy Camera ROM <br>[Github](https://github.com/HerrZatacke/)
-  </td><td>
-
-  ![screenshot](/pix/placeholder_320.png)
   </td><td>
 
   ![screenshot](/pix/placeholder_320.png)
@@ -60,10 +54,7 @@ Also see the "[Made with ZGB](https://github.com/Zal0/ZGB/wiki/Made-with-ZGB)" c
   ![screenshot](/pix/placeholder_320.png)
   </td><td>
 
-  ![screenshot](/pix/placeholder_320.png)
-  </td><td>
-
-  ![screenshot](/pix/placeholder_320.png)
+   ![screenshot](/pix/placeholder_320.png)
 </td></tr>
  
 </table>
@@ -81,12 +72,13 @@ Also see the "[Made with ZGB](https://github.com/Zal0/ZGB/wiki/Made-with-ZGB)" c
   ![screenshot](/pix/games/g-zero_320.png) <br>  __G-ZERO__ <br>[Itch.io](https://user0x7f.itch.io/g-zero)
     </td><td>
   ![screenshot](/pix/games/genesis_320.png) <br> __Genesis__ <br>[Itch.io](https://user0x7f.itch.io/genesis) / [Source](https://gbdev.gg8.se/forums/viewtopic.php?id=674)
-    </td><td>
-  ![screenshot](/pix/games/black-castle_320.png) <br> __Black Castle__ <br>[Itch.io](https://user0x7f.itch.io/black-castle) / [Source](https://gbdev.gg8.se/forums/viewtopic.php?id=743&p=2)
 </td></tr>
   
 <!-- New Row -->  
 <tr><td>
+
+  ![screenshot](/pix/games/black-castle_320.png) <br> __Black Castle__ <br>[Itch.io](https://user0x7f.itch.io/black-castle) / [Source](https://gbdev.gg8.se/forums/viewtopic.php?id=743&p=2)
+  </td><td>
   
   ![screenshot](/pix/games/stunner_320.png) <br> __Stunner__ <br> [Itch.io](https://mindbleach.itch.io/stunner) / [Source](https://mindbleach.itch.io/stunner-but-with-source-code)
   </td><td>
