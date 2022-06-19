@@ -68,9 +68,11 @@ Also see the "[Made with ZGB](https://github.com/Zal0/ZGB/wiki/Made-with-ZGB)" c
 <tr><td>
 
   ![screenshot](/pix/games/gunship_320.png) <br>  __Gunship__ <br>[Itch.io](https://user0x7f.itch.io/gunship)
-    </td><td>
+  </td><td>
+  
   ![screenshot](/pix/games/g-zero_320.png) <br>  __G-ZERO__ <br>[Itch.io](https://user0x7f.itch.io/g-zero)
-    </td><td>
+  </td><td>
+  
   ![screenshot](/pix/games/genesis_320.png) <br> __Genesis__ <br>[Itch.io](https://user0x7f.itch.io/genesis) / [Source](https://gbdev.gg8.se/forums/viewtopic.php?id=674)
 </td></tr>
   
