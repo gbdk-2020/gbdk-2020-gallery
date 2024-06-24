@@ -1,0 +1,80 @@
+body {
+  margin: 0 auto;
+  padding: 1em 0;
+  font-family: sans-serif;
+}
+
+p, a {
+  font-family: sans-serif;
+}
+
+.gallery_grid {
+  /* Grid Fallback */
+  display: flex;
+  flex-wrap: wrap;
+
+  /* Supports Grid */
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  grid-auto-rows: minmax(320px, 1fr); /* auto); */
+  grid-gap: 1em;
+}
+
+.gallery_grid_item {
+  /* background: #eaeaea; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  /* Flex Fallback */
+  margin-left: 5px;
+  margin-right: 5px;
+  flex: 1 1 200px;
+}
+
+/* If Grid is supported, remove the margin we set for the fallback */
+@supports (display: grid) {
+  .gallery_grid_item {
+    margin: 0;
+  }
+}
+
+/* Gallery item styling */
+
+:root {
+  --item_white_back: #fff;
+  --item_gray_back: #F4F4F4;
+  --item_bg_color: var(--item_white_back);
+  --item_body_color: #222;
+  --item_body_color_gray: #767676;
+  --item_body_color_med: #434343;
+  --item_body_color_light: #606060;
+  --item_body_color_lighter: #858585;
+  --item_border_color: #dadada;
+  --item_edge_border_color: #cdcdcd;
+  --item_input_border_color: #cdcdcd;
+  --item_input_focus_color: #361275;
+  --item_light_highlight: #FFF0F0;
+  --item_warning_bg: #fffdbd;
+  --item_gutter_width: 40px
+}
+
+.itemTitle {
+    font-size: .950em;
+    font-weight: bold;
+    color: var(--item_body_color);
+}
+
+.authorName,
+.shortDescription {
+    font-size: .875em;
+    color: var(--item_body_color_light);
+}
+
+
+
+.itemLinks > a {
+    padding-right: 0.5em;
+    font-size: .875em;
+    color: var(--item_body_color_light);
+}
