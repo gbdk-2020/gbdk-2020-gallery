@@ -3,6 +3,7 @@
 var galleryArray;
 
 
+
 // Convert gallery items to DOM elements
 function createGalleryItems(galleryItems) {
     const container = document.getElementById('galleryContainer');
@@ -32,6 +33,7 @@ function createGalleryItems(galleryItems) {
         // Short Description
         const shortDescDiv = document.createElement('div');
         shortDescDiv.className = 'shortDescription';
+        shortDescDiv.textContent = item.shortDescription;
         itemGrid.appendChild(shortDescDiv);
 
         // Author Name

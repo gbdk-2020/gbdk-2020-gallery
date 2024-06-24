@@ -4,6 +4,16 @@ body {
   font-family: sans-serif;
 }
 
+
+/* These are attached to body based on javascript attempted mobile/desktop detection */
+.desktop {
+  font-size: calc(12px + 0.390625vw);
+}
+.mobile {
+  font-size: calc(35px + 0.390625vw);
+}
+
+
 p, a {
   font-family: sans-serif;
 }
@@ -60,7 +70,6 @@ p, a {
 }
 
 .itemTitle {
-    font-size: .950em;
     font-weight: bold;
     color: var(--item_body_color);
 }
@@ -75,6 +84,37 @@ p, a {
 
 .itemLinks > a {
     padding-right: 0.5em;
-    font-size: .875em;
+    font-size: 0.875em;
     color: var(--item_body_color_light);
 }
+
+
+
+/*
+       .filterContainer {
+            margin-bottom: 20px;
+        }
+       .dropdown {
+            display: inline-block;
+            position: relative;
+            font-family: Arial, sans-serif;
+        }
+       .dropdown-content {
+            display: none;
+            position: absolute;
+            min-width: 200px;
+            z-index: 1;
+        }
+       .dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+       .dropdown-content a:hover {
+            background-color: #f1f1f1;
+        }
+       .dropdown:hover.dropdown-content {
+            display: block;
+        }
+*/

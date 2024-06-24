@@ -129,7 +129,7 @@ const jsonGalleryItemsManual = [
 },
 
 {
-    "authorName": "Toxa, HerrZatacke",
+    "authorName": "Toxa",
     "itemTitle": "Photo!",
     "shortDescription": "Custom Game Boy Camera ROM",
     "imagePreviewURL": "pix/gbcamera/gbphoto.jpg",
