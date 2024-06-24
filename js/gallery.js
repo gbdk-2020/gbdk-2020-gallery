@@ -20,6 +20,7 @@ function createGalleryItems(galleryItems) {
         const img = document.createElement('img');
         img.src = item.imagePreviewURL;
         img.alt = "game image preview";
+        img.loading = "lazy";
         itemGrid.appendChild(img);
 
         // Item Title
