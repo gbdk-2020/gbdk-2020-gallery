@@ -18,11 +18,21 @@ function createGalleryItems(galleryItems) {
         itemGrid.className = 'item_grid';
 
         // Image
+        // Add a link (type=primary) if possible for the anchor holding the image
+        const imgLink = document.createElement('a');
+        item.linksArray.some(function(link) {
+            if (link.type === "primary") {
+                imgLink.href = link.url;
+                return true
+            } else
+                return false;
+        });
         const img = document.createElement('img');
         img.src = item.imagePreviewURL;
         img.alt = "game image preview";
         img.loading = "lazy";
-        itemGrid.appendChild(img);
+        imgLink.appendChild(img);
+        itemGrid.appendChild(imgLink);
 
         // Item Title
         const titleDiv = document.createElement('div');
@@ -52,7 +62,6 @@ function createGalleryItems(galleryItems) {
             linksDiv.appendChild(linkElement);
         });
         itemGrid.appendChild(linksDiv);
-
 
         // Create matching dataset values for tags
         const tags = ['categoryTags', 'gameTypeTags', 'platformTags'];
@@ -152,6 +161,9 @@ function initFilters() {
 // TODO: UI, flexibility
 function sortData(galleryItems) {
     galleryItems.sort((a, b) => {
+        if (a.featuredPriority != b.featuredPriority)
+            return (a.featuredPriority < b.featuredPriority);
+
         if (a.categoryTags != b.categoryTags)
             return (a.categoryTags > b.categoryTags);
 

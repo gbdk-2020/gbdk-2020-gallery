@@ -1,47 +1,27 @@
 
 const jsonGalleryItemsManual = [
-    {
-        "authorName": "Mindbleach",
-        "itemTitle": "Stunner",
-        "shortDescription": "",
-        "imagePreviewURL": "pix/games/stunner_320.png",
-        "linksArray": [
-            {"type": "info", "url": "https://mindbleach.itch.io/stunner",                      "displayText": "Itch.io"},
-            {"type": "info", "url": "https://mindbleach.itch.io/stunner-but-with-source-code", "displayText": "Source"}
-                    ],
-        "categoryTags": "Game",
-        "gameTypeTags": "Racing",
-        "platformTags": "GameBoy",
-        "isOpenSource": true,
-        "licenseType": "MIT",
-        "isFreeDownload": true,
-        "hasPhysicalRelease": false,
-        "isClassicGBDK": false,
-        "supportsLinkPlay": false,
-        "yearFirstReleased": "2021"
-    },
-
-    {
-        "authorName": "Dr. Ludos",
-        "itemTitle": "GB Corp.",
-        "shortDescription": "",
-        "imagePreviewURL": "pix/games/gb-corp_320.png",
-        "linksArray": [
-            {"type": "info", "url": "https://drludos.itch.io/gb-corp",   "displayText": "Itch.io"},
-            {"type": "info", "url": "https://github.com/drludos/GBcorp", "displayText": "Source"},
-            {"type": "info", "url": "https://yastuna-games.com/en/nintendo-game-boy/72-gb-corp.html", "displayText": "Cart"}
-                     ],
-        "categoryTags": "Game",
-        "gameTypeTags": "Idle",
-        "platformTags": "GameBoy, GameBoyColor, SuperGameBoy",
-        "isOpenSource": true,
-        "licenseType": "MIT",
-        "isFreeDownload": false,
-        "hasPhysicalRelease": true,
-        "isClassicGBDK": false,
-        "supportsLinkPlay": true,
-        "yearFirstReleased": "2021"
-    },
+{
+    "authorName": "Dr. Ludos",
+    "itemTitle": "GB Corp.",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/gb-corp_320.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://drludos.itch.io/gb-corp",                                "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/drludos/GBcorp",                              "displayText": "Source"},
+        {"type": "store",   "url": "https://yastuna-games.com/en/nintendo-game-boy/72-gb-corp.html", "displayText": "Cart"}
+                 ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Idle",
+    "platformTags": "GameBoy, GameBoyColor, SuperGameBoy",
+    "featuredPriority": 5,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": true,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": true,
+    "yearFirstReleased": "2021"
+},
 
 
 {
@@ -50,17 +30,18 @@ const jsonGalleryItemsManual = [
     "shortDescription": "",
     "imagePreviewURL": "pix/demos/cutedemo_320.png",
     "linksArray":[
-        {"type": "source_code", "displayText": "Github", "url": "https://github.com/mills32/CUTE_DEMO/" },
-        {"type": "video",       "displayText": "Youtube", "url": "https://www.youtube.com/watch?v=-YjeAobzn1g"}
+        {"type": "primary", "url": "https://github.com/mills32/CUTE_DEMO/",       "displayText": "Source"},
+        {"type": "video",   "url": "https://www.youtube.com/watch?v=-YjeAobzn1g", "displayText": "Video"}
                 ],
     "categoryTags": "Demoscene",
     "gameTypeTags": "Demoscene",
     "platformTags": "GameBoyColor",
+    "featuredPriority": 10,
     "isOpenSource": true,
     "licenseType": "GPL",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
-    "isClassicGBDK": false,
+    "isClassicGBDK": true,
     "supportsLinkPlay": false,
     "yearFirstReleased": "2017"
 },
@@ -71,13 +52,14 @@ const jsonGalleryItemsManual = [
     "shortDescription": "",
     "imagePreviewURL": "pix/demos/tendonin_320.png",
     "linksArray":[
-        {"type": "info", "displayText": "Demozoo", "url": "https://demozoo.org/productions/307366/"},
-        {"type": "info", "displayText": "Pouët", "url": "https://www.pouet.net/prod.php?which=91300"},
-        {"type": "video","displayText": "Youtube", "url": "https://www.youtube.com/watch?v=GleZBHhOsmE"}
+        {"type": "primary", "url": "https://www.pouet.net/prod.php?which=91300",  "displayText": "Info"},
+        {"type": "info",    "url": "https://demozoo.org/productions/307366/",     "displayText": "Info"},
+        {"type": "video",   "url": "https://www.youtube.com/watch?v=GleZBHhOsmE", "displayText": "Video"}
                 ],
     "categoryTags": "Demoscene",
     "gameTypeTags": "Demoscene",
     "platformTags": "GameBoy",
+    "featuredPriority": 10,
     "isOpenSource": false,
     "licenseType": "Unknown",
     "isFreeDownload": true,
@@ -93,12 +75,13 @@ const jsonGalleryItemsManual = [
     "shortDescription": "Drone music application for Gameboy ",
     "imagePreviewURL": "pix/music/droneboy.png",
     "linksArray":[
-        {"type": "info", "displayText": "Github", "url": "https://github.com/purefunktion/Droneboy"},
-        {"type": "info", "displayText": "Play", "url": "https://hh.gbdev.io/game/droneboy"},
+        {"type": "primary", "url": "https://github.com/purefunktion/Droneboy", "displayText": "Source"},
+        {"type": "info",    "url": "https://hh.gbdev.io/game/droneboy",        "displayText": "Info"},
                 ],
     "categoryTags": "Music",
     "gameTypeTags": "Tool",
     "platformTags": "GameBoy",
+    "featuredPriority": 0,
     "isOpenSource": true,
     "licenseType": "MIT",
     "isFreeDownload": true,
@@ -114,11 +97,13 @@ const jsonGalleryItemsManual = [
     "shortDescription": "Custom Game Boy Camera ROM",
     "imagePreviewURL": "pix/gbcamera/2bit-pxlr-studio_320.png",
     "linksArray":[
-        {"type": "info", "displayText": "Github", "url": "https://github.com/HerrZatacke/2bit-pxlr-studio"},
+        {"type": "primary", "url": "https://github.com/HerrZatacke/2bit-pxlr-studio", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/HerrZatacke/2bit-pxlr-studio", "displayText": "Source"},
                 ],
     "categoryTags": "Camera",
     "gameTypeTags": "Camera",
     "platformTags": "GameBoy",
+    "featuredPriority": 10,
     "isOpenSource": true,
     "licenseType": "MIT",
     "isFreeDownload": true,
@@ -134,11 +119,13 @@ const jsonGalleryItemsManual = [
     "shortDescription": "Custom Game Boy Camera ROM",
     "imagePreviewURL": "pix/gbcamera/gbphoto.jpg",
     "linksArray":[
-        {"type": "info", "displayText": "Github", "url": "https://github.com/untoxa/gb-photo"},
+        {"type": "primary", "url": "https://github.com/untoxa/gb-photo", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/untoxa/gb-photo", "displayText": "Source"},
                 ],
     "categoryTags": "Camera",
     "gameTypeTags": "Camera",
-    "platformTags": "GameBoy",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 10,
     "isOpenSource": true,
     "licenseType": "MIT",
     "isFreeDownload": true,
@@ -148,4 +135,24 @@ const jsonGalleryItemsManual = [
     "yearFirstReleased": "2022"
 },
 
+{
+    "authorName": "Cabbage",
+    "itemTitle": "The Bouncing Ball",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/the_bouncing_ball.png",
+    "linksArray":[
+        {"type": "primary", "url": "https://pdroms.de/files/nintendo-gameboy-gb-gameboycolor-gbc/the-bouncing-ball", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2015"
+},
 ];
