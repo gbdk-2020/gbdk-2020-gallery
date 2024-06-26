@@ -6,7 +6,7 @@ const SORT_BEFORE = -1;
 const SORT_AFTER  =  1;
 
 
-// Attach a small text span to the parent dive with a class name 
+// Attach a small text span to the parent dive with a class name
 function appendSpan(text, className, parentEl) {
             const spanElement = document.createElement('span');
             spanElement.textContent = text;
@@ -92,12 +92,20 @@ function createGalleryItems(galleryItems) {
                 itemDiv.dataset[tag] = tagValue;
             }
         });
+        if (item.isOpenSource === true)       itemDiv.dataset["isOpenSource"] = "";
+        if (item.supportsLinkPlay === true)   itemDiv.dataset["supportsLinkPlay"] = "";
+        if (item.hasPhysicalRelease === true) itemDiv.dataset["hasPhysicalRelease"] = "";
 
         // Append everything inside the main div
         itemDiv.appendChild(itemContainer);
         container.appendChild(itemDiv);
     });
 }
+
+
+
+// *********************************************
+
 
 
 // Create filter entries based on attributes of all gallery items
@@ -148,28 +156,33 @@ function updateFilters() {
     const categoryTagsSelected = Array.from(document.getElementById('categoryTagsFilter').selectedOptions).map(option => option.value);
     const gameTypeTagsSelected = Array.from(document.getElementById('gameTypeTagsFilter').selectedOptions).map(option => option.value);
     const platformTagsSelected = Array.from(document.getElementById('platformTagsFilter').selectedOptions).map(option => option.value);
+    const openSourceOnly  = document.getElementById('openSourceFilter').checked;
+    const linkPlayOnly    = document.getElementById('linkPlayFilter').checked;
+    const cartReleaseOnly = document.getElementById('cartReleaseFilter').checked;
     const items = document.querySelectorAll('.gallery_grid_item');
+
 
     // Hide all items first
     // items.forEach(item => item.style.display = 'none');
 
     // Check whether each item is enabled based on the filters
-            // item.dataset[category-tags].split(', ').forEach(tag =>  categoryTagsSet.add(tag));
     items.forEach(item => {
-
         let categoryEnabled = checkMultiSelectFilter('category', categoryTagsSelected, item);
         let gameTypeEnabled = checkMultiSelectFilter('gameType', gameTypeTagsSelected, item);
         let platformEnabled = checkMultiSelectFilter('platform', platformTagsSelected, item);
 
-        // const isVisible = selectedValues.some(value => item.dataset[value] === 'true');
-        if (categoryEnabled && gameTypeEnabled && platformEnabled) { item.style.display = ''; }
+        if ((openSourceOnly  === true) && (!item.dataset.hasOwnProperty('isOpenSource'))) item.style.display = 'none';
+        else if ((linkPlayOnly    === true) && (!item.dataset.hasOwnProperty('supportsLinkPlay'))) item.style.display = 'none';
+        else if ((cartReleaseOnly === true) && (!item.dataset.hasOwnProperty('hasPhysicalRelease'))) item.style.display = 'none';
+        else if (categoryEnabled && gameTypeEnabled && platformEnabled) { item.style.display = ''; }
         else item.style.display = 'none';
     });
 }
 
 function initFilters() {
     // Event listener to handle filter changes
-    document.querySelectorAll('.filterContainer select[multiple]').forEach(filter => {
+    // document.querySelectorAll('.filterContainer select[multiple]').forEach(filter => {
+    document.querySelectorAll('.filterContainer select[multiple], input').forEach(filter => {
         filter.addEventListener('change', () => {
             updateFilters();
         });
