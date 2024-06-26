@@ -61,7 +61,7 @@ const jsonGalleryItemsManual = [
     "platformTags": "GameBoy",
     "featuredPriority": 10,
     "isOpenSource": false,
-    "licenseType": "Unknown",
+    "licenseType": "",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
@@ -154,5 +154,27 @@ const jsonGalleryItemsManual = [
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
     "yearFirstReleased": "2015"
+},
+
+{
+    "authorName": "Asobi.tech",
+    "itemTitle": "D-Fuzed",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/d-fuzed.png",
+    "linksArray":[
+        {"type": "primary", "url": "http://asobi.tech/#dfuzedgbc", "displayText": "Info"},
+        {"type": "store",   "url": "https://incube8games.com/collections/d-fuzed-gbc", "displayText": "Cart"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 10,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": true,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024"
 },
 ];

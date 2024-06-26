@@ -33,7 +33,8 @@ p, a {
 .gallery_grid_item {
   /* background: #eaeaea; */
   display: flex;
-  align-items: center;
+  /*  align-items: center;*/
+  align-items: start;  /* Top align child divs */
   justify-content: center;
 
   /* Flex Fallback */
@@ -49,16 +50,32 @@ p, a {
   }
 }
 
+.itemContainer {
+    width: 320px;
+}
+
+
 /* Gallery item styling */
 
 :root {
+  --item_body_color: #222;
+  --item_body_color_light: #606060;
+
+  --item_meta_bg_platforms:    #ececec; /* light grey */
+  --item_meta_bg_opensource:   #a0ffa6; /* light green */
+  --item_meta_bg_supportslink: #ffdbef; /* light pink */
+  --item_meta_bg_cartrelease:  #cbebff; /* light blue */
+  --item_meta_text: #00000068;
+
+  /* unused below */
   --item_white_back: #fff;
+  --item_body_color_gray: #aaaaaa;
+ 
+
   --item_gray_back: #F4F4F4;
   --item_bg_color: var(--item_white_back);
-  --item_body_color: #222;
   --item_body_color_gray: #767676;
   --item_body_color_med: #434343;
-  --item_body_color_light: #606060;
   --item_body_color_lighter: #858585;
   --item_border_color: #dadada;
   --item_edge_border_color: #cdcdcd;
@@ -80,15 +97,36 @@ p, a {
     color: var(--item_body_color_light);
 }
 
-
-
 .itemLinks > a {
-    padding-right: 0.5em;
+    margin-right: 0.5em;
     font-size: 0.875em;
     color: var(--item_body_color_light);
 }
 
+.itemMeta > span {
+    display: inline-block;
+    margin-right: 0.5em;
+    font-size: 0.875em;
+    border-radius: 0.25em;
+    padding: 0.15em;
+}
 
+.itemMetaPlatforms {
+    color: var(--item_meta_text);
+    background: var(--item_meta_bg_platforms);
+}
+.itemMetaOpenSource {
+    color: var(--item_meta_text);
+    background: var(--item_meta_bg_opensource);
+}
+.itemMetaSupportsLink {
+    color: var(--item_meta_text);
+    background: var(--item_meta_bg_supportslink);
+}
+.itemMetaCartRelease {
+    color: var(--item_meta_text);
+    background: var(--item_meta_bg_cartrelease);
+}
 
 /*
        .filterContainer {

@@ -2,6 +2,16 @@
 // Main list of gallery items
 var galleryArray;
 
+const SORT_BEFORE = -1;
+const SORT_AFTER  =  1;
+
+
+function itemAttachMetaCard(text, className, parentEl) {
+            const spanElement = document.createElement('span');
+            spanElement.textContent = text;
+            spanElement.className = className;
+            parentEl.appendChild(spanElement);
+}
 
 
 // Convert gallery items to DOM elements
@@ -14,8 +24,8 @@ function createGalleryItems(galleryItems) {
         itemDiv.className = 'gallery_grid_item';
 
         // Create inner div for item details
-        const itemGrid = document.createElement('div');
-        itemGrid.className = 'item_grid';
+        const itemContainer = document.createElement('div');
+        itemContainer.className = 'itemContainer';
 
         // Image
         // Add a link (type=primary) if possible for the anchor holding the image
@@ -32,25 +42,25 @@ function createGalleryItems(galleryItems) {
         img.alt = "game image preview";
         img.loading = "lazy";
         imgLink.appendChild(img);
-        itemGrid.appendChild(imgLink);
+        itemContainer.appendChild(imgLink);
 
         // Item Title
         const titleDiv = document.createElement('div');
         titleDiv.className = 'itemTitle';
         titleDiv.textContent = item.itemTitle;
-        itemGrid.appendChild(titleDiv);
+        itemContainer.appendChild(titleDiv);
 
         // Short Description
         const shortDescDiv = document.createElement('div');
         shortDescDiv.className = 'shortDescription';
         shortDescDiv.textContent = item.shortDescription;
-        itemGrid.appendChild(shortDescDiv);
+        itemContainer.appendChild(shortDescDiv);
 
         // Author Name
         const authorDiv = document.createElement('div');
         authorDiv.className = 'authorName';
         authorDiv.textContent = item.authorName;
-        itemGrid.appendChild(authorDiv);
+        itemContainer.appendChild(authorDiv);
 
         // Links
         const linksDiv = document.createElement('div');
@@ -61,7 +71,37 @@ function createGalleryItems(galleryItems) {
             linkElement.textContent = link.displayText;
             linksDiv.appendChild(linkElement);
         });
-        itemGrid.appendChild(linksDiv);
+        itemContainer.appendChild(linksDiv);
+
+
+        // Meta data footer
+        const metaDiv = document.createElement('div');
+        metaDiv.className = 'itemMeta';
+        item.platformTags.split(', ').forEach(tag => {
+            itemAttachMetaCard(tag, "itemMetaPlatforms", metaDiv);
+            // const spanElement = document.createElement('span');
+            // spanElement.textContent = tag;
+            // spanElement.className = "itemMetaPlatforms";
+            // metaDiv.appendChild(spanElement);
+        });
+        // Open source card
+        if (item.isOpenSource === true) itemAttachMetaCard("Open Source", "itemMetaOpenSource", metaDiv);
+        // {
+        //     const spanElement = document.createElement('span');
+        //     spanElement.textContent = "Open Source";
+        //     spanElement.className = "itemMetaOpenSource";
+        //     metaDiv.appendChild(spanElement);
+        // }
+        // Link Play card
+        if (item.supportsLinkPlay === true) itemAttachMetaCard("Link Play", "itemMetaSupportsLink", metaDiv);
+        // if (item.supportsLinkPlay === true) {
+        //     const spanElement = document.createElement('span');
+        //     spanElement.textContent = "Link Play";
+        //     spanElement.className = "itemMetaSupportsLink";
+        //     metaDiv.appendChild(spanElement);
+        // }
+        if (item.hasPhysicalRelease === true) itemAttachMetaCard("Cart Release", "itemMetaCartRelease", metaDiv);
+        itemContainer.appendChild(metaDiv);
 
         // Create matching dataset values for tags
         const tags = ['categoryTags', 'gameTypeTags', 'platformTags'];
@@ -73,7 +113,7 @@ function createGalleryItems(galleryItems) {
         });
 
         // Append everything inside the main div
-        itemDiv.appendChild(itemGrid);
+        itemDiv.appendChild(itemContainer);
         container.appendChild(itemDiv);
     });
 }
@@ -161,16 +201,20 @@ function initFilters() {
 // TODO: UI, flexibility
 function sortData(galleryItems) {
     galleryItems.sort((a, b) => {
-        if (a.featuredPriority != b.featuredPriority)
-            return (a.featuredPriority < b.featuredPriority);
+        if      (a.featuredPriority > b.featuredPriority) return SORT_BEFORE;
+        else if (a.featuredPriority < b.featuredPriority) return SORT_AFTER;
 
-        if (a.categoryTags != b.categoryTags)
-            return (a.categoryTags > b.categoryTags);
+        if      (a.categoryTags < b.categoryTags) return SORT_BEFORE;
+        else if (a.categoryTags > b.categoryTags) return SORT_AFTER;
 
         // if (a.authorName != b.authorName)
         //     return a.authorName > b.authorName;
 
-        return a.itemTitle > b.itemTitle;
+        if      (a.itemTitle < b.itemTitle) return SORT_BEFORE;
+        else if (a.itemTitle > b.itemTitle) return SORT_AFTER;
+
+        // Default, no change
+        return 0;
     });
 
     return galleryItems;
