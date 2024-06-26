@@ -1,6 +1,6 @@
 body {
   margin: 0 auto;
-  padding: 1em 0;
+  /* padding: 1em 0 ;*/
   font-family: sans-serif;
 }
 
@@ -8,9 +8,11 @@ body {
 /* These are attached to body based on javascript attempted mobile/desktop detection */
 .desktop {
   font-size: calc(12px + 0.390625vw);
+  padding: 1em;
 }
 .mobile {
   font-size: calc(35px + 0.390625vw);
+  padding: 1em 0;
 }
 
 
@@ -26,8 +28,11 @@ p, a {
   /* Supports Grid */
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-  grid-auto-rows: minmax(320px, 1fr); /* auto); */
-  grid-gap: 1em;
+  grid-auto-rows: max-content; /* minmax(320px, 1fr); */ /* auto); */
+  /* grid-gap: 1em; */
+  column-gap: 1em;
+  row-gap: 2em;
+
 }
 
 .gallery_grid_item {
