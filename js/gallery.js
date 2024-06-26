@@ -6,7 +6,8 @@ const SORT_BEFORE = -1;
 const SORT_AFTER  =  1;
 
 
-function itemAttachMetaCard(text, className, parentEl) {
+// Attach a small text span to the parent dive with a class name 
+function appendSpan(text, className, parentEl) {
             const spanElement = document.createElement('span');
             spanElement.textContent = text;
             spanElement.className = className;
@@ -73,34 +74,14 @@ function createGalleryItems(galleryItems) {
         });
         itemContainer.appendChild(linksDiv);
 
-
-        // Meta data footer
+        // Add Meta info footer with text cards
         const metaDiv = document.createElement('div');
         metaDiv.className = 'itemMeta';
-        item.platformTags.split(', ').forEach(tag => {
-            itemAttachMetaCard(tag, "itemMetaPlatforms", metaDiv);
-            // const spanElement = document.createElement('span');
-            // spanElement.textContent = tag;
-            // spanElement.className = "itemMetaPlatforms";
-            // metaDiv.appendChild(spanElement);
-        });
-        // Open source card
-        if (item.isOpenSource === true) itemAttachMetaCard("Open Source", "itemMetaOpenSource", metaDiv);
-        // {
-        //     const spanElement = document.createElement('span');
-        //     spanElement.textContent = "Open Source";
-        //     spanElement.className = "itemMetaOpenSource";
-        //     metaDiv.appendChild(spanElement);
-        // }
-        // Link Play card
-        if (item.supportsLinkPlay === true) itemAttachMetaCard("Link Play", "itemMetaSupportsLink", metaDiv);
-        // if (item.supportsLinkPlay === true) {
-        //     const spanElement = document.createElement('span');
-        //     spanElement.textContent = "Link Play";
-        //     spanElement.className = "itemMetaSupportsLink";
-        //     metaDiv.appendChild(spanElement);
-        // }
-        if (item.hasPhysicalRelease === true) itemAttachMetaCard("Cart Release", "itemMetaCartRelease", metaDiv);
+        // Attach the cards
+        item.platformTags.split(', ').forEach(tag => { appendSpan(tag,  "itemMetaPlatforms",    metaDiv); });
+        if (item.isOpenSource === true)       appendSpan("Open Source", "itemMetaOpenSource",   metaDiv);
+        if (item.supportsLinkPlay === true)   appendSpan("Link Play",   "itemMetaSupportsLink", metaDiv);
+        if (item.hasPhysicalRelease === true) appendSpan("Cart Release","itemMetaCartRelease",  metaDiv);
         itemContainer.appendChild(metaDiv);
 
         // Create matching dataset values for tags
