@@ -250,7 +250,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2023"
 },
 
 {
@@ -264,14 +264,14 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Sports",
     "platformTags": "GameBoy",
-    "featuredPriority": 0,
+    "featuredPriority": 3,
     "isOpenSource": false,
     "licenseType": "Unknown",
     "isFreeDownload": true,
-    "hasPhysicalRelease": false,
+    "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2023"
 },
 
 {
@@ -364,7 +364,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A railway shooter for the Gameboy Color",
     "imagePreviewURL": "pix/itch/IPBYPo.png",
     "linksArray": [
-        {"type": "primary", "url": "https://user0x7f.itch.io/gunship-dx-gbc", "displayText": "Info"},
+        {"type": "primary", "url": "https://user0x7f.itch.io/gunship-dx-gbc",          "displayText": "Info"},
+        {"type": "source" , "url": "https://incube8games.com/products/gunship-dx-gbc", "displayText": "Cart"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Shooter",
@@ -373,10 +374,10 @@ const jsonGalleryItemsItch = [
     "isOpenSource": false,
     "licenseType": "Unknown",
     "isFreeDownload": true,
-    "hasPhysicalRelease": false,
+    "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2023"
 },
 
 {
@@ -579,7 +580,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy, AnaloguePocket",
-    "featuredPriority": 0,
+    "featuredPriority": 3,
     "isOpenSource": false,
     "licenseType": "Unknown",
     "isFreeDownload": true,
@@ -971,8 +972,8 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "caiotava",
     "itemTitle": "Pong GameBoy",
-    "shortDescription": "Homebrew gameboy clone",
-    "imagePreviewURL": "pix/itch/3TMRhh.png",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/caiotava_pong.png",
     "linksArray": [
         {"type": "primary", "url": "https://caiotava.itch.io/pong-gameboy", "displayText": "Info"},
                 ],
@@ -986,7 +987,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2023"
 },
 
 {
@@ -1042,14 +1043,14 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
-    "featuredPriority": 0,
+    "featuredPriority": 3,
     "isOpenSource": false,
     "licenseType": "Unknown",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2023"
 },
 
 {
@@ -1721,17 +1722,18 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Baŝto",
     "itemTitle": "Procedural Island Generator",
-    "shortDescription": "Overworld map generator for island coasts on Game Boy (Color)",
+    "shortDescription": "Overworld map generator for island coasts",
     "imagePreviewURL": "pix/itch/JTlxy4.png",
     "linksArray": [
         {"type": "primary", "url": "https://basxto.itch.io/pig", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/basxto/pig", "displayText": "Source"},
                 ],
     "categoryTags": "Tool",
-    "gameTypeTags": "",
-    "platformTags": "GameBoy",
+    "gameTypeTags": "Tool",
+    "platformTags": "GameBoy, GameBoyColor",
     "featuredPriority": 0,
-    "isOpenSource": false,
-    "licenseType": "Unknown",
+    "isOpenSource": true,
+    "licenseType": "MIT",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
@@ -1989,19 +1991,20 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A short and simple Game Boy game",
     "imagePreviewURL": "pix/itch/bgC4F9.png",
     "linksArray": [
-        {"type": "primary", "url": "https://rafagars.itch.io/unstoppable-knight", "displayText": "Info"},
+        {"type": "primary", "url": "https://rafagars.itch.io/unstoppable-knight",        "displayText": "Info"},
+        {"type": "source",   "url": "https://github.com/Rafagars/Unstoppable-Knight-GB", "displayText": "Source"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
-    "platformTags": "GameBoy",
-    "featuredPriority": 0,
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 3,
     "isOpenSource": false,
     "licenseType": "Unknown",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2021"
 },
 
 {
