@@ -24,7 +24,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Maithonis",
     "itemTitle": "DiveBlob Demo",
-    "shortDescription": "A fast-paced arcade-survival game for the retro Gameboy and Gameboy Color.",
+    "shortDescription": "A fast-paced arcade-survival game",
     "imagePreviewURL": "pix/itch/ybLlDc.png",
     "linksArray": [
         {"type": "primary", "url": "https://maithonis.itch.io/diveblob", "displayText": "Info"},
@@ -87,7 +87,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "staticlinkage",
     "itemTitle": "Skeleton Crew",
-    "shortDescription": "A micro RPG for the GameBoy",
+    "shortDescription": "A micro RPG",
     "imagePreviewURL": "pix/itch/ELP5kD.png",
     "linksArray": [
         {"type": "primary", "url": "https://staticlinkage.itch.io/skeleton-crew", "displayText": "Info"},
@@ -171,7 +171,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "MartFN",
     "itemTitle": "MartFN's Maze Game",
-    "shortDescription": "test game I made while following a tutorial for the Game Boy Development Kit (GBDK).",
+    "shortDescription": "Test game I made while following a tutorial",
     "imagePreviewURL": "pix/itch/H23I+S.png",
     "linksArray": [
         {"type": "primary", "url": "https://martfn.itch.io/maze-game", "displayText": "Info"},
@@ -298,7 +298,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Tofu Heavy Industries",
     "itemTitle": "Outcast Station",
-    "shortDescription": "Visual-novel survival adventure for the Original GameBoy",
+    "shortDescription": "Visual-novel survival adventure",
     "imagePreviewURL": "pix/itch/ctFOpk.png",
     "linksArray": [
         {"type": "primary", "url": "https://tofu-heavy-industries.itch.io/outcast-station", "displayText": "Info"},
@@ -319,7 +319,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Lemmy Hawkins",
     "itemTitle": "Max Pirate - Gameboy Action game",
-    "shortDescription": "Small action game for the original Game Boy",
+    "shortDescription": "Small action game",
     "imagePreviewURL": "pix/itch/+KKD6s.png",
     "linksArray": [
         {"type": "primary", "url": "https://lemmyhawkins.itch.io/max-pirate-gameboy-action-game", "displayText": "Info"},
@@ -361,7 +361,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "User0x7f",
     "itemTitle": "Gunship DX GBC",
-    "shortDescription": "A railway shooter for the Gameboy Color",
+    "shortDescription": "A railway shooter",
     "imagePreviewURL": "pix/itch/IPBYPo.png",
     "linksArray": [
         {"type": "primary", "url": "https://user0x7f.itch.io/gunship-dx-gbc",          "displayText": "Info"},
@@ -593,7 +593,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "☆ ry0g4_ ☆",
     "itemTitle": "Music Mod GameBoy Test (GB)",
-    "shortDescription": "Music Mod GameBoy Test is a basic hombrew for the gameboy.",
+    "shortDescription": "Music Mod GameBoy Test is a basic hombrew",
     "imagePreviewURL": "pix/itch/YW21cL.png",
     "linksArray": [
         {"type": "primary", "url": "https://ry0g4.itch.io/music-mod-gameboy-test-gb", "displayText": "Info"},
@@ -614,7 +614,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "☆ ry0g4_ ☆",
     "itemTitle": "Tetris: The Soviet Mind Game (GBC)",
-    "shortDescription": "Tetris: The Soviet mind Game is a homebrew software for the Nintendo Game Boy Color",
+    "shortDescription": "Tetris: The Soviet mind Game",
     "imagePreviewURL": "pix/itch/aQhUmF.png",
     "linksArray": [
         {"type": "primary", "url": "https://ry0g4.itch.io/tetris-the-soviet-mind-game-gbc", "displayText": "Info"},
@@ -635,14 +635,14 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "☆ ry0g4_ ☆",
     "itemTitle": "Magic Screen (Etch-A-Sketch) (SGB)",
-    "shortDescription": "Magic Screen (Etch-A-Sketch) (GB) is a homebrew software for the Nintendo Game Boy",
+    "shortDescription": "",
     "imagePreviewURL": "pix/itch/f3x3gb.png",
     "linksArray": [
         {"type": "primary", "url": "https://ry0g4.itch.io/magic-screen-etch-a-sketch-sgb", "displayText": "Info"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
-    "platformTags": "GameBoy",
+    "platformTags": "GameBoy, SuperGameBoy",
     "featuredPriority": 0,
     "isOpenSource": false,
     "licenseType": "",
@@ -656,7 +656,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "ASernaIO",
     "itemTitle": "Bonanza Bros Demake(?)",
-    "shortDescription": "An attempt of demaking the Bonaza Bros game for the GameBoy",
+    "shortDescription": "An attempt of demaking the Bonaza Bros game",
     "imagePreviewURL": "pix/itch/9fWIx3.png",
     "linksArray": [
         {"type": "primary", "url": "https://asernaio.itch.io/bonaza-bros-demake", "displayText": "Info"},
@@ -781,8 +781,8 @@ const jsonGalleryItemsItch = [
 
 {
     "authorName": "bbbbbr",
-    "itemTitle": "Breakout Lava Lamp - Game Boy",
-    "shortDescription": "A Multi-Ball Breakout Lava Lamp for the Game Boy",
+    "itemTitle": "Breakout Lava Lamp",
+    "shortDescription": "A Multi-Ball Breakout Lava Lamp Simulation",
     "imagePreviewURL": "pix/itch/AQp6L2.png",
     "linksArray": [
         {"type": "primary", "url": "https://bbbbbr.itch.io/breakout-lava-lamp", "displayText": "Info"},
@@ -804,7 +804,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Libra Bits",
     "itemTitle": "Super Hard Bouncer",
-    "shortDescription": "Rage inducing precision platformer for the GameBoy",
+    "shortDescription": "Rage inducing precision platformer",
     "imagePreviewURL": "pix/itch/Vo8+wy.png",
     "linksArray": [
         {"type": "primary", "url": "https://libra-bits.itch.io/super-hard-bouncer-gameboy-game", "displayText": "Info"},
@@ -993,7 +993,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "danirod",
     "itemTitle": "Minesweeper.gb",
-    "shortDescription": "A minesweeper concept for the Game Boy",
+    "shortDescription": "A minesweeper concept",
     "imagePreviewURL": "pix/itch/D2Hy+j.png",
     "linksArray": [
         {"type": "primary", "url": "https://danirod.itch.io/minesweeper-gb", "displayText": "Info"},
@@ -1077,7 +1077,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Tardigrade",
     "itemTitle": "Logic Island",
-    "shortDescription": "A logic puzzle game for the Game Boy",
+    "shortDescription": "A logic puzzle game",
     "imagePreviewURL": "pix/itch/wetCXR.png",
     "linksArray": [
         {"type": "primary", "url": "https://tardigrade-nx.itch.io/logic-island", "displayText": "Info"},
@@ -1098,7 +1098,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Moos",
     "itemTitle": "Laser Baser 2",
-    "shortDescription": "A new Puzzlegame for the original Game Boy",
+    "shortDescription": "A new Puzzlegame",
     "imagePreviewURL": "pix/itch/wLjIDB.png",
     "linksArray": [
         {"type": "primary", "url": "https://moosdruide13.itch.io/laser-baser-2-for-game-boy", "displayText": "Info"},
@@ -1292,14 +1292,14 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "User0x7f",
     "itemTitle": "Genesis 2 GB",
-    "shortDescription": "A shoot em up for the Gameboy",
+    "shortDescription": "A shoot em up",
     "imagePreviewURL": "pix/itch/qTFK9h.png",
     "linksArray": [
         {"type": "primary", "url": "https://user0x7f.itch.io/genesis-2",             "displayText": "Play"},
         {"type": "store",   "url": "https://incube8games.com/products/genesis-2-gb", "displayText": "Cart"},
                 ],
     "categoryTags": "Game",
-    "gameTypeTags": "Action",
+    "gameTypeTags": "Shooter",
     "platformTags": "GameBoy",
     "featuredPriority": 10,
     "isOpenSource": false,
@@ -1826,7 +1826,7 @@ const jsonGalleryItemsItch = [
     "isOpenSource": false,
     "licenseType": "",
     "isFreeDownload": true,
-    "hasPhysicalRelease": false,
+    "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
     "yearFirstReleased": ""
@@ -1924,7 +1924,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Golden PSP",
     "itemTitle": "Sun's Dojo",
-    "shortDescription": "A Retro 8-bit Platform Brawler for the Original Game Boy",
+    "shortDescription": "A Retro 8-bit Platform Brawler",
     "imagePreviewURL": "pix/itch/4riX7s.png",
     "linksArray": [
         {"type": "primary", "url": "https://goldenpsp.itch.io/suns-dojo", "displayText": "Info"},
@@ -2055,7 +2055,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Maithonis",
     "itemTitle": "INTERBLOCKED",
-    "shortDescription": "Unblock Puzzle Game for the Original Game Boy",
+    "shortDescription": "Unblock Puzzle Game",
     "imagePreviewURL": "pix/itch/f7pljD.png",
     "linksArray": [
         {"type": "primary", "url": "https://maithonis.itch.io/interblocked", "displayText": "Info"},
@@ -2315,6 +2315,30 @@ const jsonGalleryItemsItch = [
     "supportsLinkPlay": false,
     "yearFirstReleased": ""
 },
+
+{
+    "authorName": "FerrantePescara",
+    "itemTitle": "Alien Invasion",
+    "shortDescription": "Save the earth from an Alien invasion",
+    "imagePreviewURL": "pix/itch/alieninvasion.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://ferrantepescara.itch.io/alien-invasion", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/NiliusJulius/Alien-Invasion", "displayText": "Source"},
+        {"type": "store",   "url": "https://ferrantecrafts.com/products/alien-invasion", "displayText": "Cart"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Shooter",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isOpenSource": true,
+    "licenseType": "GPL",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": true,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2021"
+},
+
 ];
 
 
