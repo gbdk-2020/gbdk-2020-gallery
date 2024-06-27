@@ -1,7 +1,7 @@
 
 // Convert gallery items to DOM elements
 function createGalleryItems(galleryItems) {
-    const container = document.getElementById('galleryContainer');
+    const container = document.getElementById('gallery_grid');
     galleryItems.forEach(item => {
 
         // Create main div for each item

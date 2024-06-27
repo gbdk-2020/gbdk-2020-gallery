@@ -72,8 +72,8 @@ function updateFilters() {
 
 function initFilters() {
     // Event listener to handle filter changes
-    // document.querySelectorAll('.filterContainer select[multiple]').forEach(filter => {
-    document.querySelectorAll('.filterContainer select[multiple], input').forEach(filter => {
+    // document.querySelectorAll('.filter_container select[multiple]').forEach(filter => {
+    document.querySelectorAll('.filter_container select[multiple], input').forEach(filter => {
         filter.addEventListener('change', () => {
             updateFilters();
         });

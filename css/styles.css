@@ -1,23 +1,77 @@
 body {
   margin: 0 auto;
-  /* padding: 1em 0 ;*/
   font-family: sans-serif;
 }
 
+
+:root {
+  --header_color: #555;
+  --header_links_color: var(--header_color);
+  --header_bg_color: #f2f2f2;
+
+  /* Controls Styling */
+  --form-control-disabled: #959495;
+  --form-control:          #777;
+  --form-control-selected: #2196F3;
+  --form-background:       var(--header_bg_color);
+
+    /* Gallery item styling */
+  --item_body_color: #222;
+  --item_body_color_light: #606060;
+
+  --item_meta_bg_platforms:    #ececec; /* light grey */
+  --item_meta_bg_opensource:   #a0ffa6; /* light green */
+  --item_meta_bg_supportslink: #ffdbef; /* light pink */
+  --item_meta_bg_cartrelease:  #cbebff; /* light blue */
+  --item_meta_text: #00000068;
+
+  /* unused below */
+  --item_white_back: #fff;
+  --item_body_color_gray: #aaaaaa;
+}
 
 /* These are attached to body based on javascript attempted mobile/desktop detection */
 .desktop {
   font-size: calc(12px + 0.390625vw);
-  padding: 1em;
 }
 .mobile {
   font-size: calc(35px + 0.390625vw);
-  padding: 1em 0;
+
+    /* Scale up checkbox ui elements on mobile so they aren't tiny*/
+    input[type=checkbox] {
+        transform: scale(2.75);
+        vertical-align: 0.5rem;
+    }
 }
 
 
-p, a {
-  font-family: sans-serif;
+.header {
+    /*box-shadow: 0 3px 5px rgba(0,0,0,.02),0 0 2px rgba(0,0,0,.05),0 1px 4px rgba(0,0,0,.08);*/
+    box-shadow: 0 0.5em 2em rgba(0,0,0,0.15);
+    background-color: var(--header_bg_color);
+    padding: 1em;
+    margin-bottom: 2em;
+}
+
+.topbanner {
+    width: 50%;
+    font-weight: normal;
+    font-family: "Liberation Sans", "Nimbus Sans", Helvetica, "Helvetica Neue", "Trebuchet MS", Verdana, sans-serif;
+    color: var(--header_color);
+    margin-bottom: 1em;
+}
+.topbanner > h1 {
+    font-weight: normal;
+}
+.topbanner > a {
+    font-family: "Liberation Sans", "Nimbus Sans", Helvetica, "Helvetica Neue", "Trebuchet MS", Verdana, sans-serif;
+    color: var(--header_links_color);
+}
+
+
+
+.gallery_container {
+    padding: 1em;
 }
 
 .gallery_grid {
@@ -28,17 +82,13 @@ p, a {
   /* Supports Grid */
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-  grid-auto-rows: max-content; /* minmax(320px, 1fr); */ /* auto); */
-  /* grid-gap: 1em; */
+  grid-auto-rows: max-content;
   column-gap: 1em;
   row-gap: 2em;
-
 }
 
 .gallery_grid_item {
-  /* background: #eaeaea; */
   display: flex;
-  /*  align-items: center;*/
   align-items: start;  /* Top align child divs */
   justify-content: center;
 
@@ -60,37 +110,6 @@ p, a {
 }
 
 
-/* Gallery item styling */
-
-:root {
-  --item_body_color: #222;
-  --item_body_color_light: #606060;
-
-  --item_meta_bg_platforms:    #ececec; /* light grey */
-  --item_meta_bg_opensource:   #a0ffa6; /* light green */
-  --item_meta_bg_supportslink: #ffdbef; /* light pink */
-  --item_meta_bg_cartrelease:  #cbebff; /* light blue */
-  --item_meta_text: #00000068;
-
-  /* unused below */
-  --item_white_back: #fff;
-  --item_body_color_gray: #aaaaaa;
- 
-
-  --item_gray_back: #F4F4F4;
-  --item_bg_color: var(--item_white_back);
-  --item_body_color_gray: #767676;
-  --item_body_color_med: #434343;
-  --item_body_color_lighter: #858585;
-  --item_border_color: #dadada;
-  --item_edge_border_color: #cdcdcd;
-  --item_input_border_color: #cdcdcd;
-  --item_input_focus_color: #361275;
-  --item_light_highlight: #FFF0F0;
-  --item_warning_bg: #fffdbd;
-  --item_gutter_width: 40px
-}
-
 .itemTitle {
     font-weight: bold;
     color: var(--item_body_color);
@@ -111,6 +130,8 @@ p, a {
 .itemMeta > span {
     display: inline-block;
     margin-right: 0.5em;
+    margin-top: 0.15em;
+    margin-bottom: 0.15em;
     font-size: 0.875em;
     border-radius: 0.25em;
     padding: 0.15em;
@@ -133,31 +154,27 @@ p, a {
     background: var(--item_meta_bg_cartrelease);
 }
 
-/*
-       .filterContainer {
-            margin-bottom: 20px;
-        }
-       .dropdown {
-            display: inline-block;
-            position: relative;
-            font-family: Arial, sans-serif;
-        }
-       .dropdown-content {
-            display: none;
-            position: absolute;
-            min-width: 200px;
-            z-index: 1;
-        }
-       .dropdown-content a {
-            color: black;
-            padding: 12px 16px;
-            text-decoration: none;
-            display: block;
-        }
-       .dropdown-content a:hover {
-            background-color: #f1f1f1;
-        }
-       .dropdown:hover.dropdown-content {
-            display: block;
-        }
-*/
+
+
+/* *** Form controls ***  */
+
+.filter_container {
+    display: flex;
+    flex-wrap: wrap;
+
+    column-gap: 1em;
+    row-gap: 2em;
+}
+
+.checkbox_label {
+    white-space:nowrap;
+}
+
+/* Fix multi-select not scaling with body font size */
+select {
+    font-size:inherit;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
