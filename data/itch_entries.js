@@ -340,7 +340,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "TiTi",
     "itemTitle": "GB Dash",
-    "shortDescription": "Jump and fly your way through danger... On Game Boy this time!",
+    "shortDescription": "Jump and fly your way through danger...",
     "imagePreviewURL": "pix/itch/6+B+qJ.png",
     "linksArray": [
         {"type": "primary", "url": "https://electrictiti.itch.io/gb-dash", "displayText": "Info"},
@@ -698,7 +698,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "StudioGuma",
     "itemTitle": "Game (Boy) of Life",
-    "shortDescription": "Game Boy port of Conway’s Game of Life",
+    "shortDescription": "Port of Conway’s Game of Life",
     "imagePreviewURL": "pix/itch/vrJ+oe.png",
     "linksArray": [
         {"type": "primary", "url": "https://studioguma.itch.io/game-boy-of-life", "displayText": "Info"},
@@ -825,7 +825,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Bipedal Studios",
     "itemTitle": "Anctrayl",
-    "shortDescription": "​Blast through twelve levels of box pushing Game Boy action!",
+    "shortDescription": "​Blast through twelve levels of box pushing action!",
     "imagePreviewURL": "pix/itch/1o7eDX.png",
     "linksArray": [
         {"type": "primary", "url": "https://bipedal-studios.itch.io/anctrayl", "displayText": "Info"},
@@ -867,7 +867,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "sg",
     "itemTitle": "Piropa",
-    "shortDescription": "A virtual pet frog for your Game Boy",
+    "shortDescription": "A virtual pet frog",
     "imagePreviewURL": "pix/itch/LmnJF2.png",
     "linksArray": [
         {"type": "primary", "url": "https://zenzoa.itch.io/piropa", "displayText": "Info"},
@@ -1035,7 +1035,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "clems71",
     "itemTitle": "Tomoni",
-    "shortDescription": "32kB Game Boy Puzzle Game",
+    "shortDescription": "32kB Puzzle Game",
     "imagePreviewURL": "pix/itch/3bma8f.png",
     "linksArray": [
         {"type": "primary", "url": "https://clems71.itch.io/tomoni", "displayText": "Info"},
@@ -1120,7 +1120,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Maithonis",
     "itemTitle": "Baunsudaun",
-    "shortDescription": "Game Boy game inspired by an old Java game where the object is to survive as long as possible while falling down.",
+    "shortDescription": "Game inspired by an old Java game where the object is to survive as long as possible while falling down.",
     "imagePreviewURL": "pix/itch/EVCcqE.png",
     "linksArray": [
         {"type": "primary", "url": "https://maithonis.itch.io/baunsudaun", "displayText": "Info"},
@@ -1162,14 +1162,14 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "bbbbbr",
     "itemTitle": "Canyon Racer",
-    "shortDescription": "Game Boy Racing Demo with Vertical Parallax Effect",
+    "shortDescription": "Racing Demo with Vertical Parallax Effect",
     "imagePreviewURL": "pix/itch/ooxI2f.png",
     "linksArray": [
         {"type": "primary", "url": "https://bbbbbr.itch.io/canyon-racer", "displayText": "Info"},
         {"type": "source", "url": "https://github.com/bbbbbr/canyon-racer", "displayText": "Source"},
                 ],
     "categoryTags": "Game",
-    "gameTypeTags": "Racing",
+    "gameTypeTags": "Survival",
     "platformTags": "GameBoy, MegaDuck",
     "featuredPriority": 5,
     "isOpenSource": true,
@@ -1183,8 +1183,8 @@ const jsonGalleryItemsItch = [
 
 {
     "authorName": "muchadardo",
-    "itemTitle": "Space war 3D (gameboy color)",
-    "shortDescription": "Mode 7 style shooter demo on the gameboy color",
+    "itemTitle": "Space war 3D",
+    "shortDescription": "Mode 7 style shooter demo",
     "imagePreviewURL": "pix/itch/zevMcy.png",
     "linksArray": [
         {"type": "primary", "url": "https://muchadardo.itch.io/space-war-3d", "displayText": "Info"},
@@ -1267,7 +1267,7 @@ const jsonGalleryItemsItch = [
 
 {
     "authorName": "bbbbbr",
-    "itemTitle": "Game Boy Axelay Demake Demo",
+    "itemTitle": "Axelay Demake Demo",
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/wb41js.png",
     "linksArray": [
@@ -1446,7 +1446,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "ohnotomsutton",
     "itemTitle": "Fydo's Magic Tiles",
-    "shortDescription": "Intense match-4 puzzle fun for Game Boy!",
+    "shortDescription": "Intense match-4 puzzle fun!",
     "imagePreviewURL": "pix/itch/llxui1.png",
     "linksArray": [
         {"type": "primary", "url": "https://ohnotomsutton.itch.io/fydos-magic-tiles", "displayText": "Info"},
@@ -1746,7 +1746,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Baŝto",
     "itemTitle": "Great Burst",
-    "shortDescription": "Breakout Clone for Game Boy",
+    "shortDescription": "Breakout Clone",
     "imagePreviewURL": "pix/itch/cpvARY.png",
     "linksArray": [
         {"type": "primary", "url": "https://basxto.itch.io/great-burst", "displayText": "Info"},
@@ -1813,7 +1813,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Toxa",
     "itemTitle": "Color Lines",
-    "shortDescription": "Color Lines remake for the Game Boy",
+    "shortDescription": "Color Lines remake",
     "imagePreviewURL": "pix/itch/7lGKk_.png",
     "linksArray": [
         {"type": "primary", "url": "https://untoxa.itch.io/color-lines", "displayText": "Info"},
@@ -1967,7 +1967,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "gearfo",
     "itemTitle": "&lt;corrib75&gt;",
-    "shortDescription": "A homebrew game for Game Boy and Game Boy Color.",
+    "shortDescription": "A homebrew game for",
     "imagePreviewURL": "pix/itch/pDNsog.png",
     "linksArray": [
         {"type": "primary", "url": "https://gearfo.itch.io/corrib75", "displayText": "Info"},
@@ -1988,7 +1988,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Rafagars",
     "itemTitle": "Unstoppable Knight",
-    "shortDescription": "A short and simple Game Boy game",
+    "shortDescription": "A short and simple game",
     "imagePreviewURL": "pix/itch/bgC4F9.png",
     "linksArray": [
         {"type": "primary", "url": "https://rafagars.itch.io/unstoppable-knight",        "displayText": "Info"},
@@ -2032,7 +2032,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Tangram Games",
     "itemTitle": "Tobu Tobu Girl Deluxe",
-    "shortDescription": "Game Boy Color homebrew arcade platformer",
+    "shortDescription": "Homebrew arcade platformer",
     "imagePreviewURL": "pix/itch/UjN3eN.png",
     "linksArray": [
         {"type": "primary", "url": "https://tangramgames.itch.io/tobu-tobu-girl-deluxe", "displayText": "Info"},
@@ -2119,7 +2119,7 @@ const jsonGalleryItemsItch = [
 },
 
 {
-    "authorName": "Flappy bird but for the Game boy!",
+    "authorName": "Flappy bird!",
     "itemTitle": "Flappy GB",
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/3Np9E0.png",
@@ -2229,7 +2229,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "bbbbbr",
     "itemTitle": "Petris",
-    "shortDescription": "A Game Boy Color puzzle game of shapely pets",
+    "shortDescription": "A puzzle game of shapely pets",
     "imagePreviewURL": "pix/itch/JsI014.png",
     "linksArray": [
         {"type": "primary", "url": "https://bbbbbr.itch.io/petris", "displayText": "Info"},
@@ -2297,7 +2297,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Elemental Code",
     "itemTitle": "Flappy Boy",
-    "shortDescription": "A puzzle game that works in original Nintendo Game Boy Color hardware.",
+    "shortDescription": "",
     "imagePreviewURL": "pix/itch/flappyboy_elementalcode.png",
     "linksArray": [
         {"type": "primary", "url": "https://elementalcode.itch.io/flappy-boy", "displayText": "Info"},
@@ -2339,6 +2339,92 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2021"
 },
 
+{
+    "authorName": "BriG78cx",
+    "itemTitle": "Flappy Turd",
+    "shortDescription": "Flappy clone with a difference",
+    "imagePreviewURL": "pix/itch/brig78cx.itch.io-flappy-turd.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://brig78cx.itch.io/flappy-turd", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Survival",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 0,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2021"
+},
+
+{
+    "authorName": "BriG78cx",
+    "itemTitle": "Cake Snake",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/brig78cx.itch.io-cakesnake.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://brig78cx.itch.io/cakesnake-gb", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 0,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024"
+},
+
+{
+    "authorName": "BriG78cx",
+    "itemTitle": "Plant Blitz",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/brig78cx.itch.io-plantblitz.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://brig78cx.itch.io/plantblitz", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 0,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024"
+},
+
+{
+    "authorName": "BriG78cx",
+    "itemTitle": "Break Out",
+    "shortDescription": "A bat and ball game featuring 20 unique levels",
+    "imagePreviewURL": "pix/itch/brig78cx.itch.io-breakout-for-gameboy-colour.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://brig78cx.itch.io/breakout-for-gameboy-colour", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 0,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2023"
+},
+
 ];
 
+/* https://brig78cx.itch.io/cakesnake-gb */
+/* https://brig78cx.itch.io/plantblitz */
 
