@@ -82,6 +82,8 @@ function createGalleryItems(galleryItems) {
         if (item.hasPhysicalRelease === true) itemDiv.dataset["hasPhysicalRelease"] = "";
         if (item.isMultiPlatform === true)    itemDiv.dataset["isMultiPlatform"] = "";
 
+        itemDiv.dataset["yearFirstReleased"] = item.yearFirstReleased;
+
         // Append everything inside the main div
         itemDiv.appendChild(itemContainer);
         container.appendChild(itemDiv);

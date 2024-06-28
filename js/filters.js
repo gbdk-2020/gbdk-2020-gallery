@@ -58,10 +58,12 @@ function updateFilters() {
     const linkPlayOnly      = document.getElementById('linkPlayFilter').checked;
     const cartReleaseOnly   = document.getElementById('cartReleaseFilter').checked;
     const multiPlatformOnly = document.getElementById('multiPlatformFilter').checked;
+    const yearReleasedMatch = document.getElementById('yearReleasedFilter').value;
+
     const items = document.querySelectorAll('.gallery_grid_item');
 
 
-// TODO: Year filter
+    // TODO: ? Convert filters from arrays to simple compares now that they are single-select instead of multi-select
 
     // Hide all items first
     // items.forEach(item => item.style.display = 'none');
@@ -76,6 +78,7 @@ function updateFilters() {
         else if ((linkPlayOnly      === true) && (!item.dataset.hasOwnProperty('supportsLinkPlay')))   item.style.display = 'none';
         else if ((cartReleaseOnly   === true) && (!item.dataset.hasOwnProperty('hasPhysicalRelease'))) item.style.display = 'none';
         else if ((multiPlatformOnly === true) && (!item.dataset.hasOwnProperty('isMultiPlatform')))    item.style.display = 'none';
+        else if ((yearReleasedMatch !== 'All') && (item.dataset['yearFirstReleased'] !== yearReleasedMatch))    item.style.display = 'none';
         else if (categoryEnabled && gameTypeEnabled && platformEnabled) { item.style.display = ''; }
         else item.style.display = 'none';
     });
