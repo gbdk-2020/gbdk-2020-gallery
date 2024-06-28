@@ -15,11 +15,6 @@ body {
   --form-control-selected: #2196F3;
   --form-background:       var(--header_bg_color);
 
-  --filter_multi_button_text:     rgba(0,0,0,0.70);
-  --filter_multi_button_bg:       #ddd;
-  --filter_multi_button_bg_hover: #eee;
-
-
     /* Gallery item styling */
   --item_body_color: #222;
   --item_body_color_light: #606060;
@@ -176,9 +171,10 @@ body {
 /* Fix multi-select not scaling with body font size */
 select {
     font-size:inherit;
-    -webkit-appearance: none;
+/*    -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
+*/
 }
 
 .filter_multi > span {

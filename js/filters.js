@@ -1,26 +1,33 @@
 
+
 // Create filter entries based on attributes of all gallery items
 function populateFilters(galleryItems) {
     const categoryTagsSet  = new Set();
     const gameTypesTagsSet = new Set();
     const platformsTagsSet = new Set();
+    const yearReleasedSet  = new Set();
+    const filterAll = "<option selected value=\"" + FILTER_ALL + "\">" + FILTER_ALL + "</option>";
 
     // Parse the JSON gallery entries and extract tags from them
     galleryItems.forEach(item => {
         if (item.categoryTags) item.categoryTags.split(', ').forEach(tag =>  categoryTagsSet.add(tag));
         if (item.gameTypeTags) item.gameTypeTags.split(', ').forEach(tag => gameTypesTagsSet.add(tag));
         if (item.platformTags) item.platformTags.split(', ').forEach(tag => platformsTagsSet.add(tag));
+        if (item.yearFirstReleased != '') yearReleasedSet.add(item.yearFirstReleased);
     });
 
-    // Now create filter option item entries for each tag per type in html form
-    const categoryOptions = Array.from(categoryTagsSet).map(tag =>  `<option selected value="${tag}">${tag}</option>`).join('');
-    const gameTypeOptions = Array.from(gameTypesTagsSet).map(tag => `<option selected value="${tag}">${tag}</option>`).join('');
-    const platformOptions = Array.from(platformsTagsSet).map(tag => `<option selected value="${tag}">${tag}</option>`).join('');
+
+    // Now sort and create filter option item entries for each tag per type in html form
+    const categoryOptions = Array.from(categoryTagsSet).map(tag =>  `<option value="${tag}">${tag}</option>`).sort().join('');
+    const gameTypeOptions = Array.from(gameTypesTagsSet).map(tag => `<option value="${tag}">${tag}</option>`).sort().join('');
+    const platformOptions = Array.from(platformsTagsSet).map(tag => `<option value="${tag}">${tag}</option>`).sort().join('');
+    const yearReleasedOptions = Array.from(yearReleasedSet).map(tag => `<option value="${tag}">${tag}</option>`).sort().join('');
 
     // And attach them to the multi-select controls
-    document.getElementById('categoryTagsFilter').innerHTML = categoryOptions;
-    document.getElementById('gameTypeTagsFilter').innerHTML = gameTypeOptions;
-    document.getElementById('platformTagsFilter').innerHTML = platformOptions;
+    document.getElementById('categoryTagsFilter').innerHTML = filterAll + categoryOptions;
+    document.getElementById('gameTypeTagsFilter').innerHTML = filterAll + gameTypeOptions;
+    document.getElementById('platformTagsFilter').innerHTML = filterAll + platformOptions;
+    document.getElementById('yearReleasedFilter').innerHTML = filterAll + yearReleasedOptions;
 
     // Call the function to render the gallery
     createGalleryItems(galleryItems);
@@ -35,7 +42,7 @@ function checkMultiSelectFilter(filterName, filterTagsSelected, item) {
         // Extract all tags from the item
         item.dataset[filterName + 'Tags'].split(', ').forEach(tag => {
             // Check if any of the item tags is enabled as a selection in the Filter
-            if (filterTagsSelected.some(value => value === tag)) { isEnabled = true; }
+            if (filterTagsSelected.some(value => (value === tag) || value === FILTER_ALL)) { isEnabled = true; }
         });
     }
     return isEnabled;
@@ -52,6 +59,8 @@ function updateFilters() {
     const cartReleaseOnly = document.getElementById('cartReleaseFilter').checked;
     const items = document.querySelectorAll('.gallery_grid_item');
 
+
+// TODO: Year filter
 
     // Hide all items first
     // items.forEach(item => item.style.display = 'none');
@@ -73,7 +82,8 @@ function updateFilters() {
 function initFilters() {
     // Event listener to handle filter changes
     // document.querySelectorAll('.filter_container select[multiple]').forEach(filter => {
-    document.querySelectorAll('.filter_container select[multiple], input').forEach(filter => {
+    // document.querySelectorAll('.filter_container select[multiple], input').forEach(filter => {
+    document.querySelectorAll('.filter_container select, input').forEach(filter => {
         filter.addEventListener('change', () => {
             updateFilters();
         });

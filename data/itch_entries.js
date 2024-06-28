@@ -1425,7 +1425,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "joyrider3774",
     "itemTitle": "Waternet",
-    "shortDescription": "Waternet is a multiplatform water pipe puzzle game written for old consoles and handhelds.",
+    "shortDescription": "A water pipe puzzle game",
     "imagePreviewURL": "pix/itch/C3zvxr.png",
     "linksArray": [
         {"type": "primary", "url": "https://joyrider3774.itch.io/waternet", "displayText": "Info"},
@@ -1488,7 +1488,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "asie",
     "itemTitle": "Atop the Witch's Tower GB",
-    "shortDescription": "A GameBoy version of a ZZT game about opening up.",
+    "shortDescription": "A ZZT game about opening up",
     "imagePreviewURL": "pix/itch/JwxAj+.png",
     "linksArray": [
         {"type": "primary", "url": "https://asie.itch.io/atop-the-witchs-tower-gb", "displayText": "Info"},
