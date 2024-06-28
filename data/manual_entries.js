@@ -230,4 +230,97 @@ const jsonGalleryItemsManual = [
     "yearFirstReleased": "2020"
 },
 
+{
+    "authorName": "Toxa",
+    "itemTitle": "ISO Engine",
+    "shortDescription": "A simple engine that allows to make pseudo-3D games",
+    "imagePreviewURL": "pix/tools/isoengine.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/untoxa/ISOEngine", "displayText": "Info"},
+        {"type": "primary", "url": "https://github.com/untoxa/ISOEngine", "displayText": "Source"},
+                ],
+    "categoryTags": "Engine",
+    "gameTypeTags": "Engine",
+    "platformTags": "GameBoy",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2020"
+},
+
+{
+    "authorName": "ohnotomsutton",
+    "itemTitle": "Patchy Matchy",
+    "shortDescription": "Cowabunga! Get matchy with Patchy, a surfer dude out to win the waves",
+    "imagePreviewURL": "pix/games/patchymatchy.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://modretro.com/products/patchy-matchy", "displayText": "Info"},
+        {"type": "primary", "url": "https://modretro.com/products/patchy-matchy", "displayText": "Store"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 10,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": true,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024"
+},
+
+{
+    "authorName": "ModRetro",
+    "itemTitle": "Tetris",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/modretro_tetris.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://modretro.com/products/tetris", "displayText": "Info"},
+        {"type": "primary", "url": "https://modretro.com/products/tetris", "displayText": "Store"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": true,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": true,
+    "yearFirstReleased": "2024"
+},
+
+{
+    "authorName": "Incube8",
+    "itemTitle": "Infinity",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/Infinitygbc.gif",
+    "linksArray": [
+        {"type": "primary", "url": "https://www.infinitygbc.com/", "displayText": "Info"},
+        {"type": "primary", "url": "https://incube8games.com/products/infinity-gbc", "displayText": "Store"},
+        {"type": "primary", "url": "https://github.com/gb-archive/infinity-gbc", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Role Playing",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "BY-NC-ND",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": true,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024"
+},
+
 ];
