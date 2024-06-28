@@ -15,6 +15,11 @@ body {
   --form-control-selected: #2196F3;
   --form-background:       var(--header_bg_color);
 
+  --filter_multi_button_text:     rgba(0,0,0,0.70);
+  --filter_multi_button_bg:       #ddd;
+  --filter_multi_button_bg_hover: #eee;
+
+
     /* Gallery item styling */
   --item_body_color: #222;
   --item_body_color_light: #606060;
@@ -23,7 +28,7 @@ body {
   --item_meta_bg_opensource:   #a0ffa6; /* light green */
   --item_meta_bg_supportslink: #ffdbef; /* light pink */
   --item_meta_bg_cartrelease:  #cbebff; /* light blue */
-  --item_meta_text: #00000068;
+  --item_meta_text: rgba(0,0,0,0.40);
 
   /* unused below */
   --item_white_back: #fff;
@@ -54,7 +59,7 @@ body {
 }
 
 .topbanner {
-    width: 50%;
+    /*width: 50%;*/
     font-weight: normal;
     font-family: "Liberation Sans", "Nimbus Sans", Helvetica, "Helvetica Neue", "Trebuchet MS", Verdana, sans-serif;
     color: var(--header_color);
@@ -71,7 +76,7 @@ body {
 
 
 .gallery_container {
-    padding: 1em;
+    padding: 0.5em;
 }
 
 .gallery_grid {
@@ -83,7 +88,7 @@ body {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   grid-auto-rows: max-content;
-  column-gap: 1em;
+  column-gap: 0.75em;
   row-gap: 2em;
 }
 
@@ -129,9 +134,7 @@ body {
 
 .itemMeta > span {
     display: inline-block;
-    margin-right: 0.5em;
-    margin-top: 0.15em;
-    margin-bottom: 0.15em;
+    margin: 0.15em 0.5em 0.15em 0;  /* top | right | bottom | left */
     font-size: 0.875em;
     border-radius: 0.25em;
     padding: 0.15em;
@@ -178,3 +181,19 @@ select {
     appearance: none;
 }
 
+.filter_multi > span {
+    text-align: center;
+    display: inline-block;
+    margin: 0.15em 0.5em 0.15em 0;  /* top | right | bottom | left */
+    font-size: 0.875em;
+    border-radius: 0.15em;
+    padding: 0.15em;
+    color: var(--filter_multi_button_text);
+    background: var(--filter_multi_button_bg);
+    border: 1px solid rgba(0,0,0,0.15);
+    min-width: 3em;
+}
+
+.filter_multi > span:hover {
+    background: var(--filter_multi_button_bg_hover);
+};
