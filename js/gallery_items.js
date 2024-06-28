@@ -66,6 +66,7 @@ function createGalleryItems(galleryItems) {
         if (item.isOpenSource === true)       appendSpan("Open Source", "itemMetaOpenSource",   metaDiv);
         if (item.supportsLinkPlay === true)   appendSpan("Link Play",   "itemMetaSupportsLink", metaDiv);
         if (item.hasPhysicalRelease === true) appendSpan("Cart Release","itemMetaCartRelease",  metaDiv);
+        // if (item.isMultiPlatform === true) appendSpan("MultiPlatform","itemMetaMultiPlatform",  metaDiv);
         itemContainer.appendChild(metaDiv);
 
         // Create matching dataset values for tags
@@ -79,6 +80,7 @@ function createGalleryItems(galleryItems) {
         if (item.isOpenSource === true)       itemDiv.dataset["isOpenSource"] = "";
         if (item.supportsLinkPlay === true)   itemDiv.dataset["supportsLinkPlay"] = "";
         if (item.hasPhysicalRelease === true) itemDiv.dataset["hasPhysicalRelease"] = "";
+        if (item.isMultiPlatform === true)    itemDiv.dataset["isMultiPlatform"] = "";
 
         // Append everything inside the main div
         itemDiv.appendChild(itemContainer);

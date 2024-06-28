@@ -54,9 +54,10 @@ function updateFilters() {
     const categoryTagsSelected = Array.from(document.getElementById('categoryTagsFilter').selectedOptions).map(option => option.value);
     const gameTypeTagsSelected = Array.from(document.getElementById('gameTypeTagsFilter').selectedOptions).map(option => option.value);
     const platformTagsSelected = Array.from(document.getElementById('platformTagsFilter').selectedOptions).map(option => option.value);
-    const openSourceOnly  = document.getElementById('openSourceFilter').checked;
-    const linkPlayOnly    = document.getElementById('linkPlayFilter').checked;
-    const cartReleaseOnly = document.getElementById('cartReleaseFilter').checked;
+    const openSourceOnly    = document.getElementById('openSourceFilter').checked;
+    const linkPlayOnly      = document.getElementById('linkPlayFilter').checked;
+    const cartReleaseOnly   = document.getElementById('cartReleaseFilter').checked;
+    const multiPlatformOnly = document.getElementById('multiPlatformFilter').checked;
     const items = document.querySelectorAll('.gallery_grid_item');
 
 
@@ -71,9 +72,10 @@ function updateFilters() {
         let gameTypeEnabled = checkMultiSelectFilter('gameType', gameTypeTagsSelected, item);
         let platformEnabled = checkMultiSelectFilter('platform', platformTagsSelected, item);
 
-        if ((openSourceOnly  === true) && (!item.dataset.hasOwnProperty('isOpenSource'))) item.style.display = 'none';
-        else if ((linkPlayOnly    === true) && (!item.dataset.hasOwnProperty('supportsLinkPlay'))) item.style.display = 'none';
-        else if ((cartReleaseOnly === true) && (!item.dataset.hasOwnProperty('hasPhysicalRelease'))) item.style.display = 'none';
+             if ((openSourceOnly    === true) && (!item.dataset.hasOwnProperty('isOpenSource')))       item.style.display = 'none';
+        else if ((linkPlayOnly      === true) && (!item.dataset.hasOwnProperty('supportsLinkPlay')))   item.style.display = 'none';
+        else if ((cartReleaseOnly   === true) && (!item.dataset.hasOwnProperty('hasPhysicalRelease'))) item.style.display = 'none';
+        else if ((multiPlatformOnly === true) && (!item.dataset.hasOwnProperty('isMultiPlatform')))    item.style.display = 'none';
         else if (categoryEnabled && gameTypeEnabled && platformEnabled) { item.style.display = ''; }
         else item.style.display = 'none';
     });
