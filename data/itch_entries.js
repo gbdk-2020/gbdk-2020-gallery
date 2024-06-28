@@ -886,7 +886,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "ShenMansell",
     "itemTitle": "Simple Snake Gameboy",
-    "shortDescription": "A simple but polished snake game for Gameboy and Gameboy Color",
+    "shortDescription": "A simple but polished snake game",
     "imagePreviewURL": "pix/itch/sHrVts.png",
     "linksArray": [
         {"type": "primary", "url": "https://shenmansell.itch.io/simple-snake-gameboy", "displayText": "Info"},
@@ -1670,7 +1670,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "fb1",
     "itemTitle": "DiaMaze (GB)",
-    "shortDescription": "A fully-featured platforming game for Gameboy.",
+    "shortDescription": "A fully-featured platforming game",
     "imagePreviewURL": "pix/itch/Qkf2rw.png",
     "linksArray": [
         {"type": "primary", "url": "https://fb1.itch.io/diamaze", "displayText": "Info"},
@@ -1850,7 +1850,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "LaroldsJubilantJunkyard",
     "itemTitle": "Flappy Bird Gameboy",
-    "shortDescription": "A basic flappy bird port for gameboy color. Built using GBDK 2020 and the C Programming language.",
+    "shortDescription": "A basic flappy bird port",
     "imagePreviewURL": "pix/itch/r+x4os.png",
     "linksArray": [
         {"type": "primary", "url": "https://laroldsjubilantjunkyard.itch.io/flappy-bird-gameboy", "displayText": "Info"},
@@ -1945,7 +1945,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "User0x7f",
     "itemTitle": "Gunship GB",
-    "shortDescription": "A shooter for the Gameboy",
+    "shortDescription": "",
     "imagePreviewURL": "pix/itch/pyaa7T.png",
     "linksArray": [
         {"type": "primary", "url": "https://user0x7f.itch.io/gunship", "displayText": "Info"},
@@ -1968,7 +1968,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "User0x7f",
     "itemTitle": "G-ZERO GB",
-    "shortDescription": "A racing game for the Gameboy",
+    "shortDescription": "",
     "imagePreviewURL": "pix/itch/joh_7R.png",
     "linksArray": [
         {"type": "primary", "url": "https://user0x7f.itch.io/g-zero", "displayText": "Info"},
@@ -2198,7 +2198,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Geek_Joystick",
     "itemTitle": "Marla and the Elemental Rings DEMO",
-    "shortDescription": "A short but sweet rpg for gameboy color about a witch who saves an island.",
+    "shortDescription": "A short but sweet rpg about a witch who saves an island.",
     "imagePreviewURL": "pix/itch/kFfQ4E.png",
     "linksArray": [
         {"type": "primary", "url": "https://geek-joystick.itch.io/marla-and-the-elemental-rings", "displayText": "Info"},
@@ -2536,8 +2536,27 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2023"
 },
 
+{
+    "authorName": "Toxa",
+    "itemTitle": "Dizzy and the mushroom pie",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/MMEDX0.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://untoxa.itch.io/", "displayText": "Info"},
+        {"type": "primary", "url": "https://github.com/untoxa/mushroompie", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2020"
+},
+
 ];
-
-/* https://brig78cx.itch.io/cakesnake-gb */
-/* https://brig78cx.itch.io/plantblitz */
-

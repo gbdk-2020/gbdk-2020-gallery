@@ -183,4 +183,51 @@ const jsonGalleryItemsManual = [
     "supportsLinkPlay": false,
     "yearFirstReleased": "2024"
 },
+
+{
+    "authorName": "User0x7f, Toxa, Michel Iwaniec",
+    "itemTitle": "Black Castle Fork",
+    "shortDescription": "Multi-platform of Black Castle",
+    "imagePreviewURL": "pix/games/blackcastle_multi.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/untoxa/BlackCastle", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/untoxa/BlackCastle",  "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "GameBoy, GameGear, SMS, NES, MegaDuck, AnaloguePocket",
+    "featuredPriority": 8,
+    "isMultiPlatform": true,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2023"
+},
+
+{
+    "authorName": "Toxa",
+    "itemTitle": "A_KANOID",
+    "shortDescription": "An idea to use a threading library and synchronization primitives",
+    "imagePreviewURL": "pix/techdemo/a_kanoid.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/untoxa/a_kanoid", "displayText": "Info"},
+        {"type": "primary", "url": "https://github.com/untoxa/a_kanoid", "displayText": "Source"},
+                ],
+    "categoryTags": "Techdemo",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy, AnaloguePocket, SMS, GameGear",
+    "featuredPriority": 0,
+    "isMultiPlatform": true,
+    "isOpenSource": true,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2020"
+},
+
 ];
