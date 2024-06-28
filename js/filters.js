@@ -70,10 +70,11 @@ function updateFilters() {
     // items.forEach(item => item.style.display = 'none');
 
     // Check whether each item is enabled based on the filters
+    let matchCount = 0;
     items.forEach(item => {
-        let categoryEnabled = checkMultiSelectFilter('category', categoryTagsSelected, item);
-        let gameTypeEnabled = checkMultiSelectFilter('gameType', gameTypeTagsSelected, item);
-        let platformEnabled = checkMultiSelectFilter('platform', platformTagsSelected, item);
+        let categoryNoMatch = !checkMultiSelectFilter('category', categoryTagsSelected, item);
+        let gameTypeNoMatch = !checkMultiSelectFilter('gameType', gameTypeTagsSelected, item);
+        let platformNoMatch = !checkMultiSelectFilter('platform', platformTagsSelected, item);
 
              if ((openSourceOnly    === true) && (!item.dataset.hasOwnProperty('isOpenSource')))       item.style.display = 'none';
         else if ((linkPlayOnly      === true) && (!item.dataset.hasOwnProperty('supportsLinkPlay')))   item.style.display = 'none';
@@ -83,9 +84,14 @@ function updateFilters() {
         else if ((textSearchMatch   !== '')
                  && (item.dataset['authorName'].toLowerCase().includes(textSearchMatch.toLowerCase()) === false)
                  && (item.dataset['itemTitle'].toLowerCase().includes(textSearchMatch.toLowerCase()) === false)) item.style.display = 'none';
-        else if (categoryEnabled && gameTypeEnabled && platformEnabled) { item.style.display = ''; }
-        else item.style.display = 'none';
+        else if (categoryNoMatch || gameTypeNoMatch || platformNoMatch) item.style.display = 'none';
+        else {
+            // Otherwise ok to show item
+            item.style.display = ''; matchCount += 1;
+        }
     });
+
+    document.getElementById('numFoundResult').textContent = matchCount;
 }
 
 function initFilters() {

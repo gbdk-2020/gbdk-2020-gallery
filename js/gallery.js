@@ -16,4 +16,5 @@ function loadData() {
 document.addEventListener('DOMContentLoaded', () => {
     loadData();
     initFilters();
+    updateFilters();
 });

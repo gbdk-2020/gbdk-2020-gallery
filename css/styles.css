@@ -193,4 +193,8 @@ select {
 
 .filter_multi > span:hover {
     background: var(--filter_multi_button_bg_hover);
-};
+}
+
+.filter_textsearch {
+    color: var(--header_color);
+}
