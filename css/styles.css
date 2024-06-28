@@ -168,7 +168,8 @@ body {
     white-space:nowrap;
 }
 
-/* Fix multi-select not scaling with body font size */
+/* Fix input elements scaling with body font size */
+input,
 select {
     font-size:inherit;
 /*    -webkit-appearance: none;

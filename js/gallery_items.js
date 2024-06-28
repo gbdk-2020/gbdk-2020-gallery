@@ -69,7 +69,8 @@ function createGalleryItems(galleryItems) {
         // if (item.isMultiPlatform === true) appendSpan("MultiPlatform","itemMetaMultiPlatform",  metaDiv);
         itemContainer.appendChild(metaDiv);
 
-        // Create matching dataset values for tags
+
+        // Attach metadata to entries
         const tags = ['categoryTags', 'gameTypeTags', 'platformTags'];
         tags.forEach(tag => {
             const tagValue = item[tag];
@@ -83,6 +84,8 @@ function createGalleryItems(galleryItems) {
         if (item.isMultiPlatform === true)    itemDiv.dataset["isMultiPlatform"] = "";
 
         itemDiv.dataset["yearFirstReleased"] = item.yearFirstReleased;
+        itemDiv.dataset["authorName"]        = item.authorName;
+        itemDiv.dataset["itemTitle"]         = item.itemTitle;
 
         // Append everything inside the main div
         itemDiv.appendChild(itemContainer);

@@ -59,6 +59,7 @@ function updateFilters() {
     const cartReleaseOnly   = document.getElementById('cartReleaseFilter').checked;
     const multiPlatformOnly = document.getElementById('multiPlatformFilter').checked;
     const yearReleasedMatch = document.getElementById('yearReleasedFilter').value;
+    const textSearchMatch   = document.getElementById('textSearch').value;
 
     const items = document.querySelectorAll('.gallery_grid_item');
 
@@ -78,7 +79,10 @@ function updateFilters() {
         else if ((linkPlayOnly      === true) && (!item.dataset.hasOwnProperty('supportsLinkPlay')))   item.style.display = 'none';
         else if ((cartReleaseOnly   === true) && (!item.dataset.hasOwnProperty('hasPhysicalRelease'))) item.style.display = 'none';
         else if ((multiPlatformOnly === true) && (!item.dataset.hasOwnProperty('isMultiPlatform')))    item.style.display = 'none';
-        else if ((yearReleasedMatch !== 'All') && (item.dataset['yearFirstReleased'] !== yearReleasedMatch))    item.style.display = 'none';
+        else if ((yearReleasedMatch !== 'All') && (item.dataset['yearFirstReleased'] !== yearReleasedMatch))       item.style.display = 'none';
+        else if ((textSearchMatch   !== '')
+                 && (item.dataset['authorName'].toLowerCase().includes(textSearchMatch.toLowerCase()) === false)
+                 && (item.dataset['itemTitle'].toLowerCase().includes(textSearchMatch.toLowerCase()) === false)) item.style.display = 'none';
         else if (categoryEnabled && gameTypeEnabled && platformEnabled) { item.style.display = ''; }
         else item.style.display = 'none';
     });
@@ -86,10 +90,12 @@ function updateFilters() {
 
 function initFilters() {
     // Event listener to handle filter changes
-    // document.querySelectorAll('.filter_container select[multiple]').forEach(filter => {
-    // document.querySelectorAll('.filter_container select[multiple], input').forEach(filter => {
     document.querySelectorAll('.filter_container select, input').forEach(filter => {
         filter.addEventListener('change', () => {
+            updateFilters();
+        });
+        // Update search as the user types in the text field
+        filter.addEventListener('input', () => {
             updateFilters();
         });
     });
