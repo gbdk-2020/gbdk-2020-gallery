@@ -213,7 +213,6 @@ const jsonGalleryItemsManual = [
     "shortDescription": "An idea to use a threading library and synchronization primitives",
     "imagePreviewURL": "pix/techdemo/a_kanoid.png",
     "linksArray": [
-        {"type": "primary", "url": "https://github.com/untoxa/a_kanoid", "displayText": "Info"},
         {"type": "primary", "url": "https://github.com/untoxa/a_kanoid", "displayText": "Source"},
                 ],
     "categoryTags": "Techdemo",
@@ -236,7 +235,6 @@ const jsonGalleryItemsManual = [
     "shortDescription": "A simple engine that allows to make pseudo-3D games",
     "imagePreviewURL": "pix/tools/isoengine.png",
     "linksArray": [
-        {"type": "primary", "url": "https://github.com/untoxa/ISOEngine", "displayText": "Info"},
         {"type": "primary", "url": "https://github.com/untoxa/ISOEngine", "displayText": "Source"},
                 ],
     "categoryTags": "Engine",
@@ -260,7 +258,7 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/patchymatchy.png",
     "linksArray": [
         {"type": "primary", "url": "https://modretro.com/products/patchy-matchy", "displayText": "Info"},
-        {"type": "primary", "url": "https://modretro.com/products/patchy-matchy", "displayText": "Store"},
+        {"type": "store", "url": "https://modretro.com/products/patchy-matchy", "displayText": "Cart"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
@@ -283,7 +281,7 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/modretro_tetris.png",
     "linksArray": [
         {"type": "primary", "url": "https://modretro.com/products/tetris", "displayText": "Info"},
-        {"type": "primary", "url": "https://modretro.com/products/tetris", "displayText": "Store"},
+        {"type": "store", "url": "https://modretro.com/products/tetris", "displayText": "Cart"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
@@ -306,8 +304,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/Infinitygbc.gif",
     "linksArray": [
         {"type": "primary", "url": "https://www.infinitygbc.com/", "displayText": "Info"},
-        {"type": "primary", "url": "https://incube8games.com/products/infinity-gbc", "displayText": "Store"},
-        {"type": "primary", "url": "https://github.com/gb-archive/infinity-gbc", "displayText": "Source"},
+        {"type": "store", "url": "https://incube8games.com/products/infinity-gbc", "displayText": "Cart"},
+        {"type": "source", "url": "https://github.com/gb-archive/infinity-gbc", "displayText": "Source"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Role Playing",

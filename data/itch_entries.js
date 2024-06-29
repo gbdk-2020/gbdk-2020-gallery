@@ -19,7 +19,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2024"
 },
 
 {
@@ -67,47 +67,26 @@ const jsonGalleryItemsItch = [
 },
 
 {
-    "authorName": "yaigi",
-    "itemTitle": "Yoru no kasou",
-    "shortDescription": "Let's walk through the night.",
-    "imagePreviewURL": "pix/itch/pNZiec.png",
-    "linksArray": [
-        {"type": "primary", "url": "https://yaigi.itch.io/yorunokasou", "displayText": "Info"},
-                ],
-    "categoryTags": "Game",
-    "gameTypeTags": "Adventure",
-    "platformTags": "GameBoy",
-    "featuredPriority": 0,
-    "isMultiPlatform": false,
-    "isOpenSource": false,
-    "licenseType": "",
-    "isFreeDownload": true,
-    "hasPhysicalRelease": false,
-    "isClassicGBDK": false,
-    "supportsLinkPlay": false,
-    "yearFirstReleased": ""
-},
-
-{
     "authorName": "staticlinkage",
     "itemTitle": "Skeleton Crew",
     "shortDescription": "A micro RPG",
     "imagePreviewURL": "pix/itch/ELP5kD.png",
     "linksArray": [
         {"type": "primary", "url": "https://staticlinkage.itch.io/skeleton-crew", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/chrislewisdev/skeleton-crew", "displayText": "Source"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Role Playing",
     "platformTags": "GameBoy",
     "featuredPriority": 0,
     "isMultiPlatform": false,
-    "isOpenSource": false,
-    "licenseType": "",
+    "isOpenSource": true,
+    "licenseType": "MIT",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2023"
 },
 
 {
@@ -135,7 +114,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Refresh Games",
     "itemTitle": "Biotic Limit",
-    "shortDescription": "Biotic Limit is a Gameboy game made for GBJAM, a simple shoot-em-up with two weapons and a raft of enemies and bosses!",
+    "shortDescription": "A game made for GBJAM, a simple shoot-em-up with two weapons and a raft of enemies and bosses!",
     "imagePreviewURL": "pix/itch/XyKsH0.png",
     "linksArray": [
         {"type": "primary", "url": "https://refreshgames.itch.io/biotic-limit", "displayText": "Info"},
@@ -149,9 +128,9 @@ const jsonGalleryItemsItch = [
     "licenseType": "",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
-    "isClassicGBDK": false,
+    "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2016"
 },
 
 {
@@ -173,7 +152,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2023"
 },
 
 {
@@ -195,13 +174,13 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2023"
 },
 
 {
     "authorName": "nelsonman90",
     "itemTitle": "Pittsburgh River Escape",
-    "shortDescription": "This is a very simple endless runner of sorts written in C using GBDK.",
+    "shortDescription": "A very simple endless runner of sorts",
     "imagePreviewURL": "pix/itch/ZE9rQV.png",
     "linksArray": [
         {"type": "primary", "url": "https://nelsonman90.itch.io/pittsburgh-river-escape", "displayText": "Info"},
@@ -215,9 +194,9 @@ const jsonGalleryItemsItch = [
     "licenseType": "",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
-    "isClassicGBDK": false,
+    "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2019"
 },
 
 {
@@ -280,7 +259,7 @@ const jsonGalleryItemsItch = [
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
-    "isFreeDownload": true,
+    "isFreeDownload": false,
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
@@ -290,7 +269,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Eric Studio40A",
     "itemTitle": "Ophide",
-    "shortDescription": "Retour à l'ère du snake pixel !!",
+    "shortDescription": "Retour à l'ère du snake pixel!!",
     "imagePreviewURL": "pix/itch/KDQCSZ.png",
     "linksArray": [
         {"type": "primary", "url": "https://mbaran.itch.io/ophide", "displayText": "Info"},
@@ -306,7 +285,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2024"
 },
 
 {
@@ -328,7 +307,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2022"
 },
 
 {
@@ -338,19 +317,20 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/+KKD6s.png",
     "linksArray": [
         {"type": "primary", "url": "https://lemmyhawkins.itch.io/max-pirate-gameboy-action-game", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/MWehrstedt/MaxPirate", "displayText": "Source"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
     "featuredPriority": 0,
     "isMultiPlatform": false,
-    "isOpenSource": false,
-    "licenseType": "",
+    "isOpenSource": true,
+    "licenseType": "MIT",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2024"
 },
 
 {
@@ -372,7 +352,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2024"
 },
 
 {
@@ -391,7 +371,7 @@ const jsonGalleryItemsItch = [
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
-    "isFreeDownload": true,
+    "isFreeDownload": false,
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
@@ -405,19 +385,20 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/PuE+EY.png",
     "linksArray": [
         {"type": "primary", "url": "https://tiger-bronnikov.itch.io/alley", "displayText": "Info"},
+        {"type": "source", "url": "https://tiger-bronnikov.itch.io/alley", "displayText": "Source"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
-    "featuredPriority": 0,
+    "featuredPriority": 2,
     "isMultiPlatform": false,
-    "isOpenSource": false,
-    "licenseType": "",
+    "isOpenSource": true,
+    "licenseType": "Unknown",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2024"
 },
 
 {
@@ -427,19 +408,20 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/JfgcAP.png",
     "linksArray": [
         {"type": "primary", "url": "https://tiger-bronnikov.itch.io/duck-hunt-gb", "displayText": "Info"},
+        {"type": "source", "url": "https://tiger-bronnikov.itch.io/duck-hunt-gb", "displayText": "Source"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Shooter",
     "platformTags": "GameBoy",
-    "featuredPriority": 0,
+    "featuredPriority": 2,
     "isMultiPlatform": false,
-    "isOpenSource": false,
+    "isOpenSource": true,
     "licenseType": "",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2024"
 },
 
 {
@@ -449,19 +431,20 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/ktWcFQ.png",
     "linksArray": [
         {"type": "primary", "url": "https://tiger-bronnikov.itch.io/aqua-gb", "displayText": "Info"},
+        {"type": "source", "url": "https://tiger-bronnikov.itch.io/aqua-gb", "displayText": "Source"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Simulation",
     "platformTags": "GameBoy",
-    "featuredPriority": 0,
+    "featuredPriority": 2,
     "isMultiPlatform": false,
-    "isOpenSource": false,
+    "isOpenSource": true,
     "licenseType": "",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2024"
 },
 
 {
@@ -483,7 +466,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2024"
 },
 
 {
@@ -503,9 +486,9 @@ const jsonGalleryItemsItch = [
     "licenseType": "",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
-    "isClassicGBDK": false,
+    "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2016"
 },
 
 {
@@ -515,19 +498,20 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/nk+Guf.png",
     "linksArray": [
         {"type": "primary", "url": "https://momeka.itch.io/run-to-databay", "displayText": "Info"},
+        {"type": "primary", "url": "https://github.com/Momeka/Databay", "displayText": "Source"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
-    "featuredPriority": 0,
+    "featuredPriority": 2,
     "isMultiPlatform": false,
-    "isOpenSource": false,
-    "licenseType": "",
+    "isOpenSource": true,
+    "licenseType": "Unknown",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
-    "isClassicGBDK": false,
+    "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2015"
 },
 
 {
@@ -577,23 +561,24 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "cloudscomputing",
     "itemTitle": "SGB SOU_TRN demo",
-    "shortDescription": "Plays custom music on your SNES! (needs SGB or compatible emulator)",
+    "shortDescription": "Plays custom music on your SNES through a SGB!",
     "imagePreviewURL": "pix/itch/qUt3Eo.png",
     "linksArray": [
         {"type": "primary", "url": "https://cloudscomputing.itch.io/sgb-sou-trn-demo", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/cloudsmon/sgb_nspc_music", "displayText": "Info"},
                 ],
     "categoryTags": "Tool",
     "gameTypeTags": "Music",
-    "platformTags": "GameBoy",
+    "platformTags": "SuperGameBoy",
     "featuredPriority": 0,
     "isMultiPlatform": false,
-    "isOpenSource": false,
-    "licenseType": "",
+    "isOpenSource": true,
+    "licenseType": "Unlicense",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2023"
 },
 
 {
@@ -635,9 +620,9 @@ const jsonGalleryItemsItch = [
     "licenseType": "",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
-    "isClassicGBDK": false,
+    "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2016"
 },
 
 {
@@ -657,9 +642,9 @@ const jsonGalleryItemsItch = [
     "licenseType": "",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
-    "isClassicGBDK": false,
+    "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2014"
 },
 
 {
@@ -670,8 +655,8 @@ const jsonGalleryItemsItch = [
     "linksArray": [
         {"type": "primary", "url": "https://ry0g4.itch.io/magic-screen-etch-a-sketch-sgb", "displayText": "Info"},
                 ],
-    "categoryTags": "Game",
-    "gameTypeTags": "Puzzle",
+    "categoryTags": "Tool",
+    "gameTypeTags": "Art",
     "platformTags": "GameBoy, SuperGameBoy",
     "featuredPriority": 0,
     "isMultiPlatform": false,
@@ -679,9 +664,9 @@ const jsonGalleryItemsItch = [
     "licenseType": "",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
-    "isClassicGBDK": false,
+    "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2018"
 },
 
 {
@@ -703,7 +688,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2021"
 },
 
 {
@@ -725,7 +710,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2023"
 },
 
 {
@@ -736,7 +721,7 @@ const jsonGalleryItemsItch = [
     "linksArray": [
         {"type": "primary", "url": "https://studioguma.itch.io/game-boy-of-life", "displayText": "Info"},
                 ],
-    "categoryTags": "Game",
+    "categoryTags": "Simulation",
     "gameTypeTags": "Simulation",
     "platformTags": "GameBoy",
     "featuredPriority": 0,
@@ -747,13 +732,13 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2024"
 },
 
 {
     "authorName": "Amealky",
     "itemTitle": "DoodleRetro",
-    "shortDescription": "My first gameboy game ! made in C with GBDK",
+    "shortDescription": "My first gameboy game",
     "imagePreviewURL": "pix/itch/ZexNnf.png",
     "linksArray": [
         {"type": "primary", "url": "https://amealky.itch.io/doodleretro", "displayText": "Info"},
@@ -769,7 +754,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2023"
 },
 
 {
@@ -779,6 +764,7 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/YO5fpW.png",
     "linksArray": [
         {"type": "primary", "url": "https://twistedtwicegames.itch.io/timberman-classic", "displayText": "Info"},
+        {"type": "store", "url": "https://www.twistedtwicegames.com/GB.html", "displayText": "Cart"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
@@ -788,10 +774,10 @@ const jsonGalleryItemsItch = [
     "isOpenSource": false,
     "licenseType": "",
     "isFreeDownload": true,
-    "hasPhysicalRelease": false,
+    "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2023"
 },
 
 {
@@ -801,19 +787,20 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/Qr5kJE.png",
     "linksArray": [
         {"type": "primary", "url": "https://twistedtwicegames.itch.io/fly-oclock-gameboy-version", "displayText": "Info"},
+        {"type": "store", "url": "https://www.twistedtwicegames.com/GB.html", "displayText": "Cart"},
                 ],
     "categoryTags": "Game",
-    "gameTypeTags": "Action",
+    "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
     "featuredPriority": 0,
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
     "isFreeDownload": true,
-    "hasPhysicalRelease": false,
+    "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2023"
 },
 
 {
@@ -872,7 +859,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
-    "featuredPriority": 0,
+    "featuredPriority": 3,
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
@@ -880,7 +867,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2024"
 },
 
 {
@@ -894,7 +881,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy, GameBoyColor",
-    "featuredPriority": 0,
+    "featuredPriority": 2,
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
@@ -902,7 +889,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2024"
 },
 
 {
@@ -914,7 +901,7 @@ const jsonGalleryItemsItch = [
         {"type": "primary", "url": "https://zenzoa.itch.io/piropa", "displayText": "Info"},
                 ],
     "categoryTags": "Simulation",
-    "gameTypeTags": "Simulation",
+    "gameTypeTags": "VirtualPet",
     "platformTags": "GameBoyColor",
     "featuredPriority": 5,
     "isMultiPlatform": false,
@@ -929,7 +916,7 @@ const jsonGalleryItemsItch = [
 
 {
     "authorName": "Arky750",
-    "itemTitle": "Honor&amp;Glory",
+    "itemTitle": "Honor & Glory",
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/CxjZwC.png",
     "linksArray": [
@@ -946,7 +933,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2023"
 },
 
 {
@@ -968,7 +955,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2023"
 },
 
 {
@@ -979,8 +966,8 @@ const jsonGalleryItemsItch = [
     "linksArray": [
         {"type": "primary", "url": "https://tambalaya.itch.io/fruitfly", "displayText": "Info"},
                 ],
-    "categoryTags": "Game",
-    "gameTypeTags": "Role Playing",
+    "categoryTags": "Simulation",
+    "gameTypeTags": "Simulation",
     "platformTags": "GameBoy",
     "featuredPriority": 0,
     "isMultiPlatform": false,
@@ -988,9 +975,9 @@ const jsonGalleryItemsItch = [
     "licenseType": "",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
-    "isClassicGBDK": false,
+    "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2018"
 },
 
 {
@@ -1012,7 +999,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2021"
 },
 
 {
@@ -1024,7 +1011,7 @@ const jsonGalleryItemsItch = [
         {"type": "primary", "url": "https://caiotava.itch.io/pong-gameboy", "displayText": "Info"},
                 ],
     "categoryTags": "Game",
-    "gameTypeTags": "Sports",
+    "gameTypeTags": "Action",
     "platformTags": "GameBoy",
     "featuredPriority": 0,
     "isMultiPlatform": false,
@@ -1048,7 +1035,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
-    "featuredPriority": 0,
+    "featuredPriority": 2,
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
@@ -1056,7 +1043,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2023"
 },
 
 {
@@ -1122,7 +1109,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2022"
 },
 
 {
@@ -1171,28 +1158,6 @@ const jsonGalleryItemsItch = [
 },
 
 {
-    "authorName": "Maithonis",
-    "itemTitle": "Baunsudaun",
-    "shortDescription": "Game inspired by an old Java game where the object is to survive as long as possible while falling down.",
-    "imagePreviewURL": "pix/itch/EVCcqE.png",
-    "linksArray": [
-        {"type": "primary", "url": "https://maithonis.itch.io/baunsudaun", "displayText": "Info"},
-                ],
-    "categoryTags": "Game",
-    "gameTypeTags": "Survival",
-    "platformTags": "GameBoy",
-    "featuredPriority": 0,
-    "isMultiPlatform": false,
-    "isOpenSource": false,
-    "licenseType": "",
-    "isFreeDownload": true,
-    "hasPhysicalRelease": false,
-    "isClassicGBDK": false,
-    "supportsLinkPlay": false,
-    "yearFirstReleased": ""
-},
-
-{
     "authorName": "fluxmasterfix",
     "itemTitle": "Pspsps",
     "shortDescription": "Cat Petting Game",
@@ -1211,7 +1176,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2023"
 },
 
 {
@@ -1244,19 +1209,20 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/zevMcy.png",
     "linksArray": [
         {"type": "primary", "url": "https://muchadardo.itch.io/space-war-3d", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/teaaaaaaaa/Space-war-3D-gameboy-color-", "displayText": "Source"},
                 ],
     "categoryTags": "Techdemo",
     "gameTypeTags": "Shooter",
     "platformTags": "GameBoyColor",
     "featuredPriority": 0,
     "isMultiPlatform": false,
-    "isOpenSource": false,
-    "licenseType": "",
+    "isOpenSource": true,
+    "licenseType": "Unknown",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2023"
 },
 
 {
@@ -1278,7 +1244,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2023"
 },
 
 {
@@ -1292,7 +1258,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
-    "featuredPriority": 0,
+    "featuredPriority": 5,
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
@@ -1300,29 +1266,30 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2022"
 },
 
 {
     "authorName": "milanfin",
     "itemTitle": "Little Green Blob",
-    "shortDescription": "A GBC platformer where you play as a blob of goo",
+    "shortDescription": "A platformer where you play as a blob of goo",
     "imagePreviewURL": "pix/itch/er5qh9.png",
     "linksArray": [
         {"type": "primary", "url": "https://milanfin.itch.io/little-green-blob", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/MilanFIN/little-green-blob", "displayText": "Source"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
-    "featuredPriority": 0,
+    "featuredPriority": 5,
     "isMultiPlatform": false,
-    "isOpenSource": false,
-    "licenseType": "",
+    "isOpenSource": true,
+    "licenseType": "MIT",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2023"
 },
 
 {
@@ -1345,10 +1312,8 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2021"
+    "yearFirstReleased": "2023"
 },
-
-
 
 {
     "authorName": "User0x7f",
@@ -1356,7 +1321,7 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A shoot em up",
     "imagePreviewURL": "pix/itch/qTFK9h.png",
     "linksArray": [
-        {"type": "primary", "url": "https://user0x7f.itch.io/genesis-2",             "displayText": "Play"},
+        {"type": "primary", "url": "https://user0x7f.itch.io/genesis-2",             "displayText": "Info"},
         {"type": "store",   "url": "https://incube8games.com/products/genesis-2-gb", "displayText": "Cart"},
                 ],
     "categoryTags": "Game",
@@ -1408,18 +1373,16 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Microgames",
     "platformTags": "GameBoy",
-    "featuredPriority": 5,
+    "featuredPriority": 6,
     "isMultiPlatform": false,
-    "isOpenSource": false,
-    "licenseType": "",
+    "isOpenSource": true,
+    "licenseType": "Mixed",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
     "yearFirstReleased": "2022"
 },
-
-
 
 {
     "authorName": "Bownly",
@@ -1430,7 +1393,7 @@ const jsonGalleryItemsItch = [
         {"type": "primary", "url": "https://bownly.itch.io/gb-paint", "displayText": "Info"},
                 ],
     "categoryTags": "Tool",
-    "gameTypeTags": "Tool",
+    "gameTypeTags": "Art",
     "platformTags": "GameBoy",
     "featuredPriority": 0,
     "isMultiPlatform": false,
@@ -1440,10 +1403,31 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2022"
 },
 
-
+{
+    "authorName": "Retroreflector, Bownly",
+    "itemTitle": "Banished",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/ETHLzm.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://retroreflector.itch.io/banished", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/Bownly/MirrorGB", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "GPL",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2023"
+},
 
 {
     "authorName": "milanfin",
@@ -1452,19 +1436,20 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/fNobQH.png",
     "linksArray": [
         {"type": "primary", "url": "https://milanfin.itch.io/loss-of-pressure", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/MilanFIN/loss-of-pressure", "displayText": "Source"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
     "featuredPriority": 0,
     "isMultiPlatform": false,
-    "isOpenSource": false,
-    "licenseType": "",
+    "isOpenSource": true,
+    "licenseType": "MIT",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2023"
 },
 
 {
@@ -1478,15 +1463,15 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Music",
     "gameTypeTags": "Music",
     "platformTags": "GameBoy",
-    "featuredPriority": 0,
+    "featuredPriority": 3,
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
-    "isClassicGBDK": false,
+    "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2017"
 },
 
 {
@@ -1496,6 +1481,7 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/C3zvxr.png",
     "linksArray": [
         {"type": "primary", "url": "https://joyrider3774.itch.io/waternet", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/joyrider3774/waternet", "displayText": "Source"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
@@ -1503,7 +1489,7 @@ const jsonGalleryItemsItch = [
     "featuredPriority": 5,
     "isMultiPlatform": true,
     "isOpenSource": true,
-    "licenseType": "Unknown",
+    "licenseType": "MIT",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
@@ -1544,7 +1530,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Adventure",
     "platformTags": "GameBoyColor",
-    "featuredPriority": 0,
+    "featuredPriority": 3,
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
@@ -1552,7 +1538,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2022"
 },
 
 {
@@ -1575,7 +1561,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2022"
 },
 
 {
@@ -1597,7 +1583,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2022"
 },
 
 {
@@ -1619,7 +1605,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2023"
 },
 
 {
@@ -1639,9 +1625,9 @@ const jsonGalleryItemsItch = [
     "licenseType": "",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
-    "isClassicGBDK": false,
+    "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2020"
 },
 
 {
@@ -1695,7 +1681,7 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/5Yyjf4.png",
     "linksArray": [
-        {"type": "primary", "url": "https://user0x7f.itch.io/gunship", "displayText": "Info"},
+        {"type": "primary", "url": "https://kabcorp.itch.io/zilogized", "displayText": "Info"},
                 ],
     "categoryTags": "Music",
     "gameTypeTags": "Music",
@@ -1708,7 +1694,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2021"
 },
 
 {
@@ -1741,7 +1727,7 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/hYuj_4.png",
     "linksArray": [
         {"type": "primary", "url": "https://kabcorp.itch.io/die-and-retry", "displayText": "Info"},
-        {"type": "primary", "url": "https://shop.insidegadgets.com/product/die-and-retry/", "displayText": "Store"},
+        {"type": "source",  "url": "https://shop.insidegadgets.com/product/die-and-retry/", "displayText": "Store"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
@@ -1786,19 +1772,20 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/8aN7r6.png",
     "linksArray": [
         {"type": "primary", "url": "https://basxto.itch.io/doavi", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/basxto/doavi", "displayText": "Source"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Role Playing",
     "platformTags": "GameBoyColor",
     "featuredPriority": 0,
     "isMultiPlatform": false,
-    "isOpenSource": false,
-    "licenseType": "",
+    "isOpenSource": true,
+    "licenseType": "MIT",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
-    "isClassicGBDK": false,
+    "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2020"
 },
 
 {
@@ -1819,12 +1806,10 @@ const jsonGalleryItemsItch = [
     "licenseType": "MIT",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
-    "isClassicGBDK": false,
+    "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2020"
 },
-
-
 
 {
     "authorName": "Baŝto",
@@ -1833,19 +1818,21 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/cpvARY.png",
     "linksArray": [
         {"type": "primary", "url": "https://basxto.itch.io/great-burst", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/basxto/great-burst", "displayText": "Source"},
+        {"type": "source",  "url": "https://github.com/basxto/great-burst-2", "displayText": "Source v2"},
                 ],
     "categoryTags": "Game",
-    "gameTypeTags": "Puzzle",
+    "gameTypeTags": "Action",
     "platformTags": "GameBoy",
     "featuredPriority": 0,
     "isMultiPlatform": false,
-    "isOpenSource": false,
-    "licenseType": "",
+    "isOpenSource": true,
+    "licenseType": "MIT",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2019"
 },
 
 {
@@ -1855,22 +1842,21 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/r+x4os.png",
     "linksArray": [
         {"type": "primary", "url": "https://laroldsjubilantjunkyard.itch.io/flappy-bird-gameboy", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/LaroldsJubilantJunkyard/flappy-bird-gameboy", "displayText": "Source"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoyColor",
     "featuredPriority": 0,
     "isMultiPlatform": false,
-    "isOpenSource": false,
-    "licenseType": "",
+    "isOpenSource": true,
+    "licenseType": "Unknown",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2022"
 },
-
-
 
 {
     "authorName": "User0x7f",
@@ -1878,7 +1864,7 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A shoot em up for the Gameboy",
     "imagePreviewURL": "pix/itch/b+YxAf.png",
     "linksArray": [
-        {"type": "primary", "url": "https://user0x7f.itch.io/genesis",                 "displayText": "Play"},
+        {"type": "primary", "url": "https://user0x7f.itch.io/genesis",                 "displayText": "Info"},
         {"type": "source",  "url": "https://gbdev.gg8.se/forums/viewtopic.php?id=674", "displayText": "Source"},
         {"type": "info",    "url": "https://incube8games.com/products/genesis-gb",     "displayText": "Cart"}
                 ],
@@ -1916,7 +1902,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2021"
 },
 
 {
@@ -1997,19 +1983,20 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/C18o0R.png",
     "linksArray": [
         {"type": "primary", "url": "https://vl2m-studio.itch.io/1d-marathon", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/veganlies2me/1D-Marathon", "displayText": "Source"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
     "featuredPriority": 0,
     "isMultiPlatform": false,
-    "isOpenSource": false,
-    "licenseType": "",
+    "isOpenSource": true,
+    "licenseType": "GPL",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2021"
 },
 
 {
@@ -2059,24 +2046,25 @@ const jsonGalleryItemsItch = [
 
 {
     "authorName": "gearfo",
-    "itemTitle": "&lt;corrib75&gt;",
+    "itemTitle": "<corrib75>",
     "shortDescription": "A homebrew game for",
     "imagePreviewURL": "pix/itch/pDNsog.png",
     "linksArray": [
         {"type": "primary", "url": "https://gearfo.itch.io/corrib75", "displayText": "Info"},
+        {"type": "source",  "url": "https://gearfo.itch.io/corrib75", "displayText": "Source"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy, GameBoyColor",
     "featuredPriority": 0,
     "isMultiPlatform": false,
-    "isOpenSource": false,
-    "licenseType": "",
+    "isOpenSource": true,
+    "licenseType": "GPL",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2021"
 },
 
 {
@@ -2086,12 +2074,12 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/bgC4F9.png",
     "linksArray": [
         {"type": "primary", "url": "https://rafagars.itch.io/unstoppable-knight",        "displayText": "Info"},
-        {"type": "source",   "url": "https://github.com/Rafagars/Unstoppable-Knight-GB", "displayText": "Source"},
+        {"type": "source",  "url": "https://github.com/Rafagars/Unstoppable-Knight-GB", "displayText": "Source"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy, GameBoyColor",
-    "featuredPriority": 3,
+    "featuredPriority": 4,
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
@@ -2113,8 +2101,8 @@ const jsonGalleryItemsItch = [
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
-    "platformTags": "GameBoy",
-    "featuredPriority": 10,
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 8,
     "isMultiPlatform": false,
     "isOpenSource": true,
     "licenseType": "MIT",
@@ -2168,10 +2156,8 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2021"
 },
-
-
 
 {
     "authorName": "Adrián JG",
@@ -2199,14 +2185,14 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Geek_Joystick",
     "itemTitle": "Marla and the Elemental Rings DEMO",
-    "shortDescription": "A short but sweet rpg about a witch who saves an island.",
+    "shortDescription": "A short but sweet rpg about a witch who saves an island",
     "imagePreviewURL": "pix/itch/kFfQ4E.png",
     "linksArray": [
         {"type": "primary", "url": "https://geek-joystick.itch.io/marla-and-the-elemental-rings", "displayText": "Info"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Role Playing",
-    "platformTags": "GameBoy",
+    "platformTags": "GameBoyColor",
     "featuredPriority": 5,
     "isMultiPlatform": false,
     "isOpenSource": false,
@@ -2219,7 +2205,7 @@ const jsonGalleryItemsItch = [
 },
 
 {
-    "authorName": "Flappy bird!",
+    "authorName": "koopthekoopa",
     "itemTitle": "Flappy GB",
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/3Np9E0.png",
@@ -2228,16 +2214,16 @@ const jsonGalleryItemsItch = [
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
-    "platformTags": "GameBoy",
+    "platformTags": "GameBoy, GameBoyColor",
     "featuredPriority": 0,
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
-    "isClassicGBDK": false,
+    "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2022"
 },
 
 {
@@ -2257,9 +2243,9 @@ const jsonGalleryItemsItch = [
     "licenseType": "",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
-    "isClassicGBDK": false,
+    "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2019"
 },
 
 {
@@ -2281,7 +2267,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2019"
 },
 
 {
@@ -2294,7 +2280,7 @@ const jsonGalleryItemsItch = [
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
-    "platformTags": "GameBoy",
+    "platformTags": "GameBoy, GameBoyColor",
     "featuredPriority": 5,
     "isMultiPlatform": false,
     "isOpenSource": false,
@@ -2328,8 +2314,6 @@ const jsonGalleryItemsItch = [
     "supportsLinkPlay": false,
     "yearFirstReleased": "2022"
 },
-
-
 
 {
     "authorName": "bbbbbr",
@@ -2367,8 +2351,8 @@ const jsonGalleryItemsItch = [
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
-    "platformTags": "GameBoy, GameBoyColor, MegaDuck, AnaloguePocket, SuperGameBoy",
-    "featuredPriority": 10,
+    "platformTags": "GameBoy, GameBoyColor, MegaDuck, QuiQue, AnaloguePocket, SuperGameBoy",
+    "featuredPriority": 8,
     "isMultiPlatform": false,
     "isOpenSource": true,
     "licenseType": "GPL",
@@ -2422,7 +2406,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2019"
 },
 
 {
@@ -2613,14 +2597,15 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/ningami.png",
     "linksArray": [
         {"type": "primary", "url": "https://bownly.itch.io/ningami", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/Bownly/Ningami", "displayText": "Source"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Card Game",
     "platformTags": "GameBoy",
     "featuredPriority": 0,
     "isMultiPlatform": false,
-    "isOpenSource": false,
-    "licenseType": "",
+    "isOpenSource": true,
+    "licenseType": "MIT",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
