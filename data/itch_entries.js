@@ -33,7 +33,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy, GameBoyColor",
-    "featuredPriority": 8,
+    "featuredPriority": 10,
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
@@ -63,7 +63,7 @@ const jsonGalleryItemsItch = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": ""
+    "yearFirstReleased": "2024"
 },
 
 {

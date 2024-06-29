@@ -18,6 +18,7 @@ function createGalleryItems(galleryItems) {
         item.linksArray.some(function(link) {
             if (link.type === "primary") {
                 imgLink.href = link.url;
+                imgLink.target="_blank"; /* open link in a new winfow */
                 return true
             } else
                 return false;
