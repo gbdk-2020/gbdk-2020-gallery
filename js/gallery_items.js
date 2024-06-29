@@ -87,6 +87,7 @@ function createGalleryItems(galleryItems) {
         itemDiv.dataset["yearFirstReleased"] = item.yearFirstReleased;
         itemDiv.dataset["authorName"]        = item.authorName;
         itemDiv.dataset["itemTitle"]         = item.itemTitle;
+        itemDiv.dataset["shortDescription"]  = item.shortDescription;
 
         // Append everything inside the main div
         itemDiv.appendChild(itemContainer);

@@ -83,7 +83,10 @@ function updateFilters() {
         else if ((yearReleasedMatch !== 'All') && (item.dataset['yearFirstReleased'] !== yearReleasedMatch))       item.style.display = 'none';
         else if ((textSearchMatch   !== '')
                  && (item.dataset['authorName'].toLowerCase().includes(textSearchMatch.toLowerCase()) === false)
-                 && (item.dataset['itemTitle'].toLowerCase().includes(textSearchMatch.toLowerCase()) === false)) item.style.display = 'none';
+                 && (item.dataset['itemTitle'].toLowerCase().includes(textSearchMatch.toLowerCase()) === false)
+                 // Optional text search of description as well
+                 && (item.dataset['shortDescription'].toLowerCase().includes(textSearchMatch.toLowerCase()) === false)
+                 ) item.style.display = 'none';
         else if (categoryNoMatch || gameTypeNoMatch || platformNoMatch) item.style.display = 'none';
         else {
             // Otherwise ok to show item
