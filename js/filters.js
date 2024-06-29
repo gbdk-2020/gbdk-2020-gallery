@@ -1,4 +1,44 @@
 
+// Update url params with current filter settings
+function urlSetFilters() {
+
+    // Get current URL, update the params and then use it to replace the current url
+    let url = new URL(window.location);
+
+    url.searchParams.set('categoryTags', document.getElementById('categoryTagsFilter').value);
+    url.searchParams.set('gameTypeTags', document.getElementById('gameTypeTagsFilter').value);
+    url.searchParams.set('platformTags', document.getElementById('platformTagsFilter').value);
+    url.searchParams.set('yearReleased', document.getElementById('yearReleasedFilter').value);
+
+    url.searchParams.set('openSource',   document.getElementById('openSourceFilter').checked);
+    url.searchParams.set('linkPlay',     document.getElementById('linkPlayFilter').checked);
+    url.searchParams.set('cartRelease',  document.getElementById('cartReleaseFilter').checked);
+    url.searchParams.set('multiPlatform',document.getElementById('multiPlatformFilter').checked);
+
+    url.searchParams.set('textSearch',   document.getElementById('textSearch').value);
+
+    window.history.replaceState(null, "", url.href);
+}
+
+// Read filter settings from url params
+function urlGetFilters() {
+    // Get current URL, update the params and then use it to replace the current url
+    let url = new URL(window.location);
+
+    if (url.searchParams.get('categoryTags')  !== null) document.getElementById('categoryTagsFilter').value =   url.searchParams.get('categoryTags');
+    if (url.searchParams.get('gameTypeTags')  !== null) document.getElementById('gameTypeTagsFilter').value =   url.searchParams.get('gameTypeTags');
+    if (url.searchParams.get('platformTags')  !== null) document.getElementById('platformTagsFilter').value =   url.searchParams.get('platformTags');
+    if (url.searchParams.get('yearReleased')  !== null) document.getElementById('yearReleasedFilter').value =    url.searchParams.get('yearReleased');
+
+    if (url.searchParams.get('openSource')    !== null) document.getElementById('openSourceFilter').checked =    ('true' === url.searchParams.get('openSource').toLowerCase());
+    if (url.searchParams.get('linkPlay')      !== null) document.getElementById('linkPlayFilter').checked =      ('true' === url.searchParams.get('linkPlay').toLowerCase());
+    if (url.searchParams.get('cartRelease')   !== null) document.getElementById('cartReleaseFilter').checked =   ('true' === url.searchParams.get('cartRelease').toLowerCase());
+    if (url.searchParams.get('multiPlatform') !== null) document.getElementById('multiPlatformFilter').checked = ('true' === url.searchParams.get('multiPlatform').toLowerCase());
+
+    if (url.searchParams.get('textSearch')    !== null) document.getElementById('textSearch').value =            url.searchParams.get('textSearch');
+}
+
+
 
 // Create filter entries based on attributes of all gallery items
 function populateFilters(galleryItems) {
@@ -50,7 +90,7 @@ function checkMultiSelectFilter(filterName, filterTagsSelected, item) {
 
 
 // Update displayed items based on their metadata and the filters
-function updateFilters() {
+function applyFilters() {
     const categoryTagsSelected = Array.from(document.getElementById('categoryTagsFilter').selectedOptions).map(option => option.value);
     const gameTypeTagsSelected = Array.from(document.getElementById('gameTypeTagsFilter').selectedOptions).map(option => option.value);
     const platformTagsSelected = Array.from(document.getElementById('platformTagsFilter').selectedOptions).map(option => option.value);
@@ -94,18 +134,23 @@ function updateFilters() {
         }
     });
 
+    // Show number of results found
     document.getElementById('numFoundResult').textContent = matchCount;
+
+    // Update the URL params to match the new search criteria
+    urlSetFilters();
 }
 
-function initFilters() {
+
+function addFilterUpdateHooks() {
     // Event listener to handle filter changes
     document.querySelectorAll('.filter_container select, input').forEach(filter => {
         filter.addEventListener('change', () => {
-            updateFilters();
+            applyFilters();
         });
         // Update search as the user types in the text field
         filter.addEventListener('input', () => {
-            updateFilters();
+            applyFilters();
         });
     });
 }
