@@ -1727,7 +1727,7 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/hYuj_4.png",
     "linksArray": [
         {"type": "primary", "url": "https://kabcorp.itch.io/die-and-retry", "displayText": "Info"},
-        {"type": "source",  "url": "https://shop.insidegadgets.com/product/die-and-retry/", "displayText": "Store"},
+        {"type": "source",  "url": "https://shop.insidegadgets.com/product/die-and-retry/", "displayText": "Cart"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
@@ -2077,7 +2077,7 @@ const jsonGalleryItemsItch = [
         {"type": "primary", "url": "https://gearfo.itch.io/love-you-to-death", "displayText": "Info"},
                 ],
     "categoryTags": "Game",
-    "gameTypeTags": "Action`",
+    "gameTypeTags": "Action",
     "platformTags": "GameBoyColor",
     "featuredPriority": 6,
     "isMultiPlatform": false,
@@ -2575,7 +2575,7 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/sheep-it-up-gb.png",
     "linksArray": [
         {"type": "primary", "url": "https://drludos.itch.io/sheep-it-up", "displayText": "Info"},
-        {"type": "primary", "url": "https://yastuna-games.com/en/nintendo-game-boy/52-65-sheep-it-up-gb.html", "displayText": "Store"},
+        {"type": "primary", "url": "https://yastuna-games.com/en/nintendo-game-boy/52-65-sheep-it-up-gb.html", "displayText": "Cart"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
@@ -2598,7 +2598,7 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/magipanels.png",
     "linksArray": [
         {"type": "primary", "url": "https://bownly.itch.io/magipanels", "displayText": "Info"},
-        {"type": "primary", "url": "https://incube8games.com/products/magipanels-gb", "displayText": "Store"},
+        {"type": "primary", "url": "https://incube8games.com/products/magipanels-gb", "displayText": "Cart"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
@@ -2689,7 +2689,7 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/O9e4Pn.png",
     "linksArray": [
         {"type": "primary", "url": "https://gaming-monster.itch.io/dinos-offline-adventure", "displayText": "Info"},
-        {"type": "primary", "url": "https://ferrantecrafts.com/products/dino-s-offline-adventure", "displayText": "Store"},
+        {"type": "primary", "url": "https://ferrantecrafts.com/products/dino-s-offline-adventure", "displayText": "Cart"},
         {"type": "primary", "url": "https://github.com/gingemonster/DinosOfflineAdventure", "displayText": "Source"},
                 ],
     "categoryTags": "Game",
@@ -2713,7 +2713,7 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/asteroidchasers.png",
     "linksArray": [
         {"type": "primary", "url": "https://fadest.itch.io/achaser-gb", "displayText": "Info"},
-        {"type": "primary", "url": "https://yastuna-games.com/en/nintendo-game-boy/31-48-asteroids-chasers.html", "displayText": "Store"},
+        {"type": "primary", "url": "https://yastuna-games.com/en/nintendo-game-boy/31-48-asteroids-chasers.html", "displayText": "Cart"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Strategy",
@@ -2736,7 +2736,7 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/ynxa.jpg",
     "linksArray": [
         {"type": "primary", "url": "https://fadest.itch.io/ynxa", "displayText": "Info"},
-        {"type": "primary", "url": "https://yastuna-games.com/en/nintendo-game-boy/78-ynxa-game-boy.html", "displayText": "Store"},
+        {"type": "primary", "url": "https://yastuna-games.com/en/nintendo-game-boy/78-ynxa-game-boy.html", "displayText": "Cart"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Strategy",
@@ -2759,7 +2759,7 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/indestructotank.png",
     "linksArray": [
         {"type": "primary", "url": "https://antonylavelle.itch.io/indestructotank-gb", "displayText": "Info"},
-        {"type": "primary", "url": "https://incube8games.com/products/indestructotank-gb", "displayText": "Store"},
+        {"type": "primary", "url": "https://incube8games.com/products/indestructotank-gb", "displayText": "Cart"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
