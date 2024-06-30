@@ -2047,7 +2047,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "gearfo",
     "itemTitle": "<corrib75>",
-    "shortDescription": "A homebrew game for",
+    "shortDescription": "",
     "imagePreviewURL": "pix/itch/pDNsog.png",
     "linksArray": [
         {"type": "primary", "url": "https://gearfo.itch.io/corrib75", "displayText": "Info"},
@@ -2065,6 +2065,29 @@ const jsonGalleryItemsItch = [
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
     "yearFirstReleased": "2021"
+},
+
+
+{
+    "authorName": "gearfo",
+    "itemTitle": "Love You To Death",
+    "shortDescription": "A very short Game Boy Color game, made in seven days ",
+    "imagePreviewURL": "pix/itch/gearfo_lovveyoutodeath.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://gearfo.itch.io/love-you-to-death", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action`",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 6,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2023"
 },
 
 {
@@ -2255,14 +2278,15 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/UpRd24.png",
     "linksArray": [
         {"type": "primary", "url": "https://joaomakesgames.itch.io/escape-obliterizer-dx", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/jcnmsg/escape-obliterizer-gbc", "displayText": "Source"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoyColor",
     "featuredPriority": 0,
     "isMultiPlatform": false,
-    "isOpenSource": false,
-    "licenseType": "",
+    "isOpenSource": true,
+    "licenseType": "GPL",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
@@ -2746,6 +2770,50 @@ const jsonGalleryItemsItch = [
     "licenseType": "",
     "isFreeDownload": false,
     "hasPhysicalRelease": true,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2021"
+},
+
+{
+    "authorName": "YPrit",
+    "itemTitle": "Numeris OCT",
+    "shortDescription": "A Tetris-like game based on MK-61 calculator games",
+    "imagePreviewURL": "pix/itch/fTscf7.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://yprit.itch.io/numeris-oct", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2021"
+},
+
+{
+    "authorName": "YPrit",
+    "itemTitle": "BrainFox",
+    "shortDescription": "A Brainfuck interpreter",
+    "imagePreviewURL": "pix/itch/6xmzkI.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://yprit.itch.io/brainfox", "displayText": "Info"},
+                ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Programming",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
     "yearFirstReleased": "2021"

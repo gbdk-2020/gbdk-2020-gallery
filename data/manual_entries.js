@@ -103,7 +103,7 @@ const jsonGalleryItemsManual = [
         {"type": "source",  "url": "https://github.com/HerrZatacke/2bit-pxlr-studio", "displayText": "Source"},
                 ],
     "categoryTags": "Camera",
-    "gameTypeTags": "Camera",
+    "gameTypeTags": "GameBoy Camera",
     "platformTags": "GameBoy",
     "featuredPriority": 8,
     "isMultiPlatform": false,
@@ -126,7 +126,7 @@ const jsonGalleryItemsManual = [
         {"type": "source",  "url": "https://github.com/untoxa/gb-photo", "displayText": "Source"},
                 ],
     "categoryTags": "Camera",
-    "gameTypeTags": "Camera",
+    "gameTypeTags": "GameBoy Camera",
     "platformTags": "GameBoy, GameBoyColor",
     "featuredPriority": 10,
     "isMultiPlatform": false,
@@ -319,6 +319,52 @@ const jsonGalleryItemsManual = [
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
     "yearFirstReleased": "2024"
+},
+
+{
+    "authorName": "Christian Reinbacher",
+    "itemTitle": "GB Banner Printer",
+    "shortDescription": "Use the Gameboy Printer to create Banners",
+    "imagePreviewURL": "pix/tools/bannerprinter.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/reini1305/gb_bannerprinter", "displayText": "Info"},
+        {"type": "source" , "url": "https://github.com/reini1305/gb_bannerprinter", "displayText": "Source"},
+                ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "GameBoy Printer",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "CC-BY-NC-4.0",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2022"
+},
+
+{
+    "authorName": "Christian Reinbacher",
+    "itemTitle": "GB Snake",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/gbsnake.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/reini1305/gb_snake", "displayText": "Info"},
+        {"type": "source" , "url": "https://github.com/reini1305/gb_snake", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2022"
 },
 
 ];
