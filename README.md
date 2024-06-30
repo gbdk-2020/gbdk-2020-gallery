@@ -1,10 +1,9 @@
-# GBDK-2020 Gallery
+# GBDK Showcase
 
 https://gbdk-2020.github.io/gbdk-2020-gallery
 
 A lightweight Javascript / JSON gallery for showcasing Demos, Games, Music and Programs made with [GBDK-2020](https://github.com/gbdk-2020/gbdk-2020).
 
-Also see the [Made with ZGB](https://github.com/Zal0/ZGB/wiki/Made-with-ZGB) collection of games. [ZGB](https://github.com/Zal0/ZGB/) is a small game engine built on GBDK-2020.
 
 # Adding Entries
 To submit a game or program, either open an issue with the following information or edit the JSON data and open a Pull Request.
