@@ -1,0 +1,62 @@
+<html lang="en" class="">
+<head>
+  <meta charset="UTF-8">
+  <title>GBDK-2020 Gallery</title>
+  <link rel="stylesheet" type="text/css" href="./css/styles.css" />
+
+  <script type="text/javascript" src="./data/itch_entries.js"></script>
+  <script type="text/javascript" src="./data/manual_entries.js"></script>
+
+  <script type="text/javascript" src="./js/globals.js"></script>
+  <script type="text/javascript" src="./js/util.js"></script>
+  <script type="text/javascript" src="./js/gallery.js"></script>
+  <script type="text/javascript" src="./js/sorting.js"></script>
+  <script type="text/javascript" src="./js/filters.js"></script>
+  <script type="text/javascript" src="./js/gallery_items.js"></script>
+
+</head>
+<body>
+
+<script>
+    // Try to detect mobile vs desktop to set font scaling
+    detectDeviceType();
+</script>
+<noscript>Javascript is required for viewing this gallery</noscript>
+
+<div class="header">
+    <div class="topbanner">
+        <h1>GBDK Gallery</h1>
+
+        A collection of GBDK/GBDK-2020 Games, Demos, Music and Programs. <a href="https://github.com/gbdk-2020/gbdk-2020">GBDK-2020</a> is a cross-platform dev kit for vintage game consoles.
+        <br>
+        <br>Also see the Made with <a href="https://github.com/Zal0/ZGB/wiki/Made-with-ZGB">ZGB</a> and <a href="https://github.com/gbdk-2020/CrossZGB/wiki/Made-with-CrossZGB">CrossZGB</a> collections of games.
+    </div>
+    <div class="filter_container">
+        <div class="filter_multi"><select id="categoryTagsFilter"></select></div>
+        <div class="filter_multi"><select id="gameTypeTagsFilter"></select></div>
+        <div class="filter_multi"><select id="platformTagsFilter"></select></div>
+        <div class="filter_multi"><select id="yearReleasedFilter"></select></div>
+        <div class="filter_checkboxes">
+                 <label class="checkbox_label"><input type="checkbox" id="openSourceFilter"    name="openSourceFilter">    Open Source</label>
+            <br> <label class="checkbox_label"><input type="checkbox" id="multiPlatformFilter" name="multiPlatformFilter"> Multi-Platform</label>
+        </div>
+        <div class="filter_checkboxes">
+                 <label class="checkbox_label"><input type="checkbox" id="cartReleaseFilter"   name="cartReleaseFilter">   Cart Release</label>
+            <br> <label class="checkbox_label"><input type="checkbox" id="linkPlayFilter"      name="linkPlayFilter">      Link Play</label>
+        </div>
+        <div class="filter_textsearch">
+            <input type="search" id="textSearch" name="textSearch" placeholder="search..."/>
+            <br><span id="numFoundResult" name="numFoundResult">0</span> found
+        </div>
+    </div>
+</div>
+
+
+<div class="gallery_container">
+    <div id="gallery_grid" class="gallery_grid">
+    </div>
+</div>
+
+
+
+</body></html>

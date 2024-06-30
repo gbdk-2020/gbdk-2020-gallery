@@ -1,0 +1,84 @@
+
+"galleryItems": [
+{
+    "authorName": "Name(s) of Author(s)",
+    "itemTitle": "Your Game's Title",
+    "shortDescription": "A short 4-10 word description",
+    "imagePreviewURL": "url_path_to_image",
+    "linksArray":[ {
+                        "type": "source_code, video, homepage, download, info",
+                        "url": "url_path_to_image",
+                        "displayText": "Very short description. Examples: Source, Homepage, Itch.io, ROM Download, Store"
+                    },
+                    {
+                        "type": "source_code, video, homepage, download",
+                        "url": "url_path_to_image",
+                        "displayText": "Very short description. Examples: Source, Homepage, Itch.io, ROM Download, Store"
+                    }
+                ],
+    "categoryTags": "Comma separated list of tags: Demoscene, Tool, Game, Music, Engine, Techdemo, Simulation, GBCamera",
+    "gametypeTags": "Comma separated list of tags: Puzzle, Shooter, Platformer, Racing, 3D, Rhythm, Precision, Visual Novel, Action, Sports, Survival, Roguelike, Survival",
+    "platformTags": "Comma separated list of tags: GameBoy,GameBoyColor,SuperGameBoy,MegaDuck,AnaloguePocket,GameGear,SMS,NES",
+    "isOpenSource": true/false,
+    "licenseType": "License type, examples are: MIT, GPL, Unlicense, Unknown, etc",
+    "isFreeDownload": true/false,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true/false,
+    "supportsLinkPlay": true/false,
+    "yearFirstReleased": "2020"
+},
+{
+    "authorName": "Mills",
+    "itemTitle": "Cute Demo",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/demos/cutedemo_320.png",
+    "linksArray":[ {
+                        "type": "source_code",
+                        "url": "https://github.com/mills32/CUTE_DEMO/",
+                        "displayText": "Github"
+                    },
+                    {
+                        "type": "video",
+                        "url": "https://www.youtube.com/watch?v=-YjeAobzn1g",
+                        "displayText": "Youtube"
+                    }
+                ],
+    "categoryTags": "demoscene, techdemo",
+    "gametypeTags": "",
+    "platformTags": "GameBoyColor",
+    "isOpenSource": true,
+    "licenseType": "GPL",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2017"
+},
+{
+    "authorName": "Rebels",
+    "itemTitle": "Tendonin",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/demos/tendonin_320.png",
+    "linksArray":[ {
+                        "type": "info",
+                        "url": "https://demozoo.org/productions/307366/",
+                        "displayText": "Demozoo"
+                    },
+                    {
+                        "type": "info",
+                        "url": "https://www.pouet.net/prod.php?which=91300",
+                        "displayText": "Pouët"
+                    }
+                ],
+    "categoryTags": "demoscene, techdemo",
+    "gametypeTags": "",
+    "platformTags": "GameBoy",
+    "isOpenSource": false,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2022"
+},
+]
