@@ -7,6 +7,7 @@ function loadData() {
 
     galleryArray = jsonGalleryItemsItch;
     galleryArray = galleryArray.concat(jsonGalleryItemsManual);
+    galleryArray = galleryArray.concat(jsonGalleryItemsRomhacking);
 
     galleryArray = sortData(galleryArray);
     populateFilters(galleryArray);
