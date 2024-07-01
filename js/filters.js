@@ -38,6 +38,24 @@ function urlGetFilters() {
     if (url.searchParams.get('textSearch')    !== null) document.getElementById('textSearch').value =            url.searchParams.get('textSearch');
 }
 
+// Reset all filters to defaults
+function resetFilters() {
+    // Get current URL, update the params and then use it to replace the current url
+    let url = new URL(window.location);
+
+    document.getElementById('categoryTagsFilter').value = FILTER_ALL;
+    document.getElementById('gameTypeTagsFilter').value = FILTER_ALL;
+    document.getElementById('platformTagsFilter').value = FILTER_ALL;
+    document.getElementById('yearReleasedFilter').value = FILTER_ALL;
+
+    document.getElementById('openSourceFilter').checked =    false;
+    document.getElementById('linkPlayFilter').checked =      false;
+    document.getElementById('cartReleaseFilter').checked =   false;
+    document.getElementById('multiPlatformFilter').checked = false;
+
+    document.getElementById('textSearch').value = '';
+}
+
 
 
 // Create filter entries based on attributes of all gallery items
@@ -144,6 +162,7 @@ function applyFilters() {
 
 function addFilterUpdateHooks() {
     // Event listener to handle filter changes
+    // Filter settings
     document.querySelectorAll('.filter_container select, input').forEach(filter => {
         filter.addEventListener('change', () => {
             applyFilters();
@@ -153,4 +172,17 @@ function addFilterUpdateHooks() {
             applyFilters();
         });
     });
+
+    // Reset Filters button
+    let elResetButton = document.querySelector('#resetFilterButton');
+    elResetButton.addEventListener('click', () => {
+            resetFilters();
+            applyFilters();
+        });
+
+    // Copy Link Filters button
+    let elCopyLinkButton = document.querySelector('#copyLinkFilterButton');
+    elCopyLinkButton.addEventListener('click', () => {
+            copyTextToClipboard(window.location.href);
+        });
 }
