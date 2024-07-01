@@ -6,13 +6,15 @@ A lightweight Javascript / JSON gallery for showcasing Demos, Games, Music and P
 
 
 # Adding Entries
-To submit a game or program, either open an issue with the following information or edit the JSON data and open a Pull Request.
+To submit a game or program, either :
+- **Recommended:** Open an [Issue](https://github.com/gbdk-2020/gbdk-2020-gallery/issues)
+- Or edit the JSON data and open a Pull Request
 
-### Required information:
+### Required information for Pull Reuests which modify the JSON data directly:
 - authorName: Quoted, Name(s) of Author(s)
 - itemTitle: Quoted, Game Title
 - shortDescription: Quoted, A short 4-10 word description. Try to avoid saying: "for the Game Boy"/etc.
-- imagePreviewURL: Quoted, A 320 x 288 PNG format screenshot
+- imagePreviewURL: Quoted, A 320 x 288 PNG format screenshot. Relative path and image should be in a suitable "pix/" sub-folder. 
 - linksArray:
   - url: Quoted, "https://url_to_main_website"
   - url: Quoted, "https://url_to_store"                (OPTIONAL, if there is a Physical Release)
