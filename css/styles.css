@@ -35,7 +35,7 @@
     :root {
         --main_bg: rgb(28,28,28);
 
-        --header_color: rgba(192, 192, 192, 0.55);
+        --header_color: rgba(192, 192, 192, 0.70);
         --header_links_color: var(--header_color);
         --header_bg: rgba(128,128,128,0.05);
 
@@ -93,12 +93,6 @@ select, checkbox, input {
         transform: scale(2.75);
         vertical-align: 0.5rem;
         margin-right: 0.25em;
-    }
-
-    /* Slightly brighter header text on mobile dark */
-    @media (prefers-color-scheme: dark) {
-        /* Not sure why " :root" as a selector doesn't work here */
-        --header_color: rgba(192, 192, 192, 0.65);
     }
 }
 
