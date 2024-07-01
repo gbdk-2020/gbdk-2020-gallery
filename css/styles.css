@@ -35,7 +35,7 @@
     :root {
         --main_bg: rgb(28,28,28);
 
-        --header_color: rgba(128,128,128,0.87);
+        --header_color: rgba(192, 192, 192, 0.55);
         --header_links_color: var(--header_color);
         --header_bg: rgba(128,128,128,0.05);
 
@@ -53,7 +53,7 @@
         --filter_control_label_color: rgba(255,255,255,0.40);
 
         /* Gallery item styling */
-        --item_body_color: rgba(255,255,255,0.50);
+        --item_body_color: rgba(255,255,255,0.60);
         --item_body_color_light: rgba(255,255,255,0.45);
 
         --item_meta_bg_platforms:    rgba(192, 192, 192, 0.30); /* light grey  */
@@ -93,6 +93,12 @@ select, checkbox, input {
         transform: scale(2.75);
         vertical-align: 0.5rem;
         margin-right: 0.25em;
+    }
+
+    /* Slightly brighter header text on mobile dark */
+    @media (prefers-color-scheme: dark) {
+        /* Not sure why " :root" as a selector doesn't work here */
+        --header_color: rgba(192, 192, 192, 0.65);
     }
 }
 
