@@ -1,41 +1,84 @@
+
+/* Default light color scheme */
+:root {
+    --main_bg: rgb(255,255,255);
+
+    --header_color: #555;
+    --header_links_color: var(--header_color);
+    --header_bg: #f2f2f2;
+
+    --header_control_color:  rgba(0,0,0, 0.80);
+    --header_control_bg:     rgba(0, 0, 0, 0.04);
+    --header_control_border: rgba(128,128,128,0.75);
+
+    /* Filter styling */
+    --filter_reset_bg:            rgba(0,0,0,0.07);
+    --filter_reset_bg_hover:      rgba(0,0,0,0.15);
+    --filter_reset_text:          rgba(0,0,0,0.60);
+    --filter_reset_text_hover:    rgba(0,0,0,0.70);
+    --filter_reset_border:        rgba(0,0,0,0.40);
+    --filter_control_label_color: var(--header_control_color);
+
+    /* Gallery item styling */
+    --item_body_color: #222;
+    --item_body_color_light: #606060;
+
+    --item_meta_bg_platforms:    #ececec; /* light grey  */
+    --item_meta_bg_opensource:   #a0ffa6; /* light green */
+    --item_meta_bg_supportslink: #ffdbef; /* light pink  */
+    --item_meta_bg_cartrelease:  #cbebff; /* light blue  */
+    --item_meta_text: rgba(0,0,0,0.40);
+}
+
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --main_bg: rgb(28,28,28);
+
+        --header_color: rgba(128,128,128,0.87);
+        --header_links_color: var(--header_color);
+        --header_bg: rgba(128,128,128,0.05);
+
+        --header_control_color:  var(--header_color);
+        --header_control_bg:     rgba(0, 0, 0, 0.24);
+        --header_control_border: rgba(128,128,128,0.5);
+
+
+        /* Filter styling */
+        --filter_reset_bg:            rgba(255,255,255,0.07);
+        --filter_reset_bg_hover:      rgba(255,255,255,0.15);
+        --filter_reset_text:          rgba(255,255,255,0.60);
+        --filter_reset_text_hover:    rgba(255,255,255,0.70);
+        --filter_reset_border:        rgba(255,255,255,0.40);
+        --filter_control_label_color: rgba(255,255,255,0.40);
+
+        /* Gallery item styling */
+        --item_body_color: rgba(255,255,255,0.50);
+        --item_body_color_light: rgba(255,255,255,0.45);
+
+        --item_meta_bg_platforms:    rgba(192, 192, 192, 0.30); /* light grey  */
+        --item_meta_bg_opensource:   rgba(68, 255, 80, 0.40);   /* light green */
+        --item_meta_bg_supportslink: rgba(255, 101, 186, 0.40); /* light pink  */
+        --item_meta_bg_cartrelease:  rgba(92, 192, 255, 0.40);  /* light blue  */
+        --item_meta_text: rgba(0,0,0,0.70);
+    }
+}
+
 body {
+  background: var(--main_bg);
   margin: 0 auto;
   font-family: sans-serif;
 }
 
 
-:root {
-  --header_color: #555;
-  --header_links_color: var(--header_color);
-  --header_bg_color: #f2f2f2;
-
-  /* Controls styling */
-  --form-control-disabled: #959495;
-  --form-control:          #777;
-  --form-control-selected: #2196F3;
-  --form-background:       var(--header_bg_color);
-
-    /* Gallery item styling */
-  --item_body_color: #222;
-  --item_body_color_light: #606060;
-
-  --item_meta_bg_platforms:    #ececec; /* light grey */
-  --item_meta_bg_opensource:   #a0ffa6; /* light green */
-  --item_meta_bg_supportslink: #ffdbef; /* light pink */
-  --item_meta_bg_cartrelease:  #cbebff; /* light blue */
-  --item_meta_text: rgba(0,0,0,0.40);
-
-  /* Filter styling */
-    --filter_reset_bg:         rgba(0,0,0,0.07);
-    --filter_reset_bg_hover:   rgba(0,0,0,0.15);
-    --filter_reset_text:       rgba(0,0,0,0.60);
-    --filter_reset_text_hover: rgba(0,0,0,0.70);
-    --filter_reset_border:     rgba(0,0,0,0.40);
-
-  /* unused below */
-  --item_white_back: #fff;
-  --item_body_color_gray: #aaaaaa;
+select, checkbox, input {
+    color: var(--header_control_color);
+    background: var(--header_control_bg);
+    background-image: none;
+    border: 1px solid var(--header_control_border);
+    border-radius: 3px;
 }
+
 
 /* These are attached to body based on javascript attempted mobile/desktop detection */
 .desktop {
@@ -55,7 +98,7 @@ body {
 .header {
     /*box-shadow: 0 3px 5px rgba(0,0,0,.02),0 0 2px rgba(0,0,0,.05),0 1px 4px rgba(0,0,0,.08);*/
     box-shadow: 0 0.5em 2em rgba(0,0,0,0.15);
-    background-color: var(--header_bg_color);
+    background-color: var(--header_bg);
     padding: 1em;
     margin-bottom: 2em;
 }
@@ -173,6 +216,7 @@ body {
 
 .checkbox_label {
     white-space:nowrap;
+    color: var(--filter_control_label_color);
 }
 
 /* Fix input elements scaling with body font size */
