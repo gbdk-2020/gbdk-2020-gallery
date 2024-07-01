@@ -88,9 +88,11 @@ select, checkbox, input {
   font-size: calc(35px + 0.390625vw);
 
     /* Scale up checkbox ui elements on mobile so they aren't tiny*/
+    /* Fix for lack of label spacing next to checkbox on mobile */
     input[type=checkbox] {
         transform: scale(2.75);
         vertical-align: 0.5rem;
+        margin-right: 0.25em;
     }
 }
 
@@ -218,6 +220,7 @@ select, checkbox, input {
     white-space:nowrap;
     color: var(--filter_control_label_color);
 }
+
 
 /* Fix input elements scaling with body font size */
 input,
