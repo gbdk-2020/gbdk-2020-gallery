@@ -18,7 +18,7 @@ const jsonGalleryItemsRomhacking = [
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
-    "supportsLinkPlay": true,
+    "supportsLinkPlay": false,
     "yearFirstReleased": "2022"
 },
 
