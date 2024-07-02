@@ -2979,4 +2979,26 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2023"
 },
 
+{
+    "authorName": "Tonsomo Entertainment",
+    "itemTitle": "Jurl",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/geczgH.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://tonsomo.itch.io/jurl-gameboy", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024"
+},
+
 ];
