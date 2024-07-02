@@ -3001,4 +3001,48 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2024"
 },
 
+{
+    "authorName": "Kattrali",
+    "itemTitle": "Mathlock",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/iVbOAi.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://kattrali.itch.io/mathlock", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2022"
+},
+
+{
+    "authorName": "Kattrali, Kylef",
+    "itemTitle": "The Big Breakout!",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/3GrdUS.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://kattrali.itch.io/the-big-breakout", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2023"
+},
+
 ];
