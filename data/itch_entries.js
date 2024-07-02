@@ -1397,7 +1397,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Tool",
     "gameTypeTags": "Art",
     "platformTags": "GameBoy",
-    "featuredPriority": 0,
+    "featuredPriority": 3,
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
@@ -2819,6 +2819,164 @@ const jsonGalleryItemsItch = [
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
     "yearFirstReleased": "2021"
+},
+
+{
+    "authorName": "dreamlandgames",
+    "itemTitle": "One Bit Paint",
+    "shortDescription": "Paint for gameboy is finally here!",
+    "imagePreviewURL": "pix/itch/XBI3Ye.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://dreamlandgames.itch.io/one-bit-paint", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/pedroafabri/one-bit-paint", "displayText": "Source"},
+                ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Art",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "GPL",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2021"
+},
+
+{
+    "authorName": "Arky750",
+    "itemTitle": "witch sound tracker",
+    "shortDescription": "ultra rare sound reg editor tracker",
+    "imagePreviewURL": "pix/itch/DtSxQm.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://djarky.itch.io/witch-sound-tracker", "displayText": "Info"},
+                ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Music",
+    "platformTags": "GameBoy",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2023"
+},
+
+
+{
+    "authorName": "Arky750",
+    "itemTitle": "Bone Finder",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/QX_0L5.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://djarky.itch.io/bone-finder", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "GameBoy",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2023"
+},
+
+{
+    "authorName": "Mindbleach",
+    "itemTitle": "Slayer the Hawk",
+    "shortDescription": "What are birds? The bane of any hero's quest, that's what.",
+    "imagePreviewURL": "pix/itch/iG_oyg.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://mindbleach.itch.io/slayer-the-hawk", "displayText": "Info"},
+        {"type": "source",  "url": "https://mindbleach.itch.io/slayer-the-hawk", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2023"
+},
+
+{
+    "authorName": "VL2M STUDIO",
+    "itemTitle": "DSSD",
+    "shortDescription": "Did Somebody Say Demo",
+    "imagePreviewURL": "pix/itch/H6xIQ0.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://vl2m-studio.itch.io/dssd", "displayText": "Info"},
+                ],
+    "categoryTags": "Demoscene",
+    "gameTypeTags": "Demoscene",
+    "platformTags": "GameBoy, SuperGameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2023"
+},
+
+{
+    "authorName": "Lillie_chippie",
+    "itemTitle": "DDDDDEEMO(N)",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/YyUzbv.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://lillie-chippie.itch.io/dddddeemon", "displayText": "Info"},
+                ],
+    "categoryTags": "Demoscene",
+    "gameTypeTags": "Demoscene",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2023"
+},
+
+{
+    "authorName": "nikku4211",
+    "itemTitle": "7heaven",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/p9o3u5.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://nikku4211.itch.io/7heaven", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/nikku4211/7heaven", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "GameBoy",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2023"
 },
 
 ];
