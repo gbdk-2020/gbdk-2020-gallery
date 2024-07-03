@@ -25,7 +25,7 @@ function createGalleryItems(galleryItems) {
         });
         const img = document.createElement('img');
         img.src = item.imagePreviewURL;
-        img.alt = "game image preview";
+        img.alt = "game image preview for " + item.itemTitle;
         img.loading = "lazy";
         imgLink.appendChild(img);
         itemContainer.appendChild(imgLink);
