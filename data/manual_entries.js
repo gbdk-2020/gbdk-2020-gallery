@@ -360,11 +360,57 @@ const jsonGalleryItemsManual = [
     "isMultiPlatform": false,
     "isOpenSource": true,
     "licenseType": "MIT",
-    "isFreeDownload": false,
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": true,
+    "yearFirstReleased": "2022"
+},
+
+{
+    "authorName": "mmartin46 ",
+    "itemTitle": "Maze Run",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/mmartin46maze.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/mmartin46/Maze_Run", "displayText": "Info"},
+        {"type": "source" , "url": "https://github.com/mmartin46/Maze_Run", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
     "yearFirstReleased": "2022"
+},
+
+{
+    "authorName": "gcoulby ",
+    "itemTitle": "JP",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/gcoulby-jp.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/gcoulby/JP", "displayText": "Info"},
+        {"type": "source" , "url": "https://github.com/gcoulby/JP", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2021"
 },
 
 ];
