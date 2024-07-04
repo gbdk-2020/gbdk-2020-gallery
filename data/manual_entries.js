@@ -391,7 +391,7 @@ const jsonGalleryItemsManual = [
 },
 
 {
-    "authorName": "gcoulby ",
+    "authorName": "gcoulby",
     "itemTitle": "JP",
     "shortDescription": "",
     "imagePreviewURL": "pix/games/gcoulby-jp.png",
@@ -411,6 +411,72 @@ const jsonGalleryItemsManual = [
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
     "yearFirstReleased": "2021"
+},
+
+{
+    "authorName": "VirtualChris",
+    "itemTitle": "GoSub",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/gosub.png",
+    "linksArray": [
+        {"type": "primary", "url": "http://www.atari2600land.com/gameboy/gosub.html", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2022"
+},
+
+{
+    "authorName": "VirtualChris",
+    "itemTitle": "Ugly Uppity Umpire",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/biguuu.png",
+    "linksArray": [
+        {"type": "primary", "url": "http://www.atari2600land.com/gameboy/uuu.html", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2023"
+},
+
+{
+    "authorName": "VirtualChris",
+    "itemTitle": "Frank the Fruit Fly",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/frankthefruitfly.png",
+    "linksArray": [
+        {"type": "primary", "url": "http://www.atari2600land.com/gameboy/ftff.html", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy, SuperGameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2023"
 },
 
 ];
