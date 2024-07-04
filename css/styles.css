@@ -161,6 +161,11 @@ select, checkbox, input {
     width: 320px;
 }
 
+.itemPreview {
+    width: 320px;
+}
+
+
 
 .itemTitle {
     font-weight: bold;

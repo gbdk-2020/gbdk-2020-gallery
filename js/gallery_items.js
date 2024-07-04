@@ -27,6 +27,7 @@ function createGalleryItems(galleryItems) {
         img.src = item.imagePreviewURL;
         img.alt = "game image preview for " + item.itemTitle;
         img.loading = "lazy";
+        img.className = "itemPreview";
         imgLink.appendChild(img);
         itemContainer.appendChild(imgLink);
 
