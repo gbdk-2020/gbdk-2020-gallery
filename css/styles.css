@@ -173,7 +173,8 @@ select, checkbox, input {
 }
 
 .authorName,
-.shortDescription {
+.shortDescription,
+.itemYear {
     font-size: .875em;
     color: var(--item_body_color_light);
 }

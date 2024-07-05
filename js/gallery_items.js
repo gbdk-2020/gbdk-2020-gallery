@@ -68,6 +68,12 @@ function createGalleryItems(galleryItems) {
 
         // Links
         const linksDiv = document.createElement('div');
+        // Year
+        const yearSpan = document.createElement('span');
+        yearSpan.className = 'itemYear';
+        yearSpan.textContent = item.yearFirstReleased + " - ";
+        linksDiv.appendChild(yearSpan);
+        // All Links
         linksDiv.className = 'itemLinks';
         item.linksArray.forEach(link => {
             const linkElement = document.createElement('a');
