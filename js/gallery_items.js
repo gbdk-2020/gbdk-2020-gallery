@@ -1,4 +1,21 @@
 
+function removeAllGalleryItems() {
+    const items = document.querySelectorAll('.gallery_grid_item');
+    items.forEach(item => {
+        item.remove();
+    });
+}
+
+
+function addAndSortGalleryItems() {
+    // Sort items and generate filters
+    galleryArray = sortData(galleryArray);
+
+    // Render the gallery into the DOM
+    createGalleryItems(galleryArray);
+}
+
+
 // Convert gallery items to DOM elements
 function createGalleryItems(galleryItems) {
     const container = document.getElementById('gallery_grid');

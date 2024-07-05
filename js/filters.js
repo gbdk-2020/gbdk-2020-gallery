@@ -17,6 +17,8 @@ function urlSetFilters() {
 
     url.searchParams.set('textSearch',   document.getElementById('textSearch').value);
 
+    url.searchParams.set('sortSelector',   document.getElementById('sortSelector').value);
+
     window.history.replaceState(null, "", url.href);
 }
 
@@ -35,14 +37,13 @@ function urlGetFilters() {
     if (url.searchParams.get('cartRelease')   !== null) document.getElementById('cartReleaseFilter').checked =   ('true' === url.searchParams.get('cartRelease').toLowerCase());
     if (url.searchParams.get('multiPlatform') !== null) document.getElementById('multiPlatformFilter').checked = ('true' === url.searchParams.get('multiPlatform').toLowerCase());
 
-    if (url.searchParams.get('textSearch')    !== null) document.getElementById('textSearch').value =            url.searchParams.get('textSearch');
+    if (url.searchParams.get('textSearch')    !== null) document.getElementById('textSearch').value =   url.searchParams.get('textSearch');
+
+    if (url.searchParams.get('sortSelector')  !== null) document.getElementById('sortSelector').value = url.searchParams.get('sortSelector');
 }
 
 // Reset all filters to defaults
 function resetFilters() {
-    // Get current URL, update the params and then use it to replace the current url
-    let url = new URL(window.location);
-
     document.getElementById('categoryTagsFilter').value = FILTER_ALL;
     document.getElementById('gameTypeTagsFilter').value = FILTER_ALL;
     document.getElementById('platformTagsFilter').value = FILTER_ALL;
@@ -54,8 +55,10 @@ function resetFilters() {
     document.getElementById('multiPlatformFilter').checked = false;
 
     document.getElementById('textSearch').value = '';
-}
 
+    document.getElementById('sortSelector').value = SORTING_DEFAULT;
+
+}
 
 
 // Create filter entries based on attributes of all gallery items
@@ -87,8 +90,9 @@ function populateFilters(galleryItems) {
     document.getElementById('platformTagsFilter').innerHTML = filterAll + platformOptions;
     document.getElementById('yearReleasedFilter').innerHTML = filterAll + yearReleasedOptions;
 
-    // Call the function to render the gallery
-    createGalleryItems(galleryItems);
+    // Sorting options
+    const sortOptions = SORT_OPTIONS.map(sortType => `<option value="${sortType}">${sortType}</option>`).join('');
+    document.getElementById('sortSelector').innerHTML = sortOptions;
 }
 
 
@@ -109,6 +113,15 @@ function checkMultiSelectFilter(filterName, filterTagsSelected, item) {
 
 // Update displayed items based on their metadata and the filters
 function applyFilters() {
+
+    // If sorting changed then update sort method and do a reload 
+    if (gallerySorting !== document.getElementById('sortSelector').value) {
+        gallerySorting = document.getElementById('sortSelector').value;
+
+        removeAllGalleryItems();
+        addAndSortGalleryItems();
+    }
+
     const categoryTagsSelected = Array.from(document.getElementById('categoryTagsFilter').selectedOptions).map(option => option.value);
     const gameTypeTagsSelected = Array.from(document.getElementById('gameTypeTagsFilter').selectedOptions).map(option => option.value);
     const platformTagsSelected = Array.from(document.getElementById('platformTagsFilter').selectedOptions).map(option => option.value);
@@ -117,15 +130,11 @@ function applyFilters() {
     const cartReleaseOnly   = document.getElementById('cartReleaseFilter').checked;
     const multiPlatformOnly = document.getElementById('multiPlatformFilter').checked;
     const yearReleasedMatch = document.getElementById('yearReleasedFilter').value;
-    const textSearchMatch   = document.getElementById('textSearch').value;
-
+    const textSearchMatch   = document.getElementById('textSearch').value;    
     const items = document.querySelectorAll('.gallery_grid_item');
 
 
     // TODO: ? Convert filters from arrays to simple compares now that they are single-select instead of multi-select
-
-    // Hide all items first
-    // items.forEach(item => item.style.display = 'none');
 
     // Check whether each item is enabled based on the filters
     let matchCount = 0;
@@ -163,7 +172,7 @@ function applyFilters() {
 function addFilterUpdateHooks() {
     // Event listener to handle filter changes
     // Filter settings
-    document.querySelectorAll('.filter_container select, input').forEach(filter => {
+    document.querySelectorAll('.filter_container select, input, #sortSelector').forEach(filter => {
         filter.addEventListener('change', () => {
             applyFilters();
         });
