@@ -479,4 +479,27 @@ const jsonGalleryItemsManual = [
     "yearFirstReleased": "2023"
 },
 
+{
+    "authorName": "1r3n33 ",
+    "itemTitle": "Snake Adventures",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/snakeadventures.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/1r3n33/snake", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/1r3n33/snake", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024"
+},
+
 ];
