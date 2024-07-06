@@ -1035,4 +1035,50 @@ const jsonGalleryItemsManual = [
     "yearFirstReleased": "2023"
 },
 
+{
+    "authorName": "gmiller",
+    "itemTitle": "Dots",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/dots.png",
+    "linksArray": [
+        {"type": "primary", "url": "http://www.gmiller.net/2019/04/dots-for-gameboy-color/", "displayText": "Info"},
+        {"type": "source",  "url": "http://www.gmiller.net/2019/04/dots-for-gameboy-color/", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2019"
+},
+
+{
+    "authorName": "crazyinjamofo",
+    "itemTitle": "FlappyBird",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/fbgb.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://www.youtube.com/watch?v=L1arYXOawP8", "displayText": "Info"},
+        {"type": "source",  "url": "https://www.dropbox.com/scl/fi/ao7cuc5stk9vlguzsicqu/fbgb_v2.zip?rlkey=wyrnnmjhn601mhcy80bt567cx&e=4&dl=0", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Survival",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2014"
+},
+
 ];
