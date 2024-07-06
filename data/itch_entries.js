@@ -727,7 +727,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Simulation",
     "gameTypeTags": "Simulation",
     "platformTags": "GameBoy",
-    "featuredPriority": 0,
+    "featuredPriority": 2,
     "isMultiPlatform": false,
     "isOpenSource": true,
     "licenseType": "MIT",
@@ -3226,6 +3226,52 @@ const jsonGalleryItemsItch = [
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
     "yearFirstReleased": "2023"
+},
+
+{
+    "authorName": "Ovidios",
+    "itemTitle": "Word Blocks",
+    "shortDescription": "A simple tetris-like word puzzle game",
+    "imagePreviewURL": "pix/itch/wordblocks.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://ovidios.itch.io/word-blocks", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/Ovidios/word-blocks", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2023"
+},
+
+{
+    "authorName": "punchcafe",
+    "itemTitle": "hamorigami-gb",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/XdLx7h.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://punchcafe.itch.io/hamorigami-gb", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/punchcafe/hamorigami_gb", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Simulation",
+    "platformTags": "GameBoy",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2022"
 },
 
 ];
