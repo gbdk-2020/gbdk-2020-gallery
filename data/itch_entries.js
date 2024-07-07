@@ -166,7 +166,7 @@ const jsonGalleryItemsItch = [
         {"type": "primary", "url": "https://martfn.itch.io/maze-game", "displayText": "Info"},
                 ],
     "categoryTags": "Game",
-    "gameTypeTags": "Puzzle",
+    "gameTypeTags": "Maze",
     "platformTags": "GameBoy",
     "featuredPriority": 0,
     "isMultiPlatform": false,
@@ -637,7 +637,7 @@ const jsonGalleryItemsItch = [
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
-    "platformTags": "GameBoy",
+    "platformTags": "GameBoyColor",
     "featuredPriority": 0,
     "isMultiPlatform": false,
     "isOpenSource": false,
@@ -986,7 +986,7 @@ const jsonGalleryItemsItch = [
 
 {
     "authorName": "its-terra",
-    "itemTitle": "Castle of Sword &amp; Shield",
+    "itemTitle": "Castle of Sword & Shield",
     "shortDescription": "Roguelike with turn-based combat",
     "imagePreviewURL": "pix/itch/kOij6U.png",
     "linksArray": [
@@ -2326,7 +2326,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "32mbit",
     "itemTitle": "Word-O: The Viral Word Game!",
-    "shortDescription": "The viral word guessing game, now in your pocket!",
+    "shortDescription": "The viral word guessing game, now in your pocket! (Wordle)",
     "imagePreviewURL": "pix/itch/Mc5+3b.png",
     "linksArray": [
         {"type": "primary", "url": "https://32mbit.itch.io/word-o", "displayText": "Info"},
@@ -2395,7 +2395,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "bbbbbr",
     "itemTitle": "GB-Wordyl",
-    "shortDescription": "A word guessing game",
+    "shortDescription": "A word guessing game (Wordle)",
     "imagePreviewURL": "pix/itch/WGi2Fs.png",
     "linksArray": [
         {"type": "primary", "url": "https://bbbbbr.itch.io/gb-wordyl", "displayText": "Info"},
@@ -3272,6 +3272,207 @@ const jsonGalleryItemsItch = [
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
     "yearFirstReleased": "2022"
+},
+
+{
+    "authorName": "irishgreencircuis",
+    "itemTitle": "Maze Rage",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/YERP9C.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://irishgreencitrus.itch.io/maze-rage", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Maze",
+    "platformTags": "GameBoy",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2021"
+},
+
+{
+    "authorName": "bjorn-nah.itch",
+    "itemTitle": "Square Fall",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/squarefall.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://bjorn-nah.itch.io/square-fall", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/bjorn-nah/square_fall", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2021"
+},
+
+{
+    "authorName": "sinnersaint",
+    "itemTitle": "Kappa Drop",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/kappadrop.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://sinnersaint.itch.io/kappadrop", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2020"
+},
+
+{
+    "authorName": "piersbishop",
+    "itemTitle": "Arthur's Quest",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/arthursquest.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://piersbishop.itch.io/arthurs-quest", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/PiersBishop/ArthursQuest", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Adventure",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2021"
+},
+
+{
+    "authorName": "piersbishop",
+    "itemTitle": "Inktober 2021",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/inktober_2021.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://piersbishop.itch.io/inktober-2021", "displayText": "Info"},
+                ],
+    "categoryTags": "Art",
+    "gameTypeTags": "Art",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 7,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2021"
+},
+
+{
+    "authorName": "piersbishop",
+    "itemTitle": "Pet House",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/pethouse.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://piersbishop.itch.io/pet-house", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "VirtualPet",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2019"
+},
+
+{
+    "authorName": "piersbishop",
+    "itemTitle": "Game Boy's 30th Birthday",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/gameboybirthday.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://piersbishop.itch.io/game-boy-birthday", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/PiersBishop/GameBoyBirthday", "displayText": "Source"},
+                ],
+    "categoryTags": "Art",
+    "gameTypeTags": "Art",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2021"
+},
+
+{
+    "authorName": "piersbishop",
+    "itemTitle": "Dichotomy",
+    "shortDescription": "The Game Boy's first walking simulator!",
+    "imagePreviewURL": "pix/itch/dichotomy.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://piersbishop.itch.io/dichotomy", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Adventure",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2019"
+},
+
+{
+    "authorName": "piersbishop",
+    "itemTitle": "Coucou*",
+    "shortDescription": "You play as a mermaid that has to seduce and lure men into the water so they can drown",
+    "imagePreviewURL": "pix/itch/coucou.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://piersbishop.itch.io/coucou", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Strategy",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2019"
 },
 
 ];

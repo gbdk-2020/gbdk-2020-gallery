@@ -377,7 +377,7 @@ const jsonGalleryItemsManual = [
         {"type": "source" , "url": "https://github.com/mmartin46/Maze_Run", "displayText": "Source"},
                 ],
     "categoryTags": "Game",
-    "gameTypeTags": "Puzzle",
+    "gameTypeTags": "Maze",
     "platformTags": "GameBoy",
     "featuredPriority": 2,
     "isMultiPlatform": false,
@@ -1079,6 +1079,98 @@ const jsonGalleryItemsManual = [
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
     "yearFirstReleased": "2014"
+},
+
+{
+    "authorName": "SNBeast",
+    "itemTitle": "WordleBoy",
+    "shortDescription": "Wordle clone with RTC",
+    "imagePreviewURL": "pix/games/wordleboy.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/SNBeast/WordleBoy/", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/SNBeast/WordleBoy/", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 1,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2022"
+},
+
+{
+    "authorName": "Stacksmashing",
+    "itemTitle": "gb-wordle",
+    "shortDescription": "A Wordle clone",
+    "imagePreviewURL": "pix/games/gb-wordle.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/stacksmashing/gb-wordle", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/stacksmashing/gb-wordle", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "GPL",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2022"
+},
+
+{
+    "authorName": "xx0x",
+    "itemTitle": "v3gb",
+    "shortDescription": "A primitive clone/demake of game VVVVVV by Terry Cavanagh",
+    "imagePreviewURL": "pix/games/v3gb.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/xx0x/v3gb", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/xx0x/v3gb", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2019"
+},
+
+{
+    "authorName": "Exetric",
+    "itemTitle": "GrubGlide",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/grubglide.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/Exetric/GrubGlide", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/Exetric/GrubGlide", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2021"
 },
 
 ];
