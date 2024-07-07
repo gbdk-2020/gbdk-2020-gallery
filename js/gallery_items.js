@@ -45,6 +45,11 @@ function createGalleryItems(galleryItems) {
         img.alt = "game image preview for " + item.itemTitle;
         img.loading = "lazy";
         img.className = "itemPreview";
+        img.title = "Category: "       + item.categoryTags   + "\n" +
+                    "Game Type: "      + item.gameTypeTags   + "\n" +
+                    "Source License: " + item.licenseType    + "\n" +
+                    "Free Download: "  + item.isFreeDownload + "\n" +
+                    "Classic GBDK: "   + item.isClassicGBDK;
         imgLink.appendChild(img);
         itemContainer.appendChild(imgLink);
 
