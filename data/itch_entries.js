@@ -3210,7 +3210,7 @@ const jsonGalleryItemsItch = [
     "authorName": "muchadardo",
     "itemTitle": "Gameboy paint deluxe",
     "shortDescription": "",
-    "imagePreviewURL": "pix/itch/_MK+0d.png",
+    "imagePreviewURL": "pix/itch/paintdeluxe.png",
     "linksArray": [
         {"type": "primary", "url": "https://muchadardo.itch.io/gameboy-paint-deluxe", "displayText": "Info"},
                 ],
