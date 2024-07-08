@@ -1173,4 +1173,72 @@ const jsonGalleryItemsManual = [
     "yearFirstReleased": "2021"
 },
 
+{
+    "authorName": "MGerckens",
+    "itemTitle": "HitoriGB",
+    "shortDescription": "Port of Hitori (Nikoli puzzle game)",
+    "imagePreviewURL": "pix/games/hitorigb.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/MGerckens/HitoriGB", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/MGerckens/HitoriGB", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2021"
+},
+
+{
+    "authorName": "Humbletune",
+    "itemTitle": "Chord",
+    "shortDescription": "Chord is a monophonic synth program",
+    "imagePreviewURL": "pix/tools/chord.png",
+    "linksArray": [
+        {"type": "primary", "url": "http://www.humbletune.com/chord/", "displayText": "Info"},
+                ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Music",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2023"
+},
+
+{
+    "authorName": "SyrupIV, Yokoyama, Takachin, Shiftyweb",
+    "itemTitle": "Doctor Ouch",
+    "shortDescription": "Welcome to Doctor Ouch's clinic, where smiles get repaired!",
+    "imagePreviewURL": "pix/games/ouch.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://v3.globalgamejam.org/2020/games/doctor-ouch-9", "displayText": "Info"},
+        {"type": "source",  "url": "https://v3.globalgamejam.org/2020/games/doctor-ouch-9", "displayText": "Source"},
+                ],
+    "categoryTags": "GameBoy",
+    "gameTypeTags": "Rhythm",
+    "platformTags": "GameBoy",
+    "featuredPriority": 1,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2020"
+},
+
 ];
