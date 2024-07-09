@@ -3475,4 +3475,72 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2019"
 },
 
+{
+    "authorName": "Eric Llimós",
+    "itemTitle": "Packri Monster",
+    "shortDescription": "Gameboy port of the same name hand held game from the 80s.",
+    "imagePreviewURL": "pix/itch/GSAW+a.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://popcalent.itch.io/packri-monster", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2021"
+},
+
+{
+    "authorName": "Eric Llimós",
+    "itemTitle": "Patrician",
+    "shortDescription": "Gameboy port of the same name hand held game from the 80s.",
+    "imagePreviewURL": "pix/itch/6QgCDy.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://mahoushoujomagicalmoestar.itch.io/patrician", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/DrLancer-X/patrician", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Adventure",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT and CC-BY-SA",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2021"
+},
+
+{
+    "authorName": "wojciech-graj",
+    "itemTitle": "GameBoy Spider Solitaire",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/8MBFDL.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://wojciech-graj.itch.io/gb-solitaire", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/wojciech-graj/GB-Solitaire", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Card Game",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2021"
+},
+
 ];
