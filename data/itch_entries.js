@@ -396,7 +396,7 @@ const jsonGalleryItemsItch = [
     "isMultiPlatform": false,
     "isOpenSource": true,
     "licenseType": "Unknown",
-    "isFreeDownload": true,
+    "isFreeDownload": false,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
@@ -419,7 +419,7 @@ const jsonGalleryItemsItch = [
     "isMultiPlatform": false,
     "isOpenSource": true,
     "licenseType": "",
-    "isFreeDownload": true,
+    "isFreeDownload": false,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
@@ -442,7 +442,7 @@ const jsonGalleryItemsItch = [
     "isMultiPlatform": false,
     "isOpenSource": true,
     "licenseType": "",
-    "isFreeDownload": true,
+    "isFreeDownload": false,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
@@ -1630,9 +1630,31 @@ const jsonGalleryItemsItch = [
     "licenseType": "",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
-    "isClassicGBDK": true,
+    "isClassicGBDK": false,
     "supportsLinkPlay": false,
     "yearFirstReleased": "2020"
+},
+
+{
+    "authorName": "fb1",
+    "itemTitle": "Snakebird",
+    "shortDescription": "A recreation / fangame of the amazing puzzle game Snakebird containing 10 all new levels",
+    "imagePreviewURL": "pix/itch/snakebird.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://fb1.itch.io/snakebirdgb", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2016"
 },
 
 {
@@ -3541,6 +3563,50 @@ const jsonGalleryItemsItch = [
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
     "yearFirstReleased": "2021"
+},
+
+{
+    "authorName": "labdoc",
+    "itemTitle": "Stone Constructor",
+    "shortDescription": "A very simple implementation of the Go board game for 2 players",
+    "imagePreviewURL": "pix/itch/dvRzAo.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://labdoc.itch.io/stone-constructor", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Strategy",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2020"
+},
+
+{
+    "authorName": "labdoc",
+    "itemTitle": "Excuse Me",
+    "shortDescription": "Politely leave the room",
+    "imagePreviewURL": "pix/itch/excuseme.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://labdoc.itch.io/excuse-me", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2023"
 },
 
 ];
