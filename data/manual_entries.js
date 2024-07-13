@@ -1358,4 +1358,27 @@ const jsonGalleryItemsManual = [
     "yearFirstReleased": "2022"
 },
 
+{
+    "authorName": "Joao Ribeiro, gild, freitas*",
+    "itemTitle": "Unstable",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/unstable.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://ldjam.com/events/ludum-dare/49/unstable-5", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/gildurao/ludum-dare-2021", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2021"
+},
+
 ];

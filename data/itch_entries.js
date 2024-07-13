@@ -3698,4 +3698,27 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2023"
 },
 
+{
+    "authorName": "ghostinthetoast",
+    "itemTitle": "Manual Manny",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/manualmanny.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://ghostinthetoast.itch.io/manual-manny", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/daltonchutes/something_stupid", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Simulation",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2022"
+},
+
 ];
