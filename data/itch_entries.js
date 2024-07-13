@@ -3609,4 +3609,93 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2023"
 },
 
+{
+    "authorName": "Matt Carr",
+    "itemTitle": "Sunset Hellgate",
+    "shortDescription": "Fight monsters and big bosses!",
+    "imagePreviewURL": "pix/itch/sunsethellgate.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://wanderinghobo.itch.io/sunset-hellgate", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2021"
+},
+
+{
+    "authorName": "pixjuan",
+    "itemTitle": "ClockBoy - The Other Alarm Clock",
+    "shortDescription": "Turn your Gameboy into a chiptunes alarm clock!",
+    "imagePreviewURL": "pix/itch/theotheralarmclock.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://pixjuan.itch.io/the-other-alarm-clock", "displayText": "Info"},
+                ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Clock",
+    "platformTags": "GameBoy",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2021"
+},
+
+{
+    "authorName": "PagansWrath",
+    "itemTitle": "Zypher",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/zypher.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://paganswrath.itch.io/zypher", "displayText": "Info"},
+        {"type": "source",  "url": "https://paganswrath.itch.io/zypher", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Shooter",
+    "platformTags": "GameBoy",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "GPL",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2021"
+},
+
+{
+    "authorName": "demekala",
+    "itemTitle": "Toko",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/toko.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://demekala.itch.io/toko", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "GameBoy",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2023"
+},
+
 ];
