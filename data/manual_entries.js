@@ -1404,4 +1404,50 @@ const jsonGalleryItemsManual = [
     "yearFirstReleased": "2021"
 },
 
+{
+    "authorName": "gcoulby",
+    "itemTitle": "Domination",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/domination.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/gcoulby/Domination", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/gcoulby/Domination", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2021"
+},
+
+{
+    "authorName": "beige",
+    "itemTitle": "The Syntax Pocket Party",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/demos/syntaxpocketparty.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://www.pouet.net/prod.php?which=87514", "displayText": "Info"},
+        {"type": "info",    "url": "https://demozoo.org/productions/287672/", "displayText": "Demozoo"},
+                ],
+    "categoryTags": "Demoscene",
+    "gameTypeTags": "Demoscene",
+    "platformTags": "GameBoy",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2020"
+},
+
 ];
