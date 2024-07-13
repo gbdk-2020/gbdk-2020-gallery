@@ -1359,6 +1359,29 @@ const jsonGalleryItemsManual = [
 },
 
 {
+    "authorName": "bryantleee",
+    "itemTitle": "Blobbo's Apple Catch",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/blobbo.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/bryantleee/blobbos-apple-catch/releases", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/bryantleee/blobbos-apple-catch/releases", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy, SuperGameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "Unknown",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024"
+},
+
+{
     "authorName": "Joao Ribeiro, gild, freitas*",
     "itemTitle": "Unstable",
     "shortDescription": "",
