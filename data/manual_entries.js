@@ -36,7 +36,7 @@ const jsonGalleryItemsManual = [
     "categoryTags": "Demoscene",
     "gameTypeTags": "Demoscene",
     "platformTags": "GameBoyColor",
-    "featuredPriority": 8,
+    "featuredPriority": 10,
     "isOpenSource": true,
     "licenseType": "GPL",
     "isFreeDownload": true,
@@ -1446,6 +1446,29 @@ const jsonGalleryItemsManual = [
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2020"
+},
+
+{
+    "authorName": "mateusdigital",
+    "itemTitle": "El Jamon Volador",
+    "shortDescription": "A flappy bird homage",
+    "imagePreviewURL": "pix/games/jamonvolador.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://mateus.digital/el_jamon_volador/", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/mateusdigital/el_jamon_volador", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Survival",
+    "platformTags": "GameBoy",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "GPL",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
     "supportsLinkPlay": false,
     "yearFirstReleased": "2020"
 },
