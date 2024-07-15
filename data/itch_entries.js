@@ -3721,4 +3721,49 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2022"
 },
 
+{
+    "authorName": "OrionSoft",
+    "itemTitle": "Escape 2042",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/escape2042.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://orionsoft.itch.io/escape2042", "displayText": "Info"},
+        {"type": "cart",    "url": "https://www.orionsoft.games/retroshop/escape_gb.htm", "displayText": "Cart"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": true,
+    "isClassicGBDK": true,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2018"
+},
+
+{
+    "authorName": "zrabatah",
+    "itemTitle": "A Crows Life",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/crowslife.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://zrabatah.itch.io/a-crows-life", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Survival",
+    "platformTags": "GameBoy",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2023"
+},
+
 ];
