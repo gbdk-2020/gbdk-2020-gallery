@@ -45,11 +45,13 @@ function createGalleryItems(galleryItems) {
         img.alt = "game image preview for " + item.itemTitle;
         img.loading = "lazy";
         img.className = "itemPreview";
+        // Show the following using html5 tooltips (title tag)
         img.title = "Category: "       + item.categoryTags   + "\n" +
                     "Game Type: "      + item.gameTypeTags   + "\n" +
                     "Source License: " + item.licenseType    + "\n" +
                     "Free Download: "  + item.isFreeDownload + "\n" +
-                    "Classic GBDK: "   + item.isClassicGBDK;
+                    "Classic GBDK: "   + item.isClassicGBDK + "\n" +
+                    "Date Added: "     + item.dateAdded;
         imgLink.appendChild(img);
         itemContainer.appendChild(imgLink);
 

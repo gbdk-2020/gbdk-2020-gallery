@@ -57,6 +57,23 @@ function sortYear(galleryItems) {
 }
 
 
+function sortDateAdded(galleryItems) {
+
+    galleryItems.sort((a, b) => {
+        if      (a.dateAdded > b.dateAdded) return SORT_BEFORE;
+        else if (a.dateAdded < b.dateAdded) return SORT_AFTER;
+
+        if      (a.itemTitle < b.itemTitle) return SORT_BEFORE;
+        else if (a.itemTitle > b.itemTitle) return SORT_AFTER;
+
+        // Default, no change
+        return SORT_NOCHANGE;
+    });
+
+    return galleryItems;
+}
+
+
 function sortTitle(galleryItems) {
 
     galleryItems.sort((a, b) => {
@@ -93,6 +110,7 @@ function sortAuthor(galleryItems) {
 function sortData(galleryItems) {
 
     if      (gallerySorting === SORTING_YEAR)     return sortYear(galleryItems);
+    if      (gallerySorting === SORTING_NEW_ADDS) return sortDateAdded(galleryItems);
     else if (gallerySorting === SORTING_TITLE)    return sortTitle(galleryItems);
     else if (gallerySorting === SORTING_AUTHOR)   return sortAuthor(galleryItems);
     else if (gallerySorting === SORTING_CATEGORY) return sortCategory(galleryItems);

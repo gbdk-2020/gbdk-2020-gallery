@@ -20,7 +20,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "supportsLinkPlay": true,
-    "yearFirstReleased": "2021"
+    "yearFirstReleased": "2021",
+    "dateAdded": "2024-07-01"
 },
 
 
@@ -43,7 +44,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2017"
+    "yearFirstReleased": "2017",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -67,7 +69,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2022"
+    "yearFirstReleased": "2022",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -90,7 +93,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2022"
+    "yearFirstReleased": "2022",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -113,7 +117,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2022"
+    "yearFirstReleased": "2022",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -136,7 +141,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2022"
+    "yearFirstReleased": "2022",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -158,7 +164,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2015"
+    "yearFirstReleased": "2015",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -181,7 +188,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2024"
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -204,7 +212,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2023"
+    "yearFirstReleased": "2023",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -226,7 +235,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2020"
+    "yearFirstReleased": "2020",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -248,7 +258,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2020"
+    "yearFirstReleased": "2020",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -271,7 +282,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2024"
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -294,7 +306,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "supportsLinkPlay": true,
-    "yearFirstReleased": "2024"
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -318,7 +331,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2024"
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -341,7 +355,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2022"
+    "yearFirstReleased": "2022",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -364,7 +379,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": true,
-    "yearFirstReleased": "2022"
+    "yearFirstReleased": "2022",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -387,7 +403,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2022"
+    "yearFirstReleased": "2022",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -410,7 +427,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2021"
+    "yearFirstReleased": "2021",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -432,7 +450,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2022"
+    "yearFirstReleased": "2022",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -454,7 +473,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2023"
+    "yearFirstReleased": "2023",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -476,7 +496,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2023"
+    "yearFirstReleased": "2023",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -499,7 +520,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2024"
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -522,7 +544,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2016"
+    "yearFirstReleased": "2016",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -545,7 +568,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2018"
+    "yearFirstReleased": "2018",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -568,7 +592,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2016"
+    "yearFirstReleased": "2016",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -591,7 +616,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2014"
+    "yearFirstReleased": "2014",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -613,7 +639,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2016"
+    "yearFirstReleased": "2016",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -637,7 +664,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2022"
+    "yearFirstReleased": "2022",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -661,7 +689,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2022"
+    "yearFirstReleased": "2022",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -685,7 +714,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2022"
+    "yearFirstReleased": "2022",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -709,7 +739,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2022"
+    "yearFirstReleased": "2022",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -732,7 +763,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2021"
+    "yearFirstReleased": "2021",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -755,7 +787,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2018"
+    "yearFirstReleased": "2018",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -778,7 +811,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2019"
+    "yearFirstReleased": "2019",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -801,7 +835,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2024"
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -825,7 +860,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2022"
+    "yearFirstReleased": "2022",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -848,7 +884,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2023"
+    "yearFirstReleased": "2023",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -871,7 +908,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2021"
+    "yearFirstReleased": "2021",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -894,7 +932,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2022"
+    "yearFirstReleased": "2022",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -917,7 +956,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2021"
+    "yearFirstReleased": "2021",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -940,7 +980,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2022"
+    "yearFirstReleased": "2022",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -963,7 +1004,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2022"
+    "yearFirstReleased": "2022",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -986,7 +1028,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2020"
+    "yearFirstReleased": "2020",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -1009,7 +1052,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2023"
+    "yearFirstReleased": "2023",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -1032,7 +1076,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2023"
+    "yearFirstReleased": "2023",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -1055,7 +1100,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2019"
+    "yearFirstReleased": "2019",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -1078,7 +1124,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2014"
+    "yearFirstReleased": "2014",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -1101,7 +1148,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2022"
+    "yearFirstReleased": "2022",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -1124,7 +1172,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2022"
+    "yearFirstReleased": "2022",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -1147,7 +1196,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2019"
+    "yearFirstReleased": "2019",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -1170,7 +1220,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2021"
+    "yearFirstReleased": "2021",
+    "dateAdded": "2024-07-01"
 },
 
 {
@@ -1193,7 +1244,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2021"
+    "yearFirstReleased": "2021",
+    "dateAdded": "2024-07-08"
 },
 
 {
@@ -1215,7 +1267,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2023"
+    "yearFirstReleased": "2023",
+    "dateAdded": "2024-07-08"
 },
 
 {
@@ -1238,7 +1291,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2020"
+    "yearFirstReleased": "2020",
+    "dateAdded": "2024-07-08"
 },
 
 {
@@ -1261,7 +1315,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2019"
+    "yearFirstReleased": "2019",
+    "dateAdded": "2024-07-08"
 },
 
 {
@@ -1285,7 +1340,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2004"
+    "yearFirstReleased": "2004",
+    "dateAdded": "2024-07-08"
 },
 
 {
@@ -1309,7 +1365,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2001"
+    "yearFirstReleased": "2001",
+    "dateAdded": "2024-07-08"
 },
 
 {
@@ -1332,7 +1389,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2017"
+    "yearFirstReleased": "2017",
+    "dateAdded": "2024-07-08"
 },
 
 {
@@ -1355,7 +1413,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2022"
+    "yearFirstReleased": "2022",
+    "dateAdded": "2024-07-08"
 },
 
 {
@@ -1378,7 +1437,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2024"
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-07-13"
 },
 
 {
@@ -1401,7 +1461,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2021"
+    "yearFirstReleased": "2021",
+    "dateAdded": "2024-07-13"
 },
 
 {
@@ -1424,7 +1485,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2021"
+    "yearFirstReleased": "2021",
+    "dateAdded": "2024-07-13"
 },
 
 {
@@ -1447,7 +1509,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2020"
+    "yearFirstReleased": "2020",
+    "dateAdded": "2024-07-13"
 },
 
 {
@@ -1470,7 +1533,8 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
-    "yearFirstReleased": "2020"
+    "yearFirstReleased": "2020",
+    "dateAdded": "2024-07-14"
 },
 
 ];
