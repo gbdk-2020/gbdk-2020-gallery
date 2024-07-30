@@ -4,7 +4,7 @@ const SORT_NOCHANGE = 0;
 
 // Sorting dropdown list options
 const SORTING_FEATURED = "Featured";
-const SORTING_YEAR     = "New Releases";
+const SORTING_YEAR     = "Year Released";
 const SORTING_NEW_ADDS = "Recently Added";
 const SORTING_TITLE    = "Title";
 const SORTING_CATEGORY = "Categories";
