@@ -3766,4 +3766,71 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2023"
 },
 
+{
+    "authorName": "Bipedal Studios",
+    "itemTitle": "Galacard",
+    "shortDescription": "P​lay with cards... with aliens!",
+    "imagePreviewURL": "pix/itch/galacard.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://bipedal-studios.itch.io/galacard", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Card Game",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024"
+},
+
+{
+    "authorName": "bbbbbr",
+    "itemTitle": "Game Boy Blue Screen of Death (BSOD)",
+    "shortDescription": "Blue Screen of Death simulator",
+    "imagePreviewURL": "pix/itch/gbbsod.jpg",
+    "linksArray": [
+        {"type": "primary", "url": "https://bbbbbr.itch.io/game-boy-bsod", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/bbbbbr/gameboy_bsod", "displayText": "Source"},
+                ],
+    "categoryTags": "Simulation",
+    "gameTypeTags": "Simulation",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "GPL",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024"
+},
+
+{
+    "authorName": "User0x7f",
+    "itemTitle": "G-ZERO World GP",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/g-zero_world_gp.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://user0x7f.itch.io/g-zero-world-gp", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Racing",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 9,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": true,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024"
+},
+
 ];
