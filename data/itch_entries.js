@@ -3996,7 +3996,7 @@ const jsonGalleryItemsItch = [
     "isOpenSource": false,
     "licenseType": "",
     "isFreeDownload": true,
-    "hasPhysicalRelease": true,
+    "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
     "yearFirstReleased": "2024",
