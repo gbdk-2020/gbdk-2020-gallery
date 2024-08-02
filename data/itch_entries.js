@@ -61,7 +61,7 @@ const jsonGalleryItemsItch = [
     "featuredPriority": 0,
     "isMultiPlatform": false,
     "isOpenSource": true,
-    "licenseType": "MIT",
+    "licenseType": "GPL3",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
@@ -750,7 +750,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "StudioGuma",
     "itemTitle": "Game (Boy) of Life",
-    "shortDescription": "Port of Conway’s Game of Life",
+    "shortDescription": "Port of Conway's Game of Life",
     "imagePreviewURL": "pix/itch/vrJ+oe.png",
     "linksArray": [
         {"type": "primary", "url": "https://studioguma.itch.io/game-boy-of-life", "displayText": "Info"},
@@ -762,7 +762,7 @@ const jsonGalleryItemsItch = [
     "featuredPriority": 2,
     "isMultiPlatform": false,
     "isOpenSource": true,
-    "licenseType": "MIT",
+    "licenseType": "GPL3",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
