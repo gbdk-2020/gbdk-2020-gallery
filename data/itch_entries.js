@@ -380,7 +380,7 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/IPBYPo.png",
     "linksArray": [
         {"type": "primary", "url": "https://user0x7f.itch.io/gunship-dx-gbc",          "displayText": "Info"},
-        {"type": "source" , "url": "https://incube8games.com/products/gunship-dx-gbc", "displayText": "Cart"},
+        {"type": "store" , "url": "https://incube8games.com/products/gunship-dx-gbc", "displayText": "Cart"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Shooter",
@@ -413,7 +413,7 @@ const jsonGalleryItemsItch = [
     "isMultiPlatform": false,
     "isOpenSource": true,
     "licenseType": "Unknown",
-    "isFreeDownload": false,
+    "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
@@ -437,7 +437,7 @@ const jsonGalleryItemsItch = [
     "isMultiPlatform": false,
     "isOpenSource": true,
     "licenseType": "",
-    "isFreeDownload": false,
+    "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
@@ -461,7 +461,7 @@ const jsonGalleryItemsItch = [
     "isMultiPlatform": false,
     "isOpenSource": true,
     "licenseType": "",
-    "isFreeDownload": false,
+    "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
@@ -1808,7 +1808,7 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/EPOP7D.png",
     "linksArray": [
         {"type": "primary", "url": "https://kabcorp.itch.io/borruga", "displayText": "Info"},
-        {"type": "info", "url": "https://shop.insidegadgets.com/product/borruga/", "displayText": "Cart"},
+        {"type": "store", "url": "https://shop.insidegadgets.com/product/borruga/", "displayText": "Cart"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
@@ -1978,7 +1978,7 @@ const jsonGalleryItemsItch = [
     "linksArray": [
         {"type": "primary", "url": "https://user0x7f.itch.io/genesis",                 "displayText": "Info"},
         {"type": "source",  "url": "https://gbdev.gg8.se/forums/viewtopic.php?id=674", "displayText": "Source"},
-        {"type": "info",    "url": "https://incube8games.com/products/genesis-gb",     "displayText": "Cart"}
+        {"type": "store",    "url": "https://incube8games.com/products/genesis-gb",     "displayText": "Cart"}
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Shooter",
@@ -2002,7 +2002,7 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/7lGKk_.png",
     "linksArray": [
         {"type": "primary", "url": "https://untoxa.itch.io/color-lines", "displayText": "Info"},
-        {"type": "info",    "url": "https://ferrantecrafts.com/products/color-lines-dx", "displayText": "Cart"},
+        {"type": "store",    "url": "https://ferrantecrafts.com/products/color-lines-dx", "displayText": "Cart"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
@@ -2027,7 +2027,7 @@ const jsonGalleryItemsItch = [
     "linksArray": [
         {"type": "primary", "url": "https://user0x7f.itch.io/black-castle",                "displayText": "Info"},
         {"type": "source", "url": "https://gbdev.gg8.se/forums/viewtopic.php?id=743&p=2", "displayText": "Source"},
-        {"type": "info", "url": "https://ferrantecrafts.com/products/black-castle",     "displayText": "Cart"}
+        {"type": "store", "url": "https://ferrantecrafts.com/products/black-castle",     "displayText": "Cart"}
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
@@ -2051,7 +2051,7 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/pyaa7T.png",
     "linksArray": [
         {"type": "primary", "url": "https://user0x7f.itch.io/gunship", "displayText": "Info"},
-        {"type": "info", "url": "https://incube8games.com/collections/lite/products/gunship-gb-lite-edition", "displayText": "Cart"},
+        {"type": "store", "url": "https://incube8games.com/collections/lite/products/gunship-gb-lite-edition", "displayText": "Cart"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Shooter",
@@ -2076,7 +2076,7 @@ const jsonGalleryItemsItch = [
     "linksArray": [
         {"type": "primary", "url": "https://user0x7f.itch.io/g-zero", "displayText": "Info"},
         {"type": "source", "url": "https://github.com/gbdev/gbcompo21/tree/6e4c5936ca9389aabea09780ddaf976f9004c088/entries/G-ZERO%20GB", "displayText": "Source"},
-        {"type": "info", "url": "https://ferrantecrafts.com/products/g-zero",     "displayText": "Cart"}
+        {"type": "store", "url": "https://ferrantecrafts.com/products/g-zero",     "displayText": "Cart"}
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Racing",
@@ -2504,7 +2504,7 @@ const jsonGalleryItemsItch = [
     "linksArray": [
         {"type": "primary", "url": "https://bbbbbr.itch.io/petris", "displayText": "Info"},
         {"type": "source", "url": "https://github.com/bbbbbr/Petris", "displayText": "Source"},
-        {"type": "info", "url": "https://ferrantecrafts.com/products/petris", "displayText": "Cart"},
+        {"type": "store", "url": "https://ferrantecrafts.com/products/petris", "displayText": "Cart"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
@@ -2529,7 +2529,7 @@ const jsonGalleryItemsItch = [
     "linksArray": [
         {"type": "primary", "url": "https://bbbbbr.itch.io/gb-wordyl", "displayText": "Info"},
         {"type": "source", "url": "https://github.com/bbbbbr/gb-wordyl", "displayText": "Source"},
-        {"type": "info", "url": "https://ferrantecrafts.com/products/gb-wordyl", "displayText": "Cart"},
+        {"type": "store", "url": "https://ferrantecrafts.com/products/gb-wordyl", "displayText": "Cart"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
@@ -4001,6 +4001,30 @@ const jsonGalleryItemsItch = [
     "supportsLinkPlay": false,
     "yearFirstReleased": "2024",
     "dateAdded": "2024-07-29"
+},
+
+{
+    "authorName": "Jonas Fischbach",
+    "itemTitle": "Retroid",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/retroid.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://jonas-fischbach.itch.io/retroid", "displayText": "Info"},
+        {"type": "info", "url": "https://the-green-screen.com/292-2/#welcome", "displayText": "Info v2"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": true,
+    "isClassicGBDK": true,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2016",
+    "dateAdded": "2024-08-03"
 },
 
 ];
