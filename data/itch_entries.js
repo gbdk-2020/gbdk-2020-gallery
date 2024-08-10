@@ -4027,4 +4027,28 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2024-08-03"
 },
 
+{
+    "authorName": "VL2M STUDIO",
+    "itemTitle": "MAZWOR",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/mazwor.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://vl2m-studio.itch.io/mazwor-first-encounter", "displayText": "Info"},
+        {"type": "info", "url": "https://gamejolt.com/games/mazwor-first-encounter/917287", "displayText": "Info v2"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-08-09"
+},
+
 ];

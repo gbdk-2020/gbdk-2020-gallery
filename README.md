@@ -15,21 +15,22 @@ To submit a game or program, either :
 - itemTitle: Quoted, Game Title
 - shortDescription: Quoted, A short 4-10 word description. Try to avoid saying: "for the Game Boy"/etc.
 - imagePreviewURL: Quoted, A 320 x 288 PNG format screenshot. Relative path and image should be in a suitable "pix/" sub-folder. 
-- linksArray:
-  - url: Quoted, "https://url_to_main_website"
-  - url: Quoted, "https://url_to_store"                (OPTIONAL, if there is a Physical Release)
-  - url: Quoted, "https://url_to_source_code_OPTIONAL" (OPTIONAL, if source code is available)
+- linksArray: JSON array of link entries, with each entry having one of the following: 
+  - type: Quoted, Examples: "primary", "store", "source", "info"
+  - url: Quoted, Example: "https://url_to_main_website"
+  - displayText: Quoted, Examples: "Info" (for primary), "Cart" (for store), "Source" (for source), "Info v2" (for secondary links)
 - categoryTags: Quoted, Comma-space separated list of tags: Camera, Demoscene, Engine, Game, Music, Simulation, Techdemo, Tool
 - gametypeTags: Quoted, Comma-space separated list of tags: Action, Adventure, Art, Card Game, Demoscene, Engine, Fighting, GameBoy Camera, GameBoy Printer, Idle, Microgames, Music, Platformer, Programming, Puzzle, Racing, Rhythm, Role Playing, Shooter, Simulation, Sports, Strategy, Survival, Testing, Tool, VirtualPet, Visual Novel
 - platformTags: Quoted, Comma-space separated list of tags: GameBoy, GameBoyColor, SuperGameBoy, MegaDuck, AnaloguePocket, GameGear, SMS, NES
 - featuredPriority: 0
 - isMultiPlatform: true/false: Does it have a build for more than one of each group: (gb/gbc/ap/duck), (sms/gg), (nes)
 - isOpenSource: true/false,
-- licenseType: Quoted, License type, examples are: "MIT", "GPL", "Unlicense", etc.
+- licenseType: Quoted, License type, examples are: "MIT", "GPL", "Unlicense", "" (blank) etc. 
 - isFreeDownload: true/false,
 - hasPhysicalRelease: true/false,
 - isClassicGBDK: true/false,
 - supportsLinkPlay: true/false,
 - yearFirstReleased: Quoted, Example: "2021"
+- "dateAdded": Quoted, Example: "2024-08-01"
 
 
