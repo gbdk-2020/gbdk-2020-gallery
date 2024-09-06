@@ -132,7 +132,7 @@ const jsonGalleryItemsManual = [
                 ],
     "categoryTags": "Camera",
     "gameTypeTags": "GameBoy Camera",
-    "platformTags": "GameBoy, GameBoyColor",
+    "platformTags": "GameBoy, GameBoyColor, MegaDuck",
     "featuredPriority": 10,
     "isMultiPlatform": false,
     "isOpenSource": true,
