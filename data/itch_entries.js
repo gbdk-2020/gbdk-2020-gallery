@@ -4051,4 +4051,50 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2024-08-09"
 },
 
+{
+    "authorName": "Kyuchumimo",
+    "itemTitle": "Follow the Leader GB",
+    "shortDescription": "Portable video game of short-term memory skill",
+    "imagePreviewURL": "pix/itch/follow_the_leader-gb.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://kyuchumimo.itch.io/follow-the-leader-gb", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Memory",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-09-16"
+},
+
+{
+    "authorName": "gbswl",
+    "itemTitle": "HordeGBC",
+    "shortDescription": "An action-puzzle game",
+    "imagePreviewURL": "pix/itch/horde.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://gbswl.itch.io/hordegbc", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-09-16"
+},
+
 ];
