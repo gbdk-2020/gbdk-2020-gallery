@@ -1537,8 +1537,8 @@ const jsonGalleryItemsItch = [
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
-    "isFreeDownload": true,
     "hasPhysicalRelease": false,
+    "isFreeDownload": true,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
     "yearFirstReleased": "2017",
@@ -4095,6 +4095,52 @@ const jsonGalleryItemsItch = [
     "supportsLinkPlay": false,
     "yearFirstReleased": "2024",
     "dateAdded": "2024-09-16"
+},
+
+{
+    "authorName": "Bownly",
+    "itemTitle": "Double Dyad",
+    "shortDescription": "It's basically Triple Triad",
+    "imagePreviewURL": "pix/itch/doubledyad.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://bownly.itch.io/double-dyad", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Card Game",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-09-23"
+},
+
+{
+    "authorName": "Adrián JG",
+    "itemTitle": "Wandering Slime Demo",
+    "shortDescription": "A brand new adventure RPG",
+    "imagePreviewURL": "pix/itch/wanderingslime.jpg",
+    "linksArray": [
+        {"type": "primary", "url": "https://adrianjg.itch.io/wandering-slime/devlog/803474/wandering-slime-demo-now-available", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Role Playing",
+    "platformTags": "GameBoy",
+    "featuredPriority": 6,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-09-23"
 },
 
 ];
