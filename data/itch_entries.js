@@ -3957,6 +3957,29 @@ const jsonGalleryItemsItch = [
 },
 
 {
+    "authorName": "Bipedal Studios",
+    "itemTitle": "Galacard Platinum",
+    "shortDescription": "Play cards against aliens once again, now on Game Boy Color!",
+    "imagePreviewURL": "pix/itch/galacard_platinum.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://bipedal-studios.itch.io/galacard-platinum", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Card Game",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 6,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-10-06"
+},
+
+{
     "authorName": "bbbbbr",
     "itemTitle": "Game Boy Blue Screen of Death (BSOD)",
     "shortDescription": "Blue Screen of Death simulator",
