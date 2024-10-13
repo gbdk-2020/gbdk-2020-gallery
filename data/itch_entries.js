@@ -900,7 +900,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
-    "featuredPriority": 3,
+    "featuredPriority": 4,
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
@@ -3967,7 +3967,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Card Game",
     "platformTags": "GameBoyColor",
-    "featuredPriority": 6,
+    "featuredPriority": 5,
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
@@ -3976,7 +3976,30 @@ const jsonGalleryItemsItch = [
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
     "yearFirstReleased": "2024",
-    "dateAdded": "2024-10-06"
+    "dateAdded": "2024-10-7"
+},
+
+{
+    "authorName": "Bipedal Studios, Kyuchumimo",
+    "itemTitle": "Crystal Clear",
+    "shortDescription": "Match crystals and create chains",
+    "imagePreviewURL": "pix/itch/crystal_clear.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://bipedal-studios.itch.io/crystal-clear", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-10-12"
 },
 
 {
