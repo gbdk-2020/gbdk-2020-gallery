@@ -972,7 +972,7 @@ const jsonGalleryItemsManual = [
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
-    "featuredPriority": 3,
+    "featuredPriority": 4,
     "isMultiPlatform": false,
     "isOpenSource": true,
     "licenseType": "Unknown",
@@ -1536,5 +1536,54 @@ const jsonGalleryItemsManual = [
     "yearFirstReleased": "2020",
     "dateAdded": "2024-07-14"
 },
+
+{
+    "authorName": "mmuszkow",
+    "itemTitle": "gbprinter",
+    "shortDescription": "Game Boy Printer test ROM",
+    "imagePreviewURL": "pix/tools/gbprinter.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/mmuszkow/gbprinter", "displayText": "Info"},
+        {"type": "source" , "url": "https://github.com/mmuszkow/gbprinter", "displayText": "Source"},
+                ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "GameBoy Printer",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2019",
+    "dateAdded": "2024-11-07"
+},
+
+{
+    "authorName": "mmuszkow",
+    "itemTitle": "2048-gb",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/mm-2048.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/mmuszkow/2048-gb", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/mmuszkow/2048-gb", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "Unlicense",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2019",
+    "dateAdded": "2024-11-07"
+},
+
 
 ];
