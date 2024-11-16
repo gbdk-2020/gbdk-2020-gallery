@@ -194,4 +194,11 @@ function addFilterUpdateHooks() {
     elCopyLinkButton.addEventListener('click', () => {
             copyTextToClipboard(window.location.href);
         });
+
+    // What's New button
+    let elWhatsNewButton = document.querySelector('#whatsNewButton');
+    elWhatsNewButton.addEventListener('click', () => {
+            document.getElementById('sortSelector').value = "Recently Added";
+            applyFilters();
+        });
 }
