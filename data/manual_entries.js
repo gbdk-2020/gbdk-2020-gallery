@@ -274,7 +274,7 @@ const jsonGalleryItemsManual = [
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
-    "featuredPriority": 8,
+    "featuredPriority": 7,
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
@@ -288,8 +288,8 @@ const jsonGalleryItemsManual = [
 
 {
     "authorName": "ModRetro",
-    "itemTitle": "Tetris",
-    "shortDescription": "",
+    "itemTitle": "Chromatic Tetris",
+    "shortDescription": "Pack-in cart for Chromatic GB clone console",
     "imagePreviewURL": "pix/games/modretro_tetris.png",
     "linksArray": [
         {"type": "primary", "url": "https://modretro.com/products/tetris", "displayText": "Info"},
@@ -297,8 +297,8 @@ const jsonGalleryItemsManual = [
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
-    "platformTags": "ChromaticGBC",
-    "featuredPriority": 5,
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 10,
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
@@ -1583,6 +1583,55 @@ const jsonGalleryItemsManual = [
     "supportsLinkPlay": false,
     "yearFirstReleased": "2019",
     "dateAdded": "2024-11-07"
+},
+
+
+{
+    "authorName": "orangeglo",
+    "itemTitle": "Orange FM Radio Cart",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/tools/orangefm.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://orangeglo.github.io/orangefm/", "displayText": "Info"},
+        {"type": "store",  "url": "https://shop.insidegadgets.com/product/orangefm/", "displayText": "Cart"},
+                ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Radio",
+    "platformTags": "GameBoy",
+    "featuredPriority": 10,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": true,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2019",
+    "dateAdded": "2024-12-12"
+},
+
+{
+    "authorName": "orangeglo",
+    "itemTitle": "Better Button Test",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/tools/betterbuttontest.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/orangeglo/better-button-test",   "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/orangeglo/better-button-test", "displayText": "Source"},
+                ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Testing",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "GPL",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "yearFirstReleased": "2023",
+    "dateAdded": "2024-12-12"
 },
 
 

@@ -550,7 +550,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy, GameGear, SMS",
-    "featuredPriority": 10,
+    "featuredPriority": 9,
     "isMultiPlatform": true,
     "isOpenSource": false,
     "licenseType": "",
@@ -947,7 +947,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Simulation",
     "gameTypeTags": "VirtualPet",
     "platformTags": "GameBoyColor",
-    "featuredPriority": 5,
+    "featuredPriority": 7,
     "isMultiPlatform": false,
     "isOpenSource": true,
     "licenseType": "CC-BY-NC-SA",
@@ -1851,7 +1851,7 @@ const jsonGalleryItemsItch = [
 
 {
     "authorName": "Kabcorp",
-    "itemTitle": "8bit Sunset",
+    "itemTitle": "8bit Sunset Chiptune Album",
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/L9zeA4.png",
     "linksArray": [
@@ -2484,7 +2484,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Tool",
     "gameTypeTags": "Testing",
     "platformTags": "GameBoy, AnaloguePocket, MegaDuck",
-    "featuredPriority": 0,
+    "featuredPriority": 3,
     "isMultiPlatform": false,
     "isOpenSource": true,
     "licenseType": "GPL",
