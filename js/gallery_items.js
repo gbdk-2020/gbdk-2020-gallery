@@ -95,6 +95,7 @@ function createGalleryItems(galleryItems) {
         metaDiv.className = 'itemMeta';
         // Attach the cards
         item.platformTags.split(', ').forEach(tag => { appendSpan(tag,  "itemMetaPlatforms",    metaDiv); });
+        item.hardwareFeatureTags.split(', ').forEach(tag => { appendSpan(tag,  "itemMetahardwareFeatureTags",    metaDiv); });
         if (item.isOpenSource === true)       appendSpan("Open Source", "itemMetaOpenSource",   metaDiv);
         if (item.supportsLinkPlay === true)   appendSpan("Link Play",   "itemMetaSupportsLink", metaDiv);
         if (item.hasPhysicalRelease === true) appendSpan("Cart Release","itemMetaCartRelease",  metaDiv);
@@ -103,12 +104,12 @@ function createGalleryItems(galleryItems) {
 
 
         // Attach metadata to entries
-        const tags = ['categoryTags', 'gameTypeTags', 'platformTags'];
+        const tags = ['categoryTags', 'gameTypeTags', 'platformTags', 'hardwareFeatureTags'];
         tags.forEach(tag => {
             const tagValue = item[tag];
-            if (tagValue) {
+            //if (tagValue) {
                 itemDiv.dataset[tag] = tagValue;
-            }
+            //}
         });
         if (item.isOpenSource === true)       itemDiv.dataset["isOpenSource"] = "";
         if (item.supportsLinkPlay === true)   itemDiv.dataset["supportsLinkPlay"] = "";

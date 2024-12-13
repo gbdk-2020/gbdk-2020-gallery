@@ -20,6 +20,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "supportsLinkPlay": true,
+    "hardwareFeatureTags": "Link Port",
     "yearFirstReleased": "2021",
     "dateAdded": "2024-07-01"
 },
@@ -44,6 +45,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2017",
     "dateAdded": "2024-07-01"
 },
@@ -69,6 +71,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-01"
 },
@@ -93,6 +96,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-01"
 },
@@ -117,6 +121,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "GameBoy Camera, Link Port",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-01"
 },
@@ -141,6 +146,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "GameBoy Camera, Link Port, IR Sensor",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-01"
 },
@@ -164,6 +170,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2015",
     "dateAdded": "2024-07-01"
 },
@@ -188,6 +195,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2024",
     "dateAdded": "2024-07-01"
 },
@@ -212,6 +220,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
     "dateAdded": "2024-07-01"
 },
@@ -235,6 +244,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2020",
     "dateAdded": "2024-07-01"
 },
@@ -258,6 +268,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2020",
     "dateAdded": "2024-07-01"
 },
@@ -282,6 +293,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2024",
     "dateAdded": "2024-07-01"
 },
@@ -306,6 +318,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "supportsLinkPlay": true,
+    "hardwareFeatureTags": "Link Port",
     "yearFirstReleased": "2024",
     "dateAdded": "2024-07-01"
 },
@@ -331,6 +344,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2024",
     "dateAdded": "2024-07-01"
 },
@@ -355,6 +369,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "GameBoy Printer",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-01"
 },
@@ -379,6 +394,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": true,
+    "hardwareFeatureTags": "Link Port",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-01"
 },
@@ -403,6 +419,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-01"
 },
@@ -427,6 +444,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
     "dateAdded": "2024-07-01"
 },
@@ -450,6 +468,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-01"
 },
@@ -473,6 +492,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
     "dateAdded": "2024-07-01"
 },
@@ -496,6 +516,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
     "dateAdded": "2024-07-01"
 },
@@ -520,6 +541,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2024",
     "dateAdded": "2024-07-01"
 },
@@ -544,6 +566,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2016",
     "dateAdded": "2024-07-01"
 },
@@ -568,6 +591,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
     "dateAdded": "2024-07-01"
 },
@@ -592,6 +616,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2016",
     "dateAdded": "2024-07-01"
 },
@@ -616,6 +641,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2014",
     "dateAdded": "2024-07-01"
 },
@@ -639,6 +665,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2016",
     "dateAdded": "2024-07-01"
 },
@@ -664,6 +691,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-01"
 },
@@ -689,6 +717,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-01"
 },
@@ -714,6 +743,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-01"
 },
@@ -739,6 +769,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-01"
 },
@@ -763,6 +794,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
     "dateAdded": "2024-07-01"
 },
@@ -787,6 +819,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
     "dateAdded": "2024-07-01"
 },
@@ -811,6 +844,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
     "dateAdded": "2024-07-01"
 },
@@ -835,6 +869,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2024",
     "dateAdded": "2024-07-01"
 },
@@ -860,6 +895,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-01"
 },
@@ -884,6 +920,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
     "dateAdded": "2024-07-01"
 },
@@ -908,6 +945,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
     "dateAdded": "2024-07-01"
 },
@@ -932,6 +970,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-01"
 },
@@ -956,6 +995,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
     "dateAdded": "2024-07-01"
 },
@@ -980,6 +1020,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-01"
 },
@@ -1004,6 +1045,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-01"
 },
@@ -1028,6 +1070,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2020",
     "dateAdded": "2024-07-01"
 },
@@ -1052,6 +1095,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
     "dateAdded": "2024-07-01"
 },
@@ -1076,6 +1120,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
     "dateAdded": "2024-07-01"
 },
@@ -1100,6 +1145,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
     "dateAdded": "2024-07-01"
 },
@@ -1124,6 +1170,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2014",
     "dateAdded": "2024-07-01"
 },
@@ -1148,6 +1195,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "MBC3 RTC",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-01"
 },
@@ -1172,6 +1220,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-01"
 },
@@ -1196,6 +1245,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
     "dateAdded": "2024-07-01"
 },
@@ -1220,6 +1270,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
     "dateAdded": "2024-07-01"
 },
@@ -1244,6 +1295,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
     "dateAdded": "2024-07-08"
 },
@@ -1267,6 +1319,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
     "dateAdded": "2024-07-08"
 },
@@ -1291,6 +1344,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2020",
     "dateAdded": "2024-07-08"
 },
@@ -1315,6 +1369,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
     "dateAdded": "2024-07-08"
 },
@@ -1340,6 +1395,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2004",
     "dateAdded": "2024-07-08"
 },
@@ -1365,6 +1421,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2001",
     "dateAdded": "2024-07-08"
 },
@@ -1389,6 +1446,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2017",
     "dateAdded": "2024-07-08"
 },
@@ -1413,6 +1471,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-08"
 },
@@ -1437,6 +1496,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2024",
     "dateAdded": "2024-07-13"
 },
@@ -1461,6 +1521,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
     "dateAdded": "2024-07-13"
 },
@@ -1485,6 +1546,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
     "dateAdded": "2024-07-13"
 },
@@ -1509,6 +1571,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2020",
     "dateAdded": "2024-07-13"
 },
@@ -1533,6 +1596,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2020",
     "dateAdded": "2024-07-14"
 },
@@ -1557,6 +1621,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "GameBoy Printer",
     "yearFirstReleased": "2019",
     "dateAdded": "2024-11-07"
 },
@@ -1581,6 +1646,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
     "dateAdded": "2024-11-07"
 },
@@ -1606,6 +1672,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "FM Radio Cart",
     "yearFirstReleased": "2019",
     "dateAdded": "2024-12-12"
 },
@@ -1630,6 +1697,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
     "dateAdded": "2024-12-12"
 },
