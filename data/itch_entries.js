@@ -4479,13 +4479,37 @@ const jsonGalleryItemsItch = [
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
-    "isFreeDownload": false,
+    "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
     "dateAdded": "2024-11-07"
+},
+
+{
+    "authorName": "BlueCop",
+    "itemTitle": "GBC-Remote",
+    "shortDescription": "Learning IR remote control for the Game Boy Color",
+    "imagePreviewURL": "pix/itch/bluecop_irremote.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://bluecop.itch.io/gbc-remote", "displayText": "Info"},
+                ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Remote Control",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 7,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "hardwareFeatureTags": "IR Sensor",
+    "yearFirstReleased": "2021",
+    "dateAdded": "2024-12-12"
 },
 
 ];
