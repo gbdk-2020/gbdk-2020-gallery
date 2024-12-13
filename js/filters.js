@@ -64,6 +64,11 @@ function resetFilters() {
 }
 
 
+
+function namedFilterAll(descripText) {
+    return "<option selected value=\"" + FILTER_ALL + "\">" + FILTER_ALL + " " + descripText + "</option>";
+}
+
 // Create filter entries based on attributes of all gallery items
 function populateFilters(galleryItems) {
     const categoryTagsSet  = new Set();
@@ -71,7 +76,6 @@ function populateFilters(galleryItems) {
     const platformsTagsSet = new Set();
     const hardwareFeatureTagsSet = new Set();
     const yearReleasedSet  = new Set();
-    const filterAll = "<option selected value=\"" + FILTER_ALL + "\">" + FILTER_ALL + "</option>";
 
     // Parse the JSON gallery entries and extract tags from them
     galleryItems.forEach(item => {
@@ -91,11 +95,11 @@ function populateFilters(galleryItems) {
     const hardwareFeatureTagsOptions = Array.from(hardwareFeatureTagsSet).map(tag => `<option value="${tag}">${tag}</option>`).sort().join('');
 
     // And attach them to the multi-select controls
-    document.getElementById('categoryTagsFilter').innerHTML = filterAll + categoryOptions;
-    document.getElementById('gameTypeTagsFilter').innerHTML = filterAll + gameTypeOptions;
-    document.getElementById('platformTagsFilter').innerHTML = filterAll + platformOptions;
-    document.getElementById('yearReleasedFilter').innerHTML = filterAll + yearReleasedOptions;
-    document.getElementById('hardwareFeatureTagsFilter').innerHTML = filterAll + hardwareFeatureTagsOptions;
+    document.getElementById('categoryTagsFilter').innerHTML = namedFilterAll("Categories") + categoryOptions;
+    document.getElementById('gameTypeTagsFilter').innerHTML = namedFilterAll("Genres") + gameTypeOptions;
+    document.getElementById('platformTagsFilter').innerHTML = namedFilterAll("Platforms") + platformOptions;
+    document.getElementById('yearReleasedFilter').innerHTML = namedFilterAll("Years") + yearReleasedOptions;
+    document.getElementById('hardwareFeatureTagsFilter').innerHTML = namedFilterAll("Hardware Features") + hardwareFeatureTagsOptions;
 
     // Sorting options
     const sortOptions = SORT_OPTIONS.map(sortType => `<option value="${sortType}">${sortType}</option>`).join('');

@@ -1673,7 +1673,7 @@ const jsonGalleryItemsManual = [
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
     "hardwareFeatureTags": "FM Radio Cart",
-    "yearFirstReleased": "2019",
+    "yearFirstReleased": "2024",
     "dateAdded": "2024-12-12"
 },
 
