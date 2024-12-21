@@ -4198,6 +4198,31 @@ const jsonGalleryItemsItch = [
 },
 
 {
+    "authorName": "bbbbbr",
+    "itemTitle": "Game Boy Color Bar and Wheel Test ROM",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/tools/gbc_colorbars.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://https://bbbbbr.itch.io/gbc-colorbars", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/bbbbbr/gbc_colorbars", "displayText": "Source"},
+                ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Testing",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "GPL",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-12-21"
+},
+
+{
     "authorName": "User0x7f",
     "itemTitle": "G-ZERO World GP",
     "shortDescription": "",
