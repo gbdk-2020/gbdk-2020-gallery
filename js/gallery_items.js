@@ -95,7 +95,7 @@ function createGalleryItems(galleryItems) {
         metaDiv.className = 'itemMeta';
         // Attach the cards
         item.platformTags.split(', ').forEach(tag => { appendSpan(tag,  "itemMetaPlatforms",    metaDiv); });
-        item.hardwareFeatureTags.split(', ').forEach(tag => { appendSpan(tag,  "itemMetaHardwareFeatures",    metaDiv); });
+        if (item.hardwareFeatureTags !== '')  item.hardwareFeatureTags.split(', ').forEach(tag => { appendSpan(tag,  "itemMetaHardwareFeatures",    metaDiv); });
         if (item.isOpenSource === true)       appendSpan("Open Source", "itemMetaOpenSource",   metaDiv);
         if (item.supportsLinkPlay === true)   appendSpan("Link Play",   "itemMetaSupportsLink", metaDiv);
         if (item.hasPhysicalRelease === true) appendSpan("Cart Release","itemMetaCartRelease",  metaDiv);
