@@ -4537,4 +4537,53 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2024-12-12"
 },
 
+{
+    "authorName": "Hylke Bons",
+    "itemTitle": "Scrubby Scramble",
+    "shortDescription": "Scramble to collect leaves before winter!",
+    "imagePreviewURL": "pix/itch/scrubbyscramble.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://hbons.itch.io/scrubby-scramble", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "NES",
+    "featuredPriority": 7,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-12-24"
+},
+
+{
+    "authorName": "dgc1980",
+    "itemTitle": "Game Boy Battery Test",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/batterytest.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://dgc1980.itch.io/gb-battery", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/dgc1980/gb-battery", "displayText": "Source"},
+                ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Battery Test",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "hardwareFeatureTags": "MBC3 RTC",
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-12-24"
+},
+
 ];
