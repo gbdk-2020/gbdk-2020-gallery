@@ -4571,7 +4571,7 @@ const jsonGalleryItemsItch = [
         {"type": "source", "url": "https://github.com/dgc1980/gb-battery", "displayText": "Source"},
                 ],
     "categoryTags": "Tool",
-    "gameTypeTags": "Battery Test",
+    "gameTypeTags": "Testing",
     "platformTags": "GameBoy",
     "featuredPriority": 4,
     "isMultiPlatform": false,
@@ -4584,6 +4584,54 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "MBC3 RTC",
     "yearFirstReleased": "2024",
     "dateAdded": "2024-12-24"
+},
+
+{
+    "authorName": "BriG78cx",
+    "itemTitle": "GemDash GB",
+    "shortDescription": "Maze Game",
+    "imagePreviewURL": "pix/itch/ringdashgb.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://brig78cx.itch.io/gemdash-gb", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Maze",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-12-26"
+},
+
+{
+    "authorName": "BriG78cx",
+    "itemTitle": "GemDash GBC",
+    "shortDescription": "Maze Gane",
+    "imagePreviewURL": "pix/itch/ringdashgbc.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://brig78cx.itch.io/gemdash-gbc", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Maze",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-12-26"
 },
 
 ];
