@@ -930,7 +930,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Bipedal Studios",
     "itemTitle": "Anctrayl",
-    "shortDescription": "​Blast through twelve levels of box pushing action!",
+    "shortDescription": "​Blast through twelve levels of box pushing energy snake action!",
     "imagePreviewURL": "pix/itch/1o7eDX.png",
     "linksArray": [
         {"type": "primary", "url": "https://bipedal-studios.itch.io/anctrayl", "displayText": "Info"},
@@ -4613,7 +4613,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "BriG78cx",
     "itemTitle": "GemDash GBC",
-    "shortDescription": "Maze Gane",
+    "shortDescription": "Maze Game",
     "imagePreviewURL": "pix/itch/ringdashgbc.png",
     "linksArray": [
         {"type": "primary", "url": "https://brig78cx.itch.io/gemdash-gbc", "displayText": "Info"},
@@ -4633,5 +4633,54 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2024",
     "dateAdded": "2024-12-26"
 },
+
+{
+    "authorName": "BriG78cx",
+    "itemTitle": "GemDash SMS",
+    "shortDescription": "Maze Game",
+    "imagePreviewURL": "pix/itch/gemdashsms.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://brig78cx.itch.io/gemdash-sms", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Maze",
+    "platformTags": "SMS",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-12-30"
+},
+
+{
+    "authorName": "Bipedal Studios",
+    "itemTitle": "Return to Anctrayl",
+    "shortDescription": "Box-pushing energy snake",
+    "imagePreviewURL": "pix/itch/returntoanctrayl.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://bipedal-studios.itch.io/return-to-anctrayl", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "NES",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-12-30"
+},
+
 
 ];
