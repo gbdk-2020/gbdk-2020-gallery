@@ -345,7 +345,7 @@ const jsonGalleryItemsManual = [
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
     "hardwareFeatureTags": "",
-    "yearFirstReleased": "2024",
+    "yearFirstReleased": "2025",
     "dateAdded": "2024-07-01"
 },
 
