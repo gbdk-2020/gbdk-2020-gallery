@@ -23,3 +23,12 @@ document.addEventListener('DOMContentLoaded', () => {
     addFilterUpdateHooks();
     applyFilters();
 });
+
+// Triggered on Forward/Back Navigation button presses
+// Uses the states pushed into browser history distinctly changed urls in urlSetFilters()
+window.addEventListener("popstate", (event) => {
+    // Read the restored URL state and apply it to the UI controls and filtering
+    urlGetFilters();
+    applyFilters();
+});
+

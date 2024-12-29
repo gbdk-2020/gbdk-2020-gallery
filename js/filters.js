@@ -4,6 +4,7 @@ function urlSetFilters() {
 
     // Get current URL, update the params and then use it to replace the current url
     let url = new URL(window.location);
+    let prevHref = url.href;  // Save current href for detecting change and so triggering a new nav state entry
 
     url.searchParams.set('categoryTags', document.getElementById('categoryTagsFilter').value);
     url.searchParams.set('gameTypeTags', document.getElementById('gameTypeTagsFilter').value);
@@ -20,6 +21,12 @@ function urlSetFilters() {
 
     url.searchParams.set('sortSelector',   document.getElementById('sortSelector').value);
 
+    // If the URL changed (meaning filters changed then create a navigation state before applying the update
+    if (url.href !== prevHref) {
+        window.history.pushState( null, window.title, window.location );
+    }
+
+    // Now apply the updated url to the window
     window.history.replaceState(null, "", url.href);
 }
 
