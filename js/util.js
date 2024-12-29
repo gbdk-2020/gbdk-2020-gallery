@@ -2,10 +2,10 @@
 
 // Attach a small text span to the parent dive with a class name
 function appendSpan(text, className, parentEl) {
-            const spanElement = document.createElement('span');
-            spanElement.textContent = text;
-            spanElement.className = className;
-            parentEl.appendChild(spanElement);
+    const spanElement = document.createElement('span');
+    spanElement.textContent = text;
+    spanElement.className = className;
+    return parentEl.appendChild(spanElement);
 }
 
 

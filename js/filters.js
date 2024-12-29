@@ -130,7 +130,7 @@ function checkMultiSelectFilter(filterName, filterTagsSelected, item) {
 // Update displayed items based on their metadata and the filters
 function applyFilters() {
 
-    // If sorting changed then update sort method and do a reload 
+    // If sorting changed then update sort method and do a reload
     if (gallerySorting !== document.getElementById('sortSelector').value) {
         gallerySorting = document.getElementById('sortSelector').value;
 
@@ -147,7 +147,7 @@ function applyFilters() {
     const cartReleaseOnly   = document.getElementById('cartReleaseFilter').checked;
     const multiPlatformOnly = document.getElementById('multiPlatformFilter').checked;
     const yearReleasedMatch = document.getElementById('yearReleasedFilter').value;
-    const textSearchMatch   = document.getElementById('textSearch').value;    
+    const textSearchMatch   = document.getElementById('textSearch').value;
     const items = document.querySelectorAll('.gallery_grid_item');
 
 
@@ -218,5 +218,17 @@ function addFilterUpdateHooks() {
     elWhatsNewButton.addEventListener('click', () => {
             document.getElementById('sortSelector').value = "Recently Added";
             applyFilters();
+        });
+}
+
+function attachClickFilter(element, filter_element_id, filtervalue) {
+    element.addEventListener('click', () => {
+            let elFilter = document.getElementById(filter_element_id);
+            if (elFilter.type && elFilter.type === 'checkbox')
+                elFilter.checked = filtervalue;
+            else
+                elFilter.value = filtervalue;
+            applyFilters();
+            return false;
         });
 }

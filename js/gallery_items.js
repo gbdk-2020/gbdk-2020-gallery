@@ -94,11 +94,15 @@ function createGalleryItems(galleryItems) {
         const metaDiv = document.createElement('div');
         metaDiv.className = 'itemMeta';
         // Attach the cards
-        item.platformTags.split(', ').forEach(tag => { appendSpan(tag,  "itemMetaPlatforms",    metaDiv); });
-        if (item.hardwareFeatureTags !== '')  item.hardwareFeatureTags.split(', ').forEach(tag => { appendSpan(tag,  "itemMetaHardwareFeatures",    metaDiv); });
-        if (item.isOpenSource === true)       appendSpan("Open Source", "itemMetaOpenSource",   metaDiv);
-        if (item.supportsLinkPlay === true)   appendSpan("Link Play",   "itemMetaSupportsLink", metaDiv);
-        if (item.hasPhysicalRelease === true) appendSpan("Cart Release","itemMetaCartRelease",  metaDiv);
+        item.platformTags.split(', ').forEach(tag => {
+            attachClickFilter( appendSpan(tag,  "itemMetaPlatforms",    metaDiv), "platformTagsFilter", tag);
+        });
+        if (item.hardwareFeatureTags !== '')  item.hardwareFeatureTags.split(', ').forEach(tag => {
+            attachClickFilter( appendSpan(tag, "itemMetaHardwareFeatures", metaDiv), "hardwareFeatureTagsFilter", tag);
+        });
+        if (item.isOpenSource === true)       attachClickFilter( appendSpan("Open Source", "itemMetaOpenSource",   metaDiv), "openSourceFilter", item.isOpenSource);
+        if (item.supportsLinkPlay === true)   attachClickFilter( appendSpan("Link Play",   "itemMetaSupportsLink", metaDiv), "linkPlayFilter", item.supportsLinkPlay);
+        if (item.hasPhysicalRelease === true) attachClickFilter( appendSpan("Cart Release","itemMetaCartRelease",  metaDiv), "cartReleaseFilter", item.hasPhysicalRelease);
         // if (item.isMultiPlatform === true) appendSpan("MultiPlatform","itemMetaMultiPlatform",  metaDiv);
         itemContainer.appendChild(metaDiv);
 
