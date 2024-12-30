@@ -146,7 +146,7 @@ const jsonGalleryItemsManual = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
-    "hardwareFeatureTags": "GameBoy Camera, Link Port, IR Sensor",
+    "hardwareFeatureTags": "GameBoy Camera, Link Port, IR Sensor, GameBoy Printer",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-01"
 },
@@ -196,7 +196,7 @@ const jsonGalleryItemsManual = [
     "isClassicGBDK": false,
     "supportsLinkPlay": false,
     "hardwareFeatureTags": "",
-    "yearFirstReleased": "2024",
+    "yearFirstReleased": "2025",
     "dateAdded": "2024-07-01"
 },
 
