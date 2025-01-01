@@ -4135,7 +4135,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Card Game",
     "platformTags": "GameBoyColor",
-    "featuredPriority": 5,
+    "featuredPriority": 7,
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",

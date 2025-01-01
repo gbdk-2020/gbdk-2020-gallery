@@ -310,7 +310,7 @@ const jsonGalleryItemsManual = [
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoyColor",
-    "featuredPriority": 10,
+    "featuredPriority": 9,
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
