@@ -4544,14 +4544,15 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/scrubbyscramble.png",
     "linksArray": [
         {"type": "primary", "url": "https://hbons.itch.io/scrubby-scramble", "displayText": "Info"},
+        {"type": "source",  "url": " https://github.com/hbons/ScrubbyScramble", "displayText": "Source"}
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "NES",
     "featuredPriority": 7,
     "isMultiPlatform": false,
-    "isOpenSource": false,
-    "licenseType": "",
+    "isOpenSource": true,
+    "licenseType": "GPL, CC-BY-NC-SA",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
@@ -4656,6 +4657,30 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2024",
     "dateAdded": "2024-12-30"
+},
+
+{
+    "authorName": "BriG78cx",
+    "itemTitle": "GemDash NES",
+    "shortDescription": "Maze Game",
+    "imagePreviewURL": "pix/itch/gemdash_nes.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://brig78cx.itch.io/gemdash8-nes", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Maze",
+    "platformTags": "NES",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-01-09"
 },
 
 {

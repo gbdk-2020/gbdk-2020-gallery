@@ -1702,5 +1702,30 @@ const jsonGalleryItemsManual = [
     "dateAdded": "2024-12-12"
 },
 
+{
+    "authorName": " Manucar",
+    "itemTitle": "ScheduGB",
+    "shortDescription": "A simple round-robin task scheduler for cooperative multitasking",
+    "imagePreviewURL": "pix/techdemo/schedugb.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/Manucar/ScheduGB",   "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/Manucar/ScheduGB", "displayText": "Source"},
+                ],
+    "categoryTags": "Techdemo",
+    "gameTypeTags": "Scheduler",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-01-07"
+},
+
 
 ];
