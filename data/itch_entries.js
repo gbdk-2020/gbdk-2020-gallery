@@ -4707,5 +4707,29 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2024-12-30"
 },
 
+{
+    "authorName": "Bipedal Studios",
+    "itemTitle": "R-G-Bleeki!",
+    "shortDescription": "The little creature that lives inside your monitor",
+    "imagePreviewURL": "pix/itch/rgbleeki_nes.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://bipedal-studios.itch.io/r-g-bleeki", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "NES",
+    "featuredPriority": 6,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-01-24"
+},
+
 
 ];
