@@ -1411,6 +1411,32 @@ const jsonGalleryItemsZGB = [
 },
 
 {
+    "authorName": "Matt Hughson",
+    "itemTitle": "From Below Pocket",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/zgb/frombelowpocket.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://mhughson.itch.io/from-below-pocket", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/mhughson/mbh-firstnes/tree/mbh-frombelow-gb/gb", "displayText": "Source"},
+        ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy, GameBoyColor, SuperGameBoy",
+    "featuredPriority": 8,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": true,
+    "isClassicGBDK": false,
+    "usesEngine": "ZGB",
+    "supportsLinkPlay": true,
+    "hardwareFeatureTags": "Link Port",
+    "yearFirstReleased": "2023",
+    "dateAdded": "2024-01-01"
+},
+
+{
     "authorName": "Klonoz",
     "itemTitle": "Unlinked Mask GB",
     "shortDescription": "",
