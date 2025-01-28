@@ -29,6 +29,7 @@ To submit a game or program, either :
 - isFreeDownload: true/false,
 - hasPhysicalRelease: true/false,
 - isClassicGBDK: true/false,
+- usesEngine: Quoted, Engine Name, examples are: "None", "ZGB", "CrossZGB"
 - supportsLinkPlay: true/false,
 - hardwareFeatureTags: Quoted, Comma-space separated list of tags: GameBoy Camera, GameBoy Printer, Link Port, MBC5 Rumble, MBC3 RTC, MBC7 Accelerometer, IR Sensor, MegaDuck Keyboard
 - yearFirstReleased: Quoted, Example: "2021"

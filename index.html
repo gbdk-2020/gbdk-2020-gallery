@@ -8,6 +8,7 @@
   <script type="text/javascript" src="./data/itch_entries.js"></script>
   <script type="text/javascript" src="./data/manual_entries.js"></script>
   <script type="text/javascript" src="./data/romhacking_entries.js"></script>
+  <script type="text/javascript" src="./data/zgb_entries.js"></script>
 
   <script type="text/javascript" src="./js/globals.js"></script>
   <script type="text/javascript" src="./js/util.js"></script>
@@ -57,16 +58,22 @@
             <br>
             <select id="yearReleasedFilter"></select>
         </div>
-        <div class="filter_multi"><select id="gameTypeTagsFilter"></select></div>
+
+        <div class="filter_multi"><select id="gameTypeTagsFilter"></select>
+            <br><select id="usesEngineFilter"></select>
+        </div>
+
         <div class="filter_multi">
             <select id="platformTagsFilter"></select>
             <br><select id="hardwareFeatureTagsFilter"></select>
         </div>
+
         <div class="filter_checkboxes">
             <label class="checkbox_label"><input type="checkbox" id="openSourceFilter"    name="openSourceFilter">    Open Source</label>
             <br>
             <label class="checkbox_label"><input type="checkbox" id="multiPlatformFilter" name="multiPlatformFilter"> Multi-Platform</label>
         </div>
+
         <div class="filter_checkboxes">
                  <label class="checkbox_label"><input type="checkbox" id="cartReleaseFilter"   name="cartReleaseFilter">   Cart Release</label>
             <br> <label class="checkbox_label"><input type="checkbox" id="linkPlayFilter"      name="linkPlayFilter">      Link Play</label>

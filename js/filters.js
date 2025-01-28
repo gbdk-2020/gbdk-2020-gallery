@@ -10,6 +10,7 @@ function urlSetFilters() {
     url.searchParams.set('gameTypeTags', document.getElementById('gameTypeTagsFilter').value);
     url.searchParams.set('platformTags', document.getElementById('platformTagsFilter').value);
     url.searchParams.set('yearReleased', document.getElementById('yearReleasedFilter').value);
+    url.searchParams.set('usesEngine',   document.getElementById('usesEngineFilter').value);
     url.searchParams.set('hardwareFeatureTags', document.getElementById('hardwareFeatureTagsFilter').value);
 
     url.searchParams.set('openSource',   document.getElementById('openSourceFilter').checked);
@@ -38,7 +39,8 @@ function urlGetFilters() {
     if (url.searchParams.get('categoryTags')  !== null) document.getElementById('categoryTagsFilter').value =   url.searchParams.get('categoryTags');
     if (url.searchParams.get('gameTypeTags')  !== null) document.getElementById('gameTypeTagsFilter').value =   url.searchParams.get('gameTypeTags');
     if (url.searchParams.get('platformTags')  !== null) document.getElementById('platformTagsFilter').value =   url.searchParams.get('platformTags');
-    if (url.searchParams.get('yearReleased')  !== null) document.getElementById('yearReleasedFilter').value =    url.searchParams.get('yearReleased');
+    if (url.searchParams.get('yearReleased')  !== null) document.getElementById('yearReleasedFilter').value =   url.searchParams.get('yearReleased');
+    if (url.searchParams.get('usesEngine')    !== null) document.getElementById('usesEngineFilter').value =     url.searchParams.get('usesEngine');
     if (url.searchParams.get('hardwareFeatureTags')  !== null) document.getElementById('hardwareFeatureTagsFilter').value =   url.searchParams.get('hardwareFeatureTags');
 
     if (url.searchParams.get('openSource')    !== null) document.getElementById('openSourceFilter').checked =    ('true' === url.searchParams.get('openSource').toLowerCase());
@@ -57,6 +59,7 @@ function resetFilters() {
     document.getElementById('gameTypeTagsFilter').value = FILTER_ALL;
     document.getElementById('platformTagsFilter').value = FILTER_ALL;
     document.getElementById('yearReleasedFilter').value = FILTER_ALL;
+    document.getElementById('usesEngineFilter').value   = FILTER_ALL;
     document.getElementById('hardwareFeatureTagsFilter').value = FILTER_ALL;
 
     document.getElementById('openSourceFilter').checked =    false;
@@ -83,6 +86,7 @@ function populateFilters(galleryItems) {
     const platformsTagsSet = new Set();
     const hardwareFeatureTagsSet = new Set();
     const yearReleasedSet  = new Set();
+    const usesEngineSet    = new Set();
 
     // Parse the JSON gallery entries and extract tags from them
     galleryItems.forEach(item => {
@@ -91,6 +95,7 @@ function populateFilters(galleryItems) {
         if (item.platformTags) item.platformTags.split(', ').forEach(tag => platformsTagsSet.add(tag));
         if (item.hardwareFeatureTags) item.hardwareFeatureTags.split(', ').forEach(tag => hardwareFeatureTagsSet.add(tag));
         if (item.yearFirstReleased != '') yearReleasedSet.add(item.yearFirstReleased);
+        if (item.usesEngine != '')        usesEngineSet.add(item.usesEngine);
     });
 
 
@@ -99,13 +104,15 @@ function populateFilters(galleryItems) {
     const gameTypeOptions = Array.from(gameTypesTagsSet).map(tag => `<option value="${tag}">${tag}</option>`).sort().join('');
     const platformOptions = Array.from(platformsTagsSet).map(tag => `<option value="${tag}">${tag}</option>`).sort().join('');
     const yearReleasedOptions = Array.from(yearReleasedSet).map(tag => `<option value="${tag}">${tag}</option>`).sort().join('');
+    const usesEngineOptions   = Array.from(usesEngineSet).map(tag =>   `<option value="${tag}">${tag}</option>`).sort().join('');
     const hardwareFeatureTagsOptions = Array.from(hardwareFeatureTagsSet).map(tag => `<option value="${tag}">${tag}</option>`).sort().join('');
 
     // And attach them to the multi-select controls
     document.getElementById('categoryTagsFilter').innerHTML = namedFilterAll("Categories") + categoryOptions;
-    document.getElementById('gameTypeTagsFilter').innerHTML = namedFilterAll("Genres") + gameTypeOptions;
-    document.getElementById('platformTagsFilter').innerHTML = namedFilterAll("Platforms") + platformOptions;
-    document.getElementById('yearReleasedFilter').innerHTML = namedFilterAll("Years") + yearReleasedOptions;
+    document.getElementById('gameTypeTagsFilter').innerHTML = namedFilterAll("Genres")     + gameTypeOptions;
+    document.getElementById('platformTagsFilter').innerHTML = namedFilterAll("Platforms")  + platformOptions;
+    document.getElementById('yearReleasedFilter').innerHTML = namedFilterAll("Years")      + yearReleasedOptions;
+    document.getElementById('usesEngineFilter').innerHTML   = namedFilterAll("Engines")     + usesEngineOptions;    
     document.getElementById('hardwareFeatureTagsFilter').innerHTML = namedFilterAll("Hardware Features") + hardwareFeatureTagsOptions;
 
     // Sorting options
@@ -154,6 +161,7 @@ function applyFilters() {
     const cartReleaseOnly   = document.getElementById('cartReleaseFilter').checked;
     const multiPlatformOnly = document.getElementById('multiPlatformFilter').checked;
     const yearReleasedMatch = document.getElementById('yearReleasedFilter').value;
+    const usesEngineMatch   = document.getElementById('usesEngineFilter').value;
     const textSearchMatch   = document.getElementById('textSearch').value;
     const items = document.querySelectorAll('.gallery_grid_item');
 
@@ -172,7 +180,8 @@ function applyFilters() {
         else if ((linkPlayOnly      === true) && (!item.dataset.hasOwnProperty('supportsLinkPlay')))   item.style.display = 'none';
         else if ((cartReleaseOnly   === true) && (!item.dataset.hasOwnProperty('hasPhysicalRelease'))) item.style.display = 'none';
         else if ((multiPlatformOnly === true) && (!item.dataset.hasOwnProperty('isMultiPlatform')))    item.style.display = 'none';
-        else if ((yearReleasedMatch !== 'All') && (item.dataset['yearFirstReleased'] !== yearReleasedMatch))       item.style.display = 'none';
+        else if ((yearReleasedMatch !== 'All') && (item.dataset['yearFirstReleased'] !== yearReleasedMatch)) item.style.display = 'none';
+        else if ((usesEngineMatch   !== 'All') && (item.dataset['usesEngine'] !== usesEngineMatch))          item.style.display = 'none';
         else if ((textSearchMatch   !== '')
                  && (item.dataset['authorName'].toLowerCase().includes(textSearchMatch.toLowerCase()) === false)
                  && (item.dataset['itemTitle'].toLowerCase().includes(textSearchMatch.toLowerCase()) === false)

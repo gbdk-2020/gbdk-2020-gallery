@@ -7,6 +7,7 @@ function loadItems() {
     galleryArray = jsonGalleryItemsItch;
     galleryArray = galleryArray.concat(jsonGalleryItemsManual);
     galleryArray = galleryArray.concat(jsonGalleryItemsRomhacking);
+    galleryArray = galleryArray.concat(jsonGalleryItemsZGB);
 }
 
 document.addEventListener('DOMContentLoaded', () => {
