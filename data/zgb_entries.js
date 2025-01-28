@@ -1059,7 +1059,7 @@ const jsonGalleryItemsZGB = [
         ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
-    "platformTags": "GameBoyColor",
+    "platformTags": "GameBoy, GameBoyColor, SuperGameBoy",
     "featuredPriority": 8,
     "isMultiPlatform": false,
     "isOpenSource": false,
