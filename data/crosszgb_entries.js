@@ -2,7 +2,7 @@
 const jsonGalleryItemsCrossZGB = [
 {
     "authorName": "Zal0, Sergeeo, Toxa (CrossZGB port)",
-    "itemTitle": "Super Princess 2092 Exodus",
+    "itemTitle": "Super Princess 2092 Exodus (CrossZGB)",
     "shortDescription": "The adventure of Super Princess in a dystopian future",
     "imagePreviewURL": "pix/crosszgb/superprincess_gg.png",
     "linksArray": [
@@ -28,7 +28,7 @@ const jsonGalleryItemsCrossZGB = [
 
 {
     "authorName": "Zal0, Toxa (CrossZGB port)",
-    "itemTitle": "Kaiju Feeder",
+    "itemTitle": "Kaiju Feeder (CrossZGB)",
     "shortDescription": "",
     "imagePreviewURL": "pix/crosszgb/kaijufeeder_gg.png",
     "linksArray": [
@@ -54,7 +54,7 @@ const jsonGalleryItemsCrossZGB = [
 
 {
     "authorName": "Zalo, Kirblue, Maikel Ortega, Sergeeo, Toxa (CrossZGB port)",
-    "itemTitle": "Sushi Nights",
+    "itemTitle": "Sushi Nights (CrossZGB)",
     "shortDescription": "A sheep that delivers sushi using a grappling hook",
     "imagePreviewURL": "pix/crosszgb/sushinights_sms.png",
     "linksArray": [
@@ -77,5 +77,32 @@ const jsonGalleryItemsCrossZGB = [
     "yearFirstReleased": "2024",
     "dateAdded": "2024-12-01"
 },
+
+{
+    "authorName": "Pat Morita Team, Toxa (CrossZGB port)",
+    "itemTitle": "Hermano (CrossZGB)",
+    "shortDescription": "You are Nano the undead, and you are going to rescue your brother Mano from hell.",
+    "imagePreviewURL": "pix/crosszgb/hermano_sms.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/untoxa/Hermano", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/untoxa/Hermano", "displayText": "Source"},
+        ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "GameBoy, GameGear, SMS, MegaDuck",
+    "featuredPriority": 6,
+    "isMultiPlatform": true,
+    "isOpenSource": true,
+    "licenseType": "GPL, CC-BY-NC-ND",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "CrossZGB",
+    "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-12-01"
+},
+
 ];
 
