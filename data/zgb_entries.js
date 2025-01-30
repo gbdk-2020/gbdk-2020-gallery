@@ -133,7 +133,7 @@ const jsonGalleryItemsZGB = [
 },
 
 {
-    "authorName": "Zalo,Kirblue, Maikel Ortega, Sergeeo",
+    "authorName": "Zalo, Kirblue, Maikel Ortega, Sergeeo",
     "itemTitle": "Sushi Nights",
     "shortDescription": "A sheep that delivers sushi using a grappling hook",
     "imagePreviewURL": "pix/zgb/sushinights.png",

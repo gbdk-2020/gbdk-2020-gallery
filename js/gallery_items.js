@@ -100,9 +100,10 @@ function createGalleryItems(galleryItems) {
         if (item.hardwareFeatureTags !== '')  item.hardwareFeatureTags.split(', ').forEach(tag => {
             attachClickFilter( appendSpan(tag, "itemMetaHardwareFeatures", metaDiv), "hardwareFeatureTagsFilter", tag);
         });
-        if (item.isOpenSource === true)       attachClickFilter( appendSpan("Open Source", "itemMetaOpenSource",   metaDiv), "openSourceFilter", item.isOpenSource);
-        if (item.supportsLinkPlay === true)   attachClickFilter( appendSpan("Link Play",   "itemMetaSupportsLink", metaDiv), "linkPlayFilter", item.supportsLinkPlay);
+        if (item.isOpenSource === true)       attachClickFilter( appendSpan("Open Source", "itemMetaOpenSource",   metaDiv), "openSourceFilter",  item.isOpenSource);
+        if (item.supportsLinkPlay === true)   attachClickFilter( appendSpan("Link Play",   "itemMetaSupportsLink", metaDiv), "linkPlayFilter",    item.supportsLinkPlay);
         if (item.hasPhysicalRelease === true) attachClickFilter( appendSpan("Cart Release","itemMetaCartRelease",  metaDiv), "cartReleaseFilter", item.hasPhysicalRelease);
+        if (item.usesEngine !== FILTER_ENGINE_NONE) attachClickFilter( appendSpan(item.usesEngine,"itemMetaEngine",metaDiv), "usesEngineFilter",  item.usesEngine);
         // if (item.isMultiPlatform === true) appendSpan("MultiPlatform","itemMetaMultiPlatform",  metaDiv);
         itemContainer.appendChild(metaDiv);
 

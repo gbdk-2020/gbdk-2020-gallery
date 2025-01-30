@@ -1,0 +1,81 @@
+
+const jsonGalleryItemsCrossZGB = [
+{
+    "authorName": "Zal0, Sergeeo, Toxa (CrossZGB port)",
+    "itemTitle": "Super Princess 2092 Exodus",
+    "shortDescription": "The adventure of Super Princess in a dystopian future",
+    "imagePreviewURL": "pix/crosszgb/superprincess_gg.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/untoxa/Super-Princess-2092-Exodus", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/untoxa/Super-Princess-2092-Exodus", "displayText": "Source"},
+        ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "GameBoy, GameGear, MegaDuck",
+    "featuredPriority": 5,
+    "isMultiPlatform": true,
+    "isOpenSource": true,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
+    "usesEngine": "CrossZGB",
+    "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-12-01"
+},
+
+{
+    "authorName": "Zal0, Toxa (CrossZGB port)",
+    "itemTitle": "Kaiju Feeder",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/crosszgb/kaijufeeder_gg.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/untoxa/Kaiju-Feeder", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/untoxa/Kaiju-Feeder", "displayText": "Source"},
+        ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "GameBoy, GameGear, SMS",
+    "featuredPriority": 3,
+    "isMultiPlatform": true,
+    "isOpenSource": true,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
+    "usesEngine": "CrossZGB",
+    "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-12-01"
+},
+
+{
+    "authorName": "Zalo, Kirblue, Maikel Ortega, Sergeeo, Toxa (CrossZGB port)",
+    "itemTitle": "Sushi Nights",
+    "shortDescription": "A sheep that delivers sushi using a grappling hook",
+    "imagePreviewURL": "pix/crosszgb/sushinights_sms.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/untoxa/SushiNights", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/untoxa/SushiNights", "displayText": "Source"},
+        ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "GameBoy, GameGear, SMS, MegaDuck",
+    "featuredPriority": 3,
+    "isMultiPlatform": true,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "CrossZGB",
+    "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2024",
+    "dateAdded": "2024-12-01"
+},
+];
+

@@ -22,6 +22,7 @@ const SORT_OPTIONS = [
 
 
 const FILTER_ALL = "All"
+const FILTER_ENGINE_NONE = "No Engine"
 
 // Main list of gallery items
 var galleryArray;
