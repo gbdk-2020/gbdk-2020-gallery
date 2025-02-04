@@ -4547,6 +4547,31 @@ const jsonGalleryItemsItch = [
 },
 
 {
+    "authorName": "Bownly",
+    "itemTitle": "GB Jammers",
+    "shortDescription": "A very loose simulation of a game jam",
+    "imagePreviewURL": "pix/itch/gbjammers.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://bownly.itch.io/gb-jammers", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Card Game",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "supportsLinkPlay": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-02-03"
+},
+
+{
     "authorName": "Adrián JG",
     "itemTitle": "Wandering Slime Demo",
     "shortDescription": "A brand new adventure RPG",
