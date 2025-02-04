@@ -14,7 +14,7 @@ function urlSetFilters() {
     url.searchParams.set('hardwareFeatureTags', document.getElementById('hardwareFeatureTagsFilter').value);
 
     url.searchParams.set('openSource',   document.getElementById('openSourceFilter').checked);
-    url.searchParams.set('linkPlay',     document.getElementById('linkPlayFilter').checked);
+    url.searchParams.set('linkOrMultiPlayer', document.getElementById('linkOrMultiPlayerFilter').checked);
     url.searchParams.set('cartRelease',  document.getElementById('cartReleaseFilter').checked);
     url.searchParams.set('multiPlatform',document.getElementById('multiPlatformFilter').checked);
 
@@ -44,7 +44,7 @@ function urlGetFilters() {
     if (url.searchParams.get('hardwareFeatureTags')  !== null) document.getElementById('hardwareFeatureTagsFilter').value =   url.searchParams.get('hardwareFeatureTags');
 
     if (url.searchParams.get('openSource')    !== null) document.getElementById('openSourceFilter').checked =    ('true' === url.searchParams.get('openSource').toLowerCase());
-    if (url.searchParams.get('linkPlay')      !== null) document.getElementById('linkPlayFilter').checked =      ('true' === url.searchParams.get('linkPlay').toLowerCase());
+    if (url.searchParams.get('linkOrMultiPlayer') !== null) document.getElementById('linkOrMultiPlayerFilter').checked = ('true' === url.searchParams.get('linkOrMultiPlayer').toLowerCase());
     if (url.searchParams.get('cartRelease')   !== null) document.getElementById('cartReleaseFilter').checked =   ('true' === url.searchParams.get('cartRelease').toLowerCase());
     if (url.searchParams.get('multiPlatform') !== null) document.getElementById('multiPlatformFilter').checked = ('true' === url.searchParams.get('multiPlatform').toLowerCase());
 
@@ -63,7 +63,7 @@ function resetFilters() {
     document.getElementById('hardwareFeatureTagsFilter').value = FILTER_ALL;
 
     document.getElementById('openSourceFilter').checked =    false;
-    document.getElementById('linkPlayFilter').checked =      false;
+    document.getElementById('linkOrMultiPlayerFilter').checked = false;
     document.getElementById('cartReleaseFilter').checked =   false;
     document.getElementById('multiPlatformFilter').checked = false;
 
@@ -157,7 +157,7 @@ function applyFilters() {
     const platformTagsSelected = Array.from(document.getElementById('platformTagsFilter').selectedOptions).map(option => option.value);
     const hardwareFeatureTagsSelected = Array.from(document.getElementById('hardwareFeatureTagsFilter').selectedOptions).map(option => option.value);
     const openSourceOnly    = document.getElementById('openSourceFilter').checked;
-    const linkPlayOnly      = document.getElementById('linkPlayFilter').checked;
+    const linkOrMultiPlayerOnly = document.getElementById('linkOrMultiPlayerFilter').checked;
     const cartReleaseOnly   = document.getElementById('cartReleaseFilter').checked;
     const multiPlatformOnly = document.getElementById('multiPlatformFilter').checked;
     const yearReleasedMatch = document.getElementById('yearReleasedFilter').value;
@@ -177,7 +177,7 @@ function applyFilters() {
         let hardwareFeatureTagsNoMatch = !checkMultiSelectFilter('hardwareFeatureTags', hardwareFeatureTagsSelected, item);
 
              if ((openSourceOnly    === true) && (!item.dataset.hasOwnProperty('isOpenSource')))       item.style.display = 'none';
-        else if ((linkPlayOnly      === true) && (!item.dataset.hasOwnProperty('supportsLinkPlay')))   item.style.display = 'none';
+        else if ((linkOrMultiPlayerOnly   === true) && (!item.dataset.hasOwnProperty('linkOrMultiPlayer')))   item.style.display = 'none';
         else if ((cartReleaseOnly   === true) && (!item.dataset.hasOwnProperty('hasPhysicalRelease'))) item.style.display = 'none';
         else if ((multiPlatformOnly === true) && (!item.dataset.hasOwnProperty('isMultiPlatform')))    item.style.display = 'none';
         else if ((yearReleasedMatch !== 'All') && (item.dataset['yearFirstReleased'] !== yearReleasedMatch)) item.style.display = 'none';

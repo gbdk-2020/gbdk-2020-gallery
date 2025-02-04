@@ -20,7 +20,7 @@ const jsonGalleryItemsCrossZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "CrossZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2024",
     "dateAdded": "2024-12-01"
@@ -46,7 +46,7 @@ const jsonGalleryItemsCrossZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "CrossZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2024",
     "dateAdded": "2024-12-01"
@@ -72,7 +72,7 @@ const jsonGalleryItemsCrossZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "usesEngine": "CrossZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2024",
     "dateAdded": "2024-12-01"
@@ -98,7 +98,7 @@ const jsonGalleryItemsCrossZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "usesEngine": "CrossZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2024",
     "dateAdded": "2024-12-01"

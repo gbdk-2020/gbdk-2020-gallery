@@ -20,7 +20,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2017",
     "dateAdded": "2024-01-01"
@@ -47,7 +47,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
     "dateAdded": "2024-01-01"
@@ -74,7 +74,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
     "dateAdded": "2024-01-01"
@@ -100,7 +100,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
     "dateAdded": "2024-01-01"
@@ -126,7 +126,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
     "dateAdded": "2024-01-01"
@@ -152,7 +152,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
     "dateAdded": "2024-01-01"
@@ -178,7 +178,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2017",
     "dateAdded": "2024-01-01"
@@ -204,7 +204,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2017",
     "dateAdded": "2024-01-01"
@@ -230,7 +230,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2017",
     "dateAdded": "2024-01-01"
@@ -256,7 +256,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2017",
     "dateAdded": "2024-01-01"
@@ -282,7 +282,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2017",
     "dateAdded": "2024-01-01"
@@ -308,7 +308,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2017",
     "dateAdded": "2024-01-01"
@@ -334,7 +334,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2017",
     "dateAdded": "2024-01-01"
@@ -360,7 +360,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
     "dateAdded": "2024-01-01"
@@ -385,7 +385,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
     "dateAdded": "2024-01-01"
@@ -410,7 +410,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
     "dateAdded": "2024-01-01"
@@ -435,7 +435,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
     "dateAdded": "2024-01-01"
@@ -460,7 +460,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
     "dateAdded": "2024-01-01"
@@ -486,7 +486,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
     "dateAdded": "2024-01-01"
@@ -512,7 +512,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
     "dateAdded": "2024-01-01"
@@ -537,7 +537,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
     "dateAdded": "2024-01-01"
@@ -562,7 +562,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
     "dateAdded": "2024-01-01"
@@ -587,7 +587,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
     "dateAdded": "2024-01-01"
@@ -612,7 +612,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
     "dateAdded": "2024-01-01"
@@ -637,7 +637,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2017",
     "dateAdded": "2024-01-01"
@@ -663,7 +663,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
     "dateAdded": "2024-01-01"
@@ -689,7 +689,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
     "dateAdded": "2024-01-01"
@@ -715,7 +715,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
     "dateAdded": "2024-01-01"
@@ -740,7 +740,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
     "dateAdded": "2024-01-01"
@@ -765,7 +765,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
     "dateAdded": "2024-01-01"
@@ -790,7 +790,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
     "dateAdded": "2024-01-01"
@@ -815,7 +815,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
     "dateAdded": "2024-01-01"
@@ -840,7 +840,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
     "dateAdded": "2024-01-01"
@@ -865,7 +865,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
     "dateAdded": "2024-01-01"
@@ -890,7 +890,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
     "dateAdded": "2024-01-01"
@@ -915,7 +915,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
     "dateAdded": "2024-01-01"
@@ -941,7 +941,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
     "dateAdded": "2024-01-01"
@@ -966,7 +966,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
     "dateAdded": "2024-01-01"
@@ -991,7 +991,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
     "dateAdded": "2024-01-01"
@@ -1016,7 +1016,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
     "dateAdded": "2024-01-01"
@@ -1042,7 +1042,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": true,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2020",
     "dateAdded": "2024-01-01"
@@ -1068,7 +1068,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2020",
     "dateAdded": "2024-01-01"
@@ -1093,7 +1093,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": true,
+    "linkOrMultiPlayer": true,
     "hardwareFeatureTags": "Link Port",
     "yearFirstReleased": "2021",
     "dateAdded": "2024-01-01"
@@ -1119,7 +1119,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
     "dateAdded": "2024-01-01"
@@ -1144,7 +1144,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
     "dateAdded": "2024-01-01"
@@ -1169,7 +1169,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
     "dateAdded": "2024-01-01"
@@ -1195,7 +1195,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
     "dateAdded": "2024-01-01"
@@ -1221,7 +1221,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
     "dateAdded": "2024-01-01"
@@ -1247,7 +1247,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
     "dateAdded": "2024-01-01"
@@ -1273,7 +1273,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-01-01"
@@ -1300,7 +1300,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
     "dateAdded": "2024-01-01"
@@ -1327,7 +1327,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
     "dateAdded": "2024-01-01"
@@ -1353,7 +1353,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
     "dateAdded": "2024-01-01"
@@ -1378,7 +1378,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
     "dateAdded": "2024-01-01"
@@ -1404,7 +1404,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
     "dateAdded": "2024-01-01"
@@ -1430,7 +1430,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": true,
+    "linkOrMultiPlayer": true,
     "hardwareFeatureTags": "Link Port",
     "yearFirstReleased": "2023",
     "dateAdded": "2024-01-01"
@@ -1455,7 +1455,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2024",
     "dateAdded": "2024-01-01"
@@ -1480,7 +1480,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2024",
     "dateAdded": "2024-01-01"
@@ -1506,7 +1506,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2024-01-01"
@@ -1533,7 +1533,7 @@ const jsonGalleryItemsZGB = [
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "usesEngine": "ZGB",
-    "supportsLinkPlay": false,
+    "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2024-01-01"

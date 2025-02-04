@@ -23,6 +23,6 @@ The JSON format for gallery entries is as follows:
     "hasPhysicalRelease": true/false,
     "isClassicGBDK": true/false,
     "usesEngine": "One of the following:None, ZGB, CrossZGB",
-    "supportsLinkPlay": true/false,
+    "linkOrMultiPlayer": true/false,
     "yearFirstReleased": "Example: 2021"
 },
