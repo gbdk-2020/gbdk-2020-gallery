@@ -830,7 +830,7 @@ const jsonGalleryItemsZGB = [
         {"type": "primary", "url": "https://danim.itch.io/sovie-snake-html-5", "displayText": "Info"},
         ],
     "categoryTags": "Game",
-    "gameTypeTags": "Action",
+    "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
     "featuredPriority": 3,
     "isMultiPlatform": false,
