@@ -20,6 +20,24 @@ function sortFeatured(galleryItems) {
     return galleryItems;
 }
 
+// Sort by featured, with N percent of entries shuffled
+function sortFeaturedMix(galleryItems) {
+
+    galleryItems = sortFeatured(galleryItems);
+
+    // let swapcount = 0;
+    for (let idx = 0; idx < galleryItems.length; idx++) {
+        if (Math.random() < FEATURED_MIX_SWAP_THRESHOLD)  {
+            const idx_swap_to = Math.floor(Math.random() * (galleryItems.length - 1));
+            // swapcount++;
+            // console.log("Swap " + idx + " <-> " + idx_swap_to + ": count = " + swapcount);
+            [galleryItems[idx], galleryItems[idx_swap_to]] = [galleryItems[idx_swap_to], galleryItems[idx]];
+        }
+    }
+
+    return galleryItems;
+}
+
 function sortCategory(galleryItems) {
 
     galleryItems.sort((a, b) => {
@@ -114,7 +132,8 @@ function sortData(galleryItems) {
     else if (gallerySorting === SORTING_TITLE)    return sortTitle(galleryItems);
     else if (gallerySorting === SORTING_AUTHOR)   return sortAuthor(galleryItems);
     else if (gallerySorting === SORTING_CATEGORY) return sortCategory(galleryItems);
-    else                                          return sortFeatured(galleryItems); // Default is Featured
+    else if (gallerySorting === SORTING_FEATUREDMIX) return sortFeaturedMix(galleryItems);
+    else                                             return sortFeatured(galleryItems); // Default is Featured
 }
 
 
