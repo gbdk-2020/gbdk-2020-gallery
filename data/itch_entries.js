@@ -4949,5 +4949,30 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2025-01-24"
 },
 
+{
+    "authorName": "Bipedal Studios",
+    "itemTitle": "PixPlus",
+    "shortDescription": "Math-based Game Boy puzzles that turn into pictures.",
+    "imagePreviewURL": "pix/itch/pixplus.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://bipedal-studios.itch.io/pixplus", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-02-26"
+},
+
 
 ];
