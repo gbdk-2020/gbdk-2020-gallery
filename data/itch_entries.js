@@ -595,7 +595,7 @@ const jsonGalleryItemsItch = [
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
-    "platformTags": "GameBoy, GameGear, SMS",
+    "platformTags": "GameBoy, GameGear, SMS, NES",
     "featuredPriority": 9,
     "isMultiPlatform": true,
     "isOpenSource": false,
