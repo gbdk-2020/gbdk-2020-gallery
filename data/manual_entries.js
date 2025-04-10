@@ -378,8 +378,8 @@ const jsonGalleryItemsManual = [
     "featuredPriority": 5,
     "isMultiPlatform": false,
     "isOpenSource": true,
-    "licenseType": "CC-BY-NC-4.0",
-    "isFreeDownload": false,
+    "licenseType": "",
+    "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "usesEngine": "No Engine",
@@ -387,6 +387,32 @@ const jsonGalleryItemsManual = [
     "hardwareFeatureTags": "GameBoy Printer",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-01"
+},
+
+{
+    "authorName": "Christian Reinbacher",
+    "itemTitle": "GB Slideshow",
+    "shortDescription": "Create slideshows with text overlay",
+    "imagePreviewURL": "pix/tools/gbslideshow.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/reini1305/gb_slideshow", "displayText": "Info"},
+        {"type": "source" , "url": "https://github.com/reini1305/gb_slideshow", "displayText": "Source"},
+                ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Tool",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "Apache",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2024",
+    "dateAdded": "2025-04-09"
 },
 
 {
