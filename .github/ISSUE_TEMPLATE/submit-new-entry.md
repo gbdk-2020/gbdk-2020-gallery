@@ -26,11 +26,12 @@ assignees: ''
   - One or more of the following: GameBoy, GameBoyColor, SuperGameBoy, MegaDuck, AnaloguePocket, GameGear, SMS, NES
 
 ### Additional info:
+- isMultiPlatform: true/false,  (Whether it has **two** or more of these four platforms: Game Boy/Color, SMS/GG, NES, Mega Duck)
 - isOpenSource: true/false
 - licenseType (if open source):  Examples are: "MIT", "GPL", "Unlicense", etc.
 - isFreeDownload: true/false
 - hasPhysicalRelease: true/false
 - linkOrMultiPlayer: true/false
 - yearFirstReleased: Quoted, Example: "2021"
-- usesEngine: Quoted, Engine Name, examples are: "None", "ZGB", "CrossZGB"
+- usesEngine: Quoted, Engine Name, examples are: "No Engine", "ZGB", "CrossZGB"
 - hardwareFeatureTags: Quoted, Comma-space separated list of tags: GameBoy Camera, GameBoy Printer, Link Port, MBC5 Rumble, MBC3 RTC, MBC7 Accelerometer, IR Sensor, MegaDuck Keyboard
