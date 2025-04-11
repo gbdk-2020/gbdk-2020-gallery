@@ -4974,5 +4974,30 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2025-02-26"
 },
 
+{
+    "authorName": "swigof",
+    "itemTitle": "Bnuuy Deliverance",
+    "shortDescription": "A package delivery needle platformer",
+    "imagePreviewURL": "pix/itch/bnuuy.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://swigof.itch.io/bnuuy-deliverance", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/swigof/Bnuuy-Deliverance", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 6,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-04-10"
+},
 
 ];
