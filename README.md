@@ -20,7 +20,7 @@ To submit a game or program, either :
   - url: Quoted, Example: "https://url_to_main_website"
   - displayText: Quoted, Examples: "Info" (for primary), "Cart" (for store), "Source" (for source), "Info v2" (for secondary links)
 - categoryTags: Quoted, Comma-space separated list of tags: Camera, Demoscene, Engine, Game, Music, Simulation, Techdemo, Tool
-- gametypeTags: Quoted, Comma-space separated list of tags: Action, Adventure, Art, Card Game, Demoscene, Engine, Fighting, GameBoy Camera, GameBoy Printer, Idle, Microgames, Music, Platformer, Programming, Puzzle, Racing, Rhythm, Role Playing, Shooter, Simulation, Sports, Strategy, Survival, Testing, Tool, VirtualPet, Visual Novel
+- gametypeTags: Quoted, Comma-space separated list of tags: Action, Adventure, Art, Card Game, Demoscene, Engine, Fighting, GameBoy Camera, GameBoy Printer, Idle, Microgames, Music, Platformer, Programming, Puzzle, Racing, Rhythm, Role Playing, Shmup, Shooting, Simulation, Sports, Strategy, Survival, Testing, Tool, VirtualPet, Visual Novel
 - platformTags: Quoted, Comma-space separated list of tags: GameBoy, GameBoyColor, SuperGameBoy, MegaDuck, AnaloguePocket, GameGear, SMS, NES
 - featuredPriority: 0
 - isMultiPlatform: true/false: Does it have a build for more than one of each group: (gb/gbc/ap/duck), (sms/gg), (nes)

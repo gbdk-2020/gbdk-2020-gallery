@@ -21,7 +21,7 @@ assignees: ''
 - Category:
   - One of the following: Camera, Demoscene, Engine, Game, Music, Simulation, Techdemo, Tool
 - Gametype: 
-  - One of the following: Action, Adventure, Art, Card Game, Demoscene, Engine, Fighting, GameBoy Camera, GameBoy Printer, Idle, Microgames, Music, Platformer, Programming, Puzzle, Racing, Rhythm, Role Playing, Shooter, Simulation, Sports, Strategy, Survival, Testing, Tool, VirtualPet, Visual Novel
+  - One of the following: Action, Adventure, Art, Card Game, Demoscene, Engine, Fighting, GameBoy Camera, GameBoy Printer, Idle, Microgames, Music, Platformer, Programming, Puzzle, Racing, Rhythm, Role Playing, Shmup, Shooting, Simulation, Sports, Strategy, Survival, Testing, Tool, VirtualPet, Visual Novel
 - Platforms:
   - One or more of the following: GameBoy, GameBoyColor, SuperGameBoy, MegaDuck, AnaloguePocket, GameGear, SMS, NES
 

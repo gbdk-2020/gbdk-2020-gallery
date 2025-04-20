@@ -761,7 +761,7 @@ const jsonGalleryItemsManual = [
         {"type": "source",  "url": "https://laroldsjubilantjunkyard.com/tutorials/recreating-gameboy-games/space-invaders/", "displayText": "Tutorial"},
                 ],
     "categoryTags": "Game",
-    "gameTypeTags": "Shooter",
+    "gameTypeTags": "Shmup",
     "platformTags": "GameBoy, GameBoyColor",
     "featuredPriority": 5,
     "isMultiPlatform": false,
