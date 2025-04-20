@@ -5000,4 +5000,30 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2025-04-10"
 },
 
+{
+    "authorName": "Cailan Games",
+    "itemTitle": "Scroll Space",
+    "shortDescription": "A fast-paced, procedurally generated space scroller",
+    "imagePreviewURL": "pix/itch/scrollspace.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://cailangames.itch.io/scrollspace", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/cailangames/scrollspace", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Shooter",
+    "platformTags": "GameBoy, AnaloguePocket",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-04-19"
+},
+
 ];
