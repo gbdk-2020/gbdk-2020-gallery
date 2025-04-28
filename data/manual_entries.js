@@ -1982,5 +1982,56 @@ const jsonGalleryItemsManual = [
     "dateAdded": "2025-02-14"
 },
 
+{
+    "authorName": " owenthcarey",
+    "itemTitle": "Snake",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/gbdksnake.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/owenthcarey/gbdk-snake", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/owenthcarey/gbdk-snake", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Survival",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-04-23"
+},
+
+{
+    "authorName": "bbbbbr",
+    "itemTitle": "Game Boy QR Code Generator",
+    "shortDescription": "Runtime QRCode generator",
+    "imagePreviewURL": "pix/tools/gameboy_qrcode.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/bbbbbr/gameboy_qrcode", "displayText": "Info"},
+        {"type": "source" , "url": "https://github.com/bbbbbr/gameboy_qrcode", "displayText": "Source"},
+                ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "QR Code",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-04-27"
+},
 
 ];
