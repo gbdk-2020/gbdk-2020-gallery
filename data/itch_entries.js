@@ -5026,4 +5026,54 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2025-04-19"
 },
 
+{
+    "authorName": "Luis Correa Céspedes",
+    "itemTitle": "Bounce",
+    "shortDescription": "A puzzle platform game. Control the jumping ball to the flag.",
+    "imagePreviewURL": "pix/itch/bounce.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://luiscorreacespedes.itch.io/bounce", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2024",
+    "dateAdded": "2025-05-03"
+},
+
+{
+    "authorName": "Luis Correa Céspedes",
+    "itemTitle": "Snaky Pocket",
+    "shortDescription": "A classic snake game. Play with Snaky eating as much fruit.",
+    "imagePreviewURL": "pix/itch/snakypocket.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://luiscorreacespedes.itch.io/snaky-pocket", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Survival",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-05-03"
+},
+
 ];
