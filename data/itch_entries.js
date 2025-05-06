@@ -5076,4 +5076,29 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2025-05-03"
 },
 
+{
+    "authorName": "Kyuchumimo",
+    "itemTitle": "Match 4",
+    "shortDescription": "Crossplay video game of Four-In-A-Row for two players",
+    "imagePreviewURL": "pix/itch/match4.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://kyuchumimo.itch.io/match-4", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 6,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": true,
+    "hardwareFeatureTags": "Link Port",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-05-05"
+},
+
 ];
