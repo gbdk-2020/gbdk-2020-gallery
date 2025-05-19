@@ -5101,30 +5101,4 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2025-05-05"
 },
 
-{
-    "authorName": "gearfo",
-    "itemTitle": "The One WHere the Dog Has 3D Glasses",
-    "shortDescription": "A 60-second animation created in 10 days for Game Boy Showdown 2025",
-    "imagePreviewURL": "pix/demos/gearfo_dog.png",
-    "linksArray": [
-        {"type": "primary", "url": "https://gearfo.itch.io/dog", "displayText": "Info"},
-                ],
-    "categoryTags": "Demoscene",
-    "gameTypeTags": "Demoscene",
-    "platformTags": "GameBoyColor",
-    "featuredPriority": 7,
-    "isMultiPlatform": false,
-    "isOpenSource": false,
-    "licenseType": "",
-    "isFreeDownload": true,
-    "hasPhysicalRelease": false,
-    "isClassicGBDK": false,
-    "usesEngine": "No Engine",
-    "linkOrMultiPlayer": false,
-    "hardwareFeatureTags": "",
-    "yearFirstReleased": "2025",
-    "dateAdded": "2025-05-18"
-},
-
-
 ];
