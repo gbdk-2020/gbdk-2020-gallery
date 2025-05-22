@@ -2034,4 +2034,30 @@ const jsonGalleryItemsManual = [
     "dateAdded": "2025-04-27"
 },
 
+{
+    "authorName": "sjanuth",
+    "itemTitle": "snake_II_gb",
+    "shortDescription": "A Snake II clone",
+    "imagePreviewURL": "pix/games/snake_2_gb.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/sjanuth/snake_II_GB", "displayText": "Info"},
+        {"type": "source" , "url": "https://github.com/sjanuth/snake_II_GB", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Survival",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "GPL",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-05-22"
+},
+
 ];
