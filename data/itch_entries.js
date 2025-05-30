@@ -5101,4 +5101,30 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2025-05-05"
 },
 
+{
+    "authorName": "Sirnic",
+    "itemTitle": "AtomasGB",
+    "shortDescription": "Gameboy Demake of Atomas",
+    "imagePreviewURL": "pix/itch/atomasgb.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://sirnic.itch.io/atomasgb", "displayText": "Info"},
+        {"type": "source" , "url": "https://github.com/luxonpi/AtomasGB", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "CC-BY-NC-SA",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-05-29"
+},
+
 ];
