@@ -2060,4 +2060,31 @@ const jsonGalleryItemsManual = [
     "dateAdded": "2025-05-22"
 },
 
+{
+    "authorName": "Hristo Bakovski",
+    "itemTitle": "Snake Xenzia",
+    "shortDescription": "A port of Snake Xenzia from the Nokia 1661",
+    "imagePreviewURL": "pix/games/snake_xenzia.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://old.reddit.com/r/homebrew/comments/1kzlqlw/snake_xenzia_from_the_nokia_1661_running_on_the/", "displayText": "Info"},
+        {"type": "primary", "url": "https://www.youtube.com/watch?v=jA_NqfdVYF4", "displayText": "Info"},
+        {"type": "download", "url": "https://drive.google.com/file/d/1cKiO7Lktd3aRu4c0AewdMgkZr2TWKJyS/view", "displayText": "Download`"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Survival",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-06-02"
+},
+
 ];
