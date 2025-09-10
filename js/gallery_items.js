@@ -51,7 +51,8 @@ function createGalleryItems(galleryItems) {
                     "Source License: " + item.licenseType    + "\n" +
                     "Free Download: "  + item.isFreeDownload + "\n" +
                     "Classic GBDK: "   + item.isClassicGBDK + "\n" +
-                    "Date Added: "     + item.dateAdded;
+                    "Date Added: "     + item.dateAdded + "\n" +
+                    "Other Info: "     + item.metaTags;
         imgLink.appendChild(img);
         itemContainer.appendChild(imgLink);
 
@@ -106,6 +107,10 @@ function createGalleryItems(galleryItems) {
         if (item.usesEngine !== FILTER_ENGINE_NONE) attachClickFilter( appendSpan(item.usesEngine,"itemMetaEngine",metaDiv), "usesEngineFilter",  item.usesEngine);
         // if (item.isMultiPlatform === true) appendSpan("MultiPlatform","itemMetaMultiPlatform",  metaDiv);
         itemContainer.appendChild(metaDiv);
+        // Clickable Meta Tags
+        if ((item.metaTags !== '') && (item.hasOwnProperty("metaTags"))) item.metaTags.split(', ').forEach(tag => {
+            attachClickFilter( appendSpan(tag, "itemMetaText", metaDiv), "textSearch", tag);
+        });
 
 
         // Attach metadata to entries
