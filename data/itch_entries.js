@@ -279,7 +279,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbshowdownjam2023"
 },
 
 {
@@ -1345,7 +1346,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbshowdownjam2023"
 },
 
 {
@@ -3087,7 +3089,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbshowdownjam2023"
 },
 
 
@@ -3349,7 +3352,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbshowdownjam2023"
 },
 
 {
@@ -5755,6 +5759,59 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2025",
     "dateAdded": "2025-09-08",
     "metaTags": "gbcompo25"
+},
+
+{
+    "authorName": "bbbbbr",
+    "itemTitle": "Rolly Scrolly Demo",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/rollyscrolly.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://bbbbbr.itch.io/rolly-scrolly-demo", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/bbbbbr/rolly_scrolly_gameboyshowdown_2025/", "displayText": "Source"},
+                ],
+    "categoryTags": "Demoscene",
+    "gameTypeTags": "Demoscene",
+    "platformTags": "GameBoy, MegaDuck",
+    "featuredPriority": 2,
+    "isMultiPlatform": true,
+    "isOpenSource": true,
+    "licenseType": "Unlicense",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-07",
+    "metaTags": "gbshowdownjam2025"
+},
+
+{
+    "authorName": "julss",
+    "itemTitle": "LONG BOI",
+    "shortDescription": "Eat as many time pills as you can without dying",
+    "imagePreviewURL": "pix/itch/longboi.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://julss.itch.io/long-boi", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Survival",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2022",
+    "dateAdded": "2025-09-07",
+    "metaTags": "gbshowdownjam2022"
 },
 
 ];
