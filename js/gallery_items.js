@@ -126,6 +126,7 @@ function createGalleryItems(galleryItems) {
         itemDiv.dataset["itemTitle"]         = item.itemTitle;
         itemDiv.dataset["shortDescription"]  = item.shortDescription;
         itemDiv.dataset["usesEngine"]        = item.usesEngine;
+        itemDiv.dataset["metaTags"]          = item.metaTags;
 
         // Append everything inside the main div
         itemDiv.appendChild(itemContainer);

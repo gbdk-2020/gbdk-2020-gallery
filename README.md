@@ -33,6 +33,7 @@ To submit a game or program, either :
 - linkOrMultiPlayer: true/false,
 - hardwareFeatureTags: Quoted, Comma-space separated list of tags: GameBoy Camera, GameBoy Printer, Link Port, MBC5 Rumble, MBC3 RTC, MBC7 Accelerometer, IR Sensor, MegaDuck Keyboard
 - yearFirstReleased: Quoted, Example: "2021"
-- "dateAdded": Quoted, Example: "2024-08-01"
+- dateAdded: Quoted, Example: "2024-08-01"
+- metaTags: Quoted, Comma-space separated list of tags, Example: "gbcompo25"
 
 
