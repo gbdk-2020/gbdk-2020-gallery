@@ -136,7 +136,7 @@ const jsonGalleryItemsCrossZGB = [
     "shortDescription": "Guide Kitty through the perils of MOASS",
     "imagePreviewURL": "pix/itch/moass.png",
     "linksArray": [
-        {"type": "primary", "url": "https://shortsnvrclosed.itch.io/", "displayText": "Info"},
+        {"type": "primary", "url": "https://shortsnvrclosed.itch.io/moass-is-tomorrow", "displayText": "Info"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",

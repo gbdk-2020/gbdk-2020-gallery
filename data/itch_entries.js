@@ -5754,7 +5754,7 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-09-08",
-    "metaTags": "gbcompo29"
+    "metaTags": "gbcompo25"
 },
 
 ];
