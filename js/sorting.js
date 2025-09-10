@@ -81,6 +81,9 @@ function sortDateAdded(galleryItems) {
         if      (a.dateAdded > b.dateAdded) return SORT_BEFORE;
         else if (a.dateAdded < b.dateAdded) return SORT_AFTER;
 
+        if      (a.featuredPriority > b.featuredPriority) return SORT_BEFORE;
+        else if (a.featuredPriority < b.featuredPriority) return SORT_AFTER;
+
         if      (a.itemTitle < b.itemTitle) return SORT_BEFORE;
         else if (a.itemTitle > b.itemTitle) return SORT_AFTER;
 
