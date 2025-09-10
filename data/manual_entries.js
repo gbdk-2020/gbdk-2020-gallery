@@ -23,7 +23,8 @@ const jsonGalleryItemsManual = [
     "linkOrMultiPlayer": true,
     "hardwareFeatureTags": "Link Port",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo21"
 },
 
 
@@ -2212,7 +2213,7 @@ const jsonGalleryItemsManual = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2025-7-25"
+    "dateAdded": "2025-07-25"
 },
 
 {
@@ -2238,7 +2239,33 @@ const jsonGalleryItemsManual = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
-    "dateAdded": "2025-7-25"
+    "dateAdded": "2025-07-25"
+},
+
+{
+    "authorName": "toxa, asiekierka",
+    "itemTitle": "VGM Player",
+    "shortDescription": "Play VGM files from SD Card",
+    "imagePreviewURL": "pix/tools/vgmplayer.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/untoxa/VGM_player", "displayText": "Info"},
+        {"type": "source", "url":  "https://github.com/untoxa/VGM_player", "displayText": "Source"},
+                ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Music",
+    "platformTags": "GameBoy, GameGear",
+    "featuredPriority": 6,
+    "isMultiPlatform": true,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "SD Card/EverDrive",
+    "yearFirstReleased": "2024",
+    "dateAdded": "2025-09-08"
 },
 
 ];

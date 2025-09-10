@@ -104,5 +104,56 @@ const jsonGalleryItemsCrossZGB = [
     "dateAdded": "2024-12-01"
 },
 
+{
+    "authorName": "oshf",
+    "itemTitle": "Tomato-do",
+    "shortDescription": "Productivity Timer Tool",
+    "imagePreviewURL": "pix/itch/tomato-do.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://oshf.itch.io/tomato-do", "displayText": "Info"},
+                ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Timer",
+    "platformTags": "GameBoy",
+    "featuredPriority": 7,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "CrossZGB",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-08",
+    "metaTags": "gbcompo25"
+},
+
+{
+    "authorName": "shortsnvrclosed",
+    "itemTitle": "MOASS is Tomorrow",
+    "shortDescription": "Guide Kitty through the perils of MOASS",
+    "imagePreviewURL": "pix/itch/moass.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://shortsnvrclosed.itch.io/", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 7,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "CrossZGB",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-08"
+},
+
 ];
 

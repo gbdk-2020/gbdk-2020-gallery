@@ -99,7 +99,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo23"
 },
 
 {
@@ -175,7 +176,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo23"
 },
 
 {
@@ -251,7 +253,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo23"
 },
 
 {
@@ -658,7 +661,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo23"
 },
 
 {
@@ -1138,7 +1142,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -1623,7 +1628,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo23"
 },
 
 {
@@ -1952,7 +1958,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -2029,7 +2036,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo23"
 },
 
 {
@@ -2268,7 +2276,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -2294,7 +2303,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -2319,7 +2329,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -2345,7 +2356,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -2371,7 +2383,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo21"
 },
 
 
@@ -2423,7 +2436,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -2449,7 +2463,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -2527,7 +2542,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -2553,7 +2569,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -2578,7 +2595,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -2747,7 +2765,7 @@ const jsonGalleryItemsItch = [
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
-    "platformTags": "GameBoy, GameBoyColor, MegaDuck, MegaDuck QuiQue, AnaloguePocket, SuperGameBoy",
+    "platformTags": "GameBoy, GameBoyColor, MegaDuck, MegaDuck Laptop, AnaloguePocket, SuperGameBoy",
     "featuredPriority": 7,
     "isMultiPlatform": false,
     "isOpenSource": true,
@@ -2757,7 +2775,7 @@ const jsonGalleryItemsItch = [
     "isClassicGBDK": false,
     "usesEngine": "No Engine",
     "linkOrMultiPlayer": false,
-    "hardwareFeatureTags": "MegaDuck Keyboard",
+    "hardwareFeatureTags": "MegaDuck Keyboard, MegaDuck Printer",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-01"
 },
@@ -2838,7 +2856,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -3042,7 +3061,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -3223,7 +3243,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -3248,7 +3269,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -3274,7 +3296,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -3299,7 +3322,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo23"
 },
 
 
@@ -3351,7 +3375,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo23"
 },
 
 {
@@ -3376,7 +3401,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo23"
 },
 
 {
@@ -3401,7 +3427,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo23"
 },
 
 {
@@ -3427,7 +3454,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo23"
 },
 
 {
@@ -3756,7 +3784,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -3782,7 +3811,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -3984,7 +4014,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-08"
+    "dateAdded": "2024-07-08",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -4010,7 +4041,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-08"
+    "dateAdded": "2024-07-08",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -4111,7 +4143,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-13"
+    "dateAdded": "2024-07-13",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -4162,7 +4195,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-07-13"
+    "dateAdded": "2024-07-13",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -4187,7 +4221,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
-    "dateAdded": "2024-07-13"
+    "dateAdded": "2024-07-13",
+    "metaTags": "gbcompo23"
 },
 
 {
@@ -5226,6 +5261,500 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-07-25"
+},
+
+{
+    "authorName": "NesHacker",
+    "itemTitle": "Labyrinth of the Dragon",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/labrynthofdragon.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://neshacker.itch.io/labyrinth-of-the-dragon", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/NesHacker/LabyrinthOfTheDragon", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Role Playing",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 6,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-08"
+},
+
+{
+    "authorName": "Bipedal Studios",
+    "itemTitle": "Q-Dash Mission",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/qdashmission.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://bipedal-studios.itch.io/q-dash-mission", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-08"
+},
+
+{
+    "authorName": "oscarbraindead",
+    "itemTitle": "Wow Mummy",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/wowmummy.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://oscarbraindead.itch.io/wow-mummy-game-boy", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-08"
+},
+
+{
+    "authorName": "oscarbraindead",
+    "itemTitle": "Nampac",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/nampac.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://oscarbraindead.itch.io/nampac", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-08"
+},
+
+{
+    "authorName": "oscarbraindead",
+    "itemTitle": "Paku Paku GB",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/pakupakugb.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://oscarbraindead.itch.io/paku-paku-gb-gameboy", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-08"
+},
+
+{
+    "authorName": "oscarbraindead",
+    "itemTitle": "Arena",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/arena.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://oscarbraindead.itch.io/gb-gba", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-08"
+},
+
+{
+    "authorName": "RetroBitNinja",
+    "itemTitle": "Bomb Tracker",
+    "shortDescription": "Bomb defusing puzzle game. Move walls to solve the path to the bomb",
+    "imagePreviewURL": "pix/itch/bombtracker.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://retrobitninja.itch.io/bomb-tracker", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-08",
+    "metaTags": "gbcompo25"
+},
+
+{
+    "authorName": "UrbanZero",
+    "itemTitle": "BunkerBoy",
+    "shortDescription": "A small survival-strategy game",
+    "imagePreviewURL": "pix/itch/bunkerboy.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://urbanzero.itch.io/bunkerboy", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/UrbanZero/bunkerboy", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-08",
+    "metaTags": "gbcompo25"
+},
+
+{
+    "authorName": "[TheDarkTiger]",
+    "itemTitle": "Crate Pusher",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/cratepusher.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://thedarktiger.itch.io/crate-pusher", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/TheDarkTiger/crate-pusher", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-08",
+    "metaTags": "gbcompo25"
+},
+
+{
+    "authorName": "Dr. Ludos",
+    "itemTitle": "DMG vs. Super Game Boy",
+    "shortDescription": "Unlock the hidden features of the Super Game Boy!",
+    "imagePreviewURL": "pix/itch/dmgvssgb.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://drludos.itch.io/dmg-vs-super-game-boy", "displayText": "Info"},
+        {"type": "source",  "url": "https://drludos.itch.io/dmg-vs-super-game-boy", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "SuperGameBoy",
+    "featuredPriority": 6,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-08",
+    "metaTags": "gbcompo25"
+},
+
+{
+    "authorName": "studio-anchor",
+    "itemTitle": "DropBlox!",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/dropblox.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://studio-anchor.itch.io/dropblox", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-08",
+    "metaTags": "gbcompo25"
+},
+
+{
+    "authorName": "Tardigrade",
+    "itemTitle": "Game of Life Kuzushi",
+    "shortDescription": "A mix between Conway's Game of Life and a block breaker",
+    "imagePreviewURL": "pix/itch/golk.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://tardigrade-nx.itch.io/game-of-life-kuzushi", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-08",
+    "metaTags": "gbcompo25"
+},
+
+{
+    "authorName": "Bownly",
+    "itemTitle": "Ningami 2",
+    "shortDescription": "Sugoroku Card Battles",
+    "imagePreviewURL": "pix/itch/ningami2.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://bownly.itch.io/ningami-2", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Card Game",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-08",
+    "metaTags": "gbcompo25"
+},
+
+{
+    "authorName": "dancar",
+    "itemTitle": "PuzzleBoy: Logic Quest",
+    "shortDescription": "Sudoku, Binary puzzles (Takuzu), Minesweeper and Tents & Trees",
+    "imagePreviewURL": "pix/itch/puzzleboy.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://dancar.itch.io/puzzleboy-logic-quest", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 6,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-08",
+    "metaTags": "gbcompo25"
+},
+
+{
+    "authorName": "plyr0",
+    "itemTitle": "qulqy",
+    "shortDescription": "Connect five or more in the row",
+    "imagePreviewURL": "pix/itch/qulqy.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://plyr0.itch.io/qulqy", "displayText": "Info"},
+        {"type": "source",  "url": "https://plyr0.itch.io/qulqy", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-08",
+    "metaTags": "gbcompo25"
+},
+
+{
+    "authorName": "fingerflinger",
+    "itemTitle": "SpaceBalls",
+    "shortDescription": "3d space-combat",
+    "imagePreviewURL": "pix/itch/spaceballs.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://fingerflinger.itch.io/spaceballs", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Flying",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-08",
+    "metaTags": "gbcompo25"
+},
+
+{
+    "authorName": "DemolissageGames",
+    "itemTitle": "The Sweeping Wizard",
+    "shortDescription": "Sweep your way through the dusty floors of the wizard's dungeon",
+    "imagePreviewURL": "pix/itch/sweepingwizard.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://demolissagegames.itch.io/the-sweeping-wizard", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-08",
+    "metaTags": "gbcompo25"
+},
+
+{
+    "authorName": "Rodrigo Rocha",
+    "itemTitle": "Text Reader GB",
+    "shortDescription": "Read TXT files from SD Card",
+    "imagePreviewURL": "pix/itch/textreader.jpg",
+    "linksArray": [
+        {"type": "primary", "url": "https://rodrigocard.itch.io/text-reader-gb", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/RodrigoCard/TXTReaderGB/", "displayText": "Source"},
+                ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Reader",
+    "platformTags": "GameBoy",
+    "featuredPriority": 6,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "SD Card/EverDrive",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-08",
+    "metaTags": "gbcompo25"
+},
+
+{
+    "authorName": "Kabcorp",
+    "itemTitle": "DMG Keygen",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/dmgkeygen.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://kabcorp.itch.io/dmg-keygen", "displayText": "Info"},
+                ],
+    "categoryTags": "Music",
+    "gameTypeTags": "Music",
+    "platformTags": "GameBoy",
+    "featuredPriority": 7,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-08",
+    "metaTags": "gbcompo29"
 },
 
 ];
