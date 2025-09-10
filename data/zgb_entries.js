@@ -144,7 +144,7 @@ const jsonGalleryItemsZGB = [
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
-    "featuredPriority": 3,
+    "featuredPriority": 6,
     "isMultiPlatform": false,
     "isOpenSource": true,
     "licenseType": "MIT",
@@ -155,7 +155,8 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -1172,7 +1173,8 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -1198,7 +1200,8 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -1224,7 +1227,8 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "metaTags": "gbcompo21"
 },
 
 {
@@ -1330,7 +1334,8 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "metaTags": "gbcompo23"
 },
 
 {
@@ -1400,7 +1405,7 @@ const jsonGalleryItemsZGB = [
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
-    "isFreeDownload": false,
+    "isFreeDownload": true,
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
     "usesEngine": "ZGB",
@@ -1538,5 +1543,58 @@ const jsonGalleryItemsZGB = [
     "yearFirstReleased": "2025",
     "dateAdded": "2024-01-01"
 },
+
+{
+    "authorName": "Distracted Coder",
+    "itemTitle": "Luigi's Mansion GBC",
+    "shortDescription": "Luigi Mansion Gameboy Demake",
+    "imagePreviewURL": "pix/itch/luigimansion.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://distractedcoder.itch.io/luigi-mansion-gameboy-demake", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "ZGB",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-09-08",
+    "metaTags": "gbcompo25"
+},
+
+{
+    "authorName": "dancar",
+    "itemTitle": "Enthraller: The Small-Hauler",
+    "shortDescription": "Possess creatures and use their abilities to find your way home",
+    "imagePreviewURL": "pix/itch/enthraller.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://dancar.itch.io/mind-controller", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "ZGB",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2023",
+    "dateAdded": "2025-09-08",
+    "metaTags": "gbcompo23"
+},
+
 ];
 
