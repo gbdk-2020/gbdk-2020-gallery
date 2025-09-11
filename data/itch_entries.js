@@ -5535,7 +5535,7 @@ const jsonGalleryItemsItch = [
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
-    "platformTags": "GameBoyColor",
+    "platformTags": "GameBoy, GameBoyColor",
     "featuredPriority": 5,
     "isMultiPlatform": false,
     "isOpenSource": false,
