@@ -185,6 +185,11 @@ select, checkbox, input {
     color: var(--item_body_color_light);
 }
 
+/* authorName and itemYear are now click-searchable */
+.authorName, .itemYear {
+    cursor: pointer;
+}
+
 .itemLinks > a {
     margin-right: 0.5em;
     font-size: 0.875em;

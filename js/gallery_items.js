@@ -73,23 +73,30 @@ function createGalleryItems(galleryItems) {
         authorDiv.className = 'authorName';
         authorDiv.textContent = item.authorName;
         itemContainer.appendChild(authorDiv);
+        if ((item.authorName !== '') && (item.hasOwnProperty("authorName"))) {
+            attachClickFilter( authorDiv, "textSearch", item.authorName);
+        };
 
         // Links
         const linksDiv = document.createElement('div');
-        // Year
-        const yearSpan = document.createElement('span');
-        yearSpan.className = 'itemYear';
-        yearSpan.textContent = item.yearFirstReleased + " - ";
-        linksDiv.appendChild(yearSpan);
-        // All Links
-        linksDiv.className = 'itemLinks';
-        item.linksArray.forEach(link => {
-            const linkElement = document.createElement('a');
-            linkElement.href = link.url;
-            linkElement.textContent = link.displayText;
-            linksDiv.appendChild(linkElement);
-        });
-        itemContainer.appendChild(linksDiv);
+            // Year
+            const yearSpan = document.createElement('span');
+            yearSpan.className = 'itemYear';
+            yearSpan.textContent = item.yearFirstReleased + " - ";
+            linksDiv.appendChild(yearSpan);
+            if ((item.yearFirstReleased !== '') && (item.hasOwnProperty("yearFirstReleased"))) {
+                attachClickFilter( yearSpan, "yearReleasedFilter", item.yearFirstReleased);
+            };
+
+            // All Links
+            linksDiv.className = 'itemLinks';
+            item.linksArray.forEach(link => {
+                const linkElement = document.createElement('a');
+                linkElement.href = link.url;
+                linkElement.textContent = link.displayText;
+                linksDiv.appendChild(linkElement);
+            });
+            itemContainer.appendChild(linksDiv);
 
         // Add Meta info footer with text cards
         const metaDiv = document.createElement('div');

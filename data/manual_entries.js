@@ -29,7 +29,7 @@ const jsonGalleryItemsManual = [
 
 
 {
-    "authorName": "Mills",
+    "authorName": "Mills32",
     "itemTitle": "Cute Demo",
     "shortDescription": "",
     "imagePreviewURL": "pix/demos/cutedemo_320.png",
