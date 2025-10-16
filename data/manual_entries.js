@@ -2268,4 +2268,57 @@ const jsonGalleryItemsManual = [
     "dateAdded": "2025-09-08"
 },
 
+
+{
+    "authorName": "bbbbbr",
+    "itemTitle": "SNES Mouse and Gamepad Demo",
+    "shortDescription": "Using the SNES Mouse and Gamepad via the Link Port",
+    "imagePreviewURL": "pix/techdemo/snesmouse.webp",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/bbbbbr/gbdk_gameboy_snes_mouse", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/bbbbbr/gbdk_gameboy_snes_mouse", "displayText": "Source"},
+                ],
+    "categoryTags": "Techdemo",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "Unlicense",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "SNES Mouse, Link Port",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-10-14"
+},
+
+{
+    "authorName": "bbbbbr",
+    "itemTitle": "USB Mouse Demo",
+    "shortDescription": "Using a USB Mouse via the Link Port",
+    "imagePreviewURL": "pix/techdemo/usbmouse.webp",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/bbbbbr/gameboy-usb-mouse", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/bbbbbr/gameboy-usb-mouse", "displayText": "Source"},
+                ],
+    "categoryTags": "Techdemo",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "Unlicense",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "USB Mouse, Link Port",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-10-14"
+},
+
 ];

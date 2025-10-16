@@ -5536,7 +5536,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy, GameBoyColor",
-    "featuredPriority": 5,
+    "featuredPriority": 7,
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
@@ -5812,6 +5812,32 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2022",
     "dateAdded": "2025-09-07",
     "metaTags": "gbshowdownjam2022"
+},
+
+{
+    "authorName": "bbbbbr",
+    "itemTitle": "Den of Snakes",
+    "shortDescription": "Snake for the Four Player Adapter",
+    "imagePreviewURL": "pix/itch/denofsnakes.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://bbbbbr.itch.io/den-of-snakes-four-player", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/bbbbbr/gbdk-gb-4-player", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy, MegaDuck",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "Unlicense",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": true,
+    "hardwareFeatureTags": "Four Player Adapter, Link Port",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-10-14"
 },
 
 ];
