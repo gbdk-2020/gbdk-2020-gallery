@@ -292,7 +292,7 @@ const jsonGalleryItemsItch = [
         {"type": "primary", "url": "https://mbaran.itch.io/pong-boy", "displayText": "Info"},
                 ],
     "categoryTags": "Game",
-    "gameTypeTags": "Sports",
+    "gameTypeTags": "Action",
     "platformTags": "GameBoy",
     "featuredPriority": 3,
     "isMultiPlatform": false,
@@ -306,6 +306,31 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2023",
     "dateAdded": "2024-07-01"
+},
+
+{
+    "authorName": "Eric Studio40A",
+    "itemTitle": "Brick'n Destroy",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/brickndestroy.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://eric-studio40a.itch.io/brickn-destroy-demo-version", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": true,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-10-15"
 },
 
 {
@@ -1859,7 +1884,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2020",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbjam-8"
 },
 
 {
@@ -4939,6 +4965,31 @@ const jsonGalleryItemsItch = [
 },
 
 {
+    "authorName": "BriG78cx",
+    "itemTitle": "Ring Dash SMS",
+    "shortDescription": "Sonik RingDash",
+    "imagePreviewURL": "pix/itch/ringdashsms.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://brig78cx.itch.io/ringdash-sms", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Maze",
+    "platformTags": "SMS",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-10-15"
+},
+
+{
     "authorName": "Bipedal Studios",
     "itemTitle": "Return to Anctrayl",
     "shortDescription": "Box-pushing energy snake",
@@ -5838,6 +5889,58 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "Four Player Adapter, Link Port",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-10-14"
+},
+
+{
+    "authorName": "nicohirsau",
+    "itemTitle": "Sudoku 4-ever",
+    "shortDescription": "Endless sudoku fun",
+    "imagePreviewURL": "pix/itch/sudoku4ever.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://nicohirsau.itch.io/sudoku-4-ever", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-10-16"
+},
+
+{
+    "authorName": "jeffzzq",
+    "itemTitle": "Zephyr Express",
+    "shortDescription": "Toot Toot! grab your tools and rack up a high score!",
+    "imagePreviewURL": "pix/itch/zephyrexpress.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://jeffzzq.itch.io/zephyr-express", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/jgensler8/zephyr-express-game", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy, NES",
+    "featuredPriority": 3,
+    "isMultiPlatform": true,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-10-16",
+    "metaTags": "gbjam-13"
 },
 
 ];

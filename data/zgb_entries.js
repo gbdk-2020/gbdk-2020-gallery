@@ -50,7 +50,8 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "metaTags": "zgbjam2016"
 },
 
 {
@@ -103,7 +104,8 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "metaTags": "zgbjam2018"
 },
 
 {
@@ -129,7 +131,8 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "metaTags": "zgbjam2019"
 },
 
 {
