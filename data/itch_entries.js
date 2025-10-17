@@ -870,7 +870,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Amealky",
     "itemTitle": "DoodleRetro",
-    "shortDescription": "My first gameboy game",
+    "shortDescription": "",
     "imagePreviewURL": "pix/itch/ZexNnf.png",
     "linksArray": [
         {"type": "primary", "url": "https://amealky.itch.io/doodleretro", "displayText": "Info"},
@@ -878,7 +878,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
-    "featuredPriority": ,
+    "featuredPriority": 3,
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
@@ -5902,7 +5902,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy, MegaDuck",
-    "featuredPriority": 0,
+    "featuredPriority": 4,
     "isMultiPlatform": false,
     "isOpenSource": true,
     "licenseType": "Unlicense",
@@ -5966,6 +5966,32 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2025",
     "dateAdded": "2025-10-16",
     "metaTags": "gbjam-13"
+},
+
+{
+    "authorName": "Pappenheim",
+    "itemTitle": "Spook Away",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/spookaway.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://genpappenheim.itch.io/spook-away", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Rhythm",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": true,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-10-16",
+    "metaTags": "gbjam-12"
 },
 
 ];
