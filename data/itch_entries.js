@@ -878,6 +878,31 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
+    "featuredPriority": ,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2020",
+    "dateAdded": "2024-07-01"
+},
+
+{
+    "authorName": "Amealky",
+    "itemTitle": "Inquisition",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/inquisition.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://amealky.itch.io/inquisition", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
     "featuredPriority": 0,
     "isMultiPlatform": false,
     "isOpenSource": false,
@@ -888,8 +913,8 @@ const jsonGalleryItemsItch = [
     "usesEngine": "No Engine",
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
-    "yearFirstReleased": "2023",
-    "dateAdded": "2024-07-01"
+    "yearFirstReleased": "2020",
+    "dateAdded": "2025-10-16"
 },
 
 {
