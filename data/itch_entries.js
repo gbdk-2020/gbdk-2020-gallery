@@ -5015,6 +5015,31 @@ const jsonGalleryItemsItch = [
 },
 
 {
+    "authorName": "BriG78cx",
+    "itemTitle": "Ring Dash GG",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/ringdashgg.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://brig78cx.itch.io/ringdashgg", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Maze",
+    "platformTags": "GameGear",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-10-18"
+},
+
+{
     "authorName": "Bipedal Studios",
     "itemTitle": "Return to Anctrayl",
     "shortDescription": "Box-pushing energy snake",
@@ -5993,5 +6018,33 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2025-10-16",
     "metaTags": "gbjam-12"
 },
+
+{
+    "authorName": "MisterMobius",
+    "itemTitle": "Chess",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/chess.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://mistermobius.itch.io/chess-for-gameboy-classic", "displayText": "Info"},
+        {"type": "source",  "url": "https://github.com/Stefan-Ladwig/GB-chess", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-10-18",
+    "metaTags": ""
+},
+
 
 ];
