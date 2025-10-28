@@ -1603,7 +1603,7 @@ const jsonGalleryItemsZGB = [
     "authorName": "Kaiman Games",
     "itemTitle": "Skateland Adventures",
     "shortDescription": "",
-    "imagePreviewURL": "pix/itch/Skateland.png",
+    "imagePreviewURL": "pix/zgb/skateland.png",
     "linksArray": [
         {"type": "primary", "url": "https://kaiman-games.itch.io/skateland-adventures", "displayText": "Info (Demo)"},
                 ],
