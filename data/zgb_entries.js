@@ -1599,5 +1599,31 @@ const jsonGalleryItemsZGB = [
     "metaTags": "gbcompo23"
 },
 
+{
+    "authorName": "Kaiman Games",
+    "itemTitle": "Skateland Adventures",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/Skateland.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://kaiman-games.itch.io/skateland-adventures", "displayText": "Info (Demo)"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 6,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "ZGB",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-10-27",
+    "metaTags": ""
+},
+
 ];
 
