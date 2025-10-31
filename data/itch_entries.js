@@ -6053,6 +6053,7 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/retrochronctg.png",
     "linksArray": [
         {"type": "primary", "url": "https://pkx8326.itch.io/retrochron-ctg-1-game-boy-desk-clock", "displayText": "Info"},
+        {"type": "article", "url": "https://codethatgame.com/hello-world/", "displayText": "Article"},
                 ],
     "categoryTags": "Tool",
     "gameTypeTags": "Clock",
