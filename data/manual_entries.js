@@ -2373,4 +2373,30 @@ const jsonGalleryItemsManual = [
     "dateAdded": "2025-10-30"
 },
 
+{
+    "authorName": "Cizzuk",
+    "itemTitle": "falll-4gb",
+    "shortDescription": "FALLL demake",
+    "imagePreviewURL": "pix/games/fallll.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/Cizzuk/falll-4gb", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/Cizzuk/falll-4gb", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Survival",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-10-30"
+},
+
 ];
