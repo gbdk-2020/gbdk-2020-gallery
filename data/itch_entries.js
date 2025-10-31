@@ -6046,5 +6046,31 @@ const jsonGalleryItemsItch = [
     "metaTags": ""
 },
 
+{
+    "authorName": "pkx8326",
+    "itemTitle": "RetroChron CTG-1",
+    "shortDescription": "Retro digital desk clock",
+    "imagePreviewURL": "pix/itch/retrochronctg.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://pkx8326.itch.io/retrochron-ctg-1-game-boy-desk-clock", "displayText": "Info"},
+                ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Clock",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-10-29",
+    "metaTags": ""
+},
+
 
 ];
