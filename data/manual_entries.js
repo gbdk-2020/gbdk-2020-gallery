@@ -2347,4 +2347,30 @@ const jsonGalleryItemsManual = [
     "dateAdded": "2025-10-30"
 },
 
+{
+    "authorName": "QwertyR0",
+    "itemTitle": "CellBoy",
+    "shortDescription": "A Cell machine remake",
+    "imagePreviewURL": "pix/games/cellboy.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/QwertyR0/CellBoy", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/QwertyR0/CellBoy", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Simulation",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2023",
+    "dateAdded": "2025-10-30"
+},
+
 ];
