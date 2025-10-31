@@ -5635,7 +5635,7 @@ const jsonGalleryItemsItch = [
         {"type": "primary", "url": "https://studio-anchor.itch.io/dropblox", "displayText": "Info"},
                 ],
     "categoryTags": "Game",
-    "gameTypeTags": "Action",
+    "gameTypeTags": "Survival",
     "platformTags": "GameBoy, GameBoyColor",
     "featuredPriority": 7,
     "isMultiPlatform": false,

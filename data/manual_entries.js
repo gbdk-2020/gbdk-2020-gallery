@@ -2321,4 +2321,30 @@ const jsonGalleryItemsManual = [
     "dateAdded": "2025-10-14"
 },
 
+{
+    "authorName": "lightoshadow",
+    "itemTitle": "dodgeBlocks",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/dodgeblocks.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/lightoshadow/dodgeBlocks", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/lightoshadow/dodgeBlocks", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Survival",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-10-30"
+},
+
 ];
