@@ -105,6 +105,33 @@ const jsonGalleryItemsCrossZGB = [
 },
 
 {
+    "authorName": "Zal0, Sergeeo, Kirblue, Toxa (CrossZGB port)",
+    "itemTitle": "Polka Sheep (CrossZGB)",
+    "shortDescription": "A velcro sheep jumping everywhere",
+    "imagePreviewURL": "pix/crosszgb/polkasheep_gg.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/untoxa/polka-sheep", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/untoxa/polka-sheep", "displayText": "Source"},
+        ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "GameBoy, GameGear, MegaDuck",
+    "featuredPriority": 4,
+    "isMultiPlatform": true,
+    "isOpenSource": true,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "CrossZGB",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2024",
+    "dateAdded": "2025-10-31",
+    "shortSearchKey": "PS-CZGB"
+},
+
+{
     "authorName": "oshf",
     "itemTitle": "Tomato-do",
     "shortDescription": "Productivity Timer Tool",
