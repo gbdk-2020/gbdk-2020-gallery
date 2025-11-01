@@ -187,6 +187,7 @@ function applyFilters() {
                  && (item.dataset['itemTitle'].toLowerCase().includes(textSearchMatch.toLowerCase()) === false)
                  // Optional text search of description as well
                  && (item.dataset['shortDescription'].toLowerCase().includes(textSearchMatch.toLowerCase()) === false)
+                 && (item.dataset['shortSearchKey'].includes(textSearchMatch) === false)
                  && (item.dataset['metaTags'].toLowerCase().includes(textSearchMatch.toLowerCase()) === false)
                  ) item.style.display = 'none';
         else if (categoryNoMatch || gameTypeNoMatch || platformNoMatch || hardwareFeatureTagsNoMatch) item.style.display = 'none';

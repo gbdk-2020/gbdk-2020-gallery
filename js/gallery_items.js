@@ -140,6 +140,12 @@ function createGalleryItems(galleryItems) {
         itemDiv.dataset["usesEngine"]        = item.usesEngine;
         itemDiv.dataset["metaTags"]          = item.metaTags;
 
+        if (item.hasOwnProperty("shortSearchKey")) {
+            itemDiv.dataset["shortSearchKey"]    = item.shortSearchKey;
+        } else {
+            itemDiv.dataset["shortSearchKey"] = "";
+        }
+
         // Append everything inside the main div
         itemDiv.appendChild(itemContainer);
         container.appendChild(itemDiv);
