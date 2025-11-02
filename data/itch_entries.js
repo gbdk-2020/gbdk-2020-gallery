@@ -5344,7 +5344,7 @@ const jsonGalleryItemsItch = [
 },
 
 {
-    "authorName": "Alekmail",
+    "authorName": "Alekmaul",
     "itemTitle": "MazezaM for NES",
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/mazezam_nes.png",
@@ -6073,5 +6073,32 @@ const jsonGalleryItemsItch = [
     "metaTags": ""
 },
 
+{
+    "authorName": "Alekmaul",
+    "itemTitle": "L'Abbaye des Morts Game Boy",
+    "shortDescription": "Port of L'Abbaye des Morts",
+    "imagePreviewURL": "pix/itch/labbeye.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://portabledev.itch.io/abbayemorts", "displayText": "Info (demo)"},
+        {"type": "store", "url": "https://www.homebrew-factory.com/game-boy/161-labbaye-des-morts-undefined.html", "displayText": "Cart"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": true,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-10-31",
+    "metaTags": "",
+    "shortSearchKey": "LDM-GB"
+},
 
 ];
