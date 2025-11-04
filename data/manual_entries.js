@@ -2375,9 +2375,9 @@ const jsonGalleryItemsManual = [
 
 {
     "authorName": "Cizzuk",
-    "itemTitle": "falll-4gb",
-    "shortDescription": "FALLL demake",
-    "imagePreviewURL": "pix/games/fallll.png",
+    "itemTitle": "FALLLL for GB",
+    "shortDescription": "FALLLL demake",
+    "imagePreviewURL": "pix/games/falll.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/Cizzuk/falll-4gb", "displayText": "Info"},
         {"type": "source", "url": "https://github.com/Cizzuk/falll-4gb", "displayText": "Source"},
