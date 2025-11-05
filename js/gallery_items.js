@@ -68,14 +68,13 @@ function createGalleryItems(galleryItems) {
         shortDescDiv.textContent = item.shortDescription;
         itemContainer.appendChild(shortDescDiv);
 
-        // Author Name
-        const authorDiv = document.createElement('div');
+        // Author Name(s)
+        const authorDiv = document.createElement('div');    
         authorDiv.className = 'authorName';
-        authorDiv.textContent = item.authorName;
         itemContainer.appendChild(authorDiv);
-        if ((item.authorName !== '') && (item.hasOwnProperty("authorName"))) {
-            attachClickFilter( authorDiv, "textSearch", item.authorName);
-        };
+        if ((item.authorName !== '') && (item.hasOwnProperty("authorName"))) item.authorName.split(', ').forEach((splitAuthorName, i) => {
+            attachClickFilter( appendSpan( ((i > 0) ? ", " : "") + splitAuthorName, "itemAuthorClickableUnstyled", authorDiv), "textSearch", splitAuthorName);
+        });
 
         // Links
         const linksDiv = document.createElement('div');
