@@ -6101,4 +6101,32 @@ const jsonGalleryItemsItch = [
     "shortSearchKey": "LDM-GB"
 },
 
+{
+    "authorName": "joaomakesgames",
+    "itemTitle": "This Is Not A Drill: The Inside Job",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/notadrill.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://joaomakesgames.itch.io/this-is-not-a-drill-the-inside-job", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/jcnmsg/This-Is-Not-A-Drill-GB", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2020",
+    "dateAdded": "2025-11-04",
+    "metaTags": "",
+    "shortSearchKey": "TND-GB"
+},
+
 ];
