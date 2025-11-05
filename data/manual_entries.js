@@ -2243,7 +2243,7 @@ const jsonGalleryItemsManual = [
 },
 
 {
-    "authorName": "toxa, asiekierka",
+    "authorName": "toxa, asie",
     "itemTitle": "VGM Player",
     "shortDescription": "Play VGM files from SD Card",
     "imagePreviewURL": "pix/tools/vgmplayer.png",

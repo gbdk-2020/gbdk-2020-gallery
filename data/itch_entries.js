@@ -1607,7 +1607,7 @@ const jsonGalleryItemsItch = [
 },
 
 {
-    "authorName": "Bownly",
+    "authorName": "Bownly, Adrián JG, dovesam, Teaaa, oshf, joaomakesgames, Synchingfeeling, bbbbbr, Sloopygoop, Daniel Ivanescu",
     "itemTitle": "Microgames Jam Pak",
     "shortDescription": "Basically WarioWare, but as a game jam",
     "imagePreviewURL": "pix/itch/ilhrLI.png",
