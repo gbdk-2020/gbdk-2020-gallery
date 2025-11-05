@@ -2399,4 +2399,32 @@ const jsonGalleryItemsManual = [
     "dateAdded": "2025-10-30"
 },
 
+{
+    "authorName": "crizmo",
+    "itemTitle": "KPaint",
+    "shortDescription": "Drawing application optimized for Kindle",
+    "imagePreviewURL": "pix/tools/kpaint.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/crizmo/KPaint", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/crizmo/KPaint", "displayText": "Source"},
+                ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Paint",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-11-4",
+    "metaTags": "",
+    "shortSearchKey": "KPT-GB"
+},
+
 ];
