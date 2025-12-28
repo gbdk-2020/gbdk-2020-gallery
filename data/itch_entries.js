@@ -6140,7 +6140,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy, GameBoyColor",
-    "featuredPriority": 3,
+    "featuredPriority": 6,
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
@@ -6153,6 +6153,7 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2025",
     "dateAdded": "2025-12-27",
     "metaTags": "",
+    "shortSearchKey": "SBM-GB",
 },
 
 ];
