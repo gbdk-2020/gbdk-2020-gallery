@@ -191,6 +191,7 @@ const jsonGalleryItemsManual = [
     "linksArray":[
         {"type": "primary", "url": "http://asobi.tech/#dfuzedgbc", "displayText": "Info"},
         {"type": "store",   "url": "https://incube8games.com/collections/d-fuzed-gbc", "displayText": "Cart"},
+        {"type": "demo",   "url": "https://asobitech.itch.io/dfuzed-gbc-demo", "displayText": "Demo"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
