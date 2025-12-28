@@ -345,12 +345,13 @@ const jsonGalleryItemsManual = [
     "linksArray": [
         {"type": "primary", "url": "https://www.infinitygbc.com/", "displayText": "Info"},
         {"type": "store", "url": "https://incube8games.com/products/infinity-gbc", "displayText": "Cart"},
-        {"type": "source", "url": "https://github.com/gb-archive/infinity-gbc", "displayText": "Source"},
+        {"type": "store", "url": "https://incube8games.com/products/infinity-gbc-digital-edition", "displayText": "Rom"},
+        {"type": "source", "url": "https://github.com/gb-archive/infinity-gbc", "displayText": "Source (old ver)"},
                 ],
     "categoryTags": "Game",
     "gameTypeTags": "Role Playing",
     "platformTags": "GameBoyColor",
-    "featuredPriority": 5,
+    "featuredPriority": 10,
     "isMultiPlatform": false,
     "isOpenSource": true,
     "licenseType": "BY-NC-ND",
@@ -361,7 +362,7 @@ const jsonGalleryItemsManual = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2025-12-20"
 },
 
 {
