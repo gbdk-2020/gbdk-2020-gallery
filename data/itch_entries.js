@@ -6129,4 +6129,30 @@ const jsonGalleryItemsItch = [
     "shortSearchKey": "TND-GB"
 },
 
+{
+    "authorName": "markdoesnttweet",
+    "itemTitle": "Swifty Beams",
+    "shortDescription": "An infinite runner about not getting killed by lasers",
+    "imagePreviewURL": "pix/itch/swiftybeams.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://nerdatwork.itch.io/swifty-beams", "displayText": "Info"},
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2025-12-27",
+    "metaTags": "",
+},
+
 ];
