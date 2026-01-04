@@ -339,7 +339,7 @@ const jsonGalleryItemsManual = [
 },
 
 {
-    "authorName": "Incube8",
+    "authorName": "Incube8, Affinix",
     "itemTitle": "Infinity",
     "shortDescription": "",
     "imagePreviewURL": "pix/games/Infinitygbc.gif",
