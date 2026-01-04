@@ -6292,4 +6292,32 @@ const jsonGalleryItemsItch = [
     "shortSearchKey": "",
 },
 
+{
+    "authorName": "Boniato82",
+    "itemTitle": "Pocket Pong",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/pocketpong.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://boniato82.itch.io/pocket-pong", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/Boniato82/Pocket_Pong", "displayText": "Source"},
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2026-01-02",
+    "metaTags": "",
+    "shortSearchKey": "",
+},
+
 ];
