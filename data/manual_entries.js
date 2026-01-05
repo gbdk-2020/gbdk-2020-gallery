@@ -2433,7 +2433,7 @@ const jsonGalleryItemsManual = [
     "authorName": "ty-porter",
     "itemTitle": "Pocket League",
     "shortDescription": "A 2D demake of Rocket League",
-    "imagePreviewURL": "pix/tools/pocket_league.png",
+    "imagePreviewURL": "pix/games/pocket_league.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/ty-porter/pocket-league", "displayText": "Info"},
         {"type": "source", "url": "https://github.com/ty-porter/pocket-league", "displayText": "Source"},
@@ -2441,7 +2441,7 @@ const jsonGalleryItemsManual = [
     "categoryTags": "Game",
     "gameTypeTags": "Sports",
     "platformTags": "GameBoy",
-    "featuredPriority": 0,
+    "featuredPriority": 3,
     "isMultiPlatform": false,
     "isOpenSource": true,
     "licenseType": "MIT",
