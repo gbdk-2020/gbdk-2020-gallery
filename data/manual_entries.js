@@ -2429,4 +2429,32 @@ const jsonGalleryItemsManual = [
     "shortSearchKey": "KPT-GB"
 },
 
+{
+    "authorName": "ty-porter",
+    "itemTitle": "Pocket League",
+    "shortDescription": "A 2D demake of Rocket League",
+    "imagePreviewURL": "pix/tools/pocket_league.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/ty-porter/pocket-league", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/ty-porter/pocket-league", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Sports",
+    "platformTags": "GameBoy",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2021",
+    "dateAdded": "2026-1-5",
+    "metaTags": "",
+    "shortSearchKey": "PLG-GB"
+},
+
 ];
