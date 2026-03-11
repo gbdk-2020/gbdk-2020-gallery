@@ -2452,7 +2452,7 @@ const jsonGalleryItemsManual = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2021",
-    "dateAdded": "2026-1-5",
+    "dateAdded": "2026-01-05",
     "metaTags": "",
     "shortSearchKey": "PLG-GB"
 },

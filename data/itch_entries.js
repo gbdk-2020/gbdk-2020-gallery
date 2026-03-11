@@ -448,7 +448,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Rhythm",
     "platformTags": "GameBoyColor",
-    "featuredPriority": 5,
+    "featuredPriority": 7,
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
@@ -458,8 +458,8 @@ const jsonGalleryItemsItch = [
     "usesEngine": "No Engine",
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
-    "yearFirstReleased": "2024",
-    "dateAdded": "2024-07-01"
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-01-01"
 },
 
 {
@@ -6318,6 +6318,35 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-01-02",
     "metaTags": "",
     "shortSearchKey": "",
+},
+
+{
+    "authorName": "Dr. Ludos",
+    "itemTitle": "Dangerous Demolition",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/dangerousdemolition.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://drludos.itch.io/dangerous-demolition", "displayText": "Info"},
+        {"type": "source", "url": "https://drludos.itch.io/dangerous-demolition", "displayText": "Source"},
+        {"type": "store" , "url": "https://www.homebrew-factory.com/game-boy/181-dangerous-demolition-gb.html", "displayText": "Cart"},
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy, GameBoyColor, SuperGameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "CC-BY",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": true,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-03-10",
+    "metaTags": "",
+    "shortSearchKey": "DDM-GB",
 },
 
 ];
