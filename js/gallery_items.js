@@ -45,6 +45,8 @@ function createGalleryItems(galleryItems) {
         img.alt = "game image preview for " + item.itemTitle;
         img.loading = "lazy";
         img.className = "itemPreview";
+        let usedGenAI  = (typeof(item.usedGenAI) != "undefined") ? item.usedGenAI : "";
+        let metaTagStr = (typeof(item.metaTags) != "undefined") ? item.metaTags : "";
         // Show the following using html5 tooltips (title tag)
         img.title = "Category: "       + item.categoryTags   + "\n" +
                     "Game Type: "      + item.gameTypeTags   + "\n" +
@@ -52,7 +54,8 @@ function createGalleryItems(galleryItems) {
                     "Free Download: "  + item.isFreeDownload + "\n" +
                     "Classic GBDK: "   + item.isClassicGBDK + "\n" +
                     "Date Added: "     + item.dateAdded + "\n" +
-                    "Other Info: "     + item.metaTags;
+                    "Used Gen AI: "    + usedGenAI + "\n" +
+                    "Other Info: "     + metaTagStr;
         imgLink.appendChild(img);
         itemContainer.appendChild(imgLink);
 
