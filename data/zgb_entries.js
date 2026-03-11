@@ -1625,5 +1625,33 @@ const jsonGalleryItemsZGB = [
     "metaTags": ""
 },
 
+{
+    "authorName": "freshdeus",
+    "itemTitle": "SlugcasterGB",
+    "shortDescription": "Port of Supernaught",
+    "imagePreviewURL": "pix/zgb/slugcaster.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://freshdeus.itch.io/slugcaster-gb", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 7,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "ZGB",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-03-10",
+    "metaTags": "",
+    "shortSearchKey": "SLG-GBC",
+    "usedGenAI": "",
+},
+
 ];
 

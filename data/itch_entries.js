@@ -4877,7 +4877,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "NES",
-    "featuredPriority": 7,
+    "featuredPriority": 5,
     "isMultiPlatform": false,
     "isOpenSource": true,
     "licenseType": "GPL, CC-BY-NC-SA",
@@ -6520,4 +6520,5 @@ const jsonGalleryItemsItch = [
     "shortSearchKey": "QRP-GBC",
     "usedGenAI": false,
 },
+
 ];
