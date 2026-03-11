@@ -6060,7 +6060,7 @@ const jsonGalleryItemsItch = [
     "gameTypeTags": "Rhythm",
     "platformTags": "GameBoy",
     "featuredPriority": 2,
-    "isMultiPlatform": true,
+    "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
     "isFreeDownload": true,
@@ -6345,7 +6345,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-03-10",
     "metaTags": "",
     "shortSearchKey": "SUM-GBC",
-    "usedGenAI": "true",
+    "usedGenAI": true,
 },
 
 {
@@ -6433,7 +6433,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-03-10",
     "metaTags": "",
     "shortSearchKey": "RGU-GB",
-    "usedGenAI": "true",
+    "usedGenAI": true,
 },
 
 {
@@ -6492,4 +6492,32 @@ const jsonGalleryItemsItch = [
     "usedGenAI": "",
 },
 
+{
+    "authorName": "bbbbbr",
+    "itemTitle": "QR-Paint",
+    "shortDescription": "Draw and then share as PNG using a QRCode",
+    "imagePreviewURL": "pix/itch/qrpaint.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://bbbbbr.itch.io/game-boy-qr-paint", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/bbbbbr/gameboy_qr_paint/", "displayText": "Source"},
+                ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Art",
+    "platformTags": "GameBoy, GameBoyColor, SuperGameBoy, MegaDuck, AnaloguePocket",
+    "featuredPriority": 7,
+    "isMultiPlatform": true,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "GameBoy Printer, MegaDuck Printer, SNES Mouse",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-03-10",
+    "metaTags": "",
+    "shortSearchKey": "QRP-GBC",
+    "usedGenAI": false,
+},
 ];
