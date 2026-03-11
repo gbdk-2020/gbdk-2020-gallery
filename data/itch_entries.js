@@ -6549,4 +6549,32 @@ const jsonGalleryItemsItch = [
     "usedGenAI": "",
 },
 
+{
+    "authorName": "Levi Wanner",
+    "itemTitle": "SUDOKRYPT 2.0.26",
+    "shortDescription": "Brutalist sudoku style puzzle-thriller",
+    "imagePreviewURL": "pix/itch/sudokrypt.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://leviwanner.itch.io/sudokrypt", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-03-10",
+    "metaTags": "",
+    "shortSearchKey": "SKT-GBC",
+    "usedGenAI": true,
+},
+
 ];
