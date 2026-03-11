@@ -11,6 +11,7 @@ The JSON format for gallery entries is as follows:
         {"type": "primary", "url": "https://url_to_main_website",         "displayText": "Info"},
         {"type": "store",   "url": "https://url_to_store_OPTIONAL",       "displayText": "Cart"},
         {"type": "source",  "url": "https://url_to_source_code_OPTIONAL", "displayText": "Source"},
+        {"type": "article",  "url": "https://url_to_source_code_OPTIONAL", "displayText": "Article"},
                 ],
     "categoryTags": "Comma-space separated list of tags: Camera, Demoscene, Engine, Game, Music, Simulation, Techdemo, Tool",
     "gametypeTags": "Comma-space separated list of tags: Action, Adventure, Art, Card Game, Demoscene, Engine, Fighting, GameBoy Camera, GameBoy Printer, Idle, Microgames, Music, Platformer, Programming, Puzzle, Racing, Rhythm, Role Playing, Shmup, Shooting, Simulation, Sports, Strategy, Survival, Testing, Tool, VirtualPet, Visual Novel",
@@ -24,5 +25,9 @@ The JSON format for gallery entries is as follows:
     "isClassicGBDK": true/false,
     "usesEngine": "One of the following:None, ZGB, CrossZGB",
     "linkOrMultiPlayer": true/false,
-    "yearFirstReleased": "Example: 2021"
+    "yearFirstReleased": "Example: 2021",
+    "dateAdded": "Example: 2021-01-01", /* Date entry was added */
+    "metaTags": "Example: gbcompo23", /* Competitions, jams, etc that the game was a part of */
+    "shortSearchKey": "MIO-GB",
+    "usedGenAI": "",  true/false/(left empty if not known)
 },
