@@ -1663,7 +1663,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Bownly",
     "itemTitle": "GB Paint",
-    "shortDescription": "It's like MS Paint, but for the Gameboy",
+    "shortDescription": "It's like MS Paint",
     "imagePreviewURL": "pix/itch/cieOka.png",
     "linksArray": [
         {"type": "primary", "url": "https://bownly.itch.io/gb-paint", "displayText": "Info"},
@@ -2230,7 +2230,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "User0x7f",
     "itemTitle": "Genesis GB",
-    "shortDescription": "A shoot em up for the Gameboy",
+    "shortDescription": "A shoot em up",
     "imagePreviewURL": "pix/itch/b+YxAf.png",
     "linksArray": [
         {"type": "primary", "url": "https://user0x7f.itch.io/genesis",                 "displayText": "Info"},
@@ -2283,7 +2283,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "User0x7f",
     "itemTitle": "Black Castle GB",
-    "shortDescription": "An action platformer for the Gameboy",
+    "shortDescription": "An action platformer",
     "imagePreviewURL": "pix/itch/Q49lDo.png",
     "linksArray": [
         {"type": "primary", "url": "https://user0x7f.itch.io/black-castle",                "displayText": "Info"},
@@ -2293,7 +2293,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
-    "featuredPriority": 10,
+    "featuredPriority": 8,
     "isMultiPlatform": false,
     "isOpenSource": true,
     "licenseType": "MIT",
@@ -6461,6 +6461,34 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-03-10",
     "metaTags": "",
     "shortSearchKey": "BBL-GB",
+    "usedGenAI": "",
+},
+
+{
+    "authorName": "User0x7f",
+    "itemTitle": "Black Castle 2",
+    "shortDescription": "An action platformer",
+    "imagePreviewURL": "pix/itch/blackcastle2.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://user0x7f.itch.io/black-castle-2", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "GameBoy",
+    "featuredPriority": 10,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-03-10",
+    "metaTags": "",
+    "shortSearchKey": "BC2-GB",
     "usedGenAI": "",
 },
 
