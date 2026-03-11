@@ -6521,4 +6521,32 @@ const jsonGalleryItemsItch = [
     "usedGenAI": false,
 },
 
+{
+    "authorName": "walfie",
+    "itemTitle": "Walfie's Nonograms",
+    "shortDescription": "A nonograms/picross game",
+    "imagePreviewURL": "pix/itch/nonogram.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://walfie.itch.io/walfies-nonograms", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 9,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-03-10",
+    "metaTags": "",
+    "shortSearchKey": "WNG-GBC",
+    "usedGenAI": "",
+},
+
 ];
