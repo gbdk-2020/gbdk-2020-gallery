@@ -2856,7 +2856,7 @@ const jsonGalleryItemsItch = [
     "isClassicGBDK": false,
     "usesEngine": "No Engine",
     "linkOrMultiPlayer": false,
-    "hardwareFeatureTags": "MegaDuck Keyboard, MegaDuck Printer",
+    "hardwareFeatureTags": "MegaDuck Keyboard, MegaDuck Printer, Link Port, USB Keyboard",
     "yearFirstReleased": "2022",
     "dateAdded": "2024-07-01"
 },
@@ -6513,7 +6513,7 @@ const jsonGalleryItemsItch = [
     "isClassicGBDK": false,
     "usesEngine": "No Engine",
     "linkOrMultiPlayer": false,
-    "hardwareFeatureTags": "GameBoy Printer, MegaDuck Printer, SNES Mouse",
+    "hardwareFeatureTags": "GameBoy Printer, MegaDuck Printer, SNES Mouse, Link Port, USB Mouse",
     "yearFirstReleased": "2026",
     "dateAdded": "2026-03-10",
     "metaTags": "",
