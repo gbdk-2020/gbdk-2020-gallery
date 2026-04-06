@@ -6577,4 +6577,32 @@ const jsonGalleryItemsItch = [
     "usedGenAI": true,
 },
 
+{
+    "authorName": "BARATA Software",
+    "itemTitle": "Mister Balloon",
+    "shortDescription": "One wrong move against a spike and your journey goes POP!",
+    "imagePreviewURL": "pix/itch/mrballoon.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://baratasoftware.itch.io/mister-balloon", "displayText": "Info"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-04-06",
+    "metaTags": "",
+    "shortSearchKey": "MBL-GBC",
+    "usedGenAI": false,
+},
+
 ];
