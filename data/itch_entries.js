@@ -6605,4 +6605,32 @@ const jsonGalleryItemsItch = [
     "usedGenAI": false,
 },
 
+{
+    "authorName": "lunoka",
+    "itemTitle": "El Viento demake opening",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/elviento.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://lunoka.itch.io/el-viento-opening-demake-sms", "displayText": "Info"},
+                ],
+    "categoryTags": "Techdemo",
+    "gameTypeTags": "Cutscene",
+    "platformTags": "SMS",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-04-06",
+    "metaTags": "",
+    "shortSearchKey": "EVT-SMS",
+    "usedGenAI": false,
+},
+
 ];
