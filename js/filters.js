@@ -237,6 +237,13 @@ function addFilterUpdateHooks() {
             document.getElementById('sortSelector').value = "Recently Added";
             applyFilters();
         });
+
+    // Clear Text Search field button
+    let elClearTextSearch = document.querySelector('#clearTextSearchButton');
+    elClearTextSearch.addEventListener('click', () => {
+            document.getElementById('textSearch').value = "";
+            applyFilters();
+        });
 }
 
 function attachClickFilter(element, filter_element_id, filtervalue) {
