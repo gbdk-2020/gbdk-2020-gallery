@@ -569,7 +569,7 @@ const jsonGalleryItemsItch = [
 {
     "authorName": "Aspicprod",
     "itemTitle": "Astral Crusade: Retro Reborn",
-    "shortDescription": "a SHMUP Gameboy game coded in C language with GBDK",
+    "shortDescription": "",
     "imagePreviewURL": "pix/itch/pZhb1L.png",
     "linksArray": [
         {"type": "primary", "url": "https://aspicprod.itch.io/astralcrusade", "displayText": "Info"},
