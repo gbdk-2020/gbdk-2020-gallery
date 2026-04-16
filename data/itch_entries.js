@@ -6642,7 +6642,7 @@ const jsonGalleryItemsItch = [
         {"type": "primary", "url": "https://baratasoftware.itch.io/crazy-jungle", "displayText": "Info"},
                 ],
     "categoryTags": "Game",
-    "gameTypeTags": "Puzzel",
+    "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
     "featuredPriority": 5,
     "isMultiPlatform": false,
