@@ -49,9 +49,9 @@ const jsonGalleryItemsZGB = [
     "usesEngine": "ZGB",
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
-    "yearFirstReleased": "2018",
+    "yearFirstReleased": "2016",
     "dateAdded": "2024-01-01",
-    "metaTags": "zgbjam2016"
+    "metaTags": "gbjam5"
 },
 
 {
@@ -417,7 +417,8 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "metaTags": "zgbjam2018"
 },
 
 {
@@ -442,7 +443,8 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "metaTags": "zgbjam2018"
 },
 
 {
@@ -467,7 +469,8 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "metaTags": "zgbjam2018"
 },
 
 {
@@ -493,7 +496,8 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "metaTags": "zgbjam2018"
 },
 
 {
@@ -519,7 +523,8 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "metaTags": "zgbjam2018"
 },
 
 {
@@ -544,7 +549,8 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "metaTags": "zgbjam2018"
 },
 
 {
@@ -569,7 +575,8 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2018",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "metaTags": "zgbjam2018"
 },
 
 {
@@ -747,7 +754,8 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "metaTags": "zgbjam2019"
 },
 
 {
@@ -772,7 +780,8 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "metaTags": "zgbjam2019"
 },
 
 {
@@ -797,7 +806,8 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "metaTags": "zgbjam2019"
 },
 
 {
@@ -822,7 +832,8 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "metaTags": "zgbjam2019"
 },
 
 {
@@ -847,7 +858,8 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "metaTags": "zgbjam2019"
 },
 
 {
@@ -872,13 +884,14 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "metaTags": "zgbjam2019"
 },
 
 {
     "authorName": "Maikel Ortega",
     "itemTitle": "Guardian Ghost",
-    "shortDescription": "#description#",
+    "shortDescription": "",
     "imagePreviewURL": "pix/zgb/guardianghost.png",
     "linksArray": [
         {"type": "primary", "url": "https://maikelortega.itch.io/guardianghost", "displayText": "Info"},
@@ -897,7 +910,8 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2019",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "metaTags": "zgbjam2019"
 },
 
 {

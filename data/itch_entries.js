@@ -150,7 +150,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2016",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "metaTags": "gbjam5"
 },
 
 {
