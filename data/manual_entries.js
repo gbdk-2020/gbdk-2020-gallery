@@ -2518,7 +2518,7 @@ const jsonGalleryItemsManual = [
 {
     "authorName": "statico",
     "itemTitle": "GBHack",
-    "shortDescription": "",
+    "shortDescription": "NetHack-inspired roguelike",
     "imagePreviewURL": "pix/games/gbhack.png",
     "linksArray": [
         {"type": "primary", "url": "https://gbhack.statico.io/", "displayText": "Info"},
