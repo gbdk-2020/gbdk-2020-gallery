@@ -6645,7 +6645,7 @@ const jsonGalleryItemsItch = [
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
-    "featuredPriority": 5,
+    "featuredPriority": 3,
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",

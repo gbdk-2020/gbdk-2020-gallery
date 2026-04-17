@@ -2515,4 +2515,33 @@ const jsonGalleryItemsManual = [
     "usedGenAI": false,
 },
 
+{
+    "authorName": "statico",
+    "itemTitle": "GBHack",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/gbhack.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://gbhack.statico.io/", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/statico/gbhack/tree/main", "displayText": "Source"},
+                ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Roguelike",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-04-17",
+    "metaTags": "",
+    "shortSearchKey": "GH-GBC",
+    "usedGenAI": true,
+},
+
 ];
