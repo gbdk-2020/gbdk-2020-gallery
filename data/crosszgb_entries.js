@@ -208,7 +208,7 @@ const jsonGalleryItemsCrossZGB = [
     "dateAdded": "2026-04-06",
     "metaTags": "",
     "shortSearchKey": "GLF-SMS",
-    "usedGenAI": false,
+    "usedGenAI": "",
 },
 
 ];

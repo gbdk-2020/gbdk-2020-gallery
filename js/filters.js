@@ -176,12 +176,12 @@ function applyFilters() {
         let platformNoMatch = !checkMultiSelectFilter('platformTags', platformTagsSelected, item);
         let hardwareFeatureTagsNoMatch = !checkMultiSelectFilter('hardwareFeatureTags', hardwareFeatureTagsSelected, item);
 
-             if ((openSourceOnly    === true) && (!item.dataset.hasOwnProperty('isOpenSource')))       item.style.display = 'none';
+             if ((openSourceOnly    === true) && (!item.dataset.hasOwnProperty('isOpenSource')))              item.style.display = 'none';
         else if ((linkOrMultiPlayerOnly   === true) && (!item.dataset.hasOwnProperty('linkOrMultiPlayer')))   item.style.display = 'none';
-        else if ((cartReleaseOnly   === true) && (!item.dataset.hasOwnProperty('hasPhysicalRelease'))) item.style.display = 'none';
-        else if ((multiPlatformOnly === true) && (!item.dataset.hasOwnProperty('isMultiPlatform')))    item.style.display = 'none';
-        else if ((yearReleasedMatch !== 'All') && (item.dataset['yearFirstReleased'] !== yearReleasedMatch)) item.style.display = 'none';
-        else if ((usesEngineMatch   !== 'All') && (item.dataset['usesEngine'] !== usesEngineMatch))          item.style.display = 'none';
+        else if ((cartReleaseOnly   === true) && (!item.dataset.hasOwnProperty('hasPhysicalRelease')))        item.style.display = 'none';
+        else if ((multiPlatformOnly === true) && (!item.dataset.hasOwnProperty('isMultiPlatform')))           item.style.display = 'none';
+        else if ((yearReleasedMatch !== 'All') && (item.dataset['yearFirstReleased'] !== yearReleasedMatch))  item.style.display = 'none';
+        else if ((usesEngineMatch   !== 'All') && (item.dataset['usesEngine'] !== usesEngineMatch))           item.style.display = 'none';
         else if ((textSearchMatch   !== '')
                  && (item.dataset['authorName'].toLowerCase().includes(textSearchMatch.toLowerCase()) === false)
                  && (item.dataset['itemTitle'].toLowerCase().includes(textSearchMatch.toLowerCase()) === false)
@@ -189,6 +189,7 @@ function applyFilters() {
                  && (item.dataset['shortDescription'].toLowerCase().includes(textSearchMatch.toLowerCase()) === false)
                  && (item.dataset['shortSearchKey'].includes(textSearchMatch) === false)
                  && (item.dataset['metaTags'].toLowerCase().includes(textSearchMatch.toLowerCase()) === false)
+                 && (item.dataset['usedGenAI'].toLowerCase().includes(textSearchMatch.toLowerCase()) === false)
                  ) item.style.display = 'none';
         else if (categoryNoMatch || gameTypeNoMatch || platformNoMatch || hardwareFeatureTagsNoMatch) item.style.display = 'none';
         else {

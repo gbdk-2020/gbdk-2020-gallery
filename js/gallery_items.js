@@ -141,6 +141,7 @@ function createGalleryItems(galleryItems) {
         itemDiv.dataset["shortDescription"]  = item.shortDescription;
         itemDiv.dataset["usesEngine"]        = item.usesEngine;
         itemDiv.dataset["metaTags"]          = item.metaTags;
+        itemDiv.dataset["usedGenAI"]         = usedGenAI;
 
         if (item.hasOwnProperty("shortSearchKey")) {
             itemDiv.dataset["shortSearchKey"]    = item.shortSearchKey;

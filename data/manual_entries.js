@@ -2483,7 +2483,7 @@ const jsonGalleryItemsManual = [
     "dateAdded": "2026-04-06",
     "metaTags": "",
     "shortSearchKey": "HNX-GB",
-    "usedGenAI": false,
+    "usedGenAI": "",
 },
 
 {
@@ -2512,7 +2512,7 @@ const jsonGalleryItemsManual = [
     "dateAdded": "2026-04-06",
     "metaTags": "",
     "shortSearchKey": "VPK-GB",
-    "usedGenAI": false,
+    "usedGenAI": "",
 },
 
 {
@@ -2541,7 +2541,7 @@ const jsonGalleryItemsManual = [
     "dateAdded": "2026-04-17",
     "metaTags": "",
     "shortSearchKey": "GH-GBC",
-    "usedGenAI": true,
+    "usedGenAI": "ai-code, ai-assets",
 },
 
 ];

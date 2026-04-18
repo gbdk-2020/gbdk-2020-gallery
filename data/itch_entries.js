@@ -6346,7 +6346,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-03-10",
     "metaTags": "",
     "shortSearchKey": "SUM-GBC",
-    "usedGenAI": true,
+    "usedGenAI": "ai-code",
 },
 
 {
@@ -6434,7 +6434,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-03-10",
     "metaTags": "",
     "shortSearchKey": "RGU-GB",
-    "usedGenAI": true,
+    "usedGenAI": "ai-code, ai-assets",
 },
 
 {
@@ -6519,7 +6519,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-03-10",
     "metaTags": "",
     "shortSearchKey": "QRP-GBC",
-    "usedGenAI": false,
+    "usedGenAI": "",
 },
 
 {
@@ -6575,7 +6575,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-03-10",
     "metaTags": "",
     "shortSearchKey": "SKT-GBC",
-    "usedGenAI": true,
+    "usedGenAI": "ai-code, ai-assets",
 },
 
 {
@@ -6603,7 +6603,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-04-06",
     "metaTags": "",
     "shortSearchKey": "MBL-GBC",
-    "usedGenAI": false,
+    "usedGenAI": "",
 },
 
 {
@@ -6631,7 +6631,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-04-06",
     "metaTags": "",
     "shortSearchKey": "EVT-SMS",
-    "usedGenAI": false,
+    "usedGenAI": "",
 },
 
 {
@@ -6659,6 +6659,6 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-04-15",
     "metaTags": "",
     "shortSearchKey": "CJ-GB",
-    "usedGenAI": false,
+    "usedGenAI": "",
 },
 ];
