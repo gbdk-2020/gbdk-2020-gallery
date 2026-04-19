@@ -7,8 +7,8 @@ const jsonGalleryItemsCrossZGB = [
     "imagePreviewURL": "pix/crosszgb/superprincess_gg.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/untoxa/Super-Princess-2092-Exodus", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/untoxa/Super-Princess-2092-Exodus", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/untoxa/Super-Princess-2092-Exodus", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy, GameGear, MegaDuck",
@@ -33,8 +33,8 @@ const jsonGalleryItemsCrossZGB = [
     "imagePreviewURL": "pix/crosszgb/kaijufeeder_gg.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/untoxa/Kaiju-Feeder", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/untoxa/Kaiju-Feeder", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/untoxa/Kaiju-Feeder", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy, GameGear, SMS",
@@ -59,8 +59,8 @@ const jsonGalleryItemsCrossZGB = [
     "imagePreviewURL": "pix/crosszgb/sushinights_sms.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/untoxa/SushiNights", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/untoxa/SushiNights", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/untoxa/SushiNights", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy, GameGear, SMS, MegaDuck",
@@ -85,8 +85,8 @@ const jsonGalleryItemsCrossZGB = [
     "imagePreviewURL": "pix/crosszgb/hermano_sms.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/untoxa/Hermano", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/untoxa/Hermano", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/untoxa/Hermano", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy, GameGear, SMS, MegaDuck",
@@ -111,8 +111,8 @@ const jsonGalleryItemsCrossZGB = [
     "imagePreviewURL": "pix/crosszgb/polkasheep_gg.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/untoxa/polka-sheep", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/untoxa/polka-sheep", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/untoxa/polka-sheep", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy, GameGear, MegaDuck",
@@ -137,8 +137,8 @@ const jsonGalleryItemsCrossZGB = [
     "shortDescription": "Productivity Timer Tool",
     "imagePreviewURL": "pix/itch/tomato-do.png",
     "linksArray": [
-        {"type": "primary", "url": "https://oshf.itch.io/tomato-do", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://oshf.itch.io/tomato-do", "displayText": "Info"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Timer",
     "platformTags": "GameBoy",
@@ -163,8 +163,8 @@ const jsonGalleryItemsCrossZGB = [
     "shortDescription": "Guide Kitty through the perils of MOASS",
     "imagePreviewURL": "pix/itch/moass.png",
     "linksArray": [
-        {"type": "primary", "url": "https://shortsnvrclosed.itch.io/moass-is-tomorrow", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://shortsnvrclosed.itch.io/moass-is-tomorrow", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy, GameBoyColor",
@@ -189,8 +189,8 @@ const jsonGalleryItemsCrossZGB = [
     "imagePreviewURL": "pix/games/gluf.png",
     "linksArray": [
         {"type": "primary", "url": "https://www.smspower.org/Homebrew/GLUFTeslaFrog-SMS", "displayText": "Info SMS"},
-        {"type": "primary", "url": "https://www.smspower.org/Homebrew/GLUFTeslaFrog-GG", "displayText": "Info GG"},
-                ],
+        {"type": "primary", "url": "https://www.smspower.org/Homebrew/GLUFTeslaFrog-GG", "displayText": "Info GG"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "SMS, GameGear, GameBoyColor",
@@ -208,7 +208,7 @@ const jsonGalleryItemsCrossZGB = [
     "dateAdded": "2026-04-06",
     "metaTags": "",
     "shortSearchKey": "GLF-SMS",
-    "usedGenAI": "",
+    "usedGenAI": ""
 },
 
 ];

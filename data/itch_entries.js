@@ -6,8 +6,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "GB Roguelike",
     "imagePreviewURL": "pix/itch/e4Xtkb.png",
     "linksArray": [
-        {"type": "primary", "url": "https://bownly.itch.io/logue", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://bownly.itch.io/logue", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Role Playing",
     "platformTags": "GameBoy",
@@ -31,8 +31,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A fast-paced arcade-survival game",
     "imagePreviewURL": "pix/itch/ybLlDc.png",
     "linksArray": [
-        {"type": "primary", "url": "https://maithonis.itch.io/diveblob", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://maithonis.itch.io/diveblob", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy, GameBoyColor",
@@ -57,8 +57,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/Rs1Wzy.png",
     "linksArray": [
         {"type": "primary", "url": "https://studioguma.itch.io/bit-bang", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/StudioGuma/bit_bang", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/StudioGuma/bit_bang", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -83,8 +83,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/ELP5kD.png",
     "linksArray": [
         {"type": "primary", "url": "https://staticlinkage.itch.io/skeleton-crew", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/chrislewisdev/skeleton-crew", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/chrislewisdev/skeleton-crew", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Role Playing",
     "platformTags": "GameBoy",
@@ -109,8 +109,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "The Gameboy Clicker Game No-One Asked For (GGJ 2016)",
     "imagePreviewURL": "pix/itch/33n1Yu.png",
     "linksArray": [
-        {"type": "primary", "url": "https://refreshgames.itch.io/waifu-clicker", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://refreshgames.itch.io/waifu-clicker", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Idle",
     "platformTags": "GameBoy",
@@ -134,8 +134,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A game made for GBJAM, a simple shoot-em-up with two weapons and a raft of enemies and bosses!",
     "imagePreviewURL": "pix/itch/XyKsH0.png",
     "linksArray": [
-        {"type": "primary", "url": "https://refreshgames.itch.io/biotic-limit", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://refreshgames.itch.io/biotic-limit", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Shmup",
     "platformTags": "GameBoy",
@@ -161,8 +161,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/Pnu6LX.png",
     "linksArray": [
         {"type": "primary", "url": "https://djarky.itch.io/keychan", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/djarky/Keychan", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/djarky/Keychan", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -187,8 +187,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Test game I made while following a tutorial",
     "imagePreviewURL": "pix/itch/H23I+S.png",
     "linksArray": [
-        {"type": "primary", "url": "https://martfn.itch.io/maze-game", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://martfn.itch.io/maze-game", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Maze",
     "platformTags": "GameBoy",
@@ -212,8 +212,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A very simple endless runner of sorts",
     "imagePreviewURL": "pix/itch/ZE9rQV.png",
     "linksArray": [
-        {"type": "primary", "url": "https://nelsonman90.itch.io/pittsburgh-river-escape", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://nelsonman90.itch.io/pittsburgh-river-escape", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -238,8 +238,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/uf98x1.png",
     "linksArray": [
         {"type": "primary", "url": "https://canight.itch.io/slime-trials",  "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/Canite/SlimeTrials", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/Canite/SlimeTrials", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -264,8 +264,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/DgsG1x.png",
     "linksArray": [
-        {"type": "primary", "url": "https://mbaran.itch.io/friendly-pirates", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://mbaran.itch.io/friendly-pirates", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -290,8 +290,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Ma version GameBoy du mythique PONG",
     "imagePreviewURL": "pix/itch/GKu8jD.png",
     "linksArray": [
-        {"type": "primary", "url": "https://mbaran.itch.io/pong-boy", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://mbaran.itch.io/pong-boy", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -315,8 +315,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/brickndestroy.png",
     "linksArray": [
-        {"type": "primary", "url": "https://eric-studio40a.itch.io/brickn-destroy-demo-version", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://eric-studio40a.itch.io/brickn-destroy-demo-version", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -340,8 +340,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Retour à l'ère du snake pixel!!",
     "imagePreviewURL": "pix/itch/KDQCSZ.png",
     "linksArray": [
-        {"type": "primary", "url": "https://mbaran.itch.io/ophide", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://mbaran.itch.io/ophide", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -365,8 +365,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Visual-Novel survival adventure",
     "imagePreviewURL": "pix/itch/ctFOpk.png",
     "linksArray": [
-        {"type": "primary", "url": "https://tofu-heavy-industries.itch.io/outcast-station", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://tofu-heavy-industries.itch.io/outcast-station", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Visual-Novel",
     "platformTags": "GameBoy",
@@ -391,8 +391,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/+KKD6s.png",
     "linksArray": [
         {"type": "primary", "url": "https://lemmyhawkins.itch.io/max-pirate-gameboy-action-game", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/MWehrstedt/MaxPirate", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/MWehrstedt/MaxPirate", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -417,8 +417,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/maxpirateeb.png",
     "linksArray": [
         {"type": "primary", "url": "https://lemmyhawkins.itch.io/max-pirate-extra-boom", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/MWehrstedt/MaxPirateExtra", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/MWehrstedt/MaxPirateExtra", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -435,7 +435,7 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2025",
     "dateAdded": "2026-01-02",
     "metaTags": "",
-    "shortSearchKey": "MPB-GB",
+    "shortSearchKey": "MPB-GB"
 },
 
 {
@@ -444,8 +444,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Jump and fly your way through danger...",
     "imagePreviewURL": "pix/itch/6+B+qJ.png",
     "linksArray": [
-        {"type": "primary", "url": "https://electrictiti.itch.io/gb-dash", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://electrictiti.itch.io/gb-dash", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Rhythm",
     "platformTags": "GameBoyColor",
@@ -470,8 +470,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/IPBYPo.png",
     "linksArray": [
         {"type": "primary", "url": "https://user0x7f.itch.io/gunship-dx-gbc",          "displayText": "Info"},
-        {"type": "store" , "url": "https://incube8games.com/products/gunship-dx-gbc", "displayText": "Cart"},
-                ],
+        {"type": "store" , "url": "https://incube8games.com/products/gunship-dx-gbc", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Shooting",
     "platformTags": "GameBoyColor",
@@ -496,8 +496,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/PuE+EY.png",
     "linksArray": [
         {"type": "primary", "url": "https://tiger-bronnikov.itch.io/alley", "displayText": "Info"},
-        {"type": "source", "url": "https://tiger-bronnikov.itch.io/alley", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://tiger-bronnikov.itch.io/alley", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -522,8 +522,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/JfgcAP.png",
     "linksArray": [
         {"type": "primary", "url": "https://tiger-bronnikov.itch.io/duck-hunt-gb", "displayText": "Info"},
-        {"type": "source", "url": "https://tiger-bronnikov.itch.io/duck-hunt-gb", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://tiger-bronnikov.itch.io/duck-hunt-gb", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Shooting",
     "platformTags": "GameBoy",
@@ -548,8 +548,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/ktWcFQ.png",
     "linksArray": [
         {"type": "primary", "url": "https://tiger-bronnikov.itch.io/aqua-gb", "displayText": "Info"},
-        {"type": "source", "url": "https://tiger-bronnikov.itch.io/aqua-gb", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://tiger-bronnikov.itch.io/aqua-gb", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "VirtualPet",
     "platformTags": "GameBoy",
@@ -573,8 +573,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/pZhb1L.png",
     "linksArray": [
-        {"type": "primary", "url": "https://aspicprod.itch.io/astralcrusade", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://aspicprod.itch.io/astralcrusade", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Shmup",
     "platformTags": "GameBoy",
@@ -598,8 +598,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Infiltrate the enemy base and gather as much data as you can.",
     "imagePreviewURL": "pix/itch/oz_soQ.png",
     "linksArray": [
-        {"type": "primary", "url": "https://momeka.itch.io/espionage", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://momeka.itch.io/espionage", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -624,8 +624,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/nk+Guf.png",
     "linksArray": [
         {"type": "primary", "url": "https://momeka.itch.io/run-to-databay", "displayText": "Info"},
-        {"type": "primary", "url": "https://github.com/Momeka/Databay", "displayText": "Source"},
-                ],
+        {"type": "primary", "url": "https://github.com/Momeka/Databay", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -649,8 +649,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Puzzle game for retro consoles!",
     "imagePreviewURL": "pix/itch/u5_amm.png",
     "linksArray": [
-        {"type": "primary", "url": "https://lunoka.itch.io/mai-nurse", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://lunoka.itch.io/mai-nurse", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy, GameGear, SMS, NES",
@@ -674,8 +674,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Puzzle game of penguins",
     "imagePreviewURL": "pix/itch/P4CI1M.png",
     "linksArray": [
-        {"type": "primary", "url": "https://sunnychowtheguy.itch.io/penguin-migrants", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://sunnychowtheguy.itch.io/penguin-migrants", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy, MegaDuck",
@@ -700,8 +700,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/qUt3Eo.png",
     "linksArray": [
         {"type": "primary", "url": "https://cloudscomputing.itch.io/sgb-sou-trn-demo", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/cloudsmon/sgb_nspc_music", "displayText": "Info"},
-                ],
+        {"type": "source", "url": "https://github.com/cloudsmon/sgb_nspc_music", "displayText": "Info"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Music",
     "platformTags": "SuperGameBoy",
@@ -726,8 +726,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/zhg9Zw.png",
     "linksArray": [
-        {"type": "primary", "url": "https://oscarbraindead.itch.io/krezber-gameboyanalogue", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://oscarbraindead.itch.io/krezber-gameboyanalogue", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy, AnaloguePocket",
@@ -751,8 +751,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/YW21cL.png",
     "linksArray": [
-        {"type": "primary", "url": "https://ry0g4.itch.io/music-mod-gameboy-test-gb", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://ry0g4.itch.io/music-mod-gameboy-test-gb", "displayText": "Info"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Music",
     "platformTags": "GameBoy",
@@ -776,8 +776,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Tetris: The Soviet mind Game",
     "imagePreviewURL": "pix/itch/aQhUmF.png",
     "linksArray": [
-        {"type": "primary", "url": "https://ry0g4.itch.io/tetris-the-soviet-mind-game-gbc", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://ry0g4.itch.io/tetris-the-soviet-mind-game-gbc", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoyColor",
@@ -801,8 +801,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/f3x3gb.png",
     "linksArray": [
-        {"type": "primary", "url": "https://ry0g4.itch.io/magic-screen-etch-a-sketch-sgb", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://ry0g4.itch.io/magic-screen-etch-a-sketch-sgb", "displayText": "Info"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Art",
     "platformTags": "GameBoy, SuperGameBoy",
@@ -826,8 +826,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "An attempt of demaking the Bonaza Bros game",
     "imagePreviewURL": "pix/itch/9fWIx3.png",
     "linksArray": [
-        {"type": "primary", "url": "https://asernaio.itch.io/bonaza-bros-demake", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://asernaio.itch.io/bonaza-bros-demake", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -851,8 +851,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Fly thought the sky and beat space invasors, dont forget to make a splash to not overheat.",
     "imagePreviewURL": "pix/itch/6Wba24.png",
     "linksArray": [
-        {"type": "primary", "url": "https://rodrigocard.itch.io/abovesky", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://rodrigocard.itch.io/abovesky", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -877,8 +877,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/vrJ+oe.png",
     "linksArray": [
         {"type": "primary", "url": "https://studioguma.itch.io/game-boy-of-life", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/StudioGuma/game_boy_of_life", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/StudioGuma/game_boy_of_life", "displayText": "Source"}
+    ],
     "categoryTags": "Simulation",
     "gameTypeTags": "Simulation",
     "platformTags": "GameBoy",
@@ -902,8 +902,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/ZexNnf.png",
     "linksArray": [
-        {"type": "primary", "url": "https://amealky.itch.io/doodleretro", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://amealky.itch.io/doodleretro", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -927,8 +927,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/inquisition.png",
     "linksArray": [
-        {"type": "primary", "url": "https://amealky.itch.io/inquisition", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://amealky.itch.io/inquisition", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -953,8 +953,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/YO5fpW.png",
     "linksArray": [
         {"type": "primary", "url": "https://twistedtwicegames.itch.io/timberman-classic", "displayText": "Info"},
-        {"type": "store", "url": "https://www.twistedtwicegames.com/GB.html", "displayText": "Cart"},
-                ],
+        {"type": "store", "url": "https://www.twistedtwicegames.com/GB.html", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -979,8 +979,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/Qr5kJE.png",
     "linksArray": [
         {"type": "primary", "url": "https://twistedtwicegames.itch.io/fly-oclock-gameboy-version", "displayText": "Info"},
-        {"type": "store", "url": "https://www.twistedtwicegames.com/GB.html", "displayText": "Cart"},
-                ],
+        {"type": "store", "url": "https://www.twistedtwicegames.com/GB.html", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -1005,8 +1005,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/AQp6L2.png",
     "linksArray": [
         {"type": "primary", "url": "https://bbbbbr.itch.io/breakout-lava-lamp", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/bbbbbr/breakout-lava-lamp", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/bbbbbr/breakout-lava-lamp", "displayText": "Source"}
+    ],
     "categoryTags": "Simulation",
     "gameTypeTags": "Simulation",
     "platformTags": "GameBoy, MegaDuck, AnaloguePocket",
@@ -1030,8 +1030,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Rage inducing precision platformer",
     "imagePreviewURL": "pix/itch/Vo8+wy.png",
     "linksArray": [
-        {"type": "primary", "url": "https://libra-bits.itch.io/super-hard-bouncer-gameboy-game", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://libra-bits.itch.io/super-hard-bouncer-gameboy-game", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -1055,8 +1055,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "​Blast through twelve levels of box pushing energy snake action!",
     "imagePreviewURL": "pix/itch/1o7eDX.png",
     "linksArray": [
-        {"type": "primary", "url": "https://bipedal-studios.itch.io/anctrayl", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://bipedal-studios.itch.io/anctrayl", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -1080,8 +1080,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A simple but polished snake game",
     "imagePreviewURL": "pix/itch/sHrVts.png",
     "linksArray": [
-        {"type": "primary", "url": "https://shenmansell.itch.io/simple-snake-gameboy", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://shenmansell.itch.io/simple-snake-gameboy", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy, GameBoyColor",
@@ -1106,8 +1106,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/LmnJF2.png",
     "linksArray": [
         {"type": "primary", "url": "https://zenzoa.itch.io/piropa", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/zenzoa/piropa", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/zenzoa/piropa", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "VirtualPet",
     "platformTags": "GameBoyColor",
@@ -1131,8 +1131,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/CxjZwC.png",
     "linksArray": [
-        {"type": "primary", "url": "https://djarky.itch.io/honorglory", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://djarky.itch.io/honorglory", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Visual-Novel",
     "platformTags": "GameBoy",
@@ -1156,8 +1156,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Take to the skies in a hot-air balloon alongside birds and air currents",
     "imagePreviewURL": "pix/itch/euLnvY.png",
     "linksArray": [
-        {"type": "primary", "url": "https://electrictiti.itch.io/balloon-trip", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://electrictiti.itch.io/balloon-trip", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoyColor",
@@ -1181,8 +1181,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "You are a fruit fly. Can you survive?",
     "imagePreviewURL": "pix/itch/4uKIw4.png",
     "linksArray": [
-        {"type": "primary", "url": "https://tambalaya.itch.io/fruitfly", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://tambalaya.itch.io/fruitfly", "displayText": "Info"}
+    ],
     "categoryTags": "Simulation",
     "gameTypeTags": "Simulation",
     "platformTags": "GameBoy",
@@ -1206,8 +1206,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Roguelike with turn-based combat",
     "imagePreviewURL": "pix/itch/kOij6U.png",
     "linksArray": [
-        {"type": "primary", "url": "https://its-terra.itch.io/castle-of-sword-n-shield", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://its-terra.itch.io/castle-of-sword-n-shield", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Adventure",
     "platformTags": "GameBoy",
@@ -1232,8 +1232,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/caiotava_pong.png",
     "linksArray": [
-        {"type": "primary", "url": "https://caiotava.itch.io/pong-gameboy", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://caiotava.itch.io/pong-gameboy", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -1258,8 +1258,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/D2Hy+j.png",
     "linksArray": [
         {"type": "primary", "url": "https://danirod.itch.io/minesweeper-gb", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/danirod-live/minesweeper-gb", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/danirod-live/minesweeper-gb", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -1283,8 +1283,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Build your rocket, fuel it, and escape.",
     "imagePreviewURL": "pix/itch/NMIAQ3.png",
     "linksArray": [
-        {"type": "primary", "url": "https://asobitech.itch.io/super-jetpak-dx", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://asobitech.itch.io/super-jetpak-dx", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoyColor",
@@ -1308,8 +1308,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "32kB Puzzle Game",
     "imagePreviewURL": "pix/itch/3bma8f.png",
     "linksArray": [
-        {"type": "primary", "url": "https://clems71.itch.io/tomoni", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://clems71.itch.io/tomoni", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -1333,8 +1333,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "I heard you like 15-puzzles",
     "imagePreviewURL": "pix/itch/DC_3LJ.png",
     "linksArray": [
-        {"type": "primary", "url": "https://vvulpes0.itch.io/225", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://vvulpes0.itch.io/225", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -1358,8 +1358,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A logic puzzle game",
     "imagePreviewURL": "pix/itch/wetCXR.png",
     "linksArray": [
-        {"type": "primary", "url": "https://tardigrade-nx.itch.io/logic-island", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://tardigrade-nx.itch.io/logic-island", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -1384,8 +1384,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/wLjIDB.png",
     "linksArray": [
         {"type": "primary", "url": "https://moosdruide13.itch.io/laser-baser-2-for-game-boy", "displayText": "Info"},
-        {"type": "source",  "url": "https://moosdruide13.itch.io/laser-baser-2-for-game-boy", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://moosdruide13.itch.io/laser-baser-2-for-game-boy", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -1409,8 +1409,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Cat Petting Game",
     "imagePreviewURL": "pix/itch/2p_ZAS.png",
     "linksArray": [
-        {"type": "primary", "url": "https://fluxmasterfix.itch.io/pspsps", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://fluxmasterfix.itch.io/pspsps", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Rhythm",
     "platformTags": "GameBoy",
@@ -1436,8 +1436,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/ooxI2f.png",
     "linksArray": [
         {"type": "primary", "url": "https://bbbbbr.itch.io/canyon-racer", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/bbbbbr/canyon-racer", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/bbbbbr/canyon-racer", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy, MegaDuck",
@@ -1462,8 +1462,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/zevMcy.png",
     "linksArray": [
         {"type": "primary", "url": "https://muchadardo.itch.io/space-war-3d", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/teaaaaaaaa/Space-war-3D-gameboy-color-", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/teaaaaaaaa/Space-war-3D-gameboy-color-", "displayText": "Source"}
+    ],
     "categoryTags": "Techdemo",
     "gameTypeTags": "Shmup",
     "platformTags": "GameBoyColor",
@@ -1487,8 +1487,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/1yLNd3.png",
     "linksArray": [
-        {"type": "primary", "url": "https://muchadardo.itch.io/sundown-mayhem", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://muchadardo.itch.io/sundown-mayhem", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -1512,8 +1512,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Guide the slime through boards - Made with GBDK",
     "imagePreviewURL": "pix/itch/SffMIL.png",
     "linksArray": [
-        {"type": "primary", "url": "https://kelgors.itch.io/slimey", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://kelgors.itch.io/slimey", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -1538,8 +1538,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/er5qh9.png",
     "linksArray": [
         {"type": "primary", "url": "https://milanfin.itch.io/little-green-blob", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/MilanFIN/little-green-blob", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/MilanFIN/little-green-blob", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -1564,8 +1564,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/wb41js.png",
     "linksArray": [
         {"type": "primary", "url": "https://bbbbbr.itch.io/gameboy-axelay", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/bbbbbr/gb-axelay-demo", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/bbbbbr/gb-axelay-demo", "displayText": "Source"}
+    ],
     "categoryTags": "Techdemo",
     "gameTypeTags": "Shmup",
     "platformTags": "GameBoy, GameBoyColor",
@@ -1590,8 +1590,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/qTFK9h.png",
     "linksArray": [
         {"type": "primary", "url": "https://user0x7f.itch.io/genesis-2",             "displayText": "Info"},
-        {"type": "store",   "url": "https://incube8games.com/products/genesis-2-gb", "displayText": "Cart"},
-                ],
+        {"type": "store",   "url": "https://incube8games.com/products/genesis-2-gb", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Shmup",
     "platformTags": "GameBoy",
@@ -1616,8 +1616,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/G56GDG.png",
     "linksArray": [
         {"type": "primary", "url": "https://gearfo.itch.io/geminorons",                                                 "displayText": "Info"},
-        {"type": "store",   "url": "https://www.ferrantecrafts.com/listing/1368385590/invasion-of-the-geminorons-game", "displayText": "Cart"},
-                ],
+        {"type": "store",   "url": "https://www.ferrantecrafts.com/listing/1368385590/invasion-of-the-geminorons-game", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoyColor, AnaloguePocket",
@@ -1642,8 +1642,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/ilhrLI.png",
     "linksArray": [
         {"type": "primary", "url": "https://bownly.itch.io/microgames-jam-pak", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/Bownly/GBMicroGames",    "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/Bownly/GBMicroGames",    "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Microgames",
     "platformTags": "GameBoy",
@@ -1667,8 +1667,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "It's like MS Paint",
     "imagePreviewURL": "pix/itch/cieOka.png",
     "linksArray": [
-        {"type": "primary", "url": "https://bownly.itch.io/gb-paint", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://bownly.itch.io/gb-paint", "displayText": "Info"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Art",
     "platformTags": "GameBoy",
@@ -1693,8 +1693,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/ETHLzm.png",
     "linksArray": [
         {"type": "primary", "url": "https://retroreflector.itch.io/banished", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/Bownly/MirrorGB", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/Bownly/MirrorGB", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -1720,8 +1720,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/fNobQH.png",
     "linksArray": [
         {"type": "primary", "url": "https://milanfin.itch.io/loss-of-pressure", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/MilanFIN/loss-of-pressure", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/MilanFIN/loss-of-pressure", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -1745,8 +1745,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "~Abstract Bayou Pixelscapes~",
     "imagePreviewURL": "pix/itch/kMIGbT.png",
     "linksArray": [
-        {"type": "primary", "url": "https://tambalaya.itch.io/atchafalaya-arcade", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://tambalaya.itch.io/atchafalaya-arcade", "displayText": "Info"}
+    ],
     "categoryTags": "Music",
     "gameTypeTags": "Music",
     "platformTags": "GameBoy",
@@ -1771,8 +1771,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/C3zvxr.png",
     "linksArray": [
         {"type": "primary", "url": "https://joyrider3774.itch.io/waternet", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/joyrider3774/waternet", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/joyrider3774/waternet", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy, GameBoyColor, MegaDuck, AnaloguePocket, SMS, GameGear",
@@ -1796,8 +1796,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Intense match-4 puzzle fun!",
     "imagePreviewURL": "pix/itch/llxui1.png",
     "linksArray": [
-        {"type": "primary", "url": "https://ohnotomsutton.itch.io/fydos-magic-tiles", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://ohnotomsutton.itch.io/fydos-magic-tiles", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -1821,8 +1821,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "See if you could have gotten coffee in those uncertain times-on the go!",
     "imagePreviewURL": "pix/itch/OLp4rQ.png",
     "linksArray": [
-        {"type": "primary", "url": "https://pogesoft.itch.io/the-quest-for-coffee-gbc", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://pogesoft.itch.io/the-quest-for-coffee-gbc", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Adventure",
     "platformTags": "GameBoyColor",
@@ -1847,8 +1847,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/JwxAj+.png",
     "linksArray": [
         {"type": "primary", "url": "https://asie.itch.io/atop-the-witchs-tower-gb", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/OpenZoo/tinyzoo-gb", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/OpenZoo/tinyzoo-gb", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoyColor, AnaloguePocket",
@@ -1872,8 +1872,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Find the solution as fast as possible in this colorful puzzle game!",
     "imagePreviewURL": "pix/itch/MBAEII.png",
     "linksArray": [
-        {"type": "primary", "url": "https://electrictiti.itch.io/binero", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://electrictiti.itch.io/binero", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoyColor",
@@ -1897,8 +1897,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Forever running. Forever Dancing. Forever Raccoon.",
     "imagePreviewURL": "pix/itch/CFuai_.png",
     "linksArray": [
-        {"type": "primary", "url": "https://tofu-heavy-industries.itch.io/super-raccoon-go", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://tofu-heavy-industries.itch.io/super-raccoon-go", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Rhythm",
     "platformTags": "GameBoy",
@@ -1922,8 +1922,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A Gameboy game made for GBJAM 8",
     "imagePreviewURL": "pix/itch/VyCBvg.png",
     "linksArray": [
-        {"type": "primary", "url": "https://fb1.itch.io/shootris", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://fb1.itch.io/shootris", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -1948,8 +1948,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A recreation / fangame of the amazing puzzle game Snakebird containing 10 all new levels",
     "imagePreviewURL": "pix/itch/snakebird.png",
     "linksArray": [
-        {"type": "primary", "url": "https://fb1.itch.io/snakebirdgb", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://fb1.itch.io/snakebirdgb", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -1974,8 +1974,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/NgQv6q.png",
     "linksArray": [
         {"type": "primary", "url": "https://drludos.itch.io/dmg-deals-damage", "displayText": "Info"},
-        {"type": "store",   "url": "https://yastuna-games.com/en/nintendo-game-boy/51-59-dmg-deals-damage-gb.html", "displayText": "Cart"},
-                ],
+        {"type": "store",   "url": "https://yastuna-games.com/en/nintendo-game-boy/51-59-dmg-deals-damage-gb.html", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -1999,8 +1999,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A fully-featured platforming game",
     "imagePreviewURL": "pix/itch/Qkf2rw.png",
     "linksArray": [
-        {"type": "primary", "url": "https://fb1.itch.io/diamaze", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://fb1.itch.io/diamaze", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -2024,8 +2024,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/5Yyjf4.png",
     "linksArray": [
-        {"type": "primary", "url": "https://kabcorp.itch.io/zilogized", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://kabcorp.itch.io/zilogized", "displayText": "Info"}
+    ],
     "categoryTags": "Music",
     "gameTypeTags": "Music",
     "platformTags": "GameBoy",
@@ -2051,8 +2051,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/EPOP7D.png",
     "linksArray": [
         {"type": "primary", "url": "https://kabcorp.itch.io/borruga", "displayText": "Info"},
-        {"type": "store", "url": "https://shop.insidegadgets.com/product/borruga/", "displayText": "Cart"},
-                ],
+        {"type": "store", "url": "https://shop.insidegadgets.com/product/borruga/", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -2077,8 +2077,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/hYuj_4.png",
     "linksArray": [
         {"type": "primary", "url": "https://kabcorp.itch.io/die-and-retry", "displayText": "Info"},
-        {"type": "source",  "url": "https://shop.insidegadgets.com/product/die-and-retry/", "displayText": "Cart"},
-                ],
+        {"type": "source",  "url": "https://shop.insidegadgets.com/product/die-and-retry/", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -2102,8 +2102,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/L9zeA4.png",
     "linksArray": [
-        {"type": "primary", "url": "https://kabcorp.itch.io/8bit-sunset", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://kabcorp.itch.io/8bit-sunset", "displayText": "Info"}
+    ],
     "categoryTags": "Music",
     "gameTypeTags": "Music",
     "platformTags": "GameBoy",
@@ -2129,8 +2129,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/8aN7r6.png",
     "linksArray": [
         {"type": "primary", "url": "https://basxto.itch.io/doavi", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/basxto/doavi", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/basxto/doavi", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Role Playing",
     "platformTags": "GameBoyColor",
@@ -2155,8 +2155,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/JTlxy4.png",
     "linksArray": [
         {"type": "primary", "url": "https://basxto.itch.io/pig", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/basxto/pig", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/basxto/pig", "displayText": "Source"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Tool",
     "platformTags": "GameBoy, GameBoyColor",
@@ -2182,8 +2182,8 @@ const jsonGalleryItemsItch = [
     "linksArray": [
         {"type": "primary", "url": "https://basxto.itch.io/great-burst", "displayText": "Info"},
         {"type": "source",  "url": "https://github.com/basxto/great-burst", "displayText": "Source"},
-        {"type": "source",  "url": "https://github.com/basxto/great-burst-2", "displayText": "Source v2"},
-                ],
+        {"type": "source",  "url": "https://github.com/basxto/great-burst-2", "displayText": "Source v2"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -2209,8 +2209,8 @@ const jsonGalleryItemsItch = [
     "linksArray": [
         {"type": "primary", "url": "https://laroldsjubilantjunkyard.itch.io/flappy-bird-gameboy", "displayText": "Info"},
         {"type": "source",  "url": "https://github.com/LaroldsJubilantJunkyard/flappy-bird-gameboy", "displayText": "Source"},
-        {"type": "source",  "url": "https://laroldsjubilantjunkyard.com/tutorial/flappy-bird/", "displayText": "Tutorial"},
-                ],
+        {"type": "source",  "url": "https://laroldsjubilantjunkyard.com/tutorial/flappy-bird/", "displayText": "Tutorial"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoyColor",
@@ -2262,8 +2262,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/7lGKk_.png",
     "linksArray": [
         {"type": "primary", "url": "https://untoxa.itch.io/color-lines", "displayText": "Info"},
-        {"type": "store",    "url": "https://ferrantecrafts.com/products/color-lines-dx", "displayText": "Cart"},
-                ],
+        {"type": "store",    "url": "https://ferrantecrafts.com/products/color-lines-dx", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy, GameBoyColor",
@@ -2315,8 +2315,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/pyaa7T.png",
     "linksArray": [
         {"type": "primary", "url": "https://user0x7f.itch.io/gunship", "displayText": "Info"},
-        {"type": "store", "url": "https://incube8games.com/collections/lite/products/gunship-gb-lite-edition", "displayText": "Cart"},
-                ],
+        {"type": "store", "url": "https://incube8games.com/collections/lite/products/gunship-gb-lite-edition", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Shooting",
     "platformTags": "GameBoy",
@@ -2369,8 +2369,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/C18o0R.png",
     "linksArray": [
         {"type": "primary", "url": "https://vl2m-studio.itch.io/1d-marathon", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/veganlies2me/1D-Marathon", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/veganlies2me/1D-Marathon", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -2395,8 +2395,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A Retro 8-bit Platform Brawler",
     "imagePreviewURL": "pix/itch/4riX7s.png",
     "linksArray": [
-        {"type": "primary", "url": "https://goldenpsp.itch.io/suns-dojo", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://goldenpsp.itch.io/suns-dojo", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Fighting",
     "platformTags": "GameBoyColor",
@@ -2449,8 +2449,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/pDNsog.png",
     "linksArray": [
         {"type": "primary", "url": "https://gearfo.itch.io/corrib75", "displayText": "Info"},
-        {"type": "source",  "url": "https://gearfo.itch.io/corrib75", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://gearfo.itch.io/corrib75", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy, GameBoyColor",
@@ -2476,8 +2476,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A very short Game Boy Color game, made in seven days ",
     "imagePreviewURL": "pix/itch/gearfo_lovveyoutodeath.png",
     "linksArray": [
-        {"type": "primary", "url": "https://gearfo.itch.io/love-you-to-death", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://gearfo.itch.io/love-you-to-death", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoyColor",
@@ -2502,8 +2502,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/bgC4F9.png",
     "linksArray": [
         {"type": "primary", "url": "https://rafagars.itch.io/unstoppable-knight",        "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/Rafagars/Unstoppable-Knight-GB", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/Rafagars/Unstoppable-Knight-GB", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy, GameBoyColor",
@@ -2529,8 +2529,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/Px_bEh.png",
     "linksArray": [
         {"type": "primary", "url": "https://binji.itch.io/porklikegb",     "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/binji/porklike.gb", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/binji/porklike.gb", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Roguelike",
     "platformTags": "GameBoy, GameBoyColor",
@@ -2557,8 +2557,8 @@ const jsonGalleryItemsItch = [
     "linksArray": [
         {"type": "primary", "url": "https://tangramgames.itch.io/tobu-tobu-girl-deluxe", "displayText": "Info"},
         {"type": "source",  "url": "https://github.com/SimonLarsen/tobutobugirl-dx",     "displayText": "Source"},
-        {"type": "store",   "url": "https://firstpressgames.com/collections/tobu-tobu-girl-deluxe",     "displayText": "Cart"},
-                ],
+        {"type": "store",   "url": "https://firstpressgames.com/collections/tobu-tobu-girl-deluxe",     "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoyColor",
@@ -2583,8 +2583,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/eMjEdJ.png",
     "linksArray": [
         {"type": "primary", "url": "https://tangramgames.itch.io/tobu-tobu-girl", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/SimonLarsen/tobutobugirl",     "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/SimonLarsen/tobutobugirl",     "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -2608,8 +2608,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Unblock Puzzle Game",
     "imagePreviewURL": "pix/itch/f7pljD.png",
     "linksArray": [
-        {"type": "primary", "url": "https://maithonis.itch.io/interblocked", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://maithonis.itch.io/interblocked", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -2635,8 +2635,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/BeqUkO.png",
     "linksArray": [
         {"type": "primary", "url": "https://adrianjg.itch.io/el-dueloroso",   "displayText": "Info"},
-        {"type": "store",   "url": "https://github.com/ajgalan/el-dueloroso", "displayText": "Source"},
-                ],
+        {"type": "store",   "url": "https://github.com/ajgalan/el-dueloroso", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Shooting",
     "platformTags": "GameBoy, AnaloguePocket",
@@ -2661,8 +2661,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A short but sweet rpg about a witch who saves an island",
     "imagePreviewURL": "pix/itch/kFfQ4E.png",
     "linksArray": [
-        {"type": "primary", "url": "https://geek-joystick.itch.io/marla-and-the-elemental-rings", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://geek-joystick.itch.io/marla-and-the-elemental-rings", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Role Playing",
     "platformTags": "GameBoyColor",
@@ -2687,8 +2687,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/3Np9E0.png",
     "linksArray": [
-        {"type": "primary", "url": "https://koopthekoopa.itch.io/flappy-bird-but-gameboy", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://koopthekoopa.itch.io/flappy-bird-but-gameboy", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy, GameBoyColor",
@@ -2712,8 +2712,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/WJ6yeD.png",
     "linksArray": [
-        {"type": "primary", "url": "https://loganl.itch.io/acfc", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://loganl.itch.io/acfc", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -2738,8 +2738,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/UpRd24.png",
     "linksArray": [
         {"type": "primary", "url": "https://joaomakesgames.itch.io/escape-obliterizer-dx", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/jcnmsg/escape-obliterizer-gbc", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/jcnmsg/escape-obliterizer-gbc", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoyColor",
@@ -2763,8 +2763,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "The viral word guessing game, now in your pocket! (Wordle)",
     "imagePreviewURL": "pix/itch/Mc5+3b.png",
     "linksArray": [
-        {"type": "primary", "url": "https://32mbit.itch.io/word-o", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://32mbit.itch.io/word-o", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy, GameBoyColor",
@@ -2789,8 +2789,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/2+y2r2.png",
     "linksArray": [
         {"type": "primary", "url": "https://bbbbbr.itch.io/game-boy-button-test",   "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/bbbbbr/gameboy_button_test", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/bbbbbr/gameboy_button_test", "displayText": "Source"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Testing",
     "platformTags": "GameBoy, AnaloguePocket, MegaDuck",
@@ -2816,8 +2816,8 @@ const jsonGalleryItemsItch = [
     "linksArray": [
         {"type": "primary", "url": "https://bbbbbr.itch.io/petris", "displayText": "Info"},
         {"type": "source", "url": "https://github.com/bbbbbr/Petris", "displayText": "Source"},
-        {"type": "store", "url": "https://ferrantecrafts.com/products/petris", "displayText": "Cart"},
-                ],
+        {"type": "store", "url": "https://ferrantecrafts.com/products/petris", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoyColor, GameGear, AnaloguePocket",
@@ -2843,8 +2843,8 @@ const jsonGalleryItemsItch = [
     "linksArray": [
         {"type": "primary", "url": "https://bbbbbr.itch.io/gb-wordyl", "displayText": "Info"},
         {"type": "source", "url": "https://github.com/bbbbbr/gb-wordyl", "displayText": "Source"},
-        {"type": "store", "url": "https://ferrantecrafts.com/products/gb-wordyl", "displayText": "Cart"},
-                ],
+        {"type": "store", "url": "https://ferrantecrafts.com/products/gb-wordyl", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy, GameBoyColor, MegaDuck, MegaDuck Laptop, AnaloguePocket, SuperGameBoy",
@@ -2869,8 +2869,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/YtCjhj.png",
     "linksArray": [
         {"type": "primary", "url": "https://obalfour.itch.io/flooder", "displayText": "Info"},
-        {"type": "store",   "url": "https://www.ferrantecrafts.com/listing/1173804126/flooder-game-cartridge-for-game-boy", "displayText": "Cart"},
-                ],
+        {"type": "store",   "url": "https://www.ferrantecrafts.com/listing/1173804126/flooder-game-cartridge-for-game-boy", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoyColor, AnaloguePocket",
@@ -2895,8 +2895,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/flappyboy_elementalcode.png",
     "linksArray": [
         {"type": "primary", "url": "https://elementalcode.itch.io/flappy-boy", "displayText": "Info"},
-        {"type": "source", "url": "https://gitlab.com/miltoncandelero/flappygb/", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://gitlab.com/miltoncandelero/flappygb/", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -2922,8 +2922,8 @@ const jsonGalleryItemsItch = [
     "linksArray": [
         {"type": "primary", "url": "https://ferrantepescara.itch.io/alien-invasion", "displayText": "Info"},
         {"type": "source",  "url": "https://github.com/NiliusJulius/Alien-Invasion", "displayText": "Source"},
-        {"type": "store",   "url": "https://ferrantecrafts.com/products/alien-invasion", "displayText": "Cart"},
-                ],
+        {"type": "store",   "url": "https://ferrantecrafts.com/products/alien-invasion", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Shmup",
     "platformTags": "GameBoy",
@@ -2948,8 +2948,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Flappy clone with a difference",
     "imagePreviewURL": "pix/itch/brig78cx.itch.io-flappy-turd.png",
     "linksArray": [
-        {"type": "primary", "url": "https://brig78cx.itch.io/flappy-turd", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://brig78cx.itch.io/flappy-turd", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoyColor",
@@ -2973,8 +2973,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/brig78cx.itch.io-cakesnake.png",
     "linksArray": [
-        {"type": "primary", "url": "https://brig78cx.itch.io/cakesnake-gb", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://brig78cx.itch.io/cakesnake-gb", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -2998,8 +2998,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/brig78cx.itch.io-plantblitz.png",
     "linksArray": [
-        {"type": "primary", "url": "https://brig78cx.itch.io/plantblitz", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://brig78cx.itch.io/plantblitz", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy, GameBoyColor",
@@ -3023,8 +3023,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A bat and ball game featuring 20 unique levels",
     "imagePreviewURL": "pix/itch/brig78cx.itch.io-breakout-for-gameboy-colour.png",
     "linksArray": [
-        {"type": "primary", "url": "https://brig78cx.itch.io/breakout-for-gameboy-colour", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://brig78cx.itch.io/breakout-for-gameboy-colour", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoyColor",
@@ -3049,8 +3049,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/MMEDX0.png",
     "linksArray": [
         {"type": "primary", "url": "https://untoxa.itch.io/", "displayText": "Info"},
-        {"type": "primary", "url": "https://github.com/untoxa/mushroompie", "displayText": "Source"},
-                ],
+        {"type": "primary", "url": "https://github.com/untoxa/mushroompie", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -3075,8 +3075,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/sheep-it-up-gb.png",
     "linksArray": [
         {"type": "primary", "url": "https://drludos.itch.io/sheep-it-up", "displayText": "Info"},
-        {"type": "primary", "url": "https://yastuna-games.com/en/nintendo-game-boy/52-65-sheep-it-up-gb.html", "displayText": "Cart"},
-                ],
+        {"type": "primary", "url": "https://yastuna-games.com/en/nintendo-game-boy/52-65-sheep-it-up-gb.html", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -3101,8 +3101,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/magipanels.png",
     "linksArray": [
         {"type": "primary", "url": "https://bownly.itch.io/magipanels", "displayText": "Info"},
-        {"type": "primary", "url": "https://incube8games.com/products/magipanels-gb", "displayText": "Cart"},
-                ],
+        {"type": "primary", "url": "https://incube8games.com/products/magipanels-gb", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -3127,8 +3127,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/ningami.png",
     "linksArray": [
         {"type": "primary", "url": "https://bownly.itch.io/ningami", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/Bownly/Ningami", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/Bownly/Ningami", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Card Game",
     "platformTags": "GameBoy",
@@ -3153,8 +3153,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/buddy-book-battle.png",
     "linksArray": [
-        {"type": "primary", "url": "https://bownly.itch.io/buddy-book-battle", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://bownly.itch.io/buddy-book-battle", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Role Playing",
     "platformTags": "GameBoy",
@@ -3180,8 +3180,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/BLEv3f.png",
     "linksArray": [
-        {"type": "primary", "url": "https://bownly.itch.io/tobu-tobu-bouzu", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://bownly.itch.io/tobu-tobu-bouzu", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -3207,8 +3207,8 @@ const jsonGalleryItemsItch = [
     "linksArray": [
         {"type": "primary", "url": "https://gaming-monster.itch.io/dinos-offline-adventure", "displayText": "Info"},
         {"type": "primary", "url": "https://ferrantecrafts.com/products/dino-s-offline-adventure", "displayText": "Cart"},
-        {"type": "primary", "url": "https://github.com/gingemonster/DinosOfflineAdventure", "displayText": "Source"},
-                ],
+        {"type": "primary", "url": "https://github.com/gingemonster/DinosOfflineAdventure", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -3233,8 +3233,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/asteroidchasers.png",
     "linksArray": [
         {"type": "primary", "url": "https://fadest.itch.io/achaser-gb", "displayText": "Info"},
-        {"type": "primary", "url": "https://yastuna-games.com/en/nintendo-game-boy/31-48-asteroids-chasers.html", "displayText": "Cart"},
-                ],
+        {"type": "primary", "url": "https://yastuna-games.com/en/nintendo-game-boy/31-48-asteroids-chasers.html", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Strategy",
     "platformTags": "GameBoy, AnaloguePocket",
@@ -3259,8 +3259,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/ynxa.jpg",
     "linksArray": [
         {"type": "primary", "url": "https://fadest.itch.io/ynxa", "displayText": "Info"},
-        {"type": "primary", "url": "https://yastuna-games.com/en/nintendo-game-boy/78-ynxa-game-boy.html", "displayText": "Cart"},
-                ],
+        {"type": "primary", "url": "https://yastuna-games.com/en/nintendo-game-boy/78-ynxa-game-boy.html", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Strategy",
     "platformTags": "GameBoy, GameBoyColor",
@@ -3285,8 +3285,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/indestructotank.png",
     "linksArray": [
         {"type": "primary", "url": "https://antonylavelle.itch.io/indestructotank-gb", "displayText": "Info"},
-        {"type": "primary", "url": "https://incube8games.com/products/indestructotank-gb", "displayText": "Cart"},
-                ],
+        {"type": "primary", "url": "https://incube8games.com/products/indestructotank-gb", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -3310,8 +3310,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A Tetris-like game based on MK-61 calculator games",
     "imagePreviewURL": "pix/itch/fTscf7.png",
     "linksArray": [
-        {"type": "primary", "url": "https://yprit.itch.io/numeris-oct", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://yprit.itch.io/numeris-oct", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -3336,8 +3336,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A Brainfuck interpreter",
     "imagePreviewURL": "pix/itch/6xmzkI.png",
     "linksArray": [
-        {"type": "primary", "url": "https://yprit.itch.io/brainfox", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://yprit.itch.io/brainfox", "displayText": "Info"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Programming",
     "platformTags": "GameBoy",
@@ -3363,8 +3363,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/XBI3Ye.png",
     "linksArray": [
         {"type": "primary", "url": "https://dreamlandgames.itch.io/one-bit-paint", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/pedroafabri/one-bit-paint", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/pedroafabri/one-bit-paint", "displayText": "Source"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Art",
     "platformTags": "GameBoy",
@@ -3389,8 +3389,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "ultra rare sound reg editor tracker",
     "imagePreviewURL": "pix/itch/DtSxQm.png",
     "linksArray": [
-        {"type": "primary", "url": "https://djarky.itch.io/witch-sound-tracker", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://djarky.itch.io/witch-sound-tracker", "displayText": "Info"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Music",
     "platformTags": "GameBoy",
@@ -3416,8 +3416,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/QX_0L5.png",
     "linksArray": [
-        {"type": "primary", "url": "https://djarky.itch.io/bone-finder", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://djarky.itch.io/bone-finder", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -3443,8 +3443,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/iG_oyg.png",
     "linksArray": [
         {"type": "primary", "url": "https://mindbleach.itch.io/slayer-the-hawk", "displayText": "Info"},
-        {"type": "source",  "url": "https://mindbleach.itch.io/slayer-the-hawk", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://mindbleach.itch.io/slayer-the-hawk", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -3469,8 +3469,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Did Somebody Say Demo",
     "imagePreviewURL": "pix/itch/H6xIQ0.png",
     "linksArray": [
-        {"type": "primary", "url": "https://vl2m-studio.itch.io/dssd", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://vl2m-studio.itch.io/dssd", "displayText": "Info"}
+    ],
     "categoryTags": "Demoscene",
     "gameTypeTags": "Demoscene",
     "platformTags": "GameBoy, SuperGameBoy",
@@ -3495,8 +3495,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/YyUzbv.png",
     "linksArray": [
-        {"type": "primary", "url": "https://lillie-chippie.itch.io/dddddeemon", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://lillie-chippie.itch.io/dddddeemon", "displayText": "Info"}
+    ],
     "categoryTags": "Demoscene",
     "gameTypeTags": "Demoscene",
     "platformTags": "GameBoy",
@@ -3522,8 +3522,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/p9o3u5.png",
     "linksArray": [
         {"type": "primary", "url": "https://nikku4211.itch.io/7heaven", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/nikku4211/7heaven", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/nikku4211/7heaven", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -3548,8 +3548,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/geczgH.png",
     "linksArray": [
-        {"type": "primary", "url": "https://tonsomo.itch.io/jurl-gameboy", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://tonsomo.itch.io/jurl-gameboy", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy, GameBoyColor",
@@ -3573,8 +3573,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/iVbOAi.png",
     "linksArray": [
-        {"type": "primary", "url": "https://kattrali.itch.io/mathlock", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://kattrali.itch.io/mathlock", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -3598,8 +3598,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/3GrdUS.png",
     "linksArray": [
-        {"type": "primary", "url": "https://kattrali.itch.io/the-big-breakout", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://kattrali.itch.io/the-big-breakout", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -3624,8 +3624,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/kicdogamesgbsnake.png",
     "linksArray": [
         {"type": "primary", "url": "https://kicdogames.itch.io/gb-snake", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/jacaicedob/GBSnake", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/jacaicedob/GBSnake", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -3650,8 +3650,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/isaac.png",
     "linksArray": [
-        {"type": "primary", "url": "https://seisthetic.itch.io/isaac-gameboy-fanmade", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://seisthetic.itch.io/isaac-gameboy-fanmade", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -3675,8 +3675,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/guardiansofsunshine.png",
     "linksArray": [
-        {"type": "primary", "url": "https://seisthetic.itch.io/guardians-of-sunshine-game-boy", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://seisthetic.itch.io/guardians-of-sunshine-game-boy", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -3700,8 +3700,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/sRF17N.png",
     "linksArray": [
-        {"type": "primary", "url": "https://narkhos.itch.io/easter-infestation", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://narkhos.itch.io/easter-infestation", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Dungeon Crawler",
     "platformTags": "GameBoy",
@@ -3725,8 +3725,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/thKHQ1.png",
     "linksArray": [
-        {"type": "primary", "url": "https://narkhos.itch.io/tharseii-gb", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://narkhos.itch.io/tharseii-gb", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Interactive Fiction",
     "platformTags": "GameBoy",
@@ -3750,8 +3750,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Launch balls onto the kendama, don't let them fall",
     "imagePreviewURL": "pix/itch/ITpCDE.png",
     "linksArray": [
-        {"type": "primary", "url": "https://muchadardo.itch.io/kendama", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://muchadardo.itch.io/kendama", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoyColor",
@@ -3775,8 +3775,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/paintdeluxe.png",
     "linksArray": [
-        {"type": "primary", "url": "https://muchadardo.itch.io/gameboy-paint-deluxe", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://muchadardo.itch.io/gameboy-paint-deluxe", "displayText": "Info"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Art",
     "platformTags": "GameBoyColor",
@@ -3801,8 +3801,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/wordblocks.png",
     "linksArray": [
         {"type": "primary", "url": "https://ovidios.itch.io/word-blocks", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/Ovidios/word-blocks", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/Ovidios/word-blocks", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy, GameBoyColor",
@@ -3827,8 +3827,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/XdLx7h.png",
     "linksArray": [
         {"type": "primary", "url": "https://punchcafe.itch.io/hamorigami-gb", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/punchcafe/hamorigami_gb", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/punchcafe/hamorigami_gb", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "VirtualPet",
     "platformTags": "GameBoy",
@@ -3852,8 +3852,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/YERP9C.png",
     "linksArray": [
-        {"type": "primary", "url": "https://irishgreencitrus.itch.io/maze-rage", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://irishgreencitrus.itch.io/maze-rage", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Maze",
     "platformTags": "GameBoy",
@@ -3879,8 +3879,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/squarefall.png",
     "linksArray": [
         {"type": "primary", "url": "https://bjorn-nah.itch.io/square-fall", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/bjorn-nah/square_fall", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/bjorn-nah/square_fall", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -3905,8 +3905,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/kappadrop.png",
     "linksArray": [
-        {"type": "primary", "url": "https://sinnersaint.itch.io/kappadrop", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://sinnersaint.itch.io/kappadrop", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -3931,8 +3931,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/arthursquest.png",
     "linksArray": [
         {"type": "primary", "url": "https://piersbishop.itch.io/arthurs-quest", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/PiersBishop/ArthursQuest", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/PiersBishop/ArthursQuest", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Adventure",
     "platformTags": "GameBoy",
@@ -3956,8 +3956,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/inktober_2021.png",
     "linksArray": [
-        {"type": "primary", "url": "https://piersbishop.itch.io/inktober-2021", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://piersbishop.itch.io/inktober-2021", "displayText": "Info"}
+    ],
     "categoryTags": "Art",
     "gameTypeTags": "Art",
     "platformTags": "GameBoy, GameBoyColor",
@@ -3981,8 +3981,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/pethouse.png",
     "linksArray": [
-        {"type": "primary", "url": "https://piersbishop.itch.io/pet-house", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://piersbishop.itch.io/pet-house", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "VirtualPet",
     "platformTags": "GameBoy",
@@ -4007,8 +4007,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/gameboybirthday.png",
     "linksArray": [
         {"type": "primary", "url": "https://piersbishop.itch.io/game-boy-birthday", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/PiersBishop/GameBoyBirthday", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/PiersBishop/GameBoyBirthday", "displayText": "Source"}
+    ],
     "categoryTags": "Art",
     "gameTypeTags": "Art",
     "platformTags": "GameBoy",
@@ -4032,8 +4032,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "The Game Boy's first walking simulator!",
     "imagePreviewURL": "pix/itch/dichotomy.png",
     "linksArray": [
-        {"type": "primary", "url": "https://piersbishop.itch.io/dichotomy", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://piersbishop.itch.io/dichotomy", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Adventure",
     "platformTags": "GameBoyColor",
@@ -4057,8 +4057,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "You play as a mermaid that has to seduce and lure men into the water so they can drown",
     "imagePreviewURL": "pix/itch/coucou.png",
     "linksArray": [
-        {"type": "primary", "url": "https://piersbishop.itch.io/coucou", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://piersbishop.itch.io/coucou", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Strategy",
     "platformTags": "GameBoy",
@@ -4082,8 +4082,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Gameboy port of the same name hand held game from the 80s.",
     "imagePreviewURL": "pix/itch/GSAW+a.png",
     "linksArray": [
-        {"type": "primary", "url": "https://popcalent.itch.io/packri-monster", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://popcalent.itch.io/packri-monster", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -4109,8 +4109,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/6QgCDy.png",
     "linksArray": [
         {"type": "primary", "url": "https://mahoushoujomagicalmoestar.itch.io/patrician", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/DrLancer-X/patrician", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/DrLancer-X/patrician", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Adventure",
     "platformTags": "GameBoyColor",
@@ -4136,8 +4136,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/8MBFDL.png",
     "linksArray": [
         {"type": "primary", "url": "https://wojciech-graj.itch.io/gb-solitaire", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/wojciech-graj/GB-Solitaire", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/wojciech-graj/GB-Solitaire", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Card Game",
     "platformTags": "GameBoy",
@@ -4161,8 +4161,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A very simple implementation of the Go board game for 2 players",
     "imagePreviewURL": "pix/itch/dvRzAo.png",
     "linksArray": [
-        {"type": "primary", "url": "https://labdoc.itch.io/stone-constructor", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://labdoc.itch.io/stone-constructor", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Strategy",
     "platformTags": "GameBoy",
@@ -4186,8 +4186,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Politely leave the room",
     "imagePreviewURL": "pix/itch/excuseme.png",
     "linksArray": [
-        {"type": "primary", "url": "https://labdoc.itch.io/excuse-me", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://labdoc.itch.io/excuse-me", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -4211,8 +4211,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Fight monsters and big bosses!",
     "imagePreviewURL": "pix/itch/sunsethellgate.png",
     "linksArray": [
-        {"type": "primary", "url": "https://wanderinghobo.itch.io/sunset-hellgate", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://wanderinghobo.itch.io/sunset-hellgate", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -4237,8 +4237,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Turn your Gameboy into a chiptunes alarm clock!",
     "imagePreviewURL": "pix/itch/theotheralarmclock.png",
     "linksArray": [
-        {"type": "primary", "url": "https://pixjuan.itch.io/the-other-alarm-clock", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://pixjuan.itch.io/the-other-alarm-clock", "displayText": "Info"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Clock",
     "platformTags": "GameBoy",
@@ -4263,8 +4263,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/zypher.png",
     "linksArray": [
         {"type": "primary", "url": "https://paganswrath.itch.io/zypher", "displayText": "Info"},
-        {"type": "source",  "url": "https://paganswrath.itch.io/zypher", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://paganswrath.itch.io/zypher", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Shmup",
     "platformTags": "GameBoy",
@@ -4289,8 +4289,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/toko.png",
     "linksArray": [
-        {"type": "primary", "url": "https://demekala.itch.io/toko", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://demekala.itch.io/toko", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -4316,8 +4316,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/manualmanny.png",
     "linksArray": [
         {"type": "primary", "url": "https://ghostinthetoast.itch.io/manual-manny", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/daltonchutes/something_stupid", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/daltonchutes/something_stupid", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -4342,8 +4342,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/escape2042.png",
     "linksArray": [
         {"type": "primary", "url": "https://orionsoft.itch.io/escape2042", "displayText": "Info"},
-        {"type": "cart",    "url": "https://www.orionsoft.games/retroshop/escape_gb.htm", "displayText": "Cart"},
-                ],
+        {"type": "cart",    "url": "https://www.orionsoft.games/retroshop/escape_gb.htm", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -4367,8 +4367,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/crowslife.png",
     "linksArray": [
-        {"type": "primary", "url": "https://zrabatah.itch.io/a-crows-life", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://zrabatah.itch.io/a-crows-life", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -4392,8 +4392,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "P​lay with cards... with aliens!",
     "imagePreviewURL": "pix/itch/galacard.png",
     "linksArray": [
-        {"type": "primary", "url": "https://bipedal-studios.itch.io/galacard", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://bipedal-studios.itch.io/galacard", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Card Game",
     "platformTags": "GameBoy",
@@ -4417,8 +4417,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Play cards against aliens once again, now on Game Boy Color!",
     "imagePreviewURL": "pix/itch/galacard_platinum.png",
     "linksArray": [
-        {"type": "primary", "url": "https://bipedal-studios.itch.io/galacard-platinum", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://bipedal-studios.itch.io/galacard-platinum", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Card Game",
     "platformTags": "GameBoyColor",
@@ -4442,8 +4442,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Match crystals and create chains",
     "imagePreviewURL": "pix/itch/crystal_clear.png",
     "linksArray": [
-        {"type": "primary", "url": "https://bipedal-studios.itch.io/crystal-clear", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://bipedal-studios.itch.io/crystal-clear", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy, GameBoyColor",
@@ -4468,8 +4468,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/gbbsod.jpg",
     "linksArray": [
         {"type": "primary", "url": "https://bbbbbr.itch.io/game-boy-bsod", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/bbbbbr/gameboy_bsod", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/bbbbbr/gameboy_bsod", "displayText": "Source"}
+    ],
     "categoryTags": "Simulation",
     "gameTypeTags": "Simulation",
     "platformTags": "GameBoyColor",
@@ -4494,8 +4494,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/tools/gbc_colorbars.png",
     "linksArray": [
         {"type": "primary", "url": "https://https://bbbbbr.itch.io/gbc-colorbars", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/bbbbbr/gbc_colorbars", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/bbbbbr/gbc_colorbars", "displayText": "Source"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Testing",
     "platformTags": "GameBoyColor",
@@ -4519,8 +4519,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/g-zero_world_gp.png",
     "linksArray": [
-        {"type": "primary", "url": "https://user0x7f.itch.io/g-zero-world-gp", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://user0x7f.itch.io/g-zero-world-gp", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Racing",
     "platformTags": "GameBoyColor",
@@ -4545,8 +4545,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/retroid.png",
     "linksArray": [
         {"type": "primary", "url": "https://jonas-fischbach.itch.io/retroid", "displayText": "Info"},
-        {"type": "info", "url": "https://the-green-screen.com/292-2/#welcome", "displayText": "Info v2"},
-                ],
+        {"type": "info", "url": "https://the-green-screen.com/292-2/#welcome", "displayText": "Info v2"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -4571,8 +4571,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/mazwor.png",
     "linksArray": [
         {"type": "primary", "url": "https://vl2m-studio.itch.io/mazwor-first-encounter", "displayText": "Info"},
-        {"type": "info", "url": "https://gamejolt.com/games/mazwor-first-encounter/917287", "displayText": "Info v2"},
-                ],
+        {"type": "info", "url": "https://gamejolt.com/games/mazwor-first-encounter/917287", "displayText": "Info v2"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -4596,8 +4596,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Portable video game of short-term memory skill",
     "imagePreviewURL": "pix/itch/follow_the_leader-gb.png",
     "linksArray": [
-        {"type": "primary", "url": "https://kyuchumimo.itch.io/follow-the-leader-gb", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://kyuchumimo.itch.io/follow-the-leader-gb", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Memory",
     "platformTags": "GameBoy",
@@ -4621,8 +4621,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "An action-puzzle game",
     "imagePreviewURL": "pix/itch/horde.png",
     "linksArray": [
-        {"type": "primary", "url": "https://gbswl.itch.io/hordegbc", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://gbswl.itch.io/hordegbc", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy, GameBoyColor",
@@ -4646,8 +4646,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "It's basically Triple Triad",
     "imagePreviewURL": "pix/itch/doubledyad.png",
     "linksArray": [
-        {"type": "primary", "url": "https://bownly.itch.io/double-dyad", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://bownly.itch.io/double-dyad", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Card Game",
     "platformTags": "GameBoy",
@@ -4671,8 +4671,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A very loose simulation of a game jam",
     "imagePreviewURL": "pix/itch/gbjammers.png",
     "linksArray": [
-        {"type": "primary", "url": "https://bownly.itch.io/gb-jammers", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://bownly.itch.io/gb-jammers", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Card Game",
     "platformTags": "GameBoy",
@@ -4696,8 +4696,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A brand new adventure RPG",
     "imagePreviewURL": "pix/itch/wanderingslime.jpg",
     "linksArray": [
-        {"type": "primary", "url": "https://adrianjg.itch.io/wandering-slime/devlog/803474/wandering-slime-demo-now-available", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://adrianjg.itch.io/wandering-slime/devlog/803474/wandering-slime-demo-now-available", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Role Playing",
     "platformTags": "GameBoy",
@@ -4721,8 +4721,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/peyoteshooter.png",
     "linksArray": [
-        {"type": "primary", "url": "https://sushidestroy.itch.io/peyote-shooter", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://sushidestroy.itch.io/peyote-shooter", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -4747,8 +4747,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/elsies.png",
     "linksArray": [
         {"type": "primary", "url": "https://jeffzzq.itch.io/elsies-out-of-potions", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/jgensler8/elsies_out_of_potions", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/jgensler8/elsies_out_of_potions", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Visual-Novel",
     "platformTags": "GameBoy",
@@ -4772,8 +4772,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/sylvanium.png",
     "linksArray": [
-        {"type": "primary", "url": "https://stales.itch.io/sylvanium", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://stales.itch.io/sylvanium", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Strategy",
     "platformTags": "GameBoy",
@@ -4797,8 +4797,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/gbblackjack.png",
     "linksArray": [
-        {"type": "primary", "url": "https://saifat-ma.itch.io/poker-black-jack", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://saifat-ma.itch.io/poker-black-jack", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Card Game",
     "platformTags": "GameBoy",
@@ -4822,8 +4822,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A planning poker app",
     "imagePreviewURL": "pix/itch/pocketplanningpoker.png",
     "linksArray": [
-        {"type": "primary", "url": "https://adrianjg.itch.io/pocket-planning-poker", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://adrianjg.itch.io/pocket-planning-poker", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Tool",
     "platformTags": "GameBoy",
@@ -4847,8 +4847,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Learning IR remote control for the Game Boy Color",
     "imagePreviewURL": "pix/itch/bluecop_irremote.png",
     "linksArray": [
-        {"type": "primary", "url": "https://bluecop.itch.io/gbc-remote", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://bluecop.itch.io/gbc-remote", "displayText": "Info"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Remote Control",
     "platformTags": "GameBoyColor",
@@ -4899,8 +4899,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/batterytest.png",
     "linksArray": [
         {"type": "primary", "url": "https://dgc1980.itch.io/gb-battery", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/dgc1980/gb-battery", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/dgc1980/gb-battery", "displayText": "Source"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Testing",
     "platformTags": "GameBoy",
@@ -4924,8 +4924,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Maze Game",
     "imagePreviewURL": "pix/itch/ringdashgb.png",
     "linksArray": [
-        {"type": "primary", "url": "https://brig78cx.itch.io/gemdash-gb", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://brig78cx.itch.io/gemdash-gb", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Maze",
     "platformTags": "GameBoy",
@@ -4949,8 +4949,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Maze Game",
     "imagePreviewURL": "pix/itch/ringdashgbc.png",
     "linksArray": [
-        {"type": "primary", "url": "https://brig78cx.itch.io/gemdash-gbc", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://brig78cx.itch.io/gemdash-gbc", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Maze",
     "platformTags": "GameBoyColor",
@@ -4974,8 +4974,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Maze Game",
     "imagePreviewURL": "pix/itch/gemdashsms.png",
     "linksArray": [
-        {"type": "primary", "url": "https://brig78cx.itch.io/gemdash-sms", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://brig78cx.itch.io/gemdash-sms", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Maze",
     "platformTags": "SMS",
@@ -4999,8 +4999,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Maze Game",
     "imagePreviewURL": "pix/itch/gemdash_nes.png",
     "linksArray": [
-        {"type": "primary", "url": "https://brig78cx.itch.io/gemdash8-nes", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://brig78cx.itch.io/gemdash8-nes", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Maze",
     "platformTags": "NES",
@@ -5024,8 +5024,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Sonik RingDash",
     "imagePreviewURL": "pix/itch/ringdashsms.png",
     "linksArray": [
-        {"type": "primary", "url": "https://brig78cx.itch.io/ringdash-sms", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://brig78cx.itch.io/ringdash-sms", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Maze",
     "platformTags": "SMS",
@@ -5049,8 +5049,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/ringdashgg.png",
     "linksArray": [
-        {"type": "primary", "url": "https://brig78cx.itch.io/ringdashgg", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://brig78cx.itch.io/ringdashgg", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Maze",
     "platformTags": "GameGear",
@@ -5074,8 +5074,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Box-pushing energy snake",
     "imagePreviewURL": "pix/itch/returntoanctrayl.png",
     "linksArray": [
-        {"type": "primary", "url": "https://bipedal-studios.itch.io/return-to-anctrayl", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://bipedal-studios.itch.io/return-to-anctrayl", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "NES",
@@ -5099,8 +5099,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "The little creature that lives inside your monitor",
     "imagePreviewURL": "pix/itch/rgbleeki_nes.png",
     "linksArray": [
-        {"type": "primary", "url": "https://bipedal-studios.itch.io/r-g-bleeki", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://bipedal-studios.itch.io/r-g-bleeki", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "NES",
@@ -5124,8 +5124,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Math-based puzzles that turn into pictures.",
     "imagePreviewURL": "pix/itch/pixplus.png",
     "linksArray": [
-        {"type": "primary", "url": "https://bipedal-studios.itch.io/pixplus", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://bipedal-studios.itch.io/pixplus", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -5149,8 +5149,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "New selection of math-based puzzles that turn into pictures",
     "imagePreviewURL": "pix/itch/pixplus2.png",
     "linksArray": [
-        {"type": "primary", "url": "https://bipedal-studios.itch.io/pixplus-vol-ii", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://bipedal-studios.itch.io/pixplus-vol-ii", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -5167,7 +5167,7 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2025",
     "dateAdded": "2026-01-02",
     "metaTags": "",
-    "shortSearchKey": "PP2-GB",
+    "shortSearchKey": "PP2-GB"
 },
 
 {
@@ -5177,8 +5177,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/bnuuy.png",
     "linksArray": [
         {"type": "primary", "url": "https://swigof.itch.io/bnuuy-deliverance", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/swigof/Bnuuy-Deliverance", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/swigof/Bnuuy-Deliverance", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoyColor",
@@ -5203,8 +5203,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/scrollspace.png",
     "linksArray": [
         {"type": "primary", "url": "https://cailangames.itch.io/scrollspace", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/cailangames/scrollspace", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/cailangames/scrollspace", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Shmup",
     "platformTags": "GameBoy, AnaloguePocket",
@@ -5228,8 +5228,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A puzzle platform game. Control the jumping ball to the flag.",
     "imagePreviewURL": "pix/itch/bounce.png",
     "linksArray": [
-        {"type": "primary", "url": "https://luiscorreacespedes.itch.io/bounce", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://luiscorreacespedes.itch.io/bounce", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy, GameBoyColor",
@@ -5253,8 +5253,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A classic snake game. Play with Snaky eating as much fruit.",
     "imagePreviewURL": "pix/itch/snakypocket.png",
     "linksArray": [
-        {"type": "primary", "url": "https://luiscorreacespedes.itch.io/snaky-pocket", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://luiscorreacespedes.itch.io/snaky-pocket", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -5278,8 +5278,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Crossplay video game of Four-In-A-Row for two players",
     "imagePreviewURL": "pix/itch/match4.png",
     "linksArray": [
-        {"type": "primary", "url": "https://kyuchumimo.itch.io/match-4", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://kyuchumimo.itch.io/match-4", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -5304,8 +5304,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/atomasgb.png",
     "linksArray": [
         {"type": "primary", "url": "https://sirnic.itch.io/atomasgb", "displayText": "Info"},
-        {"type": "source" , "url": "https://github.com/luxonpi/AtomasGB", "displayText": "Source"},
-                ],
+        {"type": "source" , "url": "https://github.com/luxonpi/AtomasGB", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -5329,8 +5329,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/snake.png",
     "linksArray": [
-        {"type": "primary", "url": "https://johan-de-clerck.itch.io/gameboy-snake", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://johan-de-clerck.itch.io/gameboy-snake", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -5355,8 +5355,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/legionofdevil.png",
     "linksArray": [
         {"type": "primary", "url": "https://twistedtwicegames.itch.io/legion-of-devil", "displayText": "Info"},
-        {"type": "store" , "url":  "https://limitedrungames.com/products/legion-of-evil-gb", "displayText": "Cart"},
-                ],
+        {"type": "store" , "url":  "https://limitedrungames.com/products/legion-of-evil-gb", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Roguelike",
     "platformTags": "GameBoy",
@@ -5380,8 +5380,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/interceptor.png",
     "linksArray": [
-        {"type": "primary", "url": "https://arvex.itch.io/interceptor", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://arvex.itch.io/interceptor", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Shmup",
     "platformTags": "GameBoy, GameBoyColor",
@@ -5405,8 +5405,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/mazezam_nes.png",
     "linksArray": [
-        {"type": "primary", "url": "https://portabledev.itch.io/mazezam-nes", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://portabledev.itch.io/mazezam-nes", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "NES",
@@ -5431,8 +5431,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/labrynthofdragon.png",
     "linksArray": [
         {"type": "primary", "url": "https://neshacker.itch.io/labyrinth-of-the-dragon", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/NesHacker/LabyrinthOfTheDragon", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/NesHacker/LabyrinthOfTheDragon", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Role Playing",
     "platformTags": "GameBoyColor",
@@ -5456,8 +5456,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/qdashmission.png",
     "linksArray": [
-        {"type": "primary", "url": "https://bipedal-studios.itch.io/q-dash-mission", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://bipedal-studios.itch.io/q-dash-mission", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -5481,8 +5481,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/wowmummy.png",
     "linksArray": [
-        {"type": "primary", "url": "https://oscarbraindead.itch.io/wow-mummy-game-boy", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://oscarbraindead.itch.io/wow-mummy-game-boy", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -5506,8 +5506,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/nampac.png",
     "linksArray": [
-        {"type": "primary", "url": "https://oscarbraindead.itch.io/nampac", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://oscarbraindead.itch.io/nampac", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy, GameBoyColor",
@@ -5531,8 +5531,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/pakupakugb.png",
     "linksArray": [
-        {"type": "primary", "url": "https://oscarbraindead.itch.io/paku-paku-gb-gameboy", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://oscarbraindead.itch.io/paku-paku-gb-gameboy", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -5556,8 +5556,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/arena.png",
     "linksArray": [
-        {"type": "primary", "url": "https://oscarbraindead.itch.io/gb-gba", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://oscarbraindead.itch.io/gb-gba", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -5581,8 +5581,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Bomb defusing puzzle game. Move walls to solve the path to the bomb",
     "imagePreviewURL": "pix/itch/bombtracker.png",
     "linksArray": [
-        {"type": "primary", "url": "https://retrobitninja.itch.io/bomb-tracker", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://retrobitninja.itch.io/bomb-tracker", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -5608,8 +5608,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/bunkerboy.png",
     "linksArray": [
         {"type": "primary", "url": "https://urbanzero.itch.io/bunkerboy", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/UrbanZero/bunkerboy", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/UrbanZero/bunkerboy", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -5635,8 +5635,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/cratepusher.png",
     "linksArray": [
         {"type": "primary", "url": "https://thedarktiger.itch.io/crate-pusher", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/TheDarkTiger/crate-pusher", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/TheDarkTiger/crate-pusher", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -5662,8 +5662,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/dmgvssgb.png",
     "linksArray": [
         {"type": "primary", "url": "https://drludos.itch.io/dmg-vs-super-game-boy", "displayText": "Info"},
-        {"type": "source",  "url": "https://drludos.itch.io/dmg-vs-super-game-boy", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://drludos.itch.io/dmg-vs-super-game-boy", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "SuperGameBoy",
@@ -5688,8 +5688,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/dropblox.png",
     "linksArray": [
-        {"type": "primary", "url": "https://studio-anchor.itch.io/dropblox", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://studio-anchor.itch.io/dropblox", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy, GameBoyColor",
@@ -5714,8 +5714,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A mix between Conway's Game of Life and a block breaker",
     "imagePreviewURL": "pix/itch/golk.png",
     "linksArray": [
-        {"type": "primary", "url": "https://tardigrade-nx.itch.io/game-of-life-kuzushi", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://tardigrade-nx.itch.io/game-of-life-kuzushi", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -5740,8 +5740,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Sugoroku Card Battles",
     "imagePreviewURL": "pix/itch/ningami2.png",
     "linksArray": [
-        {"type": "primary", "url": "https://bownly.itch.io/ningami-2", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://bownly.itch.io/ningami-2", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Card Game",
     "platformTags": "GameBoy",
@@ -5766,8 +5766,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Sudoku, Binary puzzles (Takuzu), Minesweeper and Tents & Trees",
     "imagePreviewURL": "pix/itch/puzzleboy.png",
     "linksArray": [
-        {"type": "primary", "url": "https://dancar.itch.io/puzzleboy-logic-quest", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://dancar.itch.io/puzzleboy-logic-quest", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -5793,8 +5793,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/qulqy.png",
     "linksArray": [
         {"type": "primary", "url": "https://plyr0.itch.io/qulqy", "displayText": "Info"},
-        {"type": "source",  "url": "https://plyr0.itch.io/qulqy", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://plyr0.itch.io/qulqy", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoyColor",
@@ -5819,8 +5819,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "3d space-combat",
     "imagePreviewURL": "pix/itch/spaceballs.png",
     "linksArray": [
-        {"type": "primary", "url": "https://fingerflinger.itch.io/spaceballs", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://fingerflinger.itch.io/spaceballs", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Flying",
     "platformTags": "GameBoyColor",
@@ -5845,8 +5845,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Sweep your way through the dusty floors of the wizard's dungeon",
     "imagePreviewURL": "pix/itch/sweepingwizard.png",
     "linksArray": [
-        {"type": "primary", "url": "https://demolissagegames.itch.io/the-sweeping-wizard", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://demolissagegames.itch.io/the-sweeping-wizard", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoyColor",
@@ -5872,8 +5872,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/textreader.jpg",
     "linksArray": [
         {"type": "primary", "url": "https://rodrigocard.itch.io/text-reader-gb", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/RodrigoCard/TXTReaderGB/", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/RodrigoCard/TXTReaderGB/", "displayText": "Source"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Reader",
     "platformTags": "GameBoy",
@@ -5898,8 +5898,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/dmgkeygen.png",
     "linksArray": [
-        {"type": "primary", "url": "https://kabcorp.itch.io/dmg-keygen", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://kabcorp.itch.io/dmg-keygen", "displayText": "Info"}
+    ],
     "categoryTags": "Music",
     "gameTypeTags": "Music",
     "platformTags": "GameBoy",
@@ -5925,8 +5925,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/rollyscrolly.png",
     "linksArray": [
         {"type": "primary", "url": "https://bbbbbr.itch.io/rolly-scrolly-demo", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/bbbbbr/rolly_scrolly_gameboyshowdown_2025/", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/bbbbbr/rolly_scrolly_gameboyshowdown_2025/", "displayText": "Source"}
+    ],
     "categoryTags": "Demoscene",
     "gameTypeTags": "Demoscene",
     "platformTags": "GameBoy, MegaDuck",
@@ -5951,8 +5951,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Eat as many time pills as you can without dying",
     "imagePreviewURL": "pix/itch/longboi.png",
     "linksArray": [
-        {"type": "primary", "url": "https://julss.itch.io/long-boi", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://julss.itch.io/long-boi", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -5978,8 +5978,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/denofsnakes.png",
     "linksArray": [
         {"type": "primary", "url": "https://bbbbbr.itch.io/den-of-snakes-four-player", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/bbbbbr/gbdk-gb-4-player", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/bbbbbr/gbdk-gb-4-player", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy, MegaDuck",
@@ -6003,8 +6003,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Endless sudoku fun",
     "imagePreviewURL": "pix/itch/sudoku4ever.png",
     "linksArray": [
-        {"type": "primary", "url": "https://nicohirsau.itch.io/sudoku-4-ever", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://nicohirsau.itch.io/sudoku-4-ever", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -6029,8 +6029,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/zephyrexpress.png",
     "linksArray": [
         {"type": "primary", "url": "https://jeffzzq.itch.io/zephyr-express", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/jgensler8/zephyr-express-game", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/jgensler8/zephyr-express-game", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy, NES",
@@ -6055,8 +6055,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/spookaway.png",
     "linksArray": [
-        {"type": "primary", "url": "https://genpappenheim.itch.io/spook-away", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://genpappenheim.itch.io/spook-away", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Rhythm",
     "platformTags": "GameBoy",
@@ -6082,8 +6082,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/chess.png",
     "linksArray": [
         {"type": "primary", "url": "https://mistermobius.itch.io/chess-for-gameboy-classic", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/Stefan-Ladwig/GB-chess", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/Stefan-Ladwig/GB-chess", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -6109,8 +6109,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/retrochronctg.png",
     "linksArray": [
         {"type": "primary", "url": "https://pkx8326.itch.io/retrochron-ctg-1-game-boy-desk-clock", "displayText": "Info"},
-        {"type": "article", "url": "https://codethatgame.com/hello-world/", "displayText": "Article"},
-                ],
+        {"type": "article", "url": "https://codethatgame.com/hello-world/", "displayText": "Article"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Clock",
     "platformTags": "GameBoy",
@@ -6136,8 +6136,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/labbeye.png",
     "linksArray": [
         {"type": "primary", "url": "https://portabledev.itch.io/abbayemorts", "displayText": "Info (demo)"},
-        {"type": "store", "url": "https://www.homebrew-factory.com/game-boy/161-labbaye-des-morts-undefined.html", "displayText": "Cart"},
-                ],
+        {"type": "store", "url": "https://www.homebrew-factory.com/game-boy/161-labbaye-des-morts-undefined.html", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy, GameBoyColor",
@@ -6164,8 +6164,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/notadrill.png",
     "linksArray": [
         {"type": "primary", "url": "https://joaomakesgames.itch.io/this-is-not-a-drill-the-inside-job", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/jcnmsg/This-Is-Not-A-Drill-GB", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/jcnmsg/This-Is-Not-A-Drill-GB", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -6191,7 +6191,7 @@ const jsonGalleryItemsItch = [
     "shortDescription": "An infinite runner about not getting killed by lasers",
     "imagePreviewURL": "pix/itch/swiftybeams.png",
     "linksArray": [
-        {"type": "primary", "url": "https://nerdatwork.itch.io/swifty-beams", "displayText": "Info"},
+        {"type": "primary", "url": "https://nerdatwork.itch.io/swifty-beams", "displayText": "Info"}
     ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
@@ -6209,7 +6209,7 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2025",
     "dateAdded": "2025-12-27",
     "metaTags": "",
-    "shortSearchKey": "SBM-GB",
+    "shortSearchKey": "SBM-GB"
 },
 
 {
@@ -6218,7 +6218,7 @@ const jsonGalleryItemsItch = [
     "shortDescription": "The bug infestation in your kitchen has gotten out of hand. Time to get the bug spray and get to work!",
     "imagePreviewURL": "pix/itch/bugspray.png",
     "linksArray": [
-        {"type": "primary", "url": "https://teampiquant.itch.io/bug-sprayer", "displayText": "Info"},
+        {"type": "primary", "url": "https://teampiquant.itch.io/bug-sprayer", "displayText": "Info"}
     ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
@@ -6236,7 +6236,7 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2025",
     "dateAdded": "2026-01-02",
     "metaTags": "",
-    "shortSearchKey": "BSP-GB",
+    "shortSearchKey": "BSP-GB"
 },
 
 {
@@ -6245,7 +6245,7 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Tamagochi-esque Plant Growing Sim",
     "imagePreviewURL": "pix/itch/growboy.png",
     "linksArray": [
-        {"type": "primary", "url": "https://fluxmasterfix.itch.io/growboy", "displayText": "Info"},
+        {"type": "primary", "url": "https://fluxmasterfix.itch.io/growboy", "displayText": "Info"}
     ],
     "categoryTags": "Game",
     "gameTypeTags": "VirtualPet",
@@ -6263,7 +6263,7 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2025",
     "dateAdded": "2026-01-02",
     "metaTags": "",
-    "shortSearchKey": "GBY-GB",
+    "shortSearchKey": "GBY-GB"
 },
 
 {
@@ -6272,7 +6272,7 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/woc.png",
     "linksArray": [
-        {"type": "primary", "url": "https://salvacam.itch.io/wall-of-china-gb", "displayText": "Info"},
+        {"type": "primary", "url": "https://salvacam.itch.io/wall-of-china-gb", "displayText": "Info"}
     ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
@@ -6290,7 +6290,7 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2025",
     "dateAdded": "2026-01-02",
     "metaTags": "",
-    "shortSearchKey": "",
+    "shortSearchKey": ""
 },
 
 {
@@ -6300,7 +6300,7 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/pocketpong.png",
     "linksArray": [
         {"type": "primary", "url": "https://boniato82.itch.io/pocket-pong", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/Boniato82/Pocket_Pong", "displayText": "Source"},
+        {"type": "source", "url": "https://github.com/Boniato82/Pocket_Pong", "displayText": "Source"}
     ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
@@ -6318,7 +6318,7 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2025",
     "dateAdded": "2026-01-02",
     "metaTags": "",
-    "shortSearchKey": "",
+    "shortSearchKey": ""
 },
 
 {
@@ -6327,7 +6327,7 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/sumplete.png",
     "linksArray": [
-        {"type": "primary", "url": "https://boniato82.itch.io/sumplete-pocket", "displayText": "Info"},
+        {"type": "primary", "url": "https://boniato82.itch.io/sumplete-pocket", "displayText": "Info"}
     ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
@@ -6346,7 +6346,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-03-10",
     "metaTags": "",
     "shortSearchKey": "SUM-GBC",
-    "usedGenAI": "ai-code",
+    "usedGenAI": "ai-code"
 },
 
 {
@@ -6357,7 +6357,7 @@ const jsonGalleryItemsItch = [
     "linksArray": [
         {"type": "primary", "url": "https://drludos.itch.io/dangerous-demolition", "displayText": "Info"},
         {"type": "source", "url": "https://drludos.itch.io/dangerous-demolition", "displayText": "Source"},
-        {"type": "store" , "url": "https://www.homebrew-factory.com/game-boy/181-dangerous-demolition-gb.html", "displayText": "Cart"},
+        {"type": "store" , "url": "https://www.homebrew-factory.com/game-boy/181-dangerous-demolition-gb.html", "displayText": "Cart"}
     ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
@@ -6376,7 +6376,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-03-10",
     "metaTags": "",
     "shortSearchKey": "DDM-GB",
-    "usedGenAI": "",
+    "usedGenAI": ""
 },
 
 {
@@ -6385,7 +6385,7 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/games/mio.png",
     "linksArray": [
-        {"type": "primary", "url": "https://mio.focus-entmt.com/pc/game.html", "displayText": "Info"},
+        {"type": "primary", "url": "https://mio.focus-entmt.com/pc/game.html", "displayText": "Info"}
     ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
@@ -6404,7 +6404,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-03-10",
     "metaTags": "",
     "shortSearchKey": "MIO-GB",
-    "usedGenAI": "",
+    "usedGenAI": ""
 },
 
 {
@@ -6415,7 +6415,7 @@ const jsonGalleryItemsItch = [
     "linksArray": [
         {"type": "primary", "url": "https://sebastianproost.itch.io/the-royal-game-of-ur", "displayText": "Info"},
         {"type": "source", "url": "https://github.com/sepro/dmg-royal-game-of-ur", "displayText": "Source"},
-        {"type": "article", "url": "https://blog.4dcu.be/ai/programming/games/2026/03/15/gameboy-royal-game-of-ur.html", "displayText": "Article"},
+        {"type": "article", "url": "https://blog.4dcu.be/ai/programming/games/2026/03/15/gameboy-royal-game-of-ur.html", "displayText": "Article"}
     ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
@@ -6434,7 +6434,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-03-10",
     "metaTags": "",
     "shortSearchKey": "RGU-GB",
-    "usedGenAI": "ai-code, ai-assets",
+    "usedGenAI": "ai-code, ai-assets"
 },
 
 {
@@ -6443,7 +6443,7 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/battleblades.png",
     "linksArray": [
-        {"type": "primary", "url": "https://muchadardo.itch.io/battle-blades", "displayText": "Info"},
+        {"type": "primary", "url": "https://muchadardo.itch.io/battle-blades", "displayText": "Info"}
     ],
     "categoryTags": "Game",
     "gameTypeTags": "Fighting",
@@ -6462,7 +6462,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-03-10",
     "metaTags": "",
     "shortSearchKey": "BBL-GB",
-    "usedGenAI": "",
+    "usedGenAI": ""
 },
 
 {
@@ -6471,8 +6471,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "An action platformer",
     "imagePreviewURL": "pix/itch/blackcastle2.png",
     "linksArray": [
-        {"type": "primary", "url": "https://user0x7f.itch.io/black-castle-2", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://user0x7f.itch.io/black-castle-2", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -6490,7 +6490,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-03-10",
     "metaTags": "",
     "shortSearchKey": "BC2-GB",
-    "usedGenAI": "",
+    "usedGenAI": ""
 },
 
 {
@@ -6500,8 +6500,8 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/qrpaint.png",
     "linksArray": [
         {"type": "primary", "url": "https://bbbbbr.itch.io/game-boy-qr-paint", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/bbbbbr/gameboy_qr_paint/", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/bbbbbr/gameboy_qr_paint/", "displayText": "Source"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Art",
     "platformTags": "GameBoy, GameBoyColor, SuperGameBoy, MegaDuck, AnaloguePocket",
@@ -6519,7 +6519,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-03-10",
     "metaTags": "",
     "shortSearchKey": "QRP-GBC",
-    "usedGenAI": "",
+    "usedGenAI": ""
 },
 
 {
@@ -6528,8 +6528,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "A nonograms/picross game",
     "imagePreviewURL": "pix/itch/nonogram.png",
     "linksArray": [
-        {"type": "primary", "url": "https://walfie.itch.io/walfies-nonograms", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://walfie.itch.io/walfies-nonograms", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy, GameBoyColor",
@@ -6547,7 +6547,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-03-10",
     "metaTags": "",
     "shortSearchKey": "WNG-GBC",
-    "usedGenAI": "",
+    "usedGenAI": ""
 },
 
 {
@@ -6556,8 +6556,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Brutalist sudoku style puzzle-thriller",
     "imagePreviewURL": "pix/itch/sudokrypt.png",
     "linksArray": [
-        {"type": "primary", "url": "https://leviwanner.itch.io/sudokrypt", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://leviwanner.itch.io/sudokrypt", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoyColor",
@@ -6575,7 +6575,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-03-10",
     "metaTags": "",
     "shortSearchKey": "SKT-GBC",
-    "usedGenAI": "ai-code, ai-assets",
+    "usedGenAI": "ai-code, ai-assets"
 },
 
 {
@@ -6584,8 +6584,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "One wrong move against a spike and your journey goes POP!",
     "imagePreviewURL": "pix/itch/mrballoon.png",
     "linksArray": [
-        {"type": "primary", "url": "https://baratasoftware.itch.io/mister-balloon", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://baratasoftware.itch.io/mister-balloon", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoyColor",
@@ -6603,7 +6603,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-04-06",
     "metaTags": "",
     "shortSearchKey": "MBL-GBC",
-    "usedGenAI": "",
+    "usedGenAI": ""
 },
 
 {
@@ -6612,8 +6612,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/elviento.png",
     "linksArray": [
-        {"type": "primary", "url": "https://lunoka.itch.io/el-viento-opening-demake-sms", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://lunoka.itch.io/el-viento-opening-demake-sms", "displayText": "Info"}
+    ],
     "categoryTags": "Techdemo",
     "gameTypeTags": "Cutscene",
     "platformTags": "SMS",
@@ -6631,7 +6631,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-04-06",
     "metaTags": "",
     "shortSearchKey": "EVT-SMS",
-    "usedGenAI": "",
+    "usedGenAI": ""
 },
 
 {
@@ -6640,8 +6640,8 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Avoid the lions and ensure the animals are in the right place.",
     "imagePreviewURL": "pix/itch/crazyJungle.png",
     "linksArray": [
-        {"type": "primary", "url": "https://baratasoftware.itch.io/crazy-jungle", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://baratasoftware.itch.io/crazy-jungle", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -6659,6 +6659,6 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-04-15",
     "metaTags": "",
     "shortSearchKey": "CJ-GB",
-    "usedGenAI": "",
-},
-];
+    "usedGenAI": ""
+}
+    ];

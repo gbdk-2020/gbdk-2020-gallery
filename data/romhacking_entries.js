@@ -7,8 +7,8 @@ const jsonGalleryItemsRomhacking = [
     "imagePreviewURL": "pix/tools/gameboycolorpicker.png",
     "linksArray": [
         {"type": "primary", "url": "https://www.romhacking.net/homebrew/166/", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/xenophile127/GameBoyColorPicker", "displayText": "Source"},
-                 ],
+        {"type": "source",  "url": "https://github.com/xenophile127/GameBoyColorPicker", "displayText": "Source"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Graphics",
     "platformTags": "GameBoyColor, SuperGameBoy",

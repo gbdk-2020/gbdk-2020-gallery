@@ -87,8 +87,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/music/droneboy.png",
     "linksArray":[
         {"type": "primary", "url": "https://github.com/purefunktion/Droneboy", "displayText": "Source"},
-        {"type": "info",    "url": "https://hh.gbdev.io/game/droneboy",        "displayText": "Info"},
-                ],
+        {"type": "info",    "url": "https://hh.gbdev.io/game/droneboy",        "displayText": "Info"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Music",
     "platformTags": "GameBoy",
@@ -113,8 +113,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/gbcamera/2bit-pxlr-studio_320.png",
     "linksArray":[
         {"type": "primary", "url": "https://github.com/HerrZatacke/2bit-pxlr-studio", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/HerrZatacke/2bit-pxlr-studio", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/HerrZatacke/2bit-pxlr-studio", "displayText": "Source"}
+    ],
     "categoryTags": "Camera",
     "gameTypeTags": "GameBoy Camera",
     "platformTags": "GameBoy",
@@ -139,8 +139,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/gbcamera/gbphoto.jpg",
     "linksArray":[
         {"type": "primary", "url": "https://github.com/untoxa/gb-photo", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/untoxa/gb-photo", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/untoxa/gb-photo", "displayText": "Source"}
+    ],
     "categoryTags": "Camera",
     "gameTypeTags": "GameBoy Camera",
     "platformTags": "GameBoy, GameBoyColor, MegaDuck",
@@ -164,8 +164,8 @@ const jsonGalleryItemsManual = [
     "shortDescription": "",
     "imagePreviewURL": "pix/games/the_bouncing_ball.png",
     "linksArray":[
-        {"type": "primary", "url": "https://pdroms.de/files/nintendo-gameboy-gb-gameboycolor-gbc/the-bouncing-ball", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://pdroms.de/files/nintendo-gameboy-gb-gameboycolor-gbc/the-bouncing-ball", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -191,8 +191,8 @@ const jsonGalleryItemsManual = [
     "linksArray":[
         {"type": "primary", "url": "http://asobi.tech/#dfuzedgbc", "displayText": "Info"},
         {"type": "store",   "url": "https://incube8games.com/collections/d-fuzed-gbc", "displayText": "Cart"},
-        {"type": "demo",   "url": "https://asobitech.itch.io/dfuzed-gbc-demo", "displayText": "Demo"},
-                ],
+        {"type": "demo",   "url": "https://asobitech.itch.io/dfuzed-gbc-demo", "displayText": "Demo"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy, GameBoyColor",
@@ -217,8 +217,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/blackcastle_multi.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/untoxa/BlackCastle", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/untoxa/BlackCastle",  "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/untoxa/BlackCastle",  "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy, GameGear, SMS, NES, MegaDuck, AnaloguePocket",
@@ -242,8 +242,8 @@ const jsonGalleryItemsManual = [
     "shortDescription": "An idea to use a threading library and synchronization primitives",
     "imagePreviewURL": "pix/techdemo/a_kanoid.png",
     "linksArray": [
-        {"type": "primary", "url": "https://github.com/untoxa/a_kanoid", "displayText": "Source"},
-                ],
+        {"type": "primary", "url": "https://github.com/untoxa/a_kanoid", "displayText": "Source"}
+    ],
     "categoryTags": "Techdemo",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy, AnaloguePocket, SMS, GameGear",
@@ -267,8 +267,8 @@ const jsonGalleryItemsManual = [
     "shortDescription": "A simple engine that allows to make pseudo-3D games",
     "imagePreviewURL": "pix/tools/isoengine.png",
     "linksArray": [
-        {"type": "primary", "url": "https://github.com/untoxa/ISOEngine", "displayText": "Source"},
-                ],
+        {"type": "primary", "url": "https://github.com/untoxa/ISOEngine", "displayText": "Source"}
+    ],
     "categoryTags": "Engine",
     "gameTypeTags": "Engine",
     "platformTags": "GameBoy",
@@ -293,8 +293,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/patchymatchy.png",
     "linksArray": [
         {"type": "primary", "url": "https://modretro.com/products/patchy-matchy", "displayText": "Info"},
-        {"type": "store", "url": "https://modretro.com/products/patchy-matchy", "displayText": "Cart"},
-                ],
+        {"type": "store", "url": "https://modretro.com/products/patchy-matchy", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -319,8 +319,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/modretro_tetris.png",
     "linksArray": [
         {"type": "primary", "url": "https://modretro.com/products/tetris", "displayText": "Info"},
-        {"type": "store", "url": "https://modretro.com/products/tetris", "displayText": "Cart"},
-                ],
+        {"type": "store", "url": "https://modretro.com/products/tetris", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoyColor",
@@ -347,8 +347,8 @@ const jsonGalleryItemsManual = [
         {"type": "primary", "url": "https://www.infinitygbc.com/", "displayText": "Info"},
         {"type": "store", "url": "https://incube8games.com/products/infinity-gbc", "displayText": "Cart"},
         {"type": "store", "url": "https://incube8games.com/products/infinity-gbc-digital-edition", "displayText": "Rom"},
-        {"type": "source", "url": "https://github.com/gb-archive/infinity-gbc", "displayText": "Source (old ver)"},
-                ],
+        {"type": "source", "url": "https://github.com/gb-archive/infinity-gbc", "displayText": "Source (old ver)"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Role Playing",
     "platformTags": "GameBoyColor",
@@ -373,8 +373,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/tools/bannerprinter.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/reini1305/gb_bannerprinter", "displayText": "Info"},
-        {"type": "source" , "url": "https://github.com/reini1305/gb_bannerprinter", "displayText": "Source"},
-                ],
+        {"type": "source" , "url": "https://github.com/reini1305/gb_bannerprinter", "displayText": "Source"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "GameBoy Printer",
     "platformTags": "GameBoy",
@@ -399,8 +399,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/tools/gbslideshow.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/reini1305/gb_slideshow", "displayText": "Info"},
-        {"type": "source" , "url": "https://github.com/reini1305/gb_slideshow", "displayText": "Source"},
-                ],
+        {"type": "source" , "url": "https://github.com/reini1305/gb_slideshow", "displayText": "Source"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Tool",
     "platformTags": "GameBoy",
@@ -425,8 +425,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/gbsnake.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/reini1305/gb_snake", "displayText": "Info"},
-        {"type": "source" , "url": "https://github.com/reini1305/gb_snake", "displayText": "Source"},
-                ],
+        {"type": "source" , "url": "https://github.com/reini1305/gb_snake", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy, GameBoyColor",
@@ -451,8 +451,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/mmartin46maze.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/mmartin46/Maze_Run", "displayText": "Info"},
-        {"type": "source" , "url": "https://github.com/mmartin46/Maze_Run", "displayText": "Source"},
-                ],
+        {"type": "source" , "url": "https://github.com/mmartin46/Maze_Run", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Maze",
     "platformTags": "GameBoy",
@@ -477,8 +477,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/gcoulby-jp.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/gcoulby/JP", "displayText": "Info"},
-        {"type": "source" , "url": "https://github.com/gcoulby/JP", "displayText": "Source"},
-                ],
+        {"type": "source" , "url": "https://github.com/gcoulby/JP", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -502,8 +502,8 @@ const jsonGalleryItemsManual = [
     "shortDescription": "",
     "imagePreviewURL": "pix/games/gosub.png",
     "linksArray": [
-        {"type": "primary", "url": "http://www.atari2600land.com/gameboy/gosub.html", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "http://www.atari2600land.com/gameboy/gosub.html", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -527,8 +527,8 @@ const jsonGalleryItemsManual = [
     "shortDescription": "",
     "imagePreviewURL": "pix/games/biguuu.png",
     "linksArray": [
-        {"type": "primary", "url": "http://www.atari2600land.com/gameboy/uuu.html", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "http://www.atari2600land.com/gameboy/uuu.html", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -552,8 +552,8 @@ const jsonGalleryItemsManual = [
     "shortDescription": "",
     "imagePreviewURL": "pix/games/frankthefruitfly.png",
     "linksArray": [
-        {"type": "primary", "url": "http://www.atari2600land.com/gameboy/ftff.html", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "http://www.atari2600land.com/gameboy/ftff.html", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy, SuperGameBoy",
@@ -578,8 +578,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/snakeadventures.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/1r3n33/snake", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/1r3n33/snake", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/1r3n33/snake", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -604,8 +604,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/brovador_gbsnake.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/brovador/GBsnake", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/brovador/GBsnake", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/brovador/GBsnake", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -630,8 +630,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/rnegron_dinogb.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/rnegron/dino-gb", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/rnegron/dino-gb", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/rnegron/dino-gb", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -656,8 +656,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/pashutk_flappybird.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/pashutk/flappybird-gameboy", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/pashutk/flappybird-gameboy", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/pashutk/flappybird-gameboy", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -682,8 +682,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/bitnenfer_flappyboy.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/bitnenfer/FlappyBoy", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/bitnenfer/FlappyBoy", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/bitnenfer/FlappyBoy", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -707,8 +707,8 @@ const jsonGalleryItemsManual = [
     "shortDescription": "A Flappy Bird game",
     "imagePreviewURL": "pix/games/floppingbirdgb.png",
     "linksArray": [
-        {"type": "primary", "url": "https://gamejolt.com/games/gbjam-floppingbird/196269", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://gamejolt.com/games/gbjam-floppingbird/196269", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -734,8 +734,8 @@ const jsonGalleryItemsManual = [
     "linksArray": [
         {"type": "primary", "url": "https://laroldsjubilantjunkyard.com/tutorial/tetris/", "displayText": "Info"},
         {"type": "source",  "url": "https://github.com/LaroldsJubilantJunkyard/tetris-gameboy/", "displayText": "Source"},
-        {"type": "source",  "url": "https://laroldsjubilantjunkyard.com/tutorial/tetris/", "displayText": "Tutorial"},
-                ],
+        {"type": "source",  "url": "https://laroldsjubilantjunkyard.com/tutorial/tetris/", "displayText": "Tutorial"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy, GameBoyColor",
@@ -761,8 +761,8 @@ const jsonGalleryItemsManual = [
     "linksArray": [
         {"type": "primary", "url": "https://laroldsjubilantjunkyard.com/tutorials/recreating-gameboy-games/space-invaders/", "displayText": "Info"},
         {"type": "source",  "url": "https://github.com/LaroldsJubilantJunkyard/space-invaders-gameboy", "displayText": "Source"},
-        {"type": "source",  "url": "https://laroldsjubilantjunkyard.com/tutorials/recreating-gameboy-games/space-invaders/", "displayText": "Tutorial"},
-                ],
+        {"type": "source",  "url": "https://laroldsjubilantjunkyard.com/tutorials/recreating-gameboy-games/space-invaders/", "displayText": "Tutorial"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Shmup",
     "platformTags": "GameBoy, GameBoyColor",
@@ -788,8 +788,8 @@ const jsonGalleryItemsManual = [
     "linksArray": [
         {"type": "primary", "url": "https://laroldsjubilantjunkyard.com/tutorial/how-to-make-brick-breaker-for-gameboy/", "displayText": "Info"},
         {"type": "source",  "url": "https://github.com/LaroldsJubilantJunkyard/alleyway-gameboy", "displayText": "Source"},
-        {"type": "source",  "url": "https://laroldsjubilantjunkyard.com/tutorial/how-to-make-brick-breaker-for-gameboy/", "displayText": "Tutorial"},
-                ],
+        {"type": "source",  "url": "https://laroldsjubilantjunkyard.com/tutorial/how-to-make-brick-breaker-for-gameboy/", "displayText": "Tutorial"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -815,8 +815,8 @@ const jsonGalleryItemsManual = [
     "linksArray": [
         {"type": "primary", "url": "https://laroldsjubilantjunkyard.com/tutorial/pacman/", "displayText": "Info"},
         {"type": "source",  "url": "https://github.com/LaroldsJubilantJunkyard/pacman-gameboy", "displayText": "Source"},
-        {"type": "source",  "url": "https://laroldsjubilantjunkyard.com/tutorial/pacman/", "displayText": "Tutorial"},
-                ],
+        {"type": "source",  "url": "https://laroldsjubilantjunkyard.com/tutorial/pacman/", "displayText": "Tutorial"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy, GameBoyColor",
@@ -841,8 +841,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/tools/26f_patternmaker.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/26F/pattern_maker_for_GBC", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/26F/pattern_maker_for_GBC", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/26F/pattern_maker_for_GBC", "displayText": "Source"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Art",
     "platformTags": "GameBoy",
@@ -867,8 +867,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/26f_snake.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/26F/Snake-GBDK-", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/26F/Snake-GBDK-", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/26F/Snake-GBDK-", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -893,8 +893,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/26f_paddlewars.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/26F/Paddle-wars-for-gbdk", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/26F/Paddle-wars-for-gbdk", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/26F/Paddle-wars-for-gbdk", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -919,8 +919,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/zoomten_pocketclicker.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/ZoomTen/pocket-clicker", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/ZoomTen/pocket-clicker", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/ZoomTen/pocket-clicker", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Idle",
     "platformTags": "GameBoy",
@@ -947,8 +947,8 @@ const jsonGalleryItemsManual = [
         {"type": "primary", "url": "https://der-magister.itch.io/verlies", "displayText": "Info"},
         {"type": "info",    "url": "https://h2911899.stratoserver.net/wordpress/index.php/verlies/", "displayText": "Info (alt)"},
         {"type": "source",  "url": "https://codeberg.org/Magister/verlies", "displayText": "Source"},
-        {"type": "source",  "url": "https://github.com/der-magister/verlies", "displayText": "Source (old)"},
-                ],
+        {"type": "source",  "url": "https://github.com/der-magister/verlies", "displayText": "Source (old)"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Role Playing",
     "platformTags": "GameBoy",
@@ -974,8 +974,8 @@ const jsonGalleryItemsManual = [
     "linksArray": [
         {"type": "primary", "url": "https://der-magister.itch.io/klauen", "displayText": "Info"},
         {"type": "info",    "url": "https://h2911899.stratoserver.net/wordpress/index.php/klauen/", "displayText": "Info (alt)"},
-        {"type": "source",  "url": "https://github.com/der-magister/klauen", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/der-magister/klauen", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -1001,8 +1001,8 @@ const jsonGalleryItemsManual = [
     "linksArray": [
         {"type": "primary", "url": "https://der-magister.itch.io/graeber", "displayText": "Info"},
         {"type": "info",    "url": "https://h2911899.stratoserver.net/wordpress/index.php/graeber/", "displayText": "Info (alt)"},
-        {"type": "source",  "url": "https://github.com/der-magister/graeber", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/der-magister/graeber", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -1027,8 +1027,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/hoverdefend.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/kldobrev/HoverDefender", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/kldobrev/HoverDefender", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/kldobrev/HoverDefender", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Racing",
     "platformTags": "GameBoy",
@@ -1053,8 +1053,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/speedp.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/kldobrev/SpeedP", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/kldobrev/SpeedP", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/kldobrev/SpeedP", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -1079,8 +1079,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/2048.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/wyattferguson/2048-gb", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/wyattferguson/2048-gb", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/wyattferguson/2048-gb", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -1105,8 +1105,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/gameoflife.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/wyattferguson/gameoflife-gb", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/wyattferguson/gameoflife-gb", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/wyattferguson/gameoflife-gb", "displayText": "Source"}
+    ],
     "categoryTags": "Simulation",
     "gameTypeTags": "Simulation",
     "platformTags": "GameBoy",
@@ -1131,8 +1131,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/juanitobebe_snakes.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/juanitobebe/snakes", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/juanitobebe/snakes", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/juanitobebe/snakes", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -1157,8 +1157,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/spaceflinger.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/EsVagy42/Space-flinger", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/EsVagy42/Space-flinger", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/EsVagy42/Space-flinger", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Flying",
     "platformTags": "GameBoy",
@@ -1183,8 +1183,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/alb05_minesweeper.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/Alb05/mine", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/Alb05/mine", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/Alb05/mine", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -1209,8 +1209,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/dots.png",
     "linksArray": [
         {"type": "primary", "url": "http://www.gmiller.net/2019/04/dots-for-gameboy-color/", "displayText": "Info"},
-        {"type": "source",  "url": "http://www.gmiller.net/2019/04/dots-for-gameboy-color/", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "http://www.gmiller.net/2019/04/dots-for-gameboy-color/", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoyColor",
@@ -1235,8 +1235,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/fbgb.png",
     "linksArray": [
         {"type": "primary", "url": "https://www.youtube.com/watch?v=L1arYXOawP8", "displayText": "Info"},
-        {"type": "source",  "url": "https://www.dropbox.com/scl/fi/ao7cuc5stk9vlguzsicqu/fbgb_v2.zip?rlkey=wyrnnmjhn601mhcy80bt567cx&e=4&dl=0", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://www.dropbox.com/scl/fi/ao7cuc5stk9vlguzsicqu/fbgb_v2.zip?rlkey=wyrnnmjhn601mhcy80bt567cx&e=4&dl=0", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -1261,8 +1261,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/wordleboy.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/SNBeast/WordleBoy/", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/SNBeast/WordleBoy/", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/SNBeast/WordleBoy/", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -1287,8 +1287,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/gb-wordle.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/stacksmashing/gb-wordle", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/stacksmashing/gb-wordle", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/stacksmashing/gb-wordle", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -1313,8 +1313,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/v3gb.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/xx0x/v3gb", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/xx0x/v3gb", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/xx0x/v3gb", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -1339,8 +1339,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/grubglide.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/Exetric/GrubGlide", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/Exetric/GrubGlide", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/Exetric/GrubGlide", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -1365,8 +1365,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/hitorigb.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/MGerckens/HitoriGB", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/MGerckens/HitoriGB", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/MGerckens/HitoriGB", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -1390,8 +1390,8 @@ const jsonGalleryItemsManual = [
     "shortDescription": "Chord is a monophonic synth program",
     "imagePreviewURL": "pix/tools/chord.png",
     "linksArray": [
-        {"type": "primary", "url": "http://www.humbletune.com/chord/", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "http://www.humbletune.com/chord/", "displayText": "Info"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Music",
     "platformTags": "GameBoy",
@@ -1416,8 +1416,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/ouch.png",
     "linksArray": [
         {"type": "primary", "url": "https://v3.globalgamejam.org/2020/games/doctor-ouch-9", "displayText": "Info"},
-        {"type": "source",  "url": "https://v3.globalgamejam.org/2020/games/doctor-ouch-9", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://v3.globalgamejam.org/2020/games/doctor-ouch-9", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Rhythm",
     "platformTags": "GameBoy",
@@ -1442,8 +1442,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/blackybird.png",
     "linksArray": [
         {"type": "primary", "url": "https://gb-dev.blogspot.com/2019/03/blog-post_6.html", "displayText": "Info"},
-        {"type": "source",  "url": "https://gb-dev.blogspot.com/2019/03/blog-post_6.html", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://gb-dev.blogspot.com/2019/03/blog-post_6.html", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy, GameBoyColor",
@@ -1469,8 +1469,8 @@ const jsonGalleryItemsManual = [
     "linksArray": [
         {"type": "primary", "url": "http://web.archive.org/web/20051201010202/http://www.chip-oukoku.com/boper.php", "displayText": "Info (Archive)"},
         {"type": "download",  "url": "https://www.gamebrew.org/wiki/Nerd-Rix_GB", "displayText": "Download (Gamebrew)"},
-        {"type": "download",  "url": "https://gbdev.gg8.se/files/musictools/Japanese/Bopper/", "displayText": "Download (gbdev.gg8.se)"},
-                ],
+        {"type": "download",  "url": "https://gbdev.gg8.se/files/musictools/Japanese/Bopper/", "displayText": "Download (gbdev.gg8.se)"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Music",
     "platformTags": "GameBoy",
@@ -1496,8 +1496,8 @@ const jsonGalleryItemsManual = [
     "linksArray": [
         {"type": "primary", "url": "https://web.archive.org/web/20010604023916/http://www.sudac.org/~napolium/gameboy/", "displayText": "Info (Archive)"},
         {"type": "download",  "url": "https://www.gamebrew.org/wiki/Minesweeper_GB", "displayText": "Download (Gamebrew)"},
-        {"type": "source",  "url": "https://www.gamebrew.org/wiki/Minesweeper_GB", "displayText": "Source (Gamebrew)"},
-                ],
+        {"type": "source",  "url": "https://www.gamebrew.org/wiki/Minesweeper_GB", "displayText": "Source (Gamebrew)"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -1522,8 +1522,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/gbmines.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/andreasjhkarlsson/gb-mines", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/andreasjhkarlsson/gb-mines", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/andreasjhkarlsson/gb-mines", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -1548,8 +1548,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/flanpong.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/FlannyH/FlanPong", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/FlannyH/FlanPong", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/FlannyH/FlanPong", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -1574,8 +1574,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/blobbo.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/bryantleee/blobbos-apple-catch/releases", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/bryantleee/blobbos-apple-catch/releases", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/bryantleee/blobbos-apple-catch/releases", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy, SuperGameBoy",
@@ -1600,8 +1600,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/unstable.png",
     "linksArray": [
         {"type": "primary", "url": "https://ldjam.com/events/ludum-dare/49/unstable-5", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/gildurao/ludum-dare-2021", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/gildurao/ludum-dare-2021", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -1626,8 +1626,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/domination.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/gcoulby/Domination", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/gcoulby/Domination", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/gcoulby/Domination", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -1652,8 +1652,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/demos/syntaxpocketparty.png",
     "linksArray": [
         {"type": "primary", "url": "https://www.pouet.net/prod.php?which=87514", "displayText": "Info"},
-        {"type": "info",    "url": "https://demozoo.org/productions/287672/", "displayText": "Demozoo"},
-                ],
+        {"type": "info",    "url": "https://demozoo.org/productions/287672/", "displayText": "Demozoo"}
+    ],
     "categoryTags": "Demoscene",
     "gameTypeTags": "Demoscene",
     "platformTags": "GameBoy",
@@ -1678,8 +1678,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/jamonvolador.png",
     "linksArray": [
         {"type": "primary", "url": "https://mateus.digital/el_jamon_volador/", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/mateusdigital/el_jamon_volador", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/mateusdigital/el_jamon_volador", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -1704,8 +1704,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/tools/gbprinter.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/mmuszkow/gbprinter", "displayText": "Info"},
-        {"type": "source" , "url": "https://github.com/mmuszkow/gbprinter", "displayText": "Source"},
-                ],
+        {"type": "source" , "url": "https://github.com/mmuszkow/gbprinter", "displayText": "Source"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "GameBoy Printer",
     "platformTags": "GameBoy, GameBoyColor",
@@ -1730,8 +1730,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/mm-2048.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/mmuszkow/2048-gb", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/mmuszkow/2048-gb", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/mmuszkow/2048-gb", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy, GameBoyColor",
@@ -1757,8 +1757,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/tools/orangefm.png",
     "linksArray": [
         {"type": "primary", "url": "https://orangeglo.github.io/orangefm/", "displayText": "Info"},
-        {"type": "store",  "url": "https://shop.insidegadgets.com/product/orangefm/", "displayText": "Cart"},
-                ],
+        {"type": "store",  "url": "https://shop.insidegadgets.com/product/orangefm/", "displayText": "Cart"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Radio",
     "platformTags": "GameBoy",
@@ -1783,8 +1783,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/tools/betterbuttontest.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/orangeglo/better-button-test",   "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/orangeglo/better-button-test", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/orangeglo/better-button-test", "displayText": "Source"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Testing",
     "platformTags": "GameBoy, GameBoyColor",
@@ -1809,8 +1809,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/techdemo/schedugb.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/Manucar/ScheduGB",   "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/Manucar/ScheduGB", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/Manucar/ScheduGB", "displayText": "Source"}
+    ],
     "categoryTags": "Techdemo",
     "gameTypeTags": "Scheduler",
     "platformTags": "GameBoy",
@@ -1836,8 +1836,8 @@ const jsonGalleryItemsManual = [
     "linksArray": [
         {"type": "primary", "url": "https://hackaday.com/2025/01/15/a-gameboy-speedometer-just-because-you-can/",   "displayText": "Info"},
         {"type": "info",    "url": "https://www.youtube.com/watch?v=xroxYBp9DOo",   "displayText": "Video"},
-        {"type": "source",  "url": "https://github.com/JohnSutley/Worlds-Worst-Digital-Dash", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/JohnSutley/Worlds-Worst-Digital-Dash", "displayText": "Source"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Tool",
     "platformTags": "GameBoy",
@@ -1862,8 +1862,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/tools/pokemon_dist_mew.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/GrenderG/mewdistro", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/GrenderG/mewdistro", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/GrenderG/mewdistro", "displayText": "Source"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Tool",
     "platformTags": "GameBoy",
@@ -1888,8 +1888,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/tools/pokemon_dist_celebi.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/GrenderG/celebidistro", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/GrenderG/celebidistro", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/GrenderG/celebidistro", "displayText": "Source"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Tool",
     "platformTags": "GameBoy",
@@ -1914,8 +1914,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/tools/pokemon_dist_redblue.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/GrenderG/Pokemon-Distribution-ROM", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/GrenderG/Pokemon-Distribution-ROM", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/GrenderG/Pokemon-Distribution-ROM", "displayText": "Source"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Tool",
     "platformTags": "GameBoy",
@@ -1940,8 +1940,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/gbfishing.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/Tomobobo710/GB-Fishing", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/Tomobobo710/GB-Fishing", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/Tomobobo710/GB-Fishing", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Sports",
     "platformTags": "GameBoy",
@@ -1966,8 +1966,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/snakeboy.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/sebb01/SnakeBoy", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/sebb01/SnakeBoy", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/sebb01/SnakeBoy", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -1992,8 +1992,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/gbdksnake.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/owenthcarey/gbdk-snake", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/owenthcarey/gbdk-snake", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/owenthcarey/gbdk-snake", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -2018,8 +2018,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/tools/gameboy_qrcode.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/bbbbbr/gameboy_qrcode", "displayText": "Info"},
-        {"type": "source" , "url": "https://github.com/bbbbbr/gameboy_qrcode", "displayText": "Source"},
-                ],
+        {"type": "source" , "url": "https://github.com/bbbbbr/gameboy_qrcode", "displayText": "Source"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "QR Code",
     "platformTags": "GameBoy",
@@ -2044,8 +2044,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/snake_2_gb.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/sjanuth/snake_II_GB", "displayText": "Info"},
-        {"type": "source" , "url": "https://github.com/sjanuth/snake_II_GB", "displayText": "Source"},
-                ],
+        {"type": "source" , "url": "https://github.com/sjanuth/snake_II_GB", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -2071,8 +2071,8 @@ const jsonGalleryItemsManual = [
     "linksArray": [
         {"type": "primary", "url": "https://www.reddit.com/r/Gameboy/comments/1lq6kf2/classic_snake_xenzia_from_nokia_brought_over_to/?", "displayText": "Info"},
         {"type": "video", "url": "https://www.youtube.com/watch?v=5luEzlfE1zU", "displayText": "Video / Download"},
-        {"type": "download", "url": "https://web.archive.org/web/20251023162553/https://drive.usercontent.google.com/download?id=10AI63swWEAqWjgL-NBVxv8qa9NoXnpG2&export=download", "displayText": "alt Download"},
-                ],
+        {"type": "download", "url": "https://web.archive.org/web/20251023162553/https://drive.usercontent.google.com/download?id=10AI63swWEAqWjgL-NBVxv8qa9NoXnpG2&export=download", "displayText": "alt Download"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy, GameBoyColor",
@@ -2096,8 +2096,8 @@ const jsonGalleryItemsManual = [
     "shortDescription": "",
     "imagePreviewURL": "pix/games/logicbombs.png",
     "linksArray": [
-        {"type": "primary", "url": "https://store.steampowered.com/app/3816700/Logic_Bombs/", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://store.steampowered.com/app/3816700/Logic_Bombs/", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy, GameBoyColor",
@@ -2122,8 +2122,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/tools/audiosynth.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/efairbanks/gameboy-ch3-demo", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/efairbanks/gameboy-ch3-demo", "displayText": "Source"},
-                ],
+        {"type": "source",  "url": "https://github.com/efairbanks/gameboy-ch3-demo", "displayText": "Source"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Music",
     "platformTags": "GameBoy",
@@ -2148,8 +2148,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/tools/gbpainter.png",
     "linksArray": [
         {"type": "primary", "url": "https://www.nikolaidelhaize.com/gameboypainter.html", "displayText": "Info"},
-        {"type": "download",  "url": "https://www.nikolaidelhaize.com/gbptest.html", "displayText": "Download"},
-                ],
+        {"type": "download",  "url": "https://www.nikolaidelhaize.com/gbptest.html", "displayText": "Download"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Art",
     "platformTags": "GameBoy",
@@ -2173,8 +2173,8 @@ const jsonGalleryItemsManual = [
     "shortDescription": "",
     "imagePreviewURL": "pix/tools/gbwriter.png",
     "linksArray": [
-        {"type": "primary", "url": "https://www.nikolaidelhaize.com/gameboywriter.html", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://www.nikolaidelhaize.com/gameboywriter.html", "displayText": "Info"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Text Editor",
     "platformTags": "GameBoy",
@@ -2199,8 +2199,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/mushroompie.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/untoxa/mushroompie", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/untoxa/mushroompie", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/untoxa/mushroompie", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -2225,8 +2225,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/duality.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/xythobuz/Duality", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/xythobuz/Duality", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/xythobuz/Duality", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Shmup",
     "platformTags": "GameBoyColor",
@@ -2251,8 +2251,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/tools/vgmplayer.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/untoxa/VGM_player", "displayText": "Info"},
-        {"type": "source", "url":  "https://github.com/untoxa/VGM_player", "displayText": "Source"},
-                ],
+        {"type": "source", "url":  "https://github.com/untoxa/VGM_player", "displayText": "Source"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Music",
     "platformTags": "GameBoy, GameGear",
@@ -2278,8 +2278,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/techdemo/snesmouse.webp",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/bbbbbr/gbdk_gameboy_snes_mouse", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/bbbbbr/gbdk_gameboy_snes_mouse", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/bbbbbr/gbdk_gameboy_snes_mouse", "displayText": "Source"}
+    ],
     "categoryTags": "Techdemo",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -2304,8 +2304,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/techdemo/usbmouse.webp",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/bbbbbr/gameboy-usb-mouse", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/bbbbbr/gameboy-usb-mouse", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/bbbbbr/gameboy-usb-mouse", "displayText": "Source"}
+    ],
     "categoryTags": "Techdemo",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -2330,8 +2330,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/dodgeblocks.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/lightoshadow/dodgeBlocks", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/lightoshadow/dodgeBlocks", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/lightoshadow/dodgeBlocks", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -2356,8 +2356,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/cellboy.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/QwertyR0/CellBoy", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/QwertyR0/CellBoy", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/QwertyR0/CellBoy", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Simulation",
     "platformTags": "GameBoy",
@@ -2382,8 +2382,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/falll.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/Cizzuk/falll-4gb", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/Cizzuk/falll-4gb", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/Cizzuk/falll-4gb", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy, GameBoyColor",
@@ -2408,8 +2408,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/tools/kpaint.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/crizmo/KPaint", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/crizmo/KPaint", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/crizmo/KPaint", "displayText": "Source"}
+    ],
     "categoryTags": "Tool",
     "gameTypeTags": "Paint",
     "platformTags": "GameBoy",
@@ -2436,8 +2436,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/pocket_league.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/ty-porter/pocket-league", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/ty-porter/pocket-league", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/ty-porter/pocket-league", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Sports",
     "platformTags": "GameBoy",
@@ -2464,8 +2464,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/hiersofnyx.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/splch/heirs-of-nyx", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/splch/heirs-of-nyx", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/splch/heirs-of-nyx", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Roguelike",
     "platformTags": "GameBoy, GameBoyColor, MegaDuck, AnaloguePocket",
@@ -2483,7 +2483,7 @@ const jsonGalleryItemsManual = [
     "dateAdded": "2026-04-06",
     "metaTags": "",
     "shortSearchKey": "HNX-GB",
-    "usedGenAI": "",
+    "usedGenAI": ""
 },
 
 {
@@ -2493,8 +2493,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/vampkiller.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/der-magister/vampkiller", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/der-magister/vampkiller", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/der-magister/vampkiller", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Roguelike",
     "platformTags": "GameBoy",
@@ -2512,7 +2512,7 @@ const jsonGalleryItemsManual = [
     "dateAdded": "2026-04-06",
     "metaTags": "",
     "shortSearchKey": "VPK-GB",
-    "usedGenAI": "",
+    "usedGenAI": ""
 },
 
 {
@@ -2522,8 +2522,8 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/games/gbhack.png",
     "linksArray": [
         {"type": "primary", "url": "https://gbhack.statico.io/", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/statico/gbhack/tree/main", "displayText": "Source"},
-                ],
+        {"type": "source", "url": "https://github.com/statico/gbhack/tree/main", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Roguelike",
     "platformTags": "GameBoyColor",
@@ -2541,7 +2541,7 @@ const jsonGalleryItemsManual = [
     "dateAdded": "2026-04-17",
     "metaTags": "",
     "shortSearchKey": "GH-GBC",
-    "usedGenAI": "ai-code, ai-assets",
+    "usedGenAI": "ai-code, ai-assets"
 },
 
 ];

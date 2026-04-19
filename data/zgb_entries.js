@@ -7,8 +7,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/prettyprincess.png",
     "linksArray": [
         {"type": "primary", "url": "https://gamejolt.com/games/pretty-princess-castle-escape/161880", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/Zal0/bitbitjam2016", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/Zal0/bitbitjam2016", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy, GameBoyColor",
@@ -34,8 +34,8 @@ const jsonGalleryItemsZGB = [
     "linksArray": [
         {"type": "primary", "url": "https://gamejolt.com/games/super-princess-2092-exodus/222842", "displayText": "Info"},
         {"type": "info", "url": "https://sergeeo.itch.io/super-princess-2092-exodus", "displayText": "itch.io"},
-        {"type": "source", "url": "https://github.com/Zal0/gbjam2016", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/Zal0/gbjam2016", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -62,8 +62,8 @@ const jsonGalleryItemsZGB = [
     "linksArray": [
         {"type": "primary", "url": "https://gamejolt.com/games/PolkaSheeep/267409", "displayText": "Info"},
         {"type": "info", "url": "https://sergeeo.itch.io/polka-sheep", "displayText": "itch.io"},
-        {"type": "source", "url": "https://github.com/Zal0/bitbitjam2017", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/Zal0/bitbitjam2017", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -88,8 +88,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/shieldbouncer.png",
     "linksArray": [
         {"type": "primary", "url": "https://zalo.itch.io/shield-bouncer", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/Zal0/zgbjam2018", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/Zal0/zgbjam2018", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Adventure",
     "platformTags": "GameBoy",
@@ -115,8 +115,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/kaijufeeder.png",
     "linksArray": [
         {"type": "primary", "url": "https://zalo.itch.io/kaijufeeder", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/Zal0/zgbjam2019", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/Zal0/zgbjam2019", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -142,8 +142,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/sushinights.png",
     "linksArray": [
         {"type": "primary", "url": "https://zalo.itch.io/sushi-nights", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/Zal0/SushiNights", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/Zal0/SushiNights", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -169,8 +169,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/luna.png",
     "linksArray": [
         {"type": "primary", "url": "http://gbdev.gg8.se/forums/viewtopic.php?id=384", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/mills32/GAMEBOY-DEMOS", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/mills32/GAMEBOY-DEMOS", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoyColor",
@@ -195,8 +195,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/fuzzy.png",
     "linksArray": [
         {"type": "primary", "url": "http://gbdev.gg8.se/forums/viewtopic.php?id=384", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/mills32/GAMEBOY-DEMOS", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/mills32/GAMEBOY-DEMOS", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Sports",
     "platformTags": "GameBoyColor",
@@ -221,8 +221,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/rick.png",
     "linksArray": [
         {"type": "primary", "url": "http://gbdev.gg8.se/forums/viewtopic.php?id=384", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/mills32/GAMEBOY-DEMOS", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/mills32/GAMEBOY-DEMOS", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoyColor",
@@ -247,8 +247,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/giant.png",
     "linksArray": [
         {"type": "primary", "url": "https://gamejolt.com/games/agiantslife/251689", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/sergeeo/GiantsLife", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/sergeeo/GiantsLife", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -273,8 +273,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/vel-cro.png",
     "linksArray": [
         {"type": "primary", "url": "https://gamejolt.com/games/TempleOfVelcro/267320", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/InfectedBytes/TempleOfVelcro", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/InfectedBytes/TempleOfVelcro", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -299,8 +299,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/velcroid.png",
     "linksArray": [
         {"type": "primary", "url": "https://gamejolt.com/games/velcroid/267481", "displayText": "Info"},
-        {"type": "source", "url": "https://maikelortega.itch.io/velcroid", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://maikelortega.itch.io/velcroid", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -325,8 +325,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/velcrogolf.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/brovador/velcro-golf-with-sheeps/blob/master/bin/VELCRO_GOLF.gb?raw=true", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/brovador/velcro-golf-with-sheeps", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/brovador/velcro-golf-with-sheeps", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -351,8 +351,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/mona.png",
     "linksArray": [
         {"type": "primary", "url": "https://ctneptune.itch.io/mona-and-the-witchs-hat", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/CTNeptune/MonaAndTheWitchsHat", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/CTNeptune/MonaAndTheWitchsHat", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -376,8 +376,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "A game about a mischievous cat!",
     "imagePreviewURL": "pix/zgb/mona_dx.png",
     "linksArray": [
-        {"type": "primary", "url": "https://ctneptune.itch.io/mona-and-the-witchs-hat-dx", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://ctneptune.itch.io/mona-and-the-witchs-hat-dx", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoyColor",
@@ -401,8 +401,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "",
     "imagePreviewURL": "pix/zgb/axebound.png",
     "linksArray": [
-        {"type": "primary", "url": "https://maikelortega.itch.io/axebound", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://maikelortega.itch.io/axebound", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -427,8 +427,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "",
     "imagePreviewURL": "pix/zgb/basketcase.png",
     "linksArray": [
-        {"type": "primary", "url": "https://derosa.itch.io/basket-case-boy", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://derosa.itch.io/basket-case-boy", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -453,8 +453,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "",
     "imagePreviewURL": "pix/zgb/bounmaze.png",
     "linksArray": [
-        {"type": "primary", "url": "https://deebrol.itch.io/boun-ma-ze", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://deebrol.itch.io/boun-ma-ze", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Maze",
     "platformTags": "GameBoy",
@@ -480,8 +480,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/upwel.png",
     "linksArray": [
         {"type": "primary", "url": "https://tatos.itch.io/upwell", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/TatosCCG/Upwell", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/TatosCCG/Upwell", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -507,8 +507,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/dungeonball.png",
     "linksArray": [
         {"type": "primary", "url": "https://sergeeo.itch.io/dungeon-ball", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/sergeeo/BounceGB", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/sergeeo/BounceGB", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -533,8 +533,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "",
     "imagePreviewURL": "pix/zgb/deck.png",
     "linksArray": [
-        {"type": "primary", "url": "https://fronze.itch.io/deck-bouncer", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://fronze.itch.io/deck-bouncer", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Card Game",
     "platformTags": "GameBoy",
@@ -559,8 +559,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "",
     "imagePreviewURL": "pix/zgb/minigolf.png",
     "linksArray": [
-        {"type": "primary", "url": "https://danim.itch.io/buggy-troll-minigolf", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://danim.itch.io/buggy-troll-minigolf", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Sports",
     "platformTags": "GameBoy",
@@ -585,8 +585,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "",
     "imagePreviewURL": "pix/zgb/grimoire.png",
     "linksArray": [
-        {"type": "primary", "url": "https://gamejolt.com/games/kips-grimoire/382073", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://gamejolt.com/games/kips-grimoire/382073", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -610,8 +610,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "",
     "imagePreviewURL": "pix/zgb/velcroid0.png",
     "linksArray": [
-        {"type": "primary", "url": "https://carloalbino.itch.io/velcroid-0", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://carloalbino.itch.io/velcroid-0", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -635,8 +635,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "",
     "imagePreviewURL": "pix/zgb/shipping.png",
     "linksArray": [
-        {"type": "primary", "url": "https://gamejolt.com/games/cheap-sheep-shipping/267390", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://gamejolt.com/games/cheap-sheep-shipping/267390", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Flying",
     "platformTags": "GameBoyColor",
@@ -661,8 +661,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/ancient.png",
     "linksArray": [
         {"type": "primary", "url": "https://github.com/MateuszZet/Ancient_Dungeon/blob/master/bin/ZGB_TEMPLATE.gb?raw=true", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/MateuszZet/Ancient_Dungeon", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/MateuszZet/Ancient_Dungeon", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -687,8 +687,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/woolball.png",
     "linksArray": [
         {"type": "primary", "url": "https://zhamul.itch.io/woolballs-backyard", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/SamuliJaaskelainen/Woolball", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/SamuliJaaskelainen/Woolball", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -713,8 +713,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/pluto.png",
     "linksArray": [
         {"type": "primary", "url": "https://bbbbbr.itch.io/plutos-corner", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/bbbbbr/plutoscorner", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/bbbbbr/plutoscorner", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -738,8 +738,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "",
     "imagePreviewURL": "pix/zgb/hungrybirds.png",
     "linksArray": [
-        {"type": "primary", "url": "https://oshf.itch.io/hungry-birds", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://oshf.itch.io/hungry-birds", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -764,8 +764,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "",
     "imagePreviewURL": "pix/zgb/espetoblast.png",
     "linksArray": [
-        {"type": "primary", "url": "https://sergeeo.itch.io/espeto-blast", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://sergeeo.itch.io/espeto-blast", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -790,8 +790,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "",
     "imagePreviewURL": "pix/zgb/hungrymonster.png",
     "linksArray": [
-        {"type": "primary", "url": "https://rvaquero.itch.io/hungry-monster", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://rvaquero.itch.io/hungry-monster", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -816,8 +816,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "",
     "imagePreviewURL": "pix/zgb/muffinalpaca.png",
     "linksArray": [
-        {"type": "primary", "url": "https://itch.io/jam/zgb-jam-2/rate/457071", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://itch.io/jam/zgb-jam-2/rate/457071", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -842,8 +842,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "",
     "imagePreviewURL": "pix/zgb/sovietsnake.png",
     "linksArray": [
-        {"type": "primary", "url": "https://danim.itch.io/sovie-snake-html-5", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://danim.itch.io/sovie-snake-html-5", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
     "platformTags": "GameBoy",
@@ -868,8 +868,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "Protect your turnips from those terrible birds",
     "imagePreviewURL": "pix/zgb/topopajaros.png",
     "linksArray": [
-        {"type": "primary", "url": "https://derosa.itch.io/el-topo-y-los-pajaros", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://derosa.itch.io/el-topo-y-los-pajaros", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -894,8 +894,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "",
     "imagePreviewURL": "pix/zgb/guardianghost.png",
     "linksArray": [
-        {"type": "primary", "url": "https://maikelortega.itch.io/guardianghost", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://maikelortega.itch.io/guardianghost", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Dungeon Crawler",
     "platformTags": "GameBoyColor",
@@ -920,8 +920,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "",
     "imagePreviewURL": "pix/zgb/futurePizza.png",
     "linksArray": [
-        {"type": "primary", "url": "https://pekuja.itch.io/future-pizza", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://pekuja.itch.io/future-pizza", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoyColor",
@@ -946,8 +946,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/theReckoning.png",
     "linksArray": [
         {"type": "primary", "url": "https://kovalok.itch.io/the-reckoning-20xx", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/Nooobody/retrogamejam", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/Nooobody/retrogamejam", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Shmup",
     "platformTags": "GameBoy",
@@ -971,8 +971,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "Rescue the kidnapped tooth fairies of the junk food monsters hands",
     "imagePreviewURL": "pix/zgb/fairywowings.png",
     "linksArray": [
-        {"type": "primary", "url": "https://nekete.itch.io/a-fairy-without-wings", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://nekete.itch.io/a-fairy-without-wings", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -996,8 +996,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "",
     "imagePreviewURL": "pix/zgb/chainbreak.png",
     "linksArray": [
-        {"type": "primary", "url": "https://tuxedogamedevs.com/index.html#chainbreak", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://tuxedogamedevs.com/index.html#chainbreak", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -1021,8 +1021,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "Deliver Ramen before times runs out!",
     "imagePreviewURL": "pix/zgb/initialD.png",
     "linksArray": [
-        {"type": "primary", "url": "https://ggracia10.itch.io/initiald-gameboy-color", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://ggracia10.itch.io/initiald-gameboy-color", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Driving",
     "platformTags": "GameBoyColor",
@@ -1047,8 +1047,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/cavern.png",
     "linksArray": [
         {"type": "primary", "url": "https://thegreatgallus.itch.io/cavern-mvm-9", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/TheGreatGallus/Cavern-GB", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/TheGreatGallus/Cavern-GB", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -1073,8 +1073,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/powa.png",
     "linksArray": [
         {"type": "primary", "url": "https://aiguanachein.itch.io/powa", "displayText": "Info"},
-        {"type": "store", "url": "https://firstpressgames.com/products/powa-eu-us-regular-edition", "displayText": "Cart"},
-        ],
+        {"type": "store", "url": "https://firstpressgames.com/products/powa-eu-us-regular-edition", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy, GameBoyColor, SuperGameBoy",
@@ -1098,8 +1098,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "Puzzle game Blastris B",
     "imagePreviewURL": "pix/zgb/blastrisb.png",
     "linksArray": [
-        {"type": "primary", "url": "https://aiguanachein.itch.io/powa", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://aiguanachein.itch.io/powa", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoyColor",
@@ -1124,8 +1124,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/outofcontrol.png",
     "linksArray": [
         {"type": "primary", "url": "https://healthpotionstudios.itch.io/out-of-control-game-boy-color", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/healthpotionstudios/Out-of-Control-Game-Boy-Color", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/healthpotionstudios/Out-of-Control-Game-Boy-Color", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoyColor",
@@ -1149,8 +1149,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "Like The Impossible Game.. but for Gameboy!",
     "imagePreviewURL": "pix/zgb/impossiblegameboy.png",
     "linksArray": [
-        {"type": "primary", "url": "https://shadowsora211.itch.io/impossible-gameboy", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://shadowsora211.itch.io/impossible-gameboy", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Rhythm",
     "platformTags": "GameBoy",
@@ -1174,8 +1174,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "",
     "imagePreviewURL": "pix/zgb/thesquire.png",
     "linksArray": [
-        {"type": "primary", "url": "https://freshdeus.itch.io/the-squire-gameboy", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://freshdeus.itch.io/the-squire-gameboy", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Shmup",
     "platformTags": "GameBoy",
@@ -1201,8 +1201,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/rc-shuriken.png",
     "linksArray": [
         {"type": "primary", "url": "https://healthpotionstudios.itch.io/rc-shuriken", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/healthpotionstudios/RC-Shuriken-GBC", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/healthpotionstudios/RC-Shuriken-GBC", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoyColor",
@@ -1228,8 +1228,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/acattag.png",
     "linksArray": [
         {"type": "primary", "url": "https://selkkie.itch.io/acattag", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/selkkie/acattag", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/selkkie/acattag", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -1255,8 +1255,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/pineapplekid.png",
     "linksArray": [
         {"type": "primary", "url": "http://hz83.itch.io/pineapplekid", "displayText": "Info"},
-        {"type": "store", "url": "https://www.bitmapsoft.co.uk/product/pineapple-kid/", "displayText": "Cart"},
-        ],
+        {"type": "store", "url": "https://www.bitmapsoft.co.uk/product/pineapple-kid/", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -1281,8 +1281,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/weevil.png",
     "linksArray": [
         {"type": "primary", "url": "https://jadengoter.itch.io/weevil-warrior", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/picrossin/Weevil-Warrior-GB", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/picrossin/Weevil-Warrior-GB", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -1308,8 +1308,8 @@ const jsonGalleryItemsZGB = [
     "linksArray": [
         {"type": "primary", "url": "https://studioloading.itch.io/flying-arrows-demo", "displayText": "Info"},
         {"type": "store", "url": "https://www.kickstarter.com/projects/studioloading/flying-arrows-gameboy-cartridge-videogame", "displayText": "Cart"},
-        {"type": "source", "url": "https://github.com/StudioLoading/ARROWS", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/StudioLoading/ARROWS", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy, GameBoyColor",
@@ -1335,8 +1335,8 @@ const jsonGalleryItemsZGB = [
     "linksArray": [
         {"type": "primary", "url": "https://patmorita.itch.io/hermano-game-boy", "displayText": "Info"},
         {"type": "store", "url": "https://patmoritateam.com/Hermano-Standard-Edition-Limited-p651412707", "displayText": "Cart"},
-        {"type": "source", "url": "https://github.com/greenwebsevilla/Hermano", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/greenwebsevilla/Hermano", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -1362,8 +1362,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/yoseiwars.png",
     "linksArray": [
         {"type": "primary", "url": "https://nekete.itch.io/a-fairy-without-wings/devlog/336352/ysei-wars-dx-version-in-the-works", "displayText": "Info"},
-        {"type": "source", "url": "https://www.bitmapsoft.co.uk/product/yosei-wars/", "displayText": "Cart"},
-        ],
+        {"type": "source", "url": "https://www.bitmapsoft.co.uk/product/yosei-wars/", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy, GameBoyColor",
@@ -1387,8 +1387,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "",
     "imagePreviewURL": "pix/zgb/pokemongogbc.png",
     "linksArray": [
-        {"type": "primary", "url": "https://distractedcoder.itch.io/pokemon-go-game-boy", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://distractedcoder.itch.io/pokemon-go-game-boy", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoyColor",
@@ -1413,8 +1413,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/athleticWorld.png",
     "linksArray": [
         {"type": "primary", "url": "https://hz83.itch.io/athleticworld", "displayText": "Info"},
-        {"type": "store", "url": "https://www.bitmapsoft.co.uk/product/athletic-world/", "displayText": "Cart"},
-        ],
+        {"type": "store", "url": "https://www.bitmapsoft.co.uk/product/athletic-world/", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -1439,8 +1439,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/frombelowpocket.png",
     "linksArray": [
         {"type": "primary", "url": "https://mhughson.itch.io/from-below-pocket", "displayText": "Info"},
-        {"type": "source", "url": "https://github.com/mhughson/mbh-firstnes/tree/mbh-frombelow-gb/gb", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/mhughson/mbh-firstnes/tree/mbh-frombelow-gb/gb", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy, GameBoyColor, SuperGameBoy",
@@ -1464,8 +1464,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "",
     "imagePreviewURL": "pix/zgb/unlinkedmask.png",
     "linksArray": [
-        {"type": "primary", "url": "https://klonoz.itch.io/unlinked-mask-gb-demo", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://klonoz.itch.io/unlinked-mask-gb-demo", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -1489,8 +1489,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "A short game about trick-or-treating",
     "imagePreviewURL": "pix/zgb/catsandspooks.png",
     "linksArray": [
-        {"type": "primary", "url": "https://shadowsora211.itch.io/cats-and-spooks", "displayText": "Info"},
-        ],
+        {"type": "primary", "url": "https://shadowsora211.itch.io/cats-and-spooks", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoy",
@@ -1515,8 +1515,8 @@ const jsonGalleryItemsZGB = [
     "imagePreviewURL": "pix/zgb/metalmiracle.png",
     "linksArray": [
         {"type": "primary", "url": "https://patmorita.itch.io/metal-miracle-game-boy-color", "displayText": "Info"},
-        {"type": "store", "url": "https://www.kickstarter.com/projects/patmorita/metal-miracle-game-boy-color", "displayText": "Cart"},
-        ],
+        {"type": "store", "url": "https://www.kickstarter.com/projects/patmorita/metal-miracle-game-boy-color", "displayText": "Cart"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy",
@@ -1542,8 +1542,8 @@ const jsonGalleryItemsZGB = [
     "linksArray": [
         {"type": "primary", "url": "https://studioloading.itch.io/flying-arrows-2-demo", "displayText": "Info"},
         {"type": "store", "url": "https://www.kickstarter.com/projects/studioloading/flying-arrows-2-gameboy-game-save-bolognanerd", "displayText": "Cart"},
-        {"type": "source", "url": "https://github.com/StudioLoading/ARROWS2", "displayText": "Source"},
-        ],
+        {"type": "source", "url": "https://github.com/StudioLoading/ARROWS2", "displayText": "Source"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoy, GameBoyColor",
@@ -1567,8 +1567,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "Luigi Mansion Gameboy Demake",
     "imagePreviewURL": "pix/itch/luigimansion.png",
     "linksArray": [
-        {"type": "primary", "url": "https://distractedcoder.itch.io/luigi-mansion-gameboy-demake", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://distractedcoder.itch.io/luigi-mansion-gameboy-demake", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoyColor",
@@ -1593,8 +1593,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "Possess creatures and use their abilities to find your way home",
     "imagePreviewURL": "pix/itch/enthraller.png",
     "linksArray": [
-        {"type": "primary", "url": "https://dancar.itch.io/mind-controller", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://dancar.itch.io/mind-controller", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy",
@@ -1619,8 +1619,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "",
     "imagePreviewURL": "pix/zgb/skateland.png",
     "linksArray": [
-        {"type": "primary", "url": "https://kaiman-games.itch.io/skateland-adventures", "displayText": "Info (Demo)"},
-                ],
+        {"type": "primary", "url": "https://kaiman-games.itch.io/skateland-adventures", "displayText": "Info (Demo)"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "GameBoyColor",
@@ -1645,8 +1645,8 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "Port of Supernaught",
     "imagePreviewURL": "pix/zgb/slugcaster.png",
     "linksArray": [
-        {"type": "primary", "url": "https://freshdeus.itch.io/slugcaster-gb", "displayText": "Info"},
-                ],
+        {"type": "primary", "url": "https://freshdeus.itch.io/slugcaster-gb", "displayText": "Info"}
+    ],
     "categoryTags": "Game",
     "gameTypeTags": "Action",
     "platformTags": "GameBoyColor",
@@ -1664,7 +1664,7 @@ const jsonGalleryItemsZGB = [
     "dateAdded": "2026-03-10",
     "metaTags": "",
     "shortSearchKey": "SLG-GBC",
-    "usedGenAI": "",
+    "usedGenAI": ""
 },
 
 ];
