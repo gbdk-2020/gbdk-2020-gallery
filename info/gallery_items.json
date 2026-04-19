@@ -13,9 +13,9 @@ The JSON format for gallery entries is as follows:
         {"type": "source",  "url": "https://url_to_source_code_OPTIONAL", "displayText": "Source"},
         {"type": "article",  "url": "https://url_to_source_code_OPTIONAL", "displayText": "Article"}
                 ],
-    "categoryTags": "Comma-space separated list of tags: Art, Camera, Demoscene, Engine, Game, Music, Simulation, Techdemo, Tool",
-    "gametypeTags": "Comma-space separated list of tags: Action, Adventure, Art, Card Game, Clock, Cutscene, Demoscene, Driving, Dungeon Crawler, Engine, Fighting, Flying, GameBoy Camera, GameBoy Printer, Graphics, Idle, Interactive Fiction, Maze, Memory, Microgames, Music, Paint, Platformer, Programming, Puzzle, QR Code, Racing, Radio, Reader, Remote Control, Rhythm, Roguelike, Role Playing, Scheduler, Shmup, Shooting, Simulation, Sports, Strategy, Survival, Testing, Text Editor, Timer, Tool, VirtualPet, Visual-Novel",
-    "platformTags": "Comma separated list of tags: All Platforms, AnaloguePocket, GameBoy, GameBoyColor, GameGear, MegaDuck Laptop, MegaDuck, NES, SMS, SuperGameBoy",
+    "categoryTags": "One of the following: Art, Camera, Demoscene, Engine, Game, Music, Simulation, Techdemo, Tool",
+    "gametypeTags": "One of the following: Action, Adventure, Art, Card Game, Clock, Cutscene, Demoscene, Driving, Dungeon Crawler, Engine, Fighting, Flying, GameBoy Camera, GameBoy Printer, Graphics, Idle, Interactive Fiction, Maze, Memory, Microgames, Music, Paint, Platformer, Programming, Puzzle, QR Code, Racing, Radio, Reader, Remote Control, Rhythm, Roguelike, Role Playing, Scheduler, Shmup, Shooting, Simulation, Sports, Strategy, Survival, Testing, Text Editor, Timer, Tool, VirtualPet, Visual-Novel",
+    "platformTags": "Comma separated list of tags: AnaloguePocket, GameBoy, GameBoyColor, GameGear, MegaDuck Laptop, MegaDuck, NES, SMS, SuperGameBoy",
     "featuredPriority": 0,         /* Integer: 0-10, with 10 highest */
     "isMultiPlatform": true/false, /* Does it have a build for more than one of each group: (gb/gbc/ap/duck), (sms/gg), (nes) */
     "isOpenSource": true/false,
@@ -30,5 +30,5 @@ The JSON format for gallery entries is as follows:
     "dateAdded": "Example: 2021-01-01", /* Date entry was added */
     "metaTags": "Example: gbcompo23", /* Competitions, jams, etc that the game was a part of */
     "shortSearchKey": "MIO-GB",
-    "usedGenAI": "",  "Comma separated list with one or more of the following: ai-code, ai-assets. (left empty if not known)"
+    "usedGenAI": "",  "Comma separated list with one or more of the following: ai-code, ai-assets. (left empty if none or not known)"
 },

@@ -9,6 +9,7 @@ A lightweight Javascript / JSON gallery for showcasing Demos, Games, Music and P
 To submit a game or program, either :
 - **Recommended:** Open an [Issue](https://github.com/gbdk-2020/gbdk-2020-gallery/issues)
 - Or edit the JSON data and open a Pull Request
+  - Use the [Entry Formatter](https://gbdk-2020.github.io/gbdk-2020-gallery/tools/entry_formatter.html) to help ensure correct formatting
 
 ### Required information for Pull Reuests which modify the JSON data directly:
 - authorName: Quoted, Name(s) of Author(s)

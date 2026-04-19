@@ -1,0 +1,622 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Entry Formatter</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+        }
+
+        div.formRow {
+            display: block;
+            margin-top: 7px;
+        }
+
+        .caption {
+            color: #555;
+            font-size: 90%;
+            margin: 4px 0 0 8px;
+        }
+
+        .lightDivide {
+            color: rgba(0, 0, 0, 0.25);
+            background: rgba(0, 0, 0, 0);
+            border-top: dashed 2px;
+            border-bottom: none;
+            margin-top: 10px;
+        }
+
+        #jsonPaste {
+            width: 75%;
+            height: 40em;
+        }
+
+        .tagInput {
+            width: 45em;
+        }
+
+        input,
+        textarea,
+        select {
+            margin-top: 2px;
+        }
+
+        .urlInput {
+            width: 35em;
+        }
+
+        .urlInput:focus:invalid {
+            background-color: rgba(255, 192, 192, 1);
+        }
+
+        .urlInput:focus:valid {
+            background-color: rgba(192, 255, 192, 1);
+        }
+
+        textarea {
+            min-height: 70px;
+            vertical-align: middle;
+        }
+
+        pre {
+            background: #f3f3f3;
+            padding: 10px;
+            border: 1px dashed rgba(0, 0, 0, 0.5);
+            white-space: pre-wrap;
+        }
+
+        .chips {
+            margin: 6px 0 0 0;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            width:
+        }
+
+        .chip {
+            border: none;
+            background: rgba(0, 0, 0, 0.10);
+            color: rgba(0, 0, 0, 0.6);
+            border-radius: 4px;
+            padding: 4px 5px;
+            font-size: 13px;
+            cursor: pointer;
+            user-select: none;
+        }
+
+        .chip:hover {
+            border: none;
+            background: rgba(0, 0, 0, 0.30);
+            color: rgba(0, 0, 0, 1.0);
+        }
+
+        .section {
+            margin-top: 10px;
+            padding: 12px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background: #fafafa;
+        }
+
+        .row {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 6px;
+            margin-top: 10px;
+        }
+
+        .boolrow {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-top: 8px;
+        }
+
+        .linksGrid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 10px;
+            width: 60%;
+            max-width: 760px;
+        }
+
+        .linksGrid input {
+            width: 100%;
+            max-width: none;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Entry Formatter</h2>
+
+    <form id="entryForm">
+        <div class="formRow">
+            Author Name:
+            <input type="text" name="authorName" required>
+            <span class="caption">Name(s) of Author(s)</span>
+        </div>
+
+        <div class="formRow">
+            Game Title:
+            <input type="text" name="itemTitle" required>
+            <span class="caption">Game's Title</span>
+        </div>
+
+        <div class="formRow">
+            Short Description:
+            <input type="text" name="shortDescription" required>
+            <span class="caption">A short 4-10 word description. Avoid saying “for the Game Boy/etc.”</span>
+        </div>
+
+        <div class="formRow">
+            Image Preview URL:
+            <input type="text" name="imagePreviewURL" required>
+            <span class="caption">Relative path, for example: pix/games/mygame.png</span>
+        </div>
+
+        <div class="section">
+            <b>Links</b>
+            <span class="caption">
+
+                <div class="row">
+                    <div class="formRow">
+                        Primary URL: <input class="urlInput" type="url" name="primaryUrl" required>
+                        Text:
+                        <input type="text" name="primaryDisplayText" value="Info" required>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="formRow">
+                        Store URL (optional):
+                        <input class="urlInput" type="url" name="storeUrl" placeholder="Optional">
+                        Text:
+                        <input type="text" name="storeDisplayText" value="Cart" placeholder="Optional">
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="formRow">
+                        Source URL (optional):
+                        <input class="urlInput" type="url" name="sourceUrl" placeholder="Optional">
+                        Text:
+                        <input type="text" name="sourceDisplayText" value="Source" placeholder="Optional">
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="formRow">
+                        Article URL (optional):
+                        <input class="urlInput" type="url" name="articleUrl" placeholder="Optional">
+                        Text:
+                        <input type="text" name="articleDisplayText" value="Article" placeholder="Optional">
+                    </div>
+                </div>
+        </div>
+
+        <div class="formRow">
+            Category:
+            <select name="categoryTags" required>
+                <option value="Art">Art</option>
+                <option value="Camera">Camera</option>
+                <option value="Demoscene">Demoscene</option>
+                <option value="Engine">Engine</option>
+                <option value="Game">Game</option>
+                <option value="Music">Music</option>
+                <option value="Simulation">Simulation</option>
+                <option value="Techdemo">Techdemo</option>
+                <option value="Tool">Tool</option>
+            </select>
+        </div>
+
+        <div class="formRow">
+            Genre:
+            <select name="gameTypeTags" required>
+                <option value="Action">Action</option>
+                <option value="Adventure">Adventure</option>
+                <option value="Art">Art</option>
+                <option value="Card Game">Card Game</option>
+                <option value="Clock">Clock</option>
+                <option value="Cutscene">Cutscene</option>
+                <option value="Demoscene">Demoscene</option>
+                <option value="Driving">Driving</option>
+                <option value="Dungeon Crawler">Dungeon Crawler</option>
+                <option value="Engine">Engine</option>
+                <option value="Fighting">Fighting</option>
+                <option value="Flying">Flying</option>
+                <option value="GameBoy Camera">GameBoy Camera</option>
+                <option value="GameBoy Printer">GameBoy Printer</option>
+                <option value="Graphics">Graphics</option>
+                <option value="Idle">Idle</option>
+                <option value="Interactive Fiction">Interactive Fiction</option>
+                <option value="Maze">Maze</option>
+                <option value="Memory">Memory</option>
+                <option value="Microgames">Microgames</option>
+                <option value="Music">Music</option>
+                <option value="Paint">Paint</option>
+                <option value="Platformer">Platformer</option>
+                <option value="Programming">Programming</option>
+                <option value="Puzzle">Puzzle</option>
+                <option value="QR Code">QR Code</option>
+                <option value="Racing">Racing</option>
+                <option value="Radio">Radio</option>
+                <option value="Reader">Reader</option>
+                <option value="Remote Control">Remote Control</option>
+                <option value="Rhythm">Rhythm</option>
+                <option value="Roguelike">Roguelike</option>
+                <option value="Role Playing">Role Playing</option>
+                <option value="Scheduler">Scheduler</option>
+                <option value="Shmup">Shmup</option>
+                <option value="Shooting">Shooting</option>
+                <option value="Simulation">Simulation</option>
+                <option value="Sports">Sports</option>
+                <option value="Strategy">Strategy</option>
+                <option value="Survival">Survival</option>
+                <option value="Testing">Testing</option>
+                <option value="Text Editor">Text Editor</option>
+                <option value="Timer">Timer</option>
+                <option value="Tool">Tool</option>
+                <option value="VirtualPet">VirtualPet</option>
+                <option value="Visual-Novel">Visual-Novel</option>
+            </select>
+        </div>
+
+        <div class="section">
+            Platform:
+            <br><input class="tagInput" type="text" name="platformTags" required>
+            <span class="caption">Comma-space separated list of tags</span>
+            <div class="chips" data-target="platformTags"><span class="caption">Click to add: </span></div>
+        </div>
+
+        <div class="section">
+            Hardware Feature Tags:
+            <br><input class="tagInput" type="text" name="hardwareFeatureTags" required>
+            <span class="caption">Comma-space separated list of tags</span>
+            <div class="chips" data-target="hardwareFeatureTags"><span class="caption">Click to add: </span></div>
+        </div>
+
+        <div class="formRow">
+            Featured Priority:
+            <input type="number" name="featuredPriority" min="0" max="10" step="1" value="5" required>
+        </div>
+
+        <div class="boolrow">
+            <input type="checkbox" name="isOpenSource" id="isOpenSource">
+            <label for="isOpenSource">Open Source</label>
+
+            <input type="checkbox" name="isMultiPlatform" id="isMultiPlatform">
+            <label for="isMultiPlatform">Multi Platform</label>
+            <span class="caption">(More than one group: [gb/gbc/ap/duck], [sms/gg], [nes]</span>)
+        </div>
+
+
+        <div class="section">
+            License
+            <br><input type="text" name="licenseType" required>
+            <span class="caption">Comma-space separated list of licenses (empty if none or unknown)</span>
+            <div class="chips" data-target="licenseType"><span class="caption">Click to add: </span></div>
+
+        </div>
+
+        <div class="boolrow">
+            <input type="checkbox" name="isFreeDownload" id="isFreeDownload">
+            <label for="isFreeDownload">Free Download</label>
+
+            <input type="checkbox" name="hasPhysicalRelease" id="hasPhysicalRelease">
+            <label for="hasPhysicalRelease">Has Physical Release</label>
+
+            <input type="checkbox" name="isClassicGBDK" id="isClassicGBDK">
+            <label for="isClassicGBDK">Uses Classic GBDK</label>
+        </div>
+
+        <div class="formRow">
+            Uses Engine:
+            <select name="usesEngine" required>
+                <option value="No Engine">No Engine</option>
+                <option value="ZGB">ZGB</option>
+                <option value="CrossZGB">CrossZGB</option>
+            </select>
+        </div>
+
+        <div class="boolrow">
+            <input type="checkbox" name="linkOrMultiPlayer" id="linkOrMultiPlayer">
+            <label for="linkOrMultiPlayer">Link Or Multi Player</label>
+        </div>
+
+        <div class="formRow">
+            Year First Released:
+            <input type="number" name="yearFirstReleased" min="1900" max="2100" step="1" placeholder="2026" required>
+        </div>
+
+        <div class="formRow">
+            Date Added:
+            <input type="date" name="dateAdded" required>
+        </div>
+
+        <div class="formRow">
+            Meta Tags:
+            <input type="text" name="metaTags" placeholder="gbcompo23">
+        </div>
+
+        <div class="formRow">
+            Short Search Key:
+            <input type="text" name="shortSearchKey" required>
+        </div>
+
+        <div class="formRow">
+            Used GenAI:
+            <br><input type="text" name="usedGenAI" required>
+            <span class="caption">Comma-space separated list of tags (empty if none or unknown)</span>
+            <div class="chips" data-target="usedGenAI"><span class="caption">Click to add: </span></div>
+        </div>
+
+        <br>
+        <button type="button" onclick="formToJSON()">Convert to JSON</button>
+        <button type="button" onclick="copyOutput()">Copy output to clipboard</button>
+        <button type="button" onclick="resetForm()">Reset Form</button>
+
+        <br>
+        <h3>Resulting JSON for the entry</h3>    
+        <pre id="output"></pre>
+
+        <hr>
+
+        <div class="section">
+            Tool: Parse an existing entry and load it (NO Trailing Commas!)
+            <br>
+            <button type="button" onclick="loadFromJSON()">Load Entry</button>
+            <br><textarea id="jsonPaste" placeholder='Paste an existing JSON entry here'></textarea>
+        </div>
+
+    </form>
+
+
+<script>
+        // categoryTags: ["Art", "Camera", "Demoscene", "Engine", "Game", "Music", "Simulation", "Techdemo", "Tool"],
+        // gameTypeTags: ["Action", "Adventure", "Art", "Card Game", "Clock", "Cutscene", "Demoscene", "Driving", "Dungeon Crawler", "Engine", "Fighting", "Flying", "GameBoy Camera", "GameBoy Printer", "Graphics", "Idle", "Interactive Fiction", "Maze", "Memory", "Microgames", "Music", "Paint", "Platformer", "Programming", "Puzzle", "QR Code", "Racing", "Radio", "Reader", "Remote Control", "Rhythm", "Roguelike", "Role Playing", "Scheduler", "Shmup", "Shooting", "Simulation", "Sports", "Strategy", "Survival", "Testing", "Text Editor", "Timer", "Tool", "VirtualPet", "Visual-Novel"],
+    const tagSets = {
+        usedGenAI: ["ai-code", "ai-assets"],
+        licenseType: ["MIT", "GPL", "Unlicense"],
+        platformTags: ["All Platforms", "AnaloguePocket", "GameBoy", "GameBoyColor", "GameGear", "MegaDuck Laptop", "MegaDuck", "NES", "SMS", "SuperGameBoy"],
+        hardwareFeatureTags: ["FM Radio Cart", "Four Player Adapter", "GameBoy Camera", "GameBoy Printer", "IR Sensor", "Link Port", "MBC3 RTC", "MBC5 Rumble", "MegaDuck Keyboard", "MegaDuck Printer", "Card/EverDrive", "SNES Mouse", "USB Keyboard", "USB Mouse"]
+    };
+
+    function setupChips() {
+        document.querySelectorAll('.chips').forEach(container => {
+            const targetName = container.dataset.target;
+            const input = document.querySelector(`input[name="${targetName}"]`);
+            tagSets[targetName].forEach(tag => {
+                const btn = document.createElement('button');
+                btn.type = 'button';
+                btn.className = 'chip';
+                btn.textContent = tag;
+                btn.onclick = () => appendTag(input, tag);
+                container.appendChild(btn);
+            });
+        });
+    }
+
+    function appendTag(input, tag) {
+        const current = input.value.trim();
+        if(!current) {
+            input.value = tag;
+            return;
+        }
+        const parts = current.split(',').map(s => s.trim()).filter(Boolean);
+        if(!parts.includes(tag)) parts.push(tag);
+        input.value = parts.join(', ');
+        input.focus();
+    }
+
+    function splitTags(value) {
+        return value.split(',').map(s => s.trim()).filter(Boolean);
+    }
+
+    function setValue(name, value) {
+        const el = document.querySelector(`[name="${name}"]`);
+        if(!el) return;
+        if(el.type === 'checkbox') {
+            el.checked = !!value;
+        } else {
+            el.value = value ?? '';
+        }
+    }
+
+    function setLinkFields(prefix, link) {
+        setValue(`${prefix}Url`, link?.url ?? '');
+        setValue(`${prefix}DisplayText`, link?.displayText ?? '');
+    }
+
+    function resetLinkFields(prefix) {
+        setValue(`${prefix}Url`, '');
+        setValue(`${prefix}DisplayText`, '');
+    }
+
+    function formToJSON() {
+        const form = document.getElementById('entryForm');
+        const data = new FormData(form);
+        const obj = {};
+
+        obj.authorName = data.get('authorName') || "";
+        obj.itemTitle = data.get('itemTitle') || "";
+        obj.shortDescription = data.get('shortDescription') || "";
+        obj.imagePreviewURL = data.get('imagePreviewURL') || "";
+
+        const linksArray = [];
+        linksArray.push({
+            type: "primary",
+            url: data.get('primaryUrl') || "",
+            displayText: data.get('primaryDisplayText') || "Info"
+        });
+
+        [
+        { type: "source", urlKey: "sourceUrl", textKey: "sourceDisplayText", defaultText: "Source" },
+        { type: "store", urlKey: "storeUrl", textKey: "storeDisplayText", defaultText: "Cart" },
+        { type: "article", urlKey: "articleUrl", textKey: "articleDisplayText", defaultText: "Article" }
+        ].forEach(link => {
+        const url = (data.get(link.urlKey) || "").trim();
+        if (url) {
+            linksArray.push({
+                type: link.type,
+                url,
+                displayText: (data.get(link.textKey) || link.defaultText || "").trim()
+            });
+        }
+        });
+
+        obj.linksArray = linksArray;
+        obj.categoryTags = data.get('categoryTags');
+        obj.gameTypeTags = data.get('gameTypeTags');
+        obj.platformTags = data.get('platformTags');
+        obj.featuredPriority = Number(data.get('featuredPriority') || 0);
+        obj.isMultiPlatform = form.querySelector('[name="isMultiPlatform"]').checked;
+        obj.isOpenSource = form.querySelector('[name="isOpenSource"]').checked;
+        obj.licenseType = data.get('licenseType') || "";
+        obj.isFreeDownload = form.querySelector('[name="isFreeDownload"]').checked;
+        obj.hasPhysicalRelease = form.querySelector('[name="hasPhysicalRelease"]').checked;
+        obj.isClassicGBDK = form.querySelector('[name="isClassicGBDK"]').checked;
+        obj.usesEngine = data.get('usesEngine') || "No Engine";
+        obj.linkOrMultiPlayer = form.querySelector('[name="linkOrMultiPlayer"]').checked;
+        obj.hardwareFeatureTags = splitTags(data.get('hardwareFeatureTags') || "").join(', ');
+        obj.yearFirstReleased = data.get('yearFirstReleased') || "";
+        obj.dateAdded = data.get('dateAdded') || "";
+        obj.metaTags = data.get('metaTags') || "";
+        obj.shortSearchKey = data.get('shortSearchKey') || "";
+        obj.usedGenAI = data.get('usedGenAI') || "";
+
+        let jsonOutput = JSON.stringify(obj, null, 4) + ",\n\n";
+
+        let compactdeArraysJSON = jsonOutput.replace(
+            /\[\s+([^\]]+?)\s+\]/g, // Match arrays with line breaks  
+            (match, elements) => `[${elements.replace(/\s+/g, ' ')}]` // Replace newlines with spaces  
+        );
+
+        compactdeArraysJSON = compactdeArraysJSON.replace(
+            /\[([^\]]+?)\]/g, // Match arrays with line breaks  
+            (match, elements) => `[${elements.replace(/{\s*/g, '\n        {')}]` // Indented line breaks before each object entry
+        );
+
+        compactdeArraysJSON = compactdeArraysJSON.replace(
+            /\[([^\]]+?)\]/g, // Match arrays with line breaks  
+            (match, elements) => `[${elements.replace(/\s+\n/g, '\n')}]` // No trailing spaces at end of lines
+        );
+
+        compactdeArraysJSON = compactdeArraysJSON.replace(
+            /\[([^\]]+?)\]/g, // Match arrays with line breaks  
+            (match, elements) => `[${elements.replace(/\s*}/g, '}')}]` // No trailing spaces at end of objects
+        );
+
+        compactdeArraysJSON = compactdeArraysJSON.replace(
+            /\[([^\]]+?)\]/g, // Match arrays with line breaks  
+            (match, elements) => `[${elements.replace(/}$/g, '}\n    ')}]` // Line break after last object entry
+        );
+
+
+        document.getElementById('output').textContent = compactdeArraysJSON;
+
+    }
+
+    function resetForm() {
+        setValue('authorName', "");
+        setValue('itemTitle', "");
+        setValue('shortDescription', "");
+        setValue('imagePreviewURL', "");
+
+        resetLinkFields('primary');
+        resetLinkFields('store');
+        resetLinkFields('source');
+        resetLinkFields('article');
+
+        setValue('categoryTags', "Game");
+        setValue('gameTypeTags', "");
+        setValue('platformTags', "");
+        setValue('featuredPriority', 5);
+        setValue('isMultiPlatform', false);
+        setValue('isOpenSource', false);
+        setValue('licenseType', "");
+        setValue('isFreeDownload', false);
+        setValue('hasPhysicalRelease', false);
+        setValue('isClassicGBDK', false);
+        setValue('usesEngine', 'No Engine');
+        setValue('linkOrMultiPlayer', false);
+        setValue('hardwareFeatureTags', "");
+        setValue('yearFirstReleased', "");
+        setValue('dateAdded', "");
+        setValue('metaTags', "");
+        setValue('shortSearchKey', "");
+        setValue('usedGenAI', "");
+    }
+
+    function loadFromJSON() {
+        const raw = document.getElementById('jsonPaste').value.trim();
+        if(!raw) return;
+
+        let obj;
+        try {
+            obj = JSON.parse(raw);
+        } catch (e) {
+            alert('Invalid JSON!\n\nCheck for commas after last array items and fields,\n if any are found then remove them.');
+            return;
+        }
+
+        setValue('authorName', obj.authorName);
+        setValue('itemTitle', obj.itemTitle);
+        setValue('shortDescription', obj.shortDescription);
+        setValue('imagePreviewURL', obj.imagePreviewURL);
+
+        const links = Array.isArray(obj.linksArray) ? obj.linksArray : [];
+        const primary = links.find(l => l.type === 'primary') || {};
+        const store = links.find(l => l.type === 'store') || {};
+        const source = links.find(l => l.type === 'source') || {};
+        const article = links.find(l => l.type === 'article') || {};
+
+        setLinkFields('primary', primary);
+        setLinkFields('store', store);
+        setLinkFields('source', source);
+        setLinkFields('article', article);
+
+        setValue('categoryTags', obj.categoryTags);
+        setValue('gameTypeTags', obj.gameTypeTags);
+        setValue('platformTags', obj.platformTags);
+        setValue('featuredPriority', obj.featuredPriority);
+        setValue('isMultiPlatform', obj.isMultiPlatform);
+        setValue('isOpenSource', obj.isOpenSource);
+        setValue('licenseType', obj.licenseType);
+        setValue('isFreeDownload', obj.isFreeDownload);
+        setValue('hasPhysicalRelease', obj.hasPhysicalRelease);
+        setValue('isClassicGBDK', obj.isClassicGBDK);
+        setValue('usesEngine', obj.usesEngine || 'No Engine');
+        setValue('linkOrMultiPlayer', obj.linkOrMultiPlayer);
+        setValue('hardwareFeatureTags', obj.hardwareFeatureTags);
+        setValue('yearFirstReleased', obj.yearFirstReleased);
+        setValue('dateAdded', obj.dateAdded);
+        setValue('metaTags', obj.metaTags);
+        setValue('shortSearchKey', obj.shortSearchKey);
+        setValue('usedGenAI', obj.usedGenAI);
+
+        alert('Entry loaded successfully');
+    }
+
+    function copyOutput() {
+        const text = document.getElementById('output').textContent;
+
+        if(navigator.clipboard && window.isSecureContext) {
+            navigator.clipboard.writeText(text);
+        } else {
+            const ta = document.createElement('textarea');
+            ta.value = text;
+            document.body.appendChild(ta);
+            ta.select();
+            document.execCommand('copy');
+            document.body.removeChild(ta);
+        }
+    }
+
+    setupChips();
+</script>
+
+</body>
+</html>
