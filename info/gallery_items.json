@@ -6,16 +6,16 @@ The JSON format for gallery entries is as follows:
     "authorName": "Name(s) of Author(s)",
     "itemTitle": "Game's Title",
     "shortDescription": "A short 4-10 word description. Try to avoid saying: for the Game Boy/etc.",
-    "imagePreviewURL": "relative_url_path_to_image",
+    "imagePreviewURL": "relative_url_path_to_image, example: pix/games/mygame.png",
     "linksArray":[
         {"type": "primary", "url": "https://url_to_main_website",         "displayText": "Info"},
         {"type": "store",   "url": "https://url_to_store_OPTIONAL",       "displayText": "Cart"},
         {"type": "source",  "url": "https://url_to_source_code_OPTIONAL", "displayText": "Source"},
-        {"type": "article",  "url": "https://url_to_source_code_OPTIONAL", "displayText": "Article"},
+        {"type": "article",  "url": "https://url_to_source_code_OPTIONAL", "displayText": "Article"}
                 ],
-    "categoryTags": "Comma-space separated list of tags: Camera, Demoscene, Engine, Game, Music, Simulation, Techdemo, Tool",
-    "gametypeTags": "Comma-space separated list of tags: Action, Adventure, Art, Card Game, Demoscene, Engine, Fighting, GameBoy Camera, GameBoy Printer, Idle, Microgames, Music, Platformer, Programming, Puzzle, Racing, Rhythm, Role Playing, Shmup, Shooting, Simulation, Sports, Strategy, Survival, Testing, Tool, VirtualPet, Visual Novel",
-    "platformTags": "Comma separated list of tags: GameBoy, GameBoyColor, SuperGameBoy, MegaDuck, AnaloguePocket, GameGear, SMS, NES",
+    "categoryTags": "Comma-space separated list of tags: Art, Camera, Demoscene, Engine, Game, Music, Simulation, Techdemo, Tool",
+    "gametypeTags": "Comma-space separated list of tags: Action, Adventure, Art, Card Game, Clock, Cutscene, Demoscene, Driving, Dungeon Crawler, Engine, Fighting, Flying, GameBoy Camera, GameBoy Printer, Graphics, Idle, Interactive Fiction, Maze, Memory, Microgames, Music, Paint, Platformer, Programming, Puzzle, QR Code, Racing, Radio, Reader, Remote Control, Rhythm, Roguelike, Role Playing, Scheduler, Shmup, Shooting, Simulation, Sports, Strategy, Survival, Testing, Text Editor, Timer, Tool, VirtualPet, Visual-Novel",
+    "platformTags": "Comma separated list of tags: All Platforms, AnaloguePocket, GameBoy, GameBoyColor, GameGear, MegaDuck Laptop, MegaDuck, NES, SMS, SuperGameBoy",
     "featuredPriority": 0,         /* Integer: 0-10, with 10 highest */
     "isMultiPlatform": true/false, /* Does it have a build for more than one of each group: (gb/gbc/ap/duck), (sms/gg), (nes) */
     "isOpenSource": true/false,
@@ -25,6 +25,7 @@ The JSON format for gallery entries is as follows:
     "isClassicGBDK": true/false,
     "usesEngine": "One of the following:None, ZGB, CrossZGB",
     "linkOrMultiPlayer": true/false,
+    "hardwareFeatureTags": "Comma-space separated list of tags: FM Radio Cart, Four Player Adapter, GameBoy Camera, GameBoy Printer, IR Sensor, Link Port, MBC3 RTC, MBC5 Rumble, MegaDuck Keyboard, MegaDuck Printer, Card/EverDrive, SNES Mouse, USB Keyboard, USB Mouse",
     "yearFirstReleased": "Example: 2021",
     "dateAdded": "Example: 2021-01-01", /* Date entry was added */
     "metaTags": "Example: gbcompo23", /* Competitions, jams, etc that the game was a part of */
