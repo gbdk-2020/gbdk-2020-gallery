@@ -481,7 +481,7 @@
         obj.usesEngine = data.get('usesEngine') || "No Engine";
         obj.linkOrMultiPlayer = form.querySelector('[name="linkOrMultiPlayer"]').checked;
         obj.hardwareFeatureTags = splitTags(data.get('hardwareFeatureTags') || "").join(', ');
-        obj.yearFirstReleased = data.get('yearFirstReleased') || "";
+        obj.yearFirstReleased = data.get('yearFirstReleased') || new Date().getFullYear();
         obj.dateAdded = data.get('dateAdded') || "";
         obj.metaTags = data.get('metaTags') || "";
         obj.shortSearchKey = data.get('shortSearchKey') || "";
@@ -531,7 +531,7 @@
         resetLinkFields('article');
 
         setValue('categoryTags', "Game");
-        setValue('gameTypeTags', "");
+        setValue('gameTypeTags', "Action");
         setValue('platformTags', "");
         setValue('featuredPriority', 5);
         setValue('isMultiPlatform', false);
@@ -543,7 +543,7 @@
         setValue('usesEngine', 'No Engine');
         setValue('linkOrMultiPlayer', false);
         setValue('hardwareFeatureTags', "");
-        setValue('yearFirstReleased', "");
+        setValue('yearFirstReleased', new Date().getFullYear());
         setValue('dateAdded', "");
         setValue('metaTags', "");
         setValue('shortSearchKey', "");
@@ -616,6 +616,7 @@
     }
 
     setupChips();
+    resetForm();
 </script>
 
 </body>
