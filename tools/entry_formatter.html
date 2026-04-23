@@ -28,6 +28,10 @@
             margin-top: 10px;
         }
 
+        .textFields {
+            width:30%;
+        }
+
         #jsonPaste {
             width: 75%;
             height: 40em;
@@ -135,19 +139,19 @@
     <form id="entryForm">
         <div class="formRow">
             Author Name:
-            <input type="text" name="authorName" required>
+            <input class="textFields" type="text" name="authorName" required>
             <span class="caption">Name(s) of Author(s)</span>
         </div>
 
         <div class="formRow">
             Game Title:
-            <input type="text" name="itemTitle" required>
+            <input class="textFields" type="text" name="itemTitle" required>
             <span class="caption">Game's Title</span>
         </div>
 
         <div class="formRow">
             Short Description:
-            <input type="text" name="shortDescription" required>
+            <input class="textFields" type="text" name="shortDescription" required>
             <span class="caption">A short 4-10 word description. Avoid saying “for the Game Boy/etc.”</span>
         </div>
 
@@ -344,6 +348,7 @@
         <div class="formRow">
             Short Search Key:
             <input type="text" name="shortSearchKey" required>
+            <span class="caption">Must be unique across all entries</span>
         </div>
 
         <div class="formRow">
@@ -359,7 +364,10 @@
         <button type="button" onclick="resetForm()">Reset Form</button>
 
         <br>
-        <h3>Resulting JSON for the entry</h3>    
+        Resulting PR shortlink: <span id="shortlink_warn"></span>
+        <pre id="shortlink_output"></pre>
+
+        <h3>Resulting JSON for the entry:</h3>
         <pre id="output"></pre>
 
         <hr>
@@ -378,7 +386,7 @@
         // categoryTags: ["Art", "Camera", "Demoscene", "Engine", "Game", "Music", "Simulation", "Techdemo", "Tool"],
         // gameTypeTags: ["Action", "Adventure", "Art", "Card Game", "Clock", "Cutscene", "Demoscene", "Driving", "Dungeon Crawler", "Engine", "Fighting", "Flying", "GameBoy Camera", "GameBoy Printer", "Graphics", "Idle", "Interactive Fiction", "Maze", "Memory", "Microgames", "Music", "Paint", "Platformer", "Programming", "Puzzle", "QR Code", "Racing", "Radio", "Reader", "Remote Control", "Rhythm", "Roguelike", "Role Playing", "Scheduler", "Shmup", "Shooting", "Simulation", "Sports", "Strategy", "Survival", "Testing", "Text Editor", "Timer", "Tool", "VirtualPet", "Visual-Novel"],
     const tagSets = {
-        usedGenAI: ["ai-code", "ai-assets"],
+        usedGenAI: ["ai-code", "ai-assets", "ai-display-materials"],
         licenseType: ["MIT", "GPL", "Unlicense"],
         platformTags: ["All Platforms", "AnaloguePocket", "GameBoy", "GameBoyColor", "GameGear", "MegaDuck Laptop", "MegaDuck", "NES", "SMS", "SuperGameBoy"],
         hardwareFeatureTags: ["FM Radio Cart", "Four Player Adapter", "GameBoy Camera", "GameBoy Printer", "IR Sensor", "Link Port", "MBC3 RTC", "MBC5 Rumble", "MegaDuck Keyboard", "MegaDuck Printer", "Card/EverDrive", "SNES Mouse", "USB Keyboard", "USB Mouse"]
@@ -487,7 +495,7 @@
         obj.shortSearchKey = data.get('shortSearchKey') || "";
         obj.usedGenAI = data.get('usedGenAI') || "";
 
-        let jsonOutput = JSON.stringify(obj, null, 4) + ",\n\n";
+        let jsonOutput = JSON.stringify(obj, null, 4) + "\n\n";
 
         let compactdeArraysJSON = jsonOutput.replace(
             /\[\s+([^\]]+?)\s+\]/g, // Match arrays with line breaks  
@@ -516,6 +524,17 @@
 
 
         document.getElementById('output').textContent = compactdeArraysJSON;
+     
+
+        let entryURL = " http://gl.gbdk.org/?textSearch=" + obj.shortSearchKey
+        let shortlink = obj.itemTitle + entryURL;
+        document.getElementById('shortlink_warn').textContent = (shortlink.length > 50) ? "Warning: Longer than 50 char limit (" + shortlink.length + "), truncated" : "";
+        if (shortlink.length > 50) {
+            let nameLenAvail = 50 - entryURL.length;
+            if (nameLenAvail < 0) nameLenAvail = 0;
+            shortlink = obj.itemTitle.substring(0,nameLenAvail) + entryURL;
+        }
+        document.getElementById('shortlink_output').textContent = shortlink;
 
     }
 

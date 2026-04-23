@@ -30,5 +30,5 @@ The JSON format for gallery entries is as follows:
     "dateAdded": "Example: 2021-01-01", /* Date entry was added */
     "metaTags": "Example: gbcompo23", /* Competitions, jams, etc that the game was a part of */
     "shortSearchKey": "MIO-GB",
-    "usedGenAI": "",  "Comma separated list with one or more of the following: ai-code, ai-assets. (left empty if none or not known)"
+    "usedGenAI": "",  "Comma separated list with one or more of the following: ai-code, ai-assets, ai-display-materials. (left empty if none or not known)"
 },
