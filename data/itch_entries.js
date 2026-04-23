@@ -6603,7 +6603,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-04-06",
     "metaTags": "",
     "shortSearchKey": "MBL-GBC",
-    "usedGenAI": ""
+    "usedGenAI": "ai-display-materials"
 },
 
 {
@@ -6659,6 +6659,35 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-04-15",
     "metaTags": "",
     "shortSearchKey": "CJ-GB",
-    "usedGenAI": ""
+    "usedGenAI": "ai-display-materials"
+},
+
+{
+    "authorName": "hondakiyoshi",
+    "itemTitle": "Super Fropping",
+    "shortDescription": "Port of TENKAI68 cartridge SUPER FROPPING",
+    "imagePreviewURL": "pix/itch/superfropping.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://hondakiyoshi.itch.io/super-fropping", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-04-22",
+    "metaTags": "",
+    "shortSearchKey": "SFR-GB",
+    "usedGenAI": "ai-code"
 }
-    ];
+
+];
