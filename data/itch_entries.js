@@ -2261,15 +2261,16 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Color Lines remake",
     "imagePreviewURL": "pix/itch/7lGKk_.png",
     "linksArray": [
-        {"type": "primary", "url": "https://untoxa.itch.io/color-lines", "displayText": "Info"},
-        {"type": "store",    "url": "https://ferrantecrafts.com/products/color-lines-dx", "displayText": "Cart"}
+        {"type": "primary", "url": "https://untoxa.itch.io/color-lines",                 "displayText": "Info"},
+        {"type": "store",   "url": "https://ferrantecrafts.com/products/color-lines-dx", "displayText": "Cart"},
+        {"type": "source",  "url": "https://github.com/untoxa/GBColorLines/",            "displayText": "Source"}
     ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy, GameBoyColor",
     "featuredPriority": 6,
     "isMultiPlatform": false,
-    "isOpenSource": false,
+    "isOpenSource": true,
     "licenseType": "",
     "isFreeDownload": true,
     "hasPhysicalRelease": true,

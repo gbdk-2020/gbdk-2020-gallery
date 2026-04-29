@@ -183,21 +183,22 @@ const jsonGalleryItemsCrossZGB = [
 },
 
 {
-    "authorName": "Tony & Co",
+    "authorName": "Toxa / Tony & Co",
     "itemTitle": "GLUF Tesla Frog",
     "shortDescription": "Port of a Retro Souls",
     "imagePreviewURL": "pix/games/gluf.png",
     "linksArray": [
         {"type": "primary", "url": "https://www.smspower.org/Homebrew/GLUFTeslaFrog-SMS", "displayText": "Info SMS"},
-        {"type": "primary", "url": "https://www.smspower.org/Homebrew/GLUFTeslaFrog-GG", "displayText": "Info GG"}
+        {"type": "primary", "url": "https://www.smspower.org/Homebrew/GLUFTeslaFrog-GG",  "displayText": "Info GG"},
+        {"type": "source",  "url": "https://github.com/untoxa/gluf",                      "displayText": "Source"}
     ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
     "platformTags": "SMS, GameGear, GameBoyColor",
     "featuredPriority": 7,
     "isMultiPlatform": true,
-    "isOpenSource": false,
-    "licenseType": "",
+    "isOpenSource": true,
+    "licenseType": "MIT",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
@@ -208,7 +209,7 @@ const jsonGalleryItemsCrossZGB = [
     "dateAdded": "2026-04-06",
     "metaTags": "",
     "shortSearchKey": "GLF-SMS",
-    "usedGenAI": ""
+    "usedGenAI": "false"
 },
 
 ];
