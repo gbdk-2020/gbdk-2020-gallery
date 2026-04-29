@@ -6689,6 +6689,35 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "SFR-GB",
     "usedGenAI": "ai-code"
+},
+
+{
+    "authorName": "Tony Wang",
+    "itemTitle": "Game Boy Speech Synthesizer",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/gbspeech.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://tonywang.itch.io/gb-speech", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/paladin-t/gb-speech", "displayText": "Source"}
+    ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Audio",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-04-29",
+    "metaTags": "",
+    "shortSearchKey": "GB-SPC",
+    "usedGenAI": ""
 }
 
 ];
