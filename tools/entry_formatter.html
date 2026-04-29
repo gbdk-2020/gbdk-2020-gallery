@@ -169,7 +169,7 @@
                     <div class="formRow">
                         Primary URL: <input class="urlInput" type="url" name="primaryUrl" required>
                         Text:
-                        <input type="text" name="primaryDisplayText" value="Info" required>
+                        <input type="text" name="primaryDisplayText" value="Info" required placeholder="Info">
                     </div>
                 </div>
 
@@ -178,7 +178,7 @@
                         Store URL (optional):
                         <input class="urlInput" type="url" name="storeUrl" placeholder="Optional">
                         Text:
-                        <input type="text" name="storeDisplayText" value="Cart" placeholder="Optional">
+                        <input type="text" name="storeDisplayText" value="Cart" placeholder="Store">
                     </div>
                 </div>
 
@@ -187,7 +187,7 @@
                         Source URL (optional):
                         <input class="urlInput" type="url" name="sourceUrl" placeholder="Optional">
                         Text:
-                        <input type="text" name="sourceDisplayText" value="Source" placeholder="Optional">
+                        <input type="text" name="sourceDisplayText" value="Source" placeholder="Source">
                     </div>
                 </div>
 
@@ -196,7 +196,7 @@
                         Article URL (optional):
                         <input class="urlInput" type="url" name="articleUrl" placeholder="Optional">
                         Text:
-                        <input type="text" name="articleDisplayText" value="Article" placeholder="Optional">
+                        <input type="text" name="articleDisplayText" value="Article" placeholder="Article">
                     </div>
                 </div>
         </div>
@@ -222,6 +222,7 @@
                 <option value="Action">Action</option>
                 <option value="Adventure">Adventure</option>
                 <option value="Art">Art</option>
+                <option value="Audio">Audio</option>
                 <option value="Card Game">Card Game</option>
                 <option value="Clock">Clock</option>
                 <option value="Cutscene">Cutscene</option>
@@ -528,7 +529,7 @@
 
         let entryURL = " http://gl.gbdk.org/?textSearch=" + obj.shortSearchKey
         let shortlink = obj.itemTitle + entryURL;
-        document.getElementById('shortlink_warn').textContent = (shortlink.length > 50) ? "Warning: Longer than 50 char limit (" + shortlink.length + "), truncated" : "";
+        document.getElementById('shortlink_warn').textContent = (shortlink.length > 50) ? "Warning: Full title + URL Longer than 50 char limit (" + shortlink.length + "), truncated title" : "";
         if (shortlink.length > 50) {
             let nameLenAvail = 50 - entryURL.length;
             if (nameLenAvail < 0) nameLenAvail = 0;
