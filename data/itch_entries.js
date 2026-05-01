@@ -2271,7 +2271,7 @@ const jsonGalleryItemsItch = [
     "featuredPriority": 6,
     "isMultiPlatform": false,
     "isOpenSource": true,
-    "licenseType": "",
+    "licenseType": "MIT",
     "isFreeDownload": true,
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
