@@ -339,11 +339,13 @@
         <div class="formRow">
             Date Added:
             <input type="date" name="dateAdded" required>
+            <button type="button" onclick="dateToToday()">Today</button>
         </div>
 
         <div class="formRow">
             Meta Tags:
-            <input type="text" name="metaTags" placeholder="gbcompo23">
+            <input type="text" name="metaTags" placeholder="">
+            <span class="caption">Comma-space separated list of compos, jams, etc (empty if none or unknown)</span>
         </div>
 
         <div class="formRow">
@@ -633,6 +635,16 @@
             document.execCommand('copy');
             document.body.removeChild(ta);
         }
+    }
+
+    function dateToToday() {
+        var today = new Date();
+        var dd = String(today.getDate()).padStart(2, '0');
+        var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
+        var yyyy = today.getFullYear();
+
+        today = yyyy + "-" + mm + "-" + dd;
+        setValue('dateAdded', today);
     }
 
     setupChips();
