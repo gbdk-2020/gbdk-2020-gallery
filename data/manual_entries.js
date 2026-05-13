@@ -1956,7 +1956,10 @@ const jsonGalleryItemsManual = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
-    "dateAdded": "2025-02-14"
+    "dateAdded": "2025-02-14",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "ai-code"
 },
 
 {
