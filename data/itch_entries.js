@@ -6718,6 +6718,34 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "GB-SPC",
     "usedGenAI": ""
+},
+
+{
+    "authorName": "Boniato82",
+    "itemTitle": "Onitama Pocket",
+    "shortDescription": "Onitama board game",
+    "imagePreviewURL": "pix/itch/onitama.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://boniato82.itch.io/onitama-pocket", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": true,
+    "hardwareFeatureTags": "Link Port",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-05-13",
+    "metaTags": "",
+    "shortSearchKey": "ONM-GB",
+    "usedGenAI": "ai-code"
 }
 
 ];
