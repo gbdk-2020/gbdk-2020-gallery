@@ -6746,6 +6746,34 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "ONM-GB",
     "usedGenAI": "ai-code"
+},
+
+{
+    "authorName": "Tardigrade",
+    "itemTitle": "Double Duck",
+    "shortDescription": "Puzzle-platformer with a unique dual-character mechanic",
+    "imagePreviewURL": "pix/itch/doubleduck.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://tardigrade-nx.itch.io/double-duck", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 8,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-05-17",
+    "metaTags": "",
+    "shortSearchKey": "DDK-GBC",
+    "usedGenAI": ""
 }
 
 ];
