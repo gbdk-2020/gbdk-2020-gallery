@@ -2547,4 +2547,60 @@ const jsonGalleryItemsManual = [
     "usedGenAI": "ai-code, ai-assets"
 },
 
+{
+    "authorName": "dmang-dev",
+    "itemTitle": "totp-gb",
+    "shortDescription": "TOTP Authenticator",
+    "imagePreviewURL": "pix/tools/totpgb.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/dmang-dev/totp-gb", "displayText": "Info"}
+    ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Tool",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-05-14",
+    "metaTags": "",
+    "shortSearchKey": "TPT-GB",
+    "usedGenAI": "ai-code"
+},
+
+{
+    "authorName": "dmang-dev",
+    "itemTitle": "hash-bench-gb",
+    "shortDescription": "hashing-algorithm benchmark",
+    "imagePreviewURL": "pix/tools/hashgb.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/dmang-dev/hash-bench-gb", "displayText": "Info"}
+    ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Tool",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-05-14",
+    "metaTags": "",
+    "shortSearchKey": "HSH-GB",
+    "usedGenAI": "ai-code"
+}
+
 ];
