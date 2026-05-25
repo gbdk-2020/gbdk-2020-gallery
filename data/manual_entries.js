@@ -2601,6 +2601,35 @@ const jsonGalleryItemsManual = [
     "metaTags": "",
     "shortSearchKey": "HSH-GB",
     "usedGenAI": "ai-code"
+},
+
+{
+    "authorName": "mdeclerk",
+    "itemTitle": "Bananas",
+    "shortDescription": "2-player artillery duel",
+    "imagePreviewURL": "pix/games/bananas.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/mdeclerk/Bananas", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/mdeclerk/Bananas", "displayText": "Source"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-05-25",
+    "metaTags": "",
+    "shortSearchKey": "BNA-GB",
+    "usedGenAI": "" /* None declared, but assets and code maybe */
 }
 
 ];
