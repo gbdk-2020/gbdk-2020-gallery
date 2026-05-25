@@ -100,6 +100,10 @@ function createGalleryItems(galleryItems) {
             });
             itemContainer.appendChild(linksDiv);
 
+            // Gen AI tag (plain text version)
+            if ((usedGenAI !== "") && (usedGenAI !== "false")) attachClickFilter( appendSpan("(GenAI)","itemMetaUsedAI",linksDiv), "textSearch",  "ai-");
+
+
         // Add Meta info footer with text cards
         const metaDiv = document.createElement('div');
         metaDiv.className = 'itemMeta';
@@ -114,6 +118,8 @@ function createGalleryItems(galleryItems) {
         if (item.linkOrMultiPlayer === true)  attachClickFilter( appendSpan("Link/MultiPlayer", "itemMetaSupportsLink", metaDiv), "linkOrMultiPlayerFilter", item.linkOrMultiPlayer);
         if (item.hasPhysicalRelease === true) attachClickFilter( appendSpan("Cart Release","itemMetaCartRelease",  metaDiv), "cartReleaseFilter", item.hasPhysicalRelease);
         if (item.usesEngine !== FILTER_ENGINE_NONE) attachClickFilter( appendSpan(item.usesEngine,"itemMetaEngine",metaDiv), "usesEngineFilter",  item.usesEngine);
+        // Alternate badge style for AI
+        // if ((usedGenAI !== "") && (usedGenAI !== "false")) attachClickFilter( appendSpan("GenAI","itemMetaUsedAI",metaDiv), "textSearch",  "ai-");    
         // if (item.isMultiPlatform === true) appendSpan("MultiPlatform","itemMetaMultiPlatform",  metaDiv);
         itemContainer.appendChild(metaDiv);
         // Clickable Meta Tags

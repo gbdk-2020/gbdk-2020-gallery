@@ -29,6 +29,7 @@
     --item_meta_bg_cartrelease:  #cbebff; /* blue  */
     --item_meta_bg_hardwarefeatures: rgb(255, 217, 169); /* orange */
     --item_meta_bg_engine:           rgb(229, 198, 255); /* purple */
+    --item_meta_bg_usedai:           rgba(84,  241, 249, 0.20); /*  translucent teal */ /* unused badge for now */
     --item_meta_bg_text:             rgb(244, 239, 157); /* yellow */
     --item_meta_text: rgba(0,0,0,0.40);
 }
@@ -60,11 +61,12 @@
         --item_body_color_light: rgba(255,255,255,0.45);
 
         --item_meta_bg_platforms:        rgba(192, 192, 192, 0.30); /*  grey  */
-        --item_meta_bg_opensource:       rgba(68, 255, 80, 0.40);   /*  green */
+        --item_meta_bg_opensource:       rgba(68,  255,  80, 0.40); /*  green */
         --item_meta_bg_supportslink:     rgba(255, 101, 186, 0.40); /*  pink  */
-        --item_meta_bg_cartrelease:      rgba(92, 192, 255, 0.40);  /*  blue  */
-        --item_meta_bg_hardwarefeatures: rgba(255, 168, 58, 0.4);   /*  orange */
-        --item_meta_bg_engine:           rgb(151, 97, 196, 0.70);   /*  purple */
+        --item_meta_bg_cartrelease:      rgba(92,  192, 255, 0.40); /*  blue  */
+        --item_meta_bg_hardwarefeatures: rgba(255, 168,  58, 0.40); /*  orange */
+        --item_meta_bg_engine:           rgb(151,   97, 196, 0.70); /*  purple */
+        --item_meta_bg_usedai:           rgba(84,  241, 249, 0.20); /*  translucent teal */ /* unused badge for now */
         --item_meta_bg_text:             rgba(240, 227, 117, 0.60); /*  yellow */
         --item_meta_text: rgba(0,0,0,0.70);
     }
@@ -180,10 +182,34 @@ select, checkbox, input {
 
 .authorName,
 .shortDescription,
-.itemYear {
+.itemYear,
+.itemMetaUsedAI {
     font-size: .875em;
     color: var(--item_body_color_light);
 }
+
+/* Alternate Badge style */
+/* .itemMetaUsedAI { */
+    /*
+    color: var(--item_meta_text);
+    background: var(--item_meta_bg_usedai);
+    */
+    /* Alternate bordered style badge that looked ok too */
+    /*    
+    color: var(--item_body_color);
+    border: 1px solid var(--item_body_color);
+    opacity: 0.35;
+    background: rgba(0,0,0,0);
+
+    text-align: center;
+    display: inline-block;
+    margin: 0.25em 0.10em 0 0;
+    font-size: 0.875em;
+    border-radius: 0.25em;
+    padding: 0.15em;
+    cursor: pointer;
+    */
+/* } */
 
 /* authorName and itemYear are now click-searchable */
 .authorName, .itemYear {
