@@ -5599,7 +5599,9 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-09-08",
-    "metaTags": "gbcompo25"
+    "metaTags": "gbcompo25",
+    "shortSearchKey": "",
+    "usedGenAI": "ai-code, ai-assets, ai-display-materials"
 },
 
 {
@@ -6774,6 +6776,36 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "DDK-GBC",
     "usedGenAI": ""
+},
+
+{
+    "authorName": "rem",
+    "itemTitle": "Marbles²",
+    "shortDescription": "Clear the board, race the timer, chase a high score",
+    "imagePreviewURL": "pix/itch/marbles2.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://remysharp.itch.io/gb-marbles", "displayText": "Info"},
+        {"type": "source", "url": "https://marbles2.com/gameboy/", "displayText": "Info2"},
+        {"type": "article", "url": "https://remysharp.com/2026/05/17/the-30-year-game", "displayText": "Article"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-05-25",
+    "metaTags": "",
+    "shortSearchKey": "MAR-GB",
+    "usedGenAI": "ai-code"
 }
 
 ];
