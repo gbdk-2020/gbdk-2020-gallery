@@ -154,7 +154,9 @@ const jsonGalleryItemsCrossZGB = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-09-08",
-    "metaTags": "gbcompo25"
+    "metaTags": "gbcompo25",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -179,7 +181,9 @@ const jsonGalleryItemsCrossZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
-    "dateAdded": "2025-09-08"
+    "dateAdded": "2025-09-08",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {

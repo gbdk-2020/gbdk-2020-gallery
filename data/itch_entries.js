@@ -435,7 +435,8 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2025",
     "dateAdded": "2026-01-02",
     "metaTags": "",
-    "shortSearchKey": "MPB-GB"
+    "shortSearchKey": "MPB-GB",
+    "usedGenAI": "false"
 },
 
 {
@@ -460,7 +461,9 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2026",
-    "dateAdded": "2026-01-01"
+    "dateAdded": "2026-01-01",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -4675,8 +4678,7 @@ const jsonGalleryItemsItch = [
         {"type": "primary", "url": "https://bownly.itch.io/gb-jammers", "displayText": "Info"}
     ],
     "categoryTags": "Game",
-    "gameTypeTags": "Card Game",
-    "platformTags": "GameBoy",
+    "gameTypeTags": "Card Game",    "platformTags": "GameBoy",
     "featuredPriority": 5,
     "isMultiPlatform": false,
     "isOpenSource": false,
@@ -4688,7 +4690,9 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
-    "dateAdded": "2025-02-03"
+    "dateAdded": "2025-02-03",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -5016,7 +5020,9 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
-    "dateAdded": "2025-01-09"
+    "dateAdded": "2025-01-09",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -5041,16 +5047,18 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
-    "dateAdded": "2025-10-15"
+    "dateAdded": "2025-10-15",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
     "authorName": "BriG78cx",
-    "itemTitle": "Ring Dash GG",
+    "itemTitle": "RingDash GG",
     "shortDescription": "",
     "imagePreviewURL": "pix/itch/ringdashgg.png",
     "linksArray": [
-        {"type": "primary", "url": "https://brig78cx.itch.io/ringdashgg", "displayText": "Info"}
+        {"type": "primary", "url": "https://brig78cx.itch.io/ringdash-gg", "displayText": "Info"}
     ],
     "categoryTags": "Game",
     "gameTypeTags": "Maze",
@@ -5066,7 +5074,9 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
-    "dateAdded": "2025-10-18"
+    "dateAdded": "2025-10-18",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -5194,7 +5204,9 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
-    "dateAdded": "2025-04-10"
+    "dateAdded": "2025-04-10",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -5220,7 +5232,9 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
-    "dateAdded": "2025-04-19"
+    "dateAdded": "2025-04-19",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -5295,7 +5309,9 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": true,
     "hardwareFeatureTags": "Link Port",
     "yearFirstReleased": "2025",
-    "dateAdded": "2025-05-05"
+    "dateAdded": "2025-05-05",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -5321,7 +5337,9 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
-    "dateAdded": "2025-05-29"
+    "dateAdded": "2025-05-29",
+    "shortSearchKey": "",
+    "usedGenAI": "ai-code"
 },
 
 {
@@ -5346,7 +5364,9 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
-    "dateAdded": "2025-06-16"
+    "dateAdded": "2025-06-16",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -5422,7 +5442,9 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
-    "dateAdded": "2025-07-25"
+    "dateAdded": "2025-07-25",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -5448,7 +5470,9 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
-    "dateAdded": "2025-09-08"
+    "dateAdded": "2025-09-08",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -5498,7 +5522,9 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
-    "dateAdded": "2025-09-08"
+    "dateAdded": "2025-09-08",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -5628,7 +5654,9 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-09-08",
-    "metaTags": "gbcompo25"
+    "metaTags": "gbcompo25",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -5655,7 +5683,9 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-09-08",
-    "metaTags": "gbcompo25"
+    "metaTags": "gbcompo25",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -5682,7 +5712,9 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-09-08",
-    "metaTags": "gbcompo25"
+    "metaTags": "gbcompo25",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -5708,7 +5740,9 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-09-08",
-    "metaTags": "gbcompo25"
+    "metaTags": "gbcompo25",
+    "shortSearchKey": "",
+    "usedGenAI": "ai-code"
 },
 
 {
@@ -5734,7 +5768,9 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-09-08",
-    "metaTags": "gbcompo25"
+    "metaTags": "gbcompo25",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -5760,7 +5796,9 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-09-08",
-    "metaTags": "gbcompo25"
+    "metaTags": "gbcompo25",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -5786,7 +5824,9 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-09-08",
-    "metaTags": "gbcompo25"
+    "metaTags": "gbcompo25",
+    "shortSearchKey": "",
+    "usedGenAI": "ai-code"
 },
 
 {
@@ -5813,7 +5853,9 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-09-08",
-    "metaTags": "gbcompo25"
+    "metaTags": "gbcompo25",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -5839,7 +5881,9 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-09-08",
-    "metaTags": "gbcompo25"
+    "metaTags": "gbcompo25",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -5865,7 +5909,9 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-09-08",
-    "metaTags": "gbcompo25"
+    "metaTags": "gbcompo25",
+    "shortSearchKey": "",
+    "usedGenAI": "ai-display-materials"
 },
 
 {
@@ -5892,7 +5938,9 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "SD Card/EverDrive",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-09-08",
-    "metaTags": "gbcompo25"
+    "metaTags": "gbcompo25",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -5918,7 +5966,9 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-09-08",
-    "metaTags": "gbcompo25"
+    "metaTags": "gbcompo25",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -5945,7 +5995,9 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-09-07",
-    "metaTags": "gbshowdownjam2025"
+    "metaTags": "gbshowdownjam2025",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -5997,7 +6049,9 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": true,
     "hardwareFeatureTags": "Four Player Adapter, Link Port",
     "yearFirstReleased": "2025",
-    "dateAdded": "2025-10-14"
+    "dateAdded": "2025-10-14",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -6022,7 +6076,9 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
-    "dateAdded": "2025-10-16"
+    "dateAdded": "2025-10-16",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -6049,7 +6105,9 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-10-16",
-    "metaTags": "gbjam-13"
+    "metaTags": "gbjam-13",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -6075,7 +6133,9 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-10-16",
-    "metaTags": "gbjam-12"
+    "metaTags": "gbjam-12",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -6129,7 +6189,9 @@ const jsonGalleryItemsItch = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-10-29",
-    "metaTags": ""
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "ai-assets"
 },
 
 {
@@ -6212,7 +6274,8 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2025",
     "dateAdded": "2025-12-27",
     "metaTags": "",
-    "shortSearchKey": "SBM-GB"
+    "shortSearchKey": "SBM-GB",
+    "usedGenAI": "false"
 },
 
 {
@@ -6239,7 +6302,8 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2025",
     "dateAdded": "2026-01-02",
     "metaTags": "",
-    "shortSearchKey": "BSP-GB"
+    "shortSearchKey": "BSP-GB",
+    "usedGenAI": "false"
 },
 
 {
@@ -6266,7 +6330,9 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2025",
     "dateAdded": "2026-01-02",
     "metaTags": "",
-    "shortSearchKey": "GBY-GB"
+    "shortSearchKey": "GBY-GB",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -6293,7 +6359,8 @@ const jsonGalleryItemsItch = [
     "yearFirstReleased": "2025",
     "dateAdded": "2026-01-02",
     "metaTags": "",
-    "shortSearchKey": ""
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -6379,7 +6446,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-03-10",
     "metaTags": "",
     "shortSearchKey": "DDM-GB",
-    "usedGenAI": ""
+    "usedGenAI": "false"
 },
 
 {
@@ -6465,7 +6532,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-03-10",
     "metaTags": "",
     "shortSearchKey": "BBL-GB",
-    "usedGenAI": ""
+    "usedGenAI": "ai-code, ai-assets"
 },
 
 {
@@ -6550,7 +6617,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-03-10",
     "metaTags": "",
     "shortSearchKey": "WNG-GBC",
-    "usedGenAI": ""
+    "usedGenAI": "false"
 },
 
 {
@@ -6634,7 +6701,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-04-06",
     "metaTags": "",
     "shortSearchKey": "EVT-SMS",
-    "usedGenAI": ""
+    "usedGenAI": "false"
 },
 
 {
@@ -6719,7 +6786,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-04-29",
     "metaTags": "",
     "shortSearchKey": "GB-SPC",
-    "usedGenAI": ""
+    "usedGenAI": "false"
 },
 
 {
@@ -6775,7 +6842,7 @@ const jsonGalleryItemsItch = [
     "dateAdded": "2026-05-17",
     "metaTags": "",
     "shortSearchKey": "DDK-GBC",
-    "usedGenAI": ""
+    "usedGenAI": "false"
 },
 
 {

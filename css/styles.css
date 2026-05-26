@@ -212,7 +212,7 @@ select, checkbox, input {
 /* } */
 
 /* authorName and itemYear are now click-searchable */
-.authorName, .itemYear {
+.authorName, .itemYear, .itemMetaUsedAI {
     cursor: pointer;
 }
 

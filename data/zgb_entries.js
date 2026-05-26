@@ -1531,7 +1531,9 @@ const jsonGalleryItemsZGB = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
-    "dateAdded": "2024-01-01"
+    "dateAdded": "2024-01-01",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -1584,7 +1586,9 @@ const jsonGalleryItemsZGB = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-09-08",
-    "metaTags": "gbcompo25"
+    "metaTags": "gbcompo25",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -1636,7 +1640,9 @@ const jsonGalleryItemsZGB = [
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
     "dateAdded": "2025-10-27",
-    "metaTags": ""
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 },
 
 {
@@ -1664,7 +1670,7 @@ const jsonGalleryItemsZGB = [
     "dateAdded": "2026-03-10",
     "metaTags": "",
     "shortSearchKey": "SLG-GBC",
-    "usedGenAI": ""
+    "usedGenAI": "ai-code"
 },
 
 ];

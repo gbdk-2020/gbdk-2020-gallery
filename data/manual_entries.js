@@ -1994,8 +1994,8 @@ const jsonGalleryItemsManual = [
     "shortDescription": "",
     "imagePreviewURL": "pix/games/gbdksnake.png",
     "linksArray": [
-        {"type": "primary", "url": "https://github.com/owenthcarey/gbdk-snake", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/owenthcarey/gbdk-snake", "displayText": "Source"}
+/*        {"type": "primary", "url": "https://github.com/owenthcarey/gbdk-snake", "displayText": "Info"}, */  /* Repo no longer accessible */
+/*        {"type": "source",  "url": "https://github.com/owenthcarey/gbdk-snake", "displayText": "Source"} */
     ],
     "categoryTags": "Game",
     "gameTypeTags": "Survival",
