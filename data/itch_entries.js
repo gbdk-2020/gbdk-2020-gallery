@@ -6873,6 +6873,62 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "MAR-GB",
     "usedGenAI": "ai-code"
+},
+
+{
+    "authorName": "krimpfugly",
+    "itemTitle": "GBGB",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/gbgb.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://krimpfugly.itch.io/gbgb", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Survival",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-05-25",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "ai-code"
+},
+
+{
+    "authorName": "Leavin_sumMarx",
+    "itemTitle": "Gameta",
+    "shortDescription": "Galaga-like \"space\" shooter",
+    "imagePreviewURL": "pix/itch/gameta.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://leavin-summarx.itch.io/gameta", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Shooting",
+    "platformTags": "GameBoy",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-05-26",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 }
 
 ];
