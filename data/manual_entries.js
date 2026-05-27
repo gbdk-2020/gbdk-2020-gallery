@@ -2689,6 +2689,35 @@ const jsonGalleryItemsManual = [
     "metaTags": "",
     "shortSearchKey": "",
     "usedGenAI": ""
+},
+
+{
+    "authorName": "bilibiliLaiabao55",
+    "itemTitle": "Fly Ship",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/games/flyship.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/bilibiliLaiabao55/Fly-Ship-GameBoy", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/bilibiliLaiabao55/Fly-Ship-GameBoy", "displayText": "Source"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Shooting",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-05-26",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": ""
 }
 
 ];
