@@ -6957,6 +6957,34 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "",
     "usedGenAI": "false"
+},
+
+{
+    "authorName": "nicohirsau",
+    "itemTitle": "GeBook",
+    "shortDescription": "Read your favourite texts on the GameBoy!",
+    "imagePreviewURL": "pix/itch/gebook.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://nicohirsau.itch.io/gebook", "displayText": "Info"}
+    ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "E-Reader",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-05-26",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 }
 
 ];
