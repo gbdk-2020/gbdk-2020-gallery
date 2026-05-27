@@ -1757,15 +1757,16 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/tools/orangefm.png",
     "linksArray": [
         {"type": "primary", "url": "https://orangeglo.github.io/orangefm/", "displayText": "Info"},
-        {"type": "store",  "url": "https://shop.insidegadgets.com/product/orangefm/", "displayText": "Cart"}
+        {"type": "store",  "url": "https://shop.insidegadgets.com/product/orangefm/", "displayText": "Cart"},
+        {"type": "source",  "url": "https://github.com/orangeglo/orange-fm-rom/", "displayText": "Source"}
     ],
     "categoryTags": "Tool",
     "gameTypeTags": "Radio",
     "platformTags": "GameBoy",
     "featuredPriority": 10,
     "isMultiPlatform": false,
-    "isOpenSource": false,
-    "licenseType": "",
+    "isOpenSource": true,
+    "licenseType": "MIT",
     "isFreeDownload": false,
     "hasPhysicalRelease": true,
     "isClassicGBDK": false,
