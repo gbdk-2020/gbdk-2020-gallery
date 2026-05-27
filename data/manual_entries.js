@@ -2713,7 +2713,7 @@ const jsonGalleryItemsManual = [
     "usesEngine": "No Engine",
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
-    "yearFirstReleased": "2026",
+    "yearFirstReleased": "2025",
     "dateAdded": "2026-05-26",
     "metaTags": "",
     "shortSearchKey": "",

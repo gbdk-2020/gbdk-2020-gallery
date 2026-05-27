@@ -6929,6 +6929,34 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "",
     "usedGenAI": "false"
+},
+
+{
+    "authorName": "kanondevpro-dev",
+    "itemTitle": "Smasher Bubbles at Circus",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/smasher.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://kanondevpro-dev.itch.io/smasher-bubbles-at-circus", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 0,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-05-26",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 }
 
 ];
