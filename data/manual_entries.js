@@ -2631,6 +2631,35 @@ const jsonGalleryItemsManual = [
     "metaTags": "",
     "shortSearchKey": "BNA-GB",
     "usedGenAI": "" /* None declared, but assets and code maybe */
+},
+
+{
+    "authorName": "optroodt",
+    "itemTitle": "Travel Bird Game Boy",
+    "shortDescription": "Travel bird themed Flappy Bird clone",
+    "imagePreviewURL": "pix/games/travelbird.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/optroodt/travelbird-game-boy", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/optroodt/travelbird-game-boy", "displayText": "Source"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Survival",
+    "platformTags": "GameBoy",
+    "featuredPriority": 1,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "Unlicense",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-05-26",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": ""
 }
 
 ];
