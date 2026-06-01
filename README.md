@@ -36,5 +36,7 @@ To submit a game or program, either :
 - yearFirstReleased: Quoted, Example: "2021"
 - dateAdded: Quoted, Example: "2024-08-01"
 - metaTags: Quoted, Comma-space separated list of tags, Example: "gbcompo25"
+- shortSearchKey: Quoted, Unique string key, 5-6 letters, caps. For maintainer use only
+- usedGenAI: Quoted, Comma separated list with one or more of: "ai-code", "ai-assets", "ai-display-materials". ("false" if not used, empty "" if not known)
 
 

@@ -38,4 +38,5 @@ Consider using the [Entry Formatter](https://gbdk-2020.github.io/gbdk-2020-galle
 - hardwareFeatureTags: Quoted, Comma-space separated list of tags: GameBoy Camera, GameBoy Printer, Link Port, MBC5 Rumble, MBC3 RTC, MBC7 Accelerometer, IR Sensor, MegaDuck Keyboard
 - yearFirstReleased: Quoted, Example: "2021"
 - metaTags: Quoted, Example: "gbcompo23"  (Competitions, jams, etc that the game was a part of)
-- usedGenAI: Quoted, Comma separated list with one or more of the following: "ai-code", "ai-assets", "ai-display-materials". (left empty if none or not known)
+- shortSearchKey: Quoted, Unique string key, 5-6 letters, caps. For maintainer use only
+- usedGenAI: Quoted, Comma separated list with one or more of the following: "ai-code", "ai-assets", "ai-display-materials". ("false" if not used, empty "" if not known)
