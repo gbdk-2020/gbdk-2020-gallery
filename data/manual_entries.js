@@ -207,7 +207,8 @@ const jsonGalleryItemsManual = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2025",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "usedGenAI": "false",
 },
 
 {

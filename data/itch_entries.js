@@ -1302,7 +1302,8 @@ const jsonGalleryItemsItch = [
     "linkOrMultiPlayer": false,
     "hardwareFeatureTags": "",
     "yearFirstReleased": "2020",
-    "dateAdded": "2024-07-01"
+    "dateAdded": "2024-07-01",
+    "usedGenAI": "false",
 },
 
 {
@@ -3231,7 +3232,7 @@ const jsonGalleryItemsItch = [
 },
 
 {
-    "authorName": "Yatsuna Games",
+    "authorName": "Yastuna Games",
     "itemTitle": "Asteroid Chasers",
     "shortDescription": "A tactical tile placement game",
     "imagePreviewURL": "pix/itch/asteroidchasers.png",
@@ -3257,7 +3258,7 @@ const jsonGalleryItemsItch = [
 },
 
 {
-    "authorName": "Yatsuna Games",
+    "authorName": "Yastuna Games",
     "itemTitle": "YNXA",
     "shortDescription": "A tactical tile placement game",
     "imagePreviewURL": "pix/itch/ynxa.jpg",
