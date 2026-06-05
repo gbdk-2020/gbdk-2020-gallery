@@ -2719,6 +2719,35 @@ const jsonGalleryItemsManual = [
     "metaTags": "",
     "shortSearchKey": "",
     "usedGenAI": ""
+},
+
+{
+    "authorName": "Elijah Davidson",
+    "itemTitle": "Yatzy",
+    "shortDescription": "Yahtzee",
+    "imagePreviewURL": "pix/games/yatzy.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://ebdavidson.com/blog/2025-10-4/", "displayText": "Info"},
+        {"type": "article", "url": "https://ebdavidson.com/blog/2025-10-4/", "displayText": "Article"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Dice Game",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2025",
+    "dateAdded": "2026-06-04",
+    "metaTags": "",
+    "shortSearchKey": "YTZ-GB",
+    "usedGenAI": ""
 }
 
 ];
