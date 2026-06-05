@@ -6986,6 +6986,34 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "",
     "usedGenAI": "false"
+},
+
+{
+    "authorName": "MetalCubeBit",
+    "itemTitle": "QUBUQ GB",
+    "shortDescription": "Rotate. Survive. Ascend",
+    "imagePreviewURL": "pix/itch/qubuq.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://metalcubebit-studio-gb.itch.io/qubuq-gb", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 1,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-06-05",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 }
 
 ];
