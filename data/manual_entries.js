@@ -2778,5 +2778,36 @@ const jsonGalleryItemsManual = [
     "metaTags": "ioccc",
     "shortSearchKey": "CHS-GB",
     "usedGenAI": "ai-code"
+},
+
+{
+    "authorName": "Nick Craig-Wood",
+    "itemTitle": "oxo3d",
+    "shortDescription": "3d Tic Tac Toe",
+    "imagePreviewURL": "pix/games/oxo3d.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/ncw/gameboy-oxo3d", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/ncw/gameboy-oxo3d", "displayText": "Source"},
+        {"type": "article", "url": "https://www.ioccc.org/2025/ncw1/index.html", "displayText": "Article"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Strategy",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-06-07",
+    "metaTags": "ioccc",
+    "shortSearchKey": "OXO-GB",
+    "usedGenAI": ""
 }
+
 ];
