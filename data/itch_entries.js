@@ -7014,6 +7014,34 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "",
     "usedGenAI": "false"
+},
+
+{
+    "authorName": "Wolfman Digital",
+    "itemTitle": "U R 4 GUYS",
+    "shortDescription": "You are four guys, but you only have two buttons",
+    "imagePreviewURL": "pix/itch/ur4guys.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://wolfmandigital.itch.io/ur4g-gbc", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-06-10",
+    "metaTags": "",
+    "shortSearchKey": "UR4-GBC",
+    "usedGenAI": "false"
 }
 
 ];
