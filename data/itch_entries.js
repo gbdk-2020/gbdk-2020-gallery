@@ -7042,6 +7042,62 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "UR4-GBC",
     "usedGenAI": "false"
+},
+
+{
+    "authorName": "ShenMansell",
+    "itemTitle": "Slip Saver",
+    "shortDescription": "Fast paced single screen arcade action",
+    "imagePreviewURL": "pix/itch/slipsaver.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://shenmansell.itch.io/slip-saver-gameboy", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-06-12",
+    "metaTags": "",
+    "shortSearchKey": "SSV-GB",
+    "usedGenAI": "ai-code, ai-assets"
+},
+
+{
+    "authorName": "ShenMansell",
+    "itemTitle": "Kitty's Quest",
+    "shortDescription": "Tile puzzle game with long play and quest modes",
+    "imagePreviewURL": "pix/itch/kittysquest.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://shenmansell.itch.io/kitty-quest", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2000",
+    "dateAdded": "2026-06-12",
+    "metaTags": "",
+    "shortSearchKey": "KSQ-GBC",
+    "usedGenAI": "false"
 }
 
 ];
