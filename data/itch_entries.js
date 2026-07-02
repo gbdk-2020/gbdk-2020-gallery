@@ -7268,6 +7268,34 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "GB-CSF",
     "usedGenAI": "ai-code, ai-assets, ai-display-materials"
+},
+
+{
+    "authorName": "TraumaTurtle",
+    "itemTitle": "Orbit Duel",
+    "shortDescription": "A tactical shooter",
+    "imagePreviewURL": "pix/itch/orbitduel.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://cryptikron.itch.io/orbitduel", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Shmup",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-07-01",
+    "metaTags": "",
+    "shortSearchKey": "GB-ODL",
+    "usedGenAI": "ai-code, ai-assets, ai-display-materials"
 }
 
 ];

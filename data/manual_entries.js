@@ -2702,7 +2702,7 @@ const jsonGalleryItemsManual = [
         {"type": "source", "url": "https://github.com/bilibiliLaiabao55/Fly-Ship-GameBoy", "displayText": "Source"}
     ],
     "categoryTags": "Game",
-    "gameTypeTags": "Shooting",
+    "gameTypeTags": "Shmup",
     "platformTags": "GameBoyColor",
     "featuredPriority": 0,
     "isMultiPlatform": false,
