@@ -7313,7 +7313,7 @@ const jsonGalleryItemsItch = [
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
-    "isFreeDownload": false,
+    "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "usesEngine": "No Engine",
@@ -7324,7 +7324,34 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "GB-VGF",
     "usedGenAI": "false"
-}
+},
 
+{
+    "authorName": "MetalCubeBit",
+    "itemTitle": "Protective Tank GB",
+    "shortDescription": "Shooter where strategy and ironclad reflexes are your only defense.",
+    "imagePreviewURL": "pix/itch/protectivetank.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://metalcubebit-studio-gb.itch.io/protective-tank-gb", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-07-29",
+    "metaTags": "",
+    "shortSearchKey": "GB-PTK",
+    "usedGenAI": "false"
+}
 
 ];
