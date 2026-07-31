@@ -3012,6 +3012,37 @@ const jsonGalleryItemsManual = [
     "metaTags": "",
     "shortSearchKey": "",
     "usedGenAI": "false"
+},
+
+{
+    "authorName": "bbbbbr",
+    "itemTitle": "SGB SNES all gamepad buttons",
+    "shortDescription": "SGB hack to send all buttons from 2 SNES gamepads to the Game Boy",
+    "imagePreviewURL": "pix/tools/snesallbuttons.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/bbbbbr/sgb-snes-mouse-gbdk/tree/sgb_all_buttons_from_2_gamepads", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/bbbbbr/sgb-snes-mouse-gbdk/tree/sgb_all_buttons_from_2_gamepads", "displayText": "Source"}
+    ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Tool",
+    "platformTags": "SuperGameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "SNES Gamepad",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-07-29",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
 }
+
+
 
 ];
