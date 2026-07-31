@@ -7003,7 +7003,7 @@ const jsonGalleryItemsItch = [
     "isMultiPlatform": false,
     "isOpenSource": false,
     "licenseType": "",
-    "isFreeDownload": false,
+    "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
     "usesEngine": "No Engine",

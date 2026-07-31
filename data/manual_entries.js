@@ -2983,7 +2983,35 @@ const jsonGalleryItemsManual = [
     "metaTags": "",
     "shortSearchKey": "GB-NNZ",
     "usedGenAI": ""
-}
+},
 
+{
+    "authorName": "bbbbbr",
+    "itemTitle": "HexEdit",
+    "shortDescription": "On-console hex editor and viewer",
+    "imagePreviewURL": "pix/tools/hexedit.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/bbbbbr/gameboy_megaduck_hexedit", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/bbbbbr/gameboy_megaduck_hexedit", "displayText": "Source"}
+    ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Tool",
+    "platformTags": "GameBoy, MegaDuck",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-07-29",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "false"
+}
 
 ];
