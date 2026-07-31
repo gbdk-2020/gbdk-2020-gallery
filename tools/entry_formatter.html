@@ -370,6 +370,7 @@
         <button type="button" onclick="formToJSON()">Convert to JSON</button>
         <button type="button" onclick="copyOutput()">Copy output to clipboard</button>
         <button type="button" onclick="resetForm()">Reset Form</button>
+        <button type="button" onclick="copyPRShortlink()">Copy PR Shortlink</button>
 
         <br>
         Resulting PR shortlink: <span id="shortlink_warn"></span>
@@ -629,6 +630,21 @@
 
     function copyOutput() {
         const text = document.getElementById('output').textContent;
+
+        if(navigator.clipboard && window.isSecureContext) {
+            navigator.clipboard.writeText(text);
+        } else {
+            const ta = document.createElement('textarea');
+            ta.value = text;
+            document.body.appendChild(ta);
+            ta.select();
+            document.execCommand('copy');
+            document.body.removeChild(ta);
+        }
+    }
+
+    function copyPRShortlink() {
+        const text = document.getElementById('shortlink_output').textContent;
 
         if(navigator.clipboard && window.isSecureContext) {
             navigator.clipboard.writeText(text);
