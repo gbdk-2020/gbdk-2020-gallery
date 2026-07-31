@@ -7296,6 +7296,35 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "GB-ODL",
     "usedGenAI": "ai-code, ai-assets, ai-display-materials"
+},
+
+{
+    "authorName": "Shambles!",
+    "itemTitle": "Veggie Fight!",
+    "shortDescription": "Throw veggies at baddies!",
+    "imagePreviewURL": "pix/itch/veggiefight.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://shambles32.itch.io/veggie-fight", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-07-29",
+    "metaTags": "",
+    "shortSearchKey": "GB-VGF",
+    "usedGenAI": "false"
 }
+
 
 ];
