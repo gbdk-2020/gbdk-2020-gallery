@@ -7436,6 +7436,33 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "GB-UKU",
     "usedGenAI": "ai-code, ai-assets"
+},
+
+{
+    "authorName": "devgb",
+    "itemTitle": "Portal Boy",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/portalboy.png",
+    "linksArray": [
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-07-29",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "ai-code, ai-assets"
 }
 
 ];
