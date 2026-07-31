@@ -7380,6 +7380,34 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "GB-PLM",
     "usedGenAI": "false"
+},
+
+{
+    "authorName": "BARATA Software",
+    "itemTitle": "Homem_Kueka",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/homem-kueka.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://baratasoftware.itch.io/homem-kueka", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-07-29",
+    "metaTags": "",
+    "shortSearchKey": "GB-HKA",
+    "usedGenAI": ""
 }
 
 ];
