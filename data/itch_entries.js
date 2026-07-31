@@ -7408,6 +7408,34 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "GB-HKA",
     "usedGenAI": ""
+},
+
+{
+    "authorName": "dumpycomb",
+    "itemTitle": "GB-Uku",
+    "shortDescription": "Sudoku puzzles",
+    "imagePreviewURL": "pix/itch/gbuku.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://dumpycomb.itch.io/gb-uku", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-07-29",
+    "metaTags": "",
+    "shortSearchKey": "GB-UKU",
+    "usedGenAI": "ai-code, ai-assets"
 }
 
 ];
