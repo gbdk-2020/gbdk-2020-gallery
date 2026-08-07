@@ -7492,7 +7492,34 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "",
     "usedGenAI": "ai-code, ai-assets"
-}
+},
 
+{
+    "authorName": "gradualgames",
+    "itemTitle": "Hobobot",
+    "shortDescription": "Reassemble your disassembled robot in a puzzle platformer",
+    "imagePreviewURL": "pix/itch/hobobot.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://gradualgames.itch.io/hobobotgb", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 6,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-08-06",
+    "metaTags": "",
+    "shortSearchKey": "GB-HBT",
+    "usedGenAI": "ai-display-materials"
+}
 
 ];
