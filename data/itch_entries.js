@@ -7463,6 +7463,36 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "",
     "usedGenAI": "ai-code, ai-assets"
+},
+
+{
+    "authorName": "ursimon",
+    "itemTitle": "Skull Buster GB demake",
+    "shortDescription": "Fixed screen arcade shooter",
+    "imagePreviewURL": "pix/itch/skullbuster.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://ursimon.itch.io/skull-buster", "displayText": "Info"},
+        {"type": "source", "url": "https://gitlab.com/michal.ursiny/skullbustergameboydemake", "displayText": "Source"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Shmup",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 6,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-08-06",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "ai-code, ai-assets"
 }
+
 
 ];
