@@ -7520,6 +7520,34 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "GB-HBT",
     "usedGenAI": "ai-display-materials"
+},
+
+{
+    "authorName": "viruztt",
+    "itemTitle": "KanaBoy",
+    "shortDescription": "Learn your kana",
+    "imagePreviewURL": "pix/itch/kanaboy.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://viruztt.itch.io/kanaboy", "displayText": "Info"}
+    ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Educational",
+    "platformTags": "GameBoy",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-08-06",
+    "metaTags": "",
+    "shortSearchKey": "GB-KNB",
+    "usedGenAI": "ai-code"
 }
 
 ];
