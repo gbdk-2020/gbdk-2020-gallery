@@ -7548,6 +7548,34 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "GB-KNB",
     "usedGenAI": "ai-code"
+},
+
+{
+    "authorName": "Cheap Robot Productions",
+    "itemTitle": "Neon BRRR3AK",
+    "shortDescription": "Cyberpunk-style take on classic breakout",
+    "imagePreviewURL": "pix/itch/neonbrrr3ak.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://cheaprobot.itch.io/neon-brrr3ak", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-08-06",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "ai-code"
 }
 
 ];
