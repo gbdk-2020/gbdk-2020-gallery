@@ -3041,8 +3041,35 @@ const jsonGalleryItemsManual = [
     "metaTags": "",
     "shortSearchKey": "",
     "usedGenAI": "false"
+},
+
+{
+    "authorName": "rayyanmerch",
+    "itemTitle": "99 names",
+    "shortDescription": "Display all 99 Names of Allah in Arabic script",
+    "imagePreviewURL": "pix/tools/99names.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/rayyanmerch/99names", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/rayyanmerch/99names", "displayText": "Source"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-08-06",
+    "metaTags": "",
+    "shortSearchKey": "GB-NNN",
+    "usedGenAI": "ai-code"
 }
-
-
 
 ];
