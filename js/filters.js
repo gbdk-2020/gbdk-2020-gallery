@@ -16,6 +16,7 @@ function urlSetFilters() {
     url.searchParams.set('openSource',   document.getElementById('openSourceFilter').checked);
     url.searchParams.set('linkOrMultiPlayer', document.getElementById('linkOrMultiPlayerFilter').checked);
     url.searchParams.set('cartRelease',  document.getElementById('cartReleaseFilter').checked);
+    url.searchParams.set('genAIFilter',  document.getElementById('genAIFilter').checked);
     url.searchParams.set('multiPlatform',document.getElementById('multiPlatformFilter').checked);
 
     url.searchParams.set('textSearch',   document.getElementById('textSearch').value);
@@ -46,6 +47,7 @@ function urlGetFilters() {
     if (url.searchParams.get('openSource')    !== null) document.getElementById('openSourceFilter').checked =    ('true' === url.searchParams.get('openSource').toLowerCase());
     if (url.searchParams.get('linkOrMultiPlayer') !== null) document.getElementById('linkOrMultiPlayerFilter').checked = ('true' === url.searchParams.get('linkOrMultiPlayer').toLowerCase());
     if (url.searchParams.get('cartRelease')   !== null) document.getElementById('cartReleaseFilter').checked =   ('true' === url.searchParams.get('cartRelease').toLowerCase());
+    if (url.searchParams.get('genAIFilter')   !== null) document.getElementById('genAIFilter').checked =         ('true' === url.searchParams.get('genAIFilter').toLowerCase());
     if (url.searchParams.get('multiPlatform') !== null) document.getElementById('multiPlatformFilter').checked = ('true' === url.searchParams.get('multiPlatform').toLowerCase());
 
     if (url.searchParams.get('textSearch')    !== null) document.getElementById('textSearch').value =   url.searchParams.get('textSearch');
@@ -65,6 +67,7 @@ function resetFilters() {
     document.getElementById('openSourceFilter').checked =    false;
     document.getElementById('linkOrMultiPlayerFilter').checked = false;
     document.getElementById('cartReleaseFilter').checked =   false;
+    document.getElementById('genAIFilter').checked =         false;
     document.getElementById('multiPlatformFilter').checked = false;
 
     document.getElementById('textSearch').value = '';
@@ -159,6 +162,7 @@ function applyFilters() {
     const openSourceOnly    = document.getElementById('openSourceFilter').checked;
     const linkOrMultiPlayerOnly = document.getElementById('linkOrMultiPlayerFilter').checked;
     const cartReleaseOnly   = document.getElementById('cartReleaseFilter').checked;
+    const genAIFilter       = document.getElementById('genAIFilter').checked;
     const multiPlatformOnly = document.getElementById('multiPlatformFilter').checked;
     const yearReleasedMatch = document.getElementById('yearReleasedFilter').value;
     const usesEngineMatch   = document.getElementById('usesEngineFilter').value;
@@ -179,6 +183,7 @@ function applyFilters() {
              if ((openSourceOnly    === true) && (!item.dataset.hasOwnProperty('isOpenSource')))              item.style.display = 'none';
         else if ((linkOrMultiPlayerOnly   === true) && (!item.dataset.hasOwnProperty('linkOrMultiPlayer')))   item.style.display = 'none';
         else if ((cartReleaseOnly   === true) && (!item.dataset.hasOwnProperty('hasPhysicalRelease')))        item.style.display = 'none';
+        else if ((genAIFilter === true) && (item.dataset['usedGenAI'].toLowerCase() != 'false') && (item.dataset['usedGenAI'].toLowerCase() != '')) item.style.display = 'none';
         else if ((multiPlatformOnly === true) && (!item.dataset.hasOwnProperty('isMultiPlatform')))           item.style.display = 'none';
         else if ((yearReleasedMatch !== 'All') && (item.dataset['yearFirstReleased'] !== yearReleasedMatch))  item.style.display = 'none';
         else if ((usesEngineMatch   !== 'All') && (item.dataset['usesEngine'] !== usesEngineMatch))           item.style.display = 'none';
