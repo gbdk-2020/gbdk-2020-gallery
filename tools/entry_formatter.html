@@ -76,8 +76,17 @@
             display: flex;
             flex-wrap: wrap;
             gap: 6px;
-            width:
         }
+
+        /* Alternate style for image url to force tag chips onto the same line */
+        .chipsInline {
+            margin: 6px 0 0 0;
+            display: inline;
+            gap: 6px;
+        }
+        .chipsInline > span {
+            margin-left: 6px;
+        } 
 
         .chip {
             border: none;
@@ -157,8 +166,8 @@
 
         <div class="formRow">
             Image Preview URL:
-            <input type="text" name="imagePreviewURL" required>
-            <span class="caption">Relative path, for example: pix/games/mygame.png</span>
+            <input type="text" name="imagePreviewURL" required>            
+            <span class="chipsInline" data-target="imagePreviewURL"><span class="caption">Relative path:</span></span>
         </div>
 
         <div class="section">
@@ -170,6 +179,7 @@
                         Primary URL: <input class="urlInput" type="url" name="primaryUrl" required>
                         Text:
                         <input type="text" name="primaryDisplayText" value="Info" required placeholder="Info">
+                        <span class="chipsInline" data-target="primaryDisplayText"></span>
                     </div>
                 </div>
 
@@ -179,6 +189,7 @@
                         <input class="urlInput" type="url" name="storeUrl" placeholder="Optional">
                         Text:
                         <input type="text" name="storeDisplayText" value="Cart" placeholder="Store">
+                        <span class="chipsInline" data-target="storeDisplayText"></span>
                     </div>
                 </div>
 
@@ -188,6 +199,7 @@
                         <input class="urlInput" type="url" name="sourceUrl" placeholder="Optional">
                         Text:
                         <input type="text" name="sourceDisplayText" value="Source" placeholder="Source">
+                        <span class="chipsInline" data-target="sourceDisplayText"></span>
                     </div>
                 </div>
 
@@ -197,6 +209,7 @@
                         <input class="urlInput" type="url" name="articleUrl" placeholder="Optional">
                         Text:
                         <input type="text" name="articleDisplayText" value="Article" placeholder="Article">
+                        <span class="chipsInline" data-target="articleDisplayText"></span>
                     </div>
                 </div>
         </div>
@@ -396,6 +409,12 @@
         // categoryTags: ["Art", "Camera", "Demoscene", "Engine", "Game", "Music", "Simulation", "Techdemo", "Tool"],
         // gameTypeTags: ["Action", "Adventure", "Art", "Card Game", "Clock", "Cutscene", "Demoscene", "Driving", "Dungeon Crawler", "Engine", "Fighting", "Flying", "GameBoy Camera", "GameBoy Printer", "Graphics", "Idle", "Interactive Fiction", "Maze", "Memory", "Microgames", "Music", "Paint", "Platformer", "Programming", "Puzzle", "QR Code", "Racing", "Radio", "Reader", "Remote Control", "Rhythm", "Roguelike", "Role Playing", "Scheduler", "Shmup", "Shooting", "Simulation", "Sports", "Strategy", "Survival", "Testing", "Text Editor", "Timer", "Tool", "VirtualPet", "Visual-Novel"],
     const tagSets = {
+
+        primaryDisplayText: ["Info"],
+        storeDisplayText: ["Store"],
+        sourceDisplayText: ["Source"],
+        articleDisplayText: ["Article"],
+        imagePreviewURL: ["pix/itch/", "pix/games/", "pix/techdemo/", "pix/crosszgb/", "pix/zgb/"],
         usedGenAI: ["ai-code", "ai-assets", "ai-display-materials", "false"],
         licenseType: ["MIT", "GPL", "Unlicense"],
         platformTags: ["All Platforms", "AnaloguePocket", "GameBoy", "GameBoyColor", "GameGear", "MegaDuck Laptop", "MegaDuck", "NES", "SMS", "SuperGameBoy"],
@@ -403,12 +422,12 @@
     };
 
     function setupChips() {
-        document.querySelectorAll('.chips').forEach(container => {
+        document.querySelectorAll('.chips,.chipsInline').forEach(container => {
             const targetName = container.dataset.target;
             const input = document.querySelector(`input[name="${targetName}"]`);
             tagSets[targetName].forEach(tag => {
-                const btn = document.createElement('button');
-                btn.type = 'button';
+                const btn = document.createElement('span');
+                btn.type = 'span';
                 btn.className = 'chip';
                 btn.textContent = tag;
                 btn.onclick = () => appendTag(input, tag);
