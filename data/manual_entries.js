@@ -3099,6 +3099,35 @@ const jsonGalleryItemsManual = [
     "metaTags": "",
     "shortSearchKey": "GBC-3DJ",
     "usedGenAI": ""
+},
+
+{
+    "authorName": "skinbagsofmeat",
+    "itemTitle": "PULSE\\\\GRID 8-BIT MIDI REACTIVE VISUALIZER",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/tools/phasegrid.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://www.hobbychop.com/product/phase-grid", "displayText": "Info"},
+        {"type": "article", "url": "https://old.reddit.com/r/chiptunes/comments/1tg1402/phasegrid_game_boy_midi_reactive_visualizer_rom/", "displayText": "Article"}
+    ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Audio",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 6,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "Link Port",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-08-16",
+    "metaTags": "",
+    "shortSearchKey": "GB-PRGD",
+    "usedGenAI": ""
 }
 
 ];
