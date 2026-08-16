@@ -7576,6 +7576,34 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "",
     "usedGenAI": "ai-code"
+},
+
+{
+    "authorName": "drduff",
+    "itemTitle": "Nineline",
+    "shortDescription": "Draw a line from one to nine",
+    "imagePreviewURL": "pix/itch/nineline.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://drduff.itch.io/nineline", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-08-16",
+    "metaTags": "",
+    "shortSearchKey": "GB-NLN",
+    "usedGenAI": "ai-code"
 }
 
 ];
