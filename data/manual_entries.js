@@ -3070,6 +3070,35 @@ const jsonGalleryItemsManual = [
     "metaTags": "",
     "shortSearchKey": "GB-NNN",
     "usedGenAI": "ai-code"
+},
+
+{
+    "authorName": "Game of Tobi",
+    "itemTitle": "3D Jump N Run",
+    "shortDescription": "3D Mario",
+    "imagePreviewURL": "pix/techdemo/3djumpnrun.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://www.patreon.com/GameOfTobi/posts/3d-jump-n-run-on-166223686", "displayText": "Info"},
+        {"type": "article", "url": "https://www.youtube.com/watch?v=7UQmnsW6i6E", "displayText": "Video"}
+    ],
+    "categoryTags": "Techdemo",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-08-16",
+    "metaTags": "",
+    "shortSearchKey": "GBC-3DJ",
+    "usedGenAI": ""
 }
 
 ];
