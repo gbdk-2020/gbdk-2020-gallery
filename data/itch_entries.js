@@ -7604,6 +7604,90 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "GB-NLN",
     "usedGenAI": "ai-code"
+},
+
+{
+    "authorName": "ERIS Games",
+    "itemTitle": "Neon Drift 200",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/neondrift.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://erisgames.itch.io/neon-drift-200", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Driving",
+    "platformTags": "GameBoy",
+    "featuredPriority": 1,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-08-16",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "ai-display-materials"
+},
+
+{
+    "authorName": "ERIS Games",
+    "itemTitle": "Project: AETHER-9",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/projectaether.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://erisgames.itch.io/project-aether-9", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Shmup",
+    "platformTags": "GameBoy",
+    "featuredPriority": 2,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-08-16",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "ai-display-materials"
+},
+
+{
+    "authorName": "ERIS Games",
+    "itemTitle": "Alchemist's Match",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/alchemistsmatch.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://erisgames.itch.io/alchemists-match", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-08-16",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "ai-display-materials"
 }
 
 ];
