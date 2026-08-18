@@ -6796,15 +6796,16 @@ const jsonGalleryItemsItch = [
     "shortDescription": "Onitama board game",
     "imagePreviewURL": "pix/itch/onitama.png",
     "linksArray": [
-        {"type": "primary", "url": "https://boniato82.itch.io/onitama-pocket", "displayText": "Info"}
+        {"type": "primary", "url": "https://boniato82.itch.io/onitama-pocket", "displayText": "Info"},
+        {"type": "source", "url": "https://github.com/Boniato82/Onitama-pocket", "displayText": "Source"}
     ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
     "platformTags": "GameBoy, GameBoyColor",
     "featuredPriority": 3,
     "isMultiPlatform": false,
-    "isOpenSource": false,
-    "licenseType": "",
+    "isOpenSource": true,
+    "licenseType": "GPL",
     "isFreeDownload": true,
     "hasPhysicalRelease": false,
     "isClassicGBDK": false,
