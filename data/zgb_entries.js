@@ -1098,7 +1098,7 @@ const jsonGalleryItemsZGB = [
     "shortDescription": "Puzzle game Blastris B",
     "imagePreviewURL": "pix/zgb/blastrisb.png",
     "linksArray": [
-        {"type": "primary", "url": "https://aiguanachein.itch.io/powa", "displayText": "Info"}
+        {"type": "primary", "url": "https://aiguanachein.itch.io/blas-tris-be", "displayText": "Info"}
     ],
     "categoryTags": "Game",
     "gameTypeTags": "Puzzle",
