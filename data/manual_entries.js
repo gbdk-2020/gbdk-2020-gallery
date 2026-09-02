@@ -3108,7 +3108,7 @@ const jsonGalleryItemsManual = [
     "imagePreviewURL": "pix/tools/phasegrid.png",
     "linksArray": [
         {"type": "primary", "url": "https://www.hobbychop.com/product/phase-grid", "displayText": "Info"},
-        {"type": "article", "url": "https://old.reddit.com/r/chiptunes/comments/1tg1402/phasegrid_game_boy_midi_reactive_visualizer_rom/", "displayText": "Article"}
+        {"type": "article", "url": "https://old.reddit.com/r/chiptunes/comments/1tg1402/phasegrid_game_boy_midi_reactive_visualizer_rom/", "displayText": "Announce"}
     ],
     "categoryTags": "Tool",
     "gameTypeTags": "Audio",
