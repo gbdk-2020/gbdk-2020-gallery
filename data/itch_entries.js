@@ -7784,7 +7784,7 @@ const jsonGalleryItemsItch = [
         {"type": "primary", "url": "https://syntaxerrorsoftware.itch.io/minimikegb", "displayText": "Info"}
     ],
     "categoryTags": "Game",
-    "gameTypeTags": "Action",
+    "gameTypeTags": "Platformer",
     "platformTags": "GameBoyColor",
     "featuredPriority": 6,
     "isMultiPlatform": false,
@@ -7801,6 +7801,36 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "GBC-MMI",
     "usedGenAI": "false"
+},
+
+{
+    "authorName": "Daring01",
+    "itemTitle": "Tales Of Lithos",
+    "shortDescription": "A Roguelite GBC Dungeon Crawler",
+    "imagePreviewURL": "pix/itch/taleslithos.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://daring01.itch.io/tales-of-lithos", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Dungeon Crawler",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-09-08",
+    "metaTags": "",
+    "shortSearchKey": "GB-TLO",
+    "usedGenAI": "false"
 }
+
+
 
 ];
