@@ -8109,6 +8109,118 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "",
     "usedGenAI": "ai-code"
+},
+
+{
+    "authorName": "atulvi",
+    "itemTitle": "2048 Forever",
+    "shortDescription": "2048 game, you can play until the theoretical limit of 128K",
+    "imagePreviewURL": "pix/itch/2048forever.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://atulvi.itch.io/2048-forever", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 4,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-09-08",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "ai-code"
+},
+
+{
+    "authorName": "pjperez",
+    "itemTitle": "Moon Below",
+    "shortDescription": "Generative horror adventure with quantized transformer on the console",
+    "imagePreviewURL": "pix/games/moonbelow.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/pjperez/moon-below", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Adventure",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-09-08",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "ai-code"
+},
+
+{
+    "authorName": "pjperez",
+    "itemTitle": "dmgformer",
+    "shortDescription": "int8-quantized transformer that runs autoregressive forward pass on the gb",
+    "imagePreviewURL": "pix/techdemo/dmgformer.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/pjperez/dmgformer", "displayText": "Info"}
+    ],
+    "categoryTags": "Techdemo",
+    "gameTypeTags": "AI",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-09-08",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "ai-code"
+},
+
+{
+    "authorName": "maddiedreese",
+    "itemTitle": "gbc-transformer",
+    "shortDescription": "TinyStories-260K running on GBC",
+    "imagePreviewURL": "pix/techdemo/gbctransformer.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/maddiedreese/gbc-transformer", "displayText": "Info"}
+    ],
+    "categoryTags": "Techdemo",
+    "gameTypeTags": "AI",
+    "platformTags": "GameBoy",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-09-08",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "ai-code"
 }
 
 ];
