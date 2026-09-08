@@ -7745,6 +7745,34 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "SMS-ORF",
     "usedGenAI": "false"
+},
+
+{
+    "authorName": "stanthesoupking",
+    "itemTitle": "Summoner's Delight",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/summonersdelight.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://stanthesoupking.itch.io/summoners-delight-gb", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-09-07",
+    "metaTags": "",
+    "shortSearchKey": "GBC-SDL",
+    "usedGenAI": "false"
 }
 
 ];
