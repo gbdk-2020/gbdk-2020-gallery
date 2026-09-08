@@ -3128,6 +3128,34 @@ const jsonGalleryItemsManual = [
     "metaTags": "",
     "shortSearchKey": "GB-PRGD",
     "usedGenAI": ""
+},
+
+{
+    "authorName": "zanaror",
+    "itemTitle": "Mobile Adapter GB TestSuite",
+    "shortDescription": "Diagnostic ROM for Nintendo Mobile Adapter GB (CGB-005 / Mobile System GB)",
+    "imagePreviewURL": "pix/tools/magb.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/zenaror/MAGB-TestSuite", "displayText": "Info"}
+    ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Testing",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 3,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "GPL",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "Link Port",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-09-08",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "ai-code"
 }
 
 ];
