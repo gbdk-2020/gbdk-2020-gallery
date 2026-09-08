@@ -7773,6 +7773,34 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "GBC-SDL",
     "usedGenAI": "false"
+},
+
+{
+    "authorName": "Syntax Error Software",
+    "itemTitle": "miniMIKE",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/itch/minimike.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://syntaxerrorsoftware.itch.io/minimikegb", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 6,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-09-08",
+    "metaTags": "",
+    "shortSearchKey": "GBC-MMI",
+    "usedGenAI": "false"
 }
 
 ];
