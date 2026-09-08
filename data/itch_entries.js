@@ -7717,6 +7717,34 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "",
     "usedGenAI": "ai-code, ai-assets"
+},
+
+{
+    "authorName": "Altair",
+    "itemTitle": "Oriflame",
+    "shortDescription": "Oriflame is a sokoban puzzle game",
+    "imagePreviewURL": "pix/itch/oriflame.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://itch.io/profile/artofaltair", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "SMS",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-09-07",
+    "metaTags": "",
+    "shortSearchKey": "SMS-ORF",
+    "usedGenAI": "false"
 }
 
 ];
