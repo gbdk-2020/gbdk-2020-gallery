@@ -8081,6 +8081,34 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "",
     "usedGenAI": "ai-code, ai-assets"
+},
+
+{
+    "authorName": "Cirocular-Vlasenko-Daniil",
+    "itemTitle": "ORCA DMG",
+    "shortDescription": "ORCA port to Gameboy Classic",
+    "imagePreviewURL": "pix/music/orca.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://github.com/Cirocular-Vlasenko-Daniil/orca-dmg", "displayText": "Info"}
+    ],
+    "categoryTags": "Tool",
+    "gameTypeTags": "Music",
+    "platformTags": "GameBoy",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-09-08",
+    "metaTags": "",
+    "shortSearchKey": "",
+    "usedGenAI": "ai-code"
 }
 
 ];
