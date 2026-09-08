@@ -67,7 +67,7 @@ function resetFilters() {
     document.getElementById('openSourceFilter').checked =    false;
     document.getElementById('linkOrMultiPlayerFilter').checked = false;
     document.getElementById('cartReleaseFilter').checked =   false;
-    document.getElementById('genAIFilter').checked =         false;
+    document.getElementById('genAIFilter').checked =         true;
     document.getElementById('multiPlatformFilter').checked = false;
 
     document.getElementById('textSearch').value = '';

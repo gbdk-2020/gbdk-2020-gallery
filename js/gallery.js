@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     loadItems();
 
     addAndSortGalleryItems();
-
+    resetFilters();
     populateFilters(galleryArray);
 
     // Now that filters are populated, try to load any settings from the URL
