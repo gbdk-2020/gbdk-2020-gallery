@@ -15,7 +15,7 @@ To submit a game or program, either :
 - authorName: Quoted, Name(s) of Author(s)
 - itemTitle: Quoted, Game Title
 - shortDescription: Quoted, A short 4-10 word description. Try to avoid saying: "for the Game Boy"/etc.
-- imagePreviewURL: Quoted, A 320 x 288 PNG format screenshot. Relative path and image should be in a suitable "pix/" sub-folder. 
+- imagePreviewURL: Quoted, A 160 x 144 PNG format screenshot. Relative path and image should be in a suitable "pix/" sub-folder.
 - linksArray: JSON array of link entries, with each entry having one of the following: 
   - type: Quoted, Examples: "primary", "store", "source", "info"
   - url: Quoted, Example: "https://url_to_main_website"

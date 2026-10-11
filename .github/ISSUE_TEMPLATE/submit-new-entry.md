@@ -13,7 +13,7 @@ Consider using the [Entry Formatter](https://gbdk-2020.github.io/gbdk-2020-galle
 - Author Name: Name(s) of Author(s)
 - Title: Game Title
 - Short Description: A short 4-10 word description. Avoid saying: "for the Game Boy"/etc.
-- Preview Image: A 320 x 288 PNG format screenshot (Attach to the issue)
+- Preview Image: A 160 x 144 PNG format indexed color screenshot (Attach to the issue)
 - Links:
   - url: "https://url_to_main_website"
   - url: "https://url_to_store"       (**OPTIONAL**, if there is a Physical Release)
