@@ -1674,5 +1674,62 @@ const jsonGalleryItemsZGB = [
     "usedGenAI": "ai-code"
 },
 
+{
+    "authorName": "Studio Loading",
+    "itemTitle": "VIA TRIUMPHALIS",
+    "shortDescription": "A secret agent carries out missions on his chariot",
+    "imagePreviewURL": "pix/zgb/viatriumphalis.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://studioloading.itch.io/via-triumphalis-demo", "displayText": "Demo"},
+        {"type": "source", "url": "https://github.com/StudioLoading/CROSSZGB-VIA-TRIUMPHALIS", "displayText": "Source"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Action",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": true,
+    "licenseType": "MIT",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": true,
+    "isClassicGBDK": false,
+    "usesEngine": "ZGB",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-10-09",
+    "metaTags": "",
+    "shortSearchKey": "GBC-TRP",
+    "usedGenAI": "false"
+},
+
+{
+    "authorName": "Studio Loading, Kibou Entertainment, Misu, Faultbox, Sloopygoop",
+    "itemTitle": "Orpheus to Hell and Back",
+    "shortDescription": "",
+    "imagePreviewURL": "pix/zgb/orpheus.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://studioloading.itch.io/orpheus", "displayText": "Demo"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "GameBoy, GameBoyColor",
+    "featuredPriority": 5,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": true,
+    "isClassicGBDK": false,
+    "usesEngine": "ZGB",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-10-09",
+    "metaTags": "",
+    "shortSearchKey": "GB-ORP",
+    "usedGenAI": "false"
+}
+
 ];
 

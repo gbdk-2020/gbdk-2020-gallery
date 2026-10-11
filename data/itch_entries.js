@@ -8221,6 +8221,34 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "",
     "usedGenAI": "ai-code"
+},
+
+{
+    "authorName": "Tim Böttiger",
+    "itemTitle": "PROJECT STARGEM: Twinkle",
+    "shortDescription": "Beautiful classic match-3 game, made to pick up and play",
+    "imagePreviewURL": "pix/itch/stargem_twinkle.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://timboettiger.itch.io/project-stargem-twinkle", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Puzzle",
+    "platformTags": "AnaloguePocket, GameBoyColor",
+    "featuredPriority": 8,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": true,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "MBC5 Rumble",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-10-01",
+    "metaTags": "",
+    "shortSearchKey": "GBC-SGT",
+    "usedGenAI": "ai-display-materials"
 }
 
 ];

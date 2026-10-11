@@ -3098,7 +3098,7 @@ const jsonGalleryItemsManual = [
     "dateAdded": "2026-08-16",
     "metaTags": "",
     "shortSearchKey": "GBC-3DJ",
-    "usedGenAI": ""
+    "usedGenAI": "ai-code"
 },
 
 {
