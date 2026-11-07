@@ -8249,6 +8249,35 @@ const jsonGalleryItemsItch = [
     "metaTags": "",
     "shortSearchKey": "GBC-SGT",
     "usedGenAI": "ai-display-materials"
+},
+
+{
+    "authorName": "ShmorkGames",
+    "itemTitle": "Shmork Adventures",
+    "shortDescription": "Adventure as Shmork - a shark with legs",
+    "imagePreviewURL": "pix/itch/shmork.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://shmorkgames.itch.io/shmork-adventures", "displayText": "Info"},
+        {"type": "store", "url": "https://shmork.com/page/shmorks-adventure-gbc", "displayText": "Cart"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "GameBoyColor",
+    "featuredPriority": 9,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": false,
+    "hasPhysicalRelease": true,
+    "isClassicGBDK": false,
+    "usesEngine": "No Engine",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-11-06",
+    "metaTags": "",
+    "shortSearchKey": "GBC-SMK",
+    "usedGenAI": "false"
 }
 
 ];
