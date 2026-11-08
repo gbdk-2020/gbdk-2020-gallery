@@ -216,5 +216,33 @@ const jsonGalleryItemsCrossZGB = [
     "usedGenAI": "false"
 },
 
+{
+    "authorName": "Walfie",
+    "itemTitle": "Olden Retriever",
+    "shortDescription": "Short platformer about an old dog and balloons",
+    "imagePreviewURL": "pix/crosszgb/oldenret.png",
+    "linksArray": [
+        {"type": "primary", "url": "https://walfie.itch.io/olden-retriever", "displayText": "Info"}
+    ],
+    "categoryTags": "Game",
+    "gameTypeTags": "Platformer",
+    "platformTags": "GameBoy",
+    "featuredPriority": 7,
+    "isMultiPlatform": false,
+    "isOpenSource": false,
+    "licenseType": "",
+    "isFreeDownload": true,
+    "hasPhysicalRelease": false,
+    "isClassicGBDK": false,
+    "usesEngine": "CrossZGB",
+    "linkOrMultiPlayer": false,
+    "hardwareFeatureTags": "",
+    "yearFirstReleased": "2026",
+    "dateAdded": "2026-11-07",
+    "metaTags": "",
+    "shortSearchKey": "GB-OLDR",
+    "usedGenAI": "false"
+},
+
 ];
 
