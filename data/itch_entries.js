@@ -5189,7 +5189,7 @@ const jsonGalleryItemsItch = [
     "imagePreviewURL": "pix/itch/bnuuy.png",
     "linksArray": [
         {"type": "primary", "url": "https://swigof.itch.io/bnuuy-deliverance", "displayText": "Info"},
-        {"type": "source",  "url": "https://github.com/swigof/Bnuuy-Deliverance", "displayText": "Source"}
+        {"type": "source",  "url": "https://codeberg.org/swigof/Bnuuy-Deliverance", "displayText": "Source"}
     ],
     "categoryTags": "Game",
     "gameTypeTags": "Platformer",
